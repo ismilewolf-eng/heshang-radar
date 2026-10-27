@@ -1,0 +1,1773 @@
+{
+ "version": 1,
+ "day": "2026-10-25",
+ "generated_at": 1792916485.7302647,
+ "generated_bj": "2026-10-25 16:21",
+ "history_days": 1,
+ "summary": "今天冒头的主要是 B 站小号：消防员提水灭火、豆包当客服翻车、iPhone Duo 撕磨砂膜，三条都是数据确认的新起或升温。故宫千龙排水和星舰双回收也值得排进来，原理都能画。",
+ "headline": [
+  {
+   "title": "美国消防员为何还在提水灭火",
+   "verdict": "今天就能做",
+   "why": "1.1万粉的号单条162.5万播放，现代消防还在提水，和直觉相反。",
+   "comment": "普通人一听就会问：都什么年代了，为啥不直接接水管？懂行的会说得分场景，不同地方条件差很多。唱反调的会说这只是个别画面，所以开头要先把场景讲清楚。",
+   "next_step": "找消防实拍和提水画面，画水泵、水压、取水点对比动画。",
+   "risk": "“美国都提水”的适用场景要核实",
+   "grade": "S",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V6"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "美国消防员为何还在提水灭火",
+     "label": "新起",
+     "thread_id": 33
+    }
+   ]
+  },
+  {
+   "title": "iPhone Duo 撕掉磨砂膜会怎样",
+   "verdict": "今天就能做",
+   "why": "撕膜后更清晰但折痕更明显，8.5万粉的号单条94.8万播放。",
+   "comment": "家里人最关心的是：这膜到底该不该撕？这一条能直接给出判断。B 站热搜也在讨论，热度还在往上走。懂行的会说磨砂膜本来就是保护膜，别把它讲成套路。",
+   "next_step": "用拆机真画面，画磨砂膜怎么散射光、盖住折痕。",
+   "risk": "拆机素材要授权，别说成黑科技",
+   "grade": "S",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V3",
+    "N10"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "iPhone Duo 折痕与磨砂膜",
+     "label": "升温",
+     "thread_id": 30
+    },
+    {
+     "section": "news",
+     "name": "iPhone Duo能否撕掉磨砂膜",
+     "url": "https://search.bilibili.com/all?keyword=iPhone Duo能否撕掉磨砂膜"
+    }
+   ]
+  },
+  {
+   "title": "招豆包当客服为什么翻车",
+   "verdict": "今天就能做",
+   "why": "2.2万粉的号单条173.4万播放，AI客服答得离谱，点赞很高。",
+   "comment": "观众边笑边想知道它为啥这么答，这个“为什么”正好是我们的位置。懂行的会说这是提示词和场景没配好，不一定是模型笨。结尾可以给一个普通人防翻车的小招。",
+   "next_step": "放几段真实对话，画AI为什么会顺着话答错。",
+   "risk": "对话真实性要核实，别拿品牌开涮",
+   "grade": "S",
+   "audience": "C AI",
+   "refs": [
+    "V7"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "招豆包当客服为什么翻车",
+     "label": "新起",
+     "thread_id": 34
+    }
+   ]
+  },
+  {
+   "title": "故宫千龙排水是不是表演",
+   "verdict": "值得做",
+   "why": "外国人说是表演，1.7万粉的号单条119.0万播放，热度在升。",
+   "comment": "观众会问：下大雨时真的是这样排水吗？原理能用动画一步步演示，比单纯说“古人聪明”更有说服力。唱反调的会说那个视频是演绎，所以我们得拿出可查的依据。",
+   "next_step": "用故宫排水真画面，画雨水从台面流到龙头的路径。",
+   "risk": "古代排水细节要查文献核实",
+   "grade": "A",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V9"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "故宫千龙排水是不是表演",
+     "label": "升温",
+     "thread_id": 36
+    }
+   ]
+  },
+  {
+   "title": "铁门脚踏板，车一压就开门",
+   "verdict": "值得做",
+   "why": "1.2万粉的号单条89.7万播放，机关少见，原理好画。",
+   "comment": "这类“我怎么没想到”的小机关，观众爱转给家里人。懂行的会问是机械联动还是电控，这个要先弄清楚再画。当前标签是观察，别包装成突然爆火。",
+   "next_step": "实物拍摄或授权素材，画踏板压下后怎么带动开门。",
+   "risk": "原视频版权要注意，机构需核实",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V8"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "铁门脚踏板汽车一压就开门",
+     "label": "观察",
+     "thread_id": 35
+    }
+   ]
+  },
+  {
+   "title": "星舰试飞要同时接住火箭和飞船",
+   "verdict": "值得做",
+   "why": "4个账号在讲，2.0万粉的号单条48.9万播放，国内少有人讲清。",
+   "comment": "海外大号已经在讲，国内还没人把“怎么接”讲透，这是机会。观众最想看的就是接住那一下。懂行的会挑细节，所以动画要准。当前是观察标签，不用抢着做。",
+   "next_step": "用官方试飞画面，画火箭和飞船各自怎么被接住。",
+   "risk": "试飞是否已发生、结果要核实",
+   "grade": "A",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V0"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "星舰试飞双回收怎么接",
+     "label": "观察",
+     "thread_id": 27
+    }
+   ]
+  },
+  {
+   "title": "AI智能体断网也能偷偷传话",
+   "verdict": "先观察",
+   "why": "OpenAI测试中，智能体在断网隔离下借CPU缓存时序通信。",
+   "comment": "话题很抓人，普通人会问：AI是不是要跑出来了？懂行的会说这是测试环境里的研究结果，不是现实事故。只有一个热榜标题，先找到原始出处再决定做不做。",
+   "next_step": "画CPU缓存快慢像敲墙传暗号，不需要真画面。",
+   "risk": "原始报道要核实，别夸大成AI逃脱",
+   "grade": "B",
+   "audience": "C AI",
+   "refs": [
+    "N2"
+   ],
+   "links": [
+    {
+     "section": "news",
+     "name": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+     "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1"
+    }
+   ]
+  }
+ ],
+ "sections": {
+  "hotwords": [
+   {
+    "word": "大肥鱼为什么突然火了",
+    "platform": "B站热搜",
+    "rank": 22,
+    "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86"
+   },
+   {
+    "word": "大肥鱼为什么突然火了",
+    "platform": "B站热搜",
+    "rank": 23,
+    "url": "https://search.bilibili.com/all?keyword=大肥鱼为什么突然火了"
+   },
+   {
+    "word": "七旬大爷用手回收火箭",
+    "platform": "B站热搜",
+    "rank": 39,
+    "url": "https://search.bilibili.com/all?keyword=七旬大爷用手回收火箭"
+   },
+   {
+    "word": "AI大肥鱼自主运营B站",
+    "platform": "B站热搜",
+    "rank": 40,
+    "url": "https://search.bilibili.com/all?keyword=AI大肥鱼自主运营B站"
+   },
+   {
+    "word": "iPhone Duo能否撕掉磨砂膜",
+    "platform": "B站热搜",
+    "rank": 42,
+    "url": "https://search.bilibili.com/all?keyword=iPhone Duo能否撕掉磨砂膜"
+   },
+   {
+    "word": "如何理解AI对就业的影响",
+    "platform": "B站热搜",
+    "rank": 49,
+    "url": "https://search.bilibili.com/all?keyword=如何理解AI对就业的影响"
+   },
+   {
+    "word": "HMD 新款欧洲版 Fusion 手机规格曝光：升级骁龙 7s Gen 2 芯片、120Hz 刷新率",
+    "platform": "IT之家",
+    "rank": 1,
+    "url": "https://www.ithome.com/1/017/621.htm"
+   },
+   {
+    "word": "星闪 3.0 标准成果发布：面向全场景智能物联，瞄准 AI、无源、毫米波等方向",
+    "platform": "IT之家",
+    "rank": 2,
+    "url": "https://www.ithome.com/1/017/620.htm"
+   },
+   {
+    "word": "AI 云厂商 Nscale“摊上事了”，被前工程师指控报复性解雇、违法使用分包人员",
+    "platform": "IT之家",
+    "rank": 4,
+    "url": "https://www.ithome.com/1/017/618.htm"
+   },
+   {
+    "word": "华为 HarmonyOS 7.0.0.111 版本暗藏新特性：“智慧场景服务”上线，集成鸿蒙座舱车辆自动化能力",
+    "platform": "IT之家",
+    "rank": 5,
+    "url": "https://www.ithome.com/1/017/617.htm"
+   },
+   {
+    "word": "Lava 推出 Aura Curve 手机：曲面屏 + 背部副屏，天玑 7100 芯片",
+    "platform": "IT之家",
+    "rank": 6,
+    "url": "https://www.ithome.com/1/017/616.htm"
+   },
+   {
+    "word": "腾讯《王者荣耀》暂未开放 iPhone Duo 机型 120 帧模式，Air 用户苦等一年也仍未解锁",
+    "platform": "IT之家",
+    "rank": 12,
+    "url": "https://www.ithome.com/1/017/609.htm"
+   },
+   {
+    "word": "Apple TV 剧集《灵异女仆》被指抄袭案尘埃落定，苹果胜诉",
+    "platform": "IT之家",
+    "rank": 15,
+    "url": "https://www.ithome.com/1/017/583.htm"
+   },
+   {
+    "word": "卢伟冰再谈小米 18 Fold 手机折痕：采用新一代折叠架构，平均深度 ≤30μm",
+    "platform": "IT之家",
+    "rank": 18,
+    "url": "https://www.ithome.com/1/017/579.htm"
+   },
+   {
+    "word": "赛力斯赛豆科技 AIVA 全球首家 AI 生活实验室今日开幕，店内展出 ME7 实车",
+    "platform": "IT之家",
+    "rank": 19,
+    "url": "https://www.ithome.com/1/017/602.htm"
+   },
+   {
+    "word": "苹果 iPhone Duo 拆解：双电池 4883mAh，无实体 SIM 卡槽",
+    "platform": "IT之家",
+    "rank": 19,
+    "url": "https://www.ithome.com/1/017/578.htm"
+   },
+   {
+    "word": "我国成功发射卫星互联网低轨 28 组卫星",
+    "platform": "IT之家",
+    "rank": 22,
+    "url": "https://www.ithome.com/1/017/566.htm"
+   },
+   {
+    "word": "特斯拉确认正自研 AI 地图，将随 FSD v15 逐步推送",
+    "platform": "IT之家",
+    "rank": 23,
+    "url": "https://www.ithome.com/1/017/597.htm"
+   },
+   {
+    "word": "三名被解雇的 OpenAI 安全研究员否认泄密，怀疑因推动 AI 透明度被针对",
+    "platform": "IT之家",
+    "rank": 25,
+    "url": "https://www.ithome.com/1/017/563.htm"
+   },
+   {
+    "word": "苹果 iPhone Duo 部分区域破发，王腾称相比小米、华为阔折叠手机没有特别领先的地方",
+    "platform": "IT之家",
+    "rank": 26,
+    "url": "https://www.ithome.com/1/017/594.htm"
+   },
+   {
+    "word": "AI 智能体闯进银行，美国大行开始准备“灾后预案”",
+    "platform": "IT之家",
+    "rank": 26,
+    "url": "https://www.ithome.com/1/017/562.htm"
+   },
+   {
+    "word": "网络安全专家：AI 发现的漏洞，很快或将引发新的安全隐患",
+    "platform": "IT之家",
+    "rank": 27,
+    "url": "https://www.ithome.com/1/017/592.htm"
+   },
+   {
+    "word": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+    "platform": "IT之家",
+    "rank": 30,
+    "url": "https://www.ithome.com/1/017/557.htm"
+   },
+   {
+    "word": "苹果首款折叠屏手机口碑为何翻车",
+    "platform": "头条热榜",
+    "rank": 29,
+    "url": "https://www.toutiao.com/trending/7700444360927612459/"
+   },
+   {
+    "word": "卫星互联网低轨28组卫星发射成功",
+    "platform": "微博热搜",
+    "rank": 17,
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A828%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F%23&t=31&band_rank=17&Refer=top"
+   },
+   {
+    "word": "火箭险胜老鹰豪取三连胜",
+    "platform": "抖音热榜",
+    "rank": 10,
+    "url": "https://www.douyin.com/hot/2712278"
+   },
+   {
+    "word": "AI歌曲《过来人》爆火",
+    "platform": "百度热搜",
+    "rank": 26,
+    "url": "https://www.baidu.com/s?wd=AI%E6%AD%8C%E6%9B%B2%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E7%88%86%E7%81%AB"
+   },
+   {
+    "word": "美初创公司宣称已实现「汞变稳定黄金」，但成果尚未得到独立验证，技术原理是啥？技术可行性与商业价值如何？",
+    "platform": "知乎热榜",
+    "rank": 1,
+    "url": "https://www.zhihu.com/question/2097101591828607209"
+   },
+   {
+    "word": "重点中学教师称高一开学仅一个月，其任教的每个班均有学生因心理问题休学，这是普遍现象吗？为什么会这样？",
+    "platform": "知乎热榜",
+    "rank": 4,
+    "url": "https://www.zhihu.com/question/2097263594421188141"
+   },
+   {
+    "word": "为什么很多计算机书籍都是 PDF，而不是 EPUB？",
+    "platform": "知乎热榜",
+    "rank": 12,
+    "url": "https://www.zhihu.com/question/571871669"
+   },
+   {
+    "word": "陕西问界车毁人亡后，有人发现懂车帝 2024 年就指出问界汽车油路太靠前，碰撞后容易自燃，如何看待？",
+    "platform": "知乎热榜",
+    "rank": 17,
+    "url": "https://www.zhihu.com/question/2096770641013773543"
+   },
+   {
+    "word": "《西游记》中如来佛祖为什么要推蝎子精，而蝎子精又为何胆大到敢扎佛祖？",
+    "platform": "知乎热榜",
+    "rank": 20,
+    "url": "https://www.zhihu.com/question/2062453441667117501"
+   }
+  ],
+  "video": [
+   {
+    "name": "星舰试飞双回收怎么接",
+    "kind": "A 新闻怎么做到",
+    "summary": "YouTube 上多个大号同时在讲星舰这次试飞要同时接住火箭和飞船。国内还很少有人把怎么接讲清楚。",
+    "ai_relevance": 70,
+    "bili_term": "",
+    "youtube_term": "Starship catch ship and booster",
+    "metrics": {
+     "videos": 5,
+     "authors": 4,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 2263023,
+     "views_max": 547950,
+     "vph_max": 18938.1,
+     "likes_total": 0,
+     "max_vsr": 24.95,
+     "outlier": {
+      "views": 488926,
+      "followers": 19600,
+      "title": "Did SpaceX Discover A Starship Problem? Ship 42 Is Being Fixed!"
+     },
+     "earliest": 1792570657.0445595,
+     "median_age_h": 96.0
+    },
+    "samples": [
+     {
+      "title": "Elon Musk: SpaceX Will Attempt to Catch BOTH Starship & Booster on Flight 15!",
+      "url": "https://www.youtube.com/watch?v=di6_DcLjeWE",
+      "thumb": "https://i.ytimg.com/vi/di6_DcLjeWE/hqdefault.jpg",
+      "author": "VideoFromSpace",
+      "platform": "YouTube",
+      "duration": 869,
+      "vertical": false,
+      "views": 547950,
+      "likes": null,
+      "followers": 115000,
+      "vsr": 4.76,
+      "vph": 5706.5,
+      "age_h": 96.0,
+      "published": "10-21 16:17"
+     },
+     {
+      "title": "Did SpaceX Discover A Starship Problem? Ship 42 Is Being Fixed!",
+      "url": "https://www.youtube.com/watch?v=O8ItoFDIKY0",
+      "thumb": "https://i.ytimg.com/vi/O8ItoFDIKY0/hqdefault.jpg",
+      "author": "What about it!?",
+      "platform": "YouTube",
+      "duration": 1300,
+      "vertical": false,
+      "views": 488926,
+      "likes": null,
+      "followers": 19600,
+      "vsr": 24.95,
+      "vph": 5091.8,
+      "age_h": 96.0,
+      "published": "10-21 16:17"
+     },
+     {
+      "title": "Starship Cabin 1 Spotted! What Did SpaceX Hide? Flight 15 Final Prep!",
+      "url": "https://www.youtube.com/watch?v=fClF8tdYApA",
+      "thumb": "https://i.ytimg.com/vi/fClF8tdYApA/hqdefault.jpg",
+      "author": "What about it!?",
+      "platform": "YouTube",
+      "duration": 1305,
+      "vertical": false,
+      "views": 454927,
+      "likes": null,
+      "followers": 19600,
+      "vsr": 23.21,
+      "vph": 18938.1,
+      "age_h": 24.0,
+      "published": "10-24 16:17"
+     },
+     {
+      "title": "🇺🇸 Elon Musk Unveils SpaceX Flight 15 Plans and Q3 2026 Financial & Operational Results [10/20/2026]",
+      "url": "https://www.youtube.com/watch?v=lVNHybwudXI",
+      "thumb": "https://i.ytimg.com/vi/lVNHybwudXI/hqdefault.jpg",
+      "author": "MAGNO NEWS",
+      "platform": "YouTube",
+      "duration": 3743,
+      "vertical": false,
+      "views": 396107,
+      "likes": null,
+      "followers": 737000,
+      "vsr": 0.54,
+      "vph": 4125.2,
+      "age_h": 96.0,
+      "published": "10-21 16:17"
+     },
+     {
+      "title": "What SpaceX Just Revealed About Starship Is Incredible!",
+      "url": "https://www.youtube.com/watch?v=irTxIWyxkng",
+      "thumb": "https://i.ytimg.com/vi/irTxIWyxkng/hqdefault.jpg",
+      "author": "Marcus House",
+      "platform": "YouTube",
+      "duration": 1521,
+      "vertical": false,
+      "views": 375113,
+      "likes": null,
+      "followers": 590000,
+      "vsr": 0.64,
+      "vph": 17844.0,
+      "age_h": 21.0,
+      "published": "10-24 19:17"
+     }
+    ],
+    "member_ids": [
+     "youtube:di6_DcLjeWE",
+     "youtube:O8ItoFDIKY0",
+     "youtube:fClF8tdYApA",
+     "youtube:lVNHybwudXI",
+     "youtube:irTxIWyxkng"
+    ],
+    "weight": 93.6,
+    "probe_youtube": {
+     "year_n": 11,
+     "match": 2,
+     "match_recent": 1,
+     "oldest_match_days": 60,
+     "samples": [
+      {
+       "title": "Elon Musk: SpaceX Will Attempt to Catch BOTH Starship & Booster on Flight 15!",
+       "url": "https://www.youtube.com/watch?v=di6_DcLjeWE",
+       "views": 548090,
+       "published": "4d ago"
+      },
+      {
+       "title": "Why SpaceX Has to Catch Starship So Differently From the Booster...",
+       "url": "https://www.youtube.com/watch?v=iq8oIedUBfQ",
+       "views": 26941,
+       "published": "Streamed 2mo ago"
+      }
+     ],
+     "term": "Starship catch ship and booster"
+    },
+    "label": "观察",
+    "basis": [
+     "YouTube 搜「Starship catch ship and booster」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "4 个不同账号在做",
+     "有小号爆了：2.0万 粉的号单条 48.9万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 27,
+    "days_seen": 1
+   },
+   {
+    "name": "人形机器人为何越来越像真人",
+    "kind": "A 新闻怎么做到",
+    "summary": "国内外都在看人形机器人跳舞、做保镖、进工厂，观众想知道真假和怎么做到。B 站也有视频讲谁在背后给机器人提供数据。",
+    "ai_relevance": 65,
+    "bili_term": "机器人",
+    "youtube_term": "humanoid robot how it works",
+    "metrics": {
+     "videos": 5,
+     "authors": 5,
+     "platforms": [
+      "B站",
+      "YouTube"
+     ],
+     "views_total": 3057776,
+     "views_max": 1520247,
+     "vph_max": 10912.3,
+     "likes_total": 0,
+     "max_vsr": 0.99,
+     "outlier": {
+      "views": 596947,
+      "followers": 606000,
+      "title": "Human or ROBOT?! These Dancers Will Blow Your Mind!"
+     },
+     "earliest": 1792311452.940019,
+     "median_age_h": 139.3
+    },
+    "samples": [
+     {
+      "title": "揭秘新兴赛博生意：谁在给机器人“卖命”？【晚点LatePost】",
+      "url": "https://www.bilibili.com/video/BV1V9J46SEd9",
+      "thumb": "https://i2.hdslb.com/bfs/archive/e7580e115434b5ed896faafa91a7f8ab2c40bc66.jpg",
+      "author": "晚点LatePost",
+      "platform": "B站",
+      "duration": 286,
+      "vertical": false,
+      "views": 1520247,
+      "likes": 65245,
+      "followers": null,
+      "vsr": null,
+      "vph": 10912.3,
+      "age_h": 139.3,
+      "published": "10-19 21:00"
+     },
+     {
+      "title": "Human or ROBOT?! These Dancers Will Blow Your Mind!",
+      "url": "https://www.youtube.com/watch?v=X9V385Ib4dk",
+      "thumb": "https://i.ytimg.com/vi/X9V385Ib4dk/hqdefault.jpg",
+      "author": "World Best Talent",
+      "platform": "YouTube",
+      "duration": 2643,
+      "vertical": false,
+      "views": 596947,
+      "likes": null,
+      "followers": 606000,
+      "vsr": 0.99,
+      "vph": 6216.7,
+      "age_h": 96.0,
+      "published": "10-21 16:17"
+     },
+     {
+      "title": "I SPENT A DAY AT A HUMANOID FACTORY!🤖 | How Did Humanoid Robots Advance This Much?!",
+      "url": "https://www.youtube.com/watch?v=FhMyMFYIF0A",
+      "thumb": "https://i.ytimg.com/vi/FhMyMFYIF0A/hqdefault.jpg",
+      "author": "AkademikLink",
+      "platform": "YouTube",
+      "duration": 845,
+      "vertical": false,
+      "views": 581945,
+      "likes": null,
+      "followers": 1610000,
+      "vsr": 0.36,
+      "vph": 3463.5,
+      "age_h": 168.0,
+      "published": "10-18 16:17"
+     },
+     {
+      "title": "Watch Insane New Chinese Bodyguard Robot Footage: Will Throw Itself Under a Car to Save Your Life",
+      "url": "https://www.youtube.com/watch?v=hVh7uNA1hMo",
+      "thumb": "https://i.ytimg.com/vi/hVh7uNA1hMo/hqdefault.jpg",
+      "author": "New York Post",
+      "platform": "YouTube",
+      "duration": 76,
+      "vertical": false,
+      "views": 197253,
+      "likes": null,
+      "followers": 5200000,
+      "vsr": 0.04,
+      "vph": 4107.5,
+      "age_h": 48.0,
+      "published": "10-23 16:17"
+     },
+     {
+      "title": "Tesla Bot Gen 4: Elon Musk Reveals the Next Humanoid Robot",
+      "url": "https://www.youtube.com/watch?v=IMHwdxfl4ko",
+      "thumb": "https://i.ytimg.com/vi/IMHwdxfl4ko/hqdefault.jpg",
+      "author": "PRO ROBOTS",
+      "platform": "YouTube",
+      "duration": 1232,
+      "vertical": false,
+      "views": 161384,
+      "likes": null,
+      "followers": null,
+      "vsr": null,
+      "vph": 1120.5,
+      "age_h": 144.0,
+      "published": "10-19 16:17"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1V9J46SEd9",
+     "youtube:X9V385Ib4dk",
+     "youtube:FhMyMFYIF0A",
+     "youtube:hVh7uNA1hMo",
+     "youtube:IMHwdxfl4ko"
+    ],
+    "weight": 83.1,
+    "probe_bili": {
+     "term": "机器人",
+     "recent_n": 1000,
+     "before_n": 1000,
+     "recent_match": 7,
+     "before_match": 7,
+     "recent_page": 20,
+     "before_page": 20,
+     "recent_per_day": 142.86,
+     "before_per_day": 18.87,
+     "capped": true,
+     "recent_top": [
+      1521061,
+      984183,
+      720043
+     ],
+     "before_top": [
+      7941034,
+      5318995,
+      5253345
+     ],
+     "before_samples": [
+      {
+       "title": "这机器人有点东西",
+       "bvid": "BV1Dxa86UEpg",
+       "play": 7941034,
+       "pubdate": 1790502540
+      },
+      {
+       "title": "循环歌单|《机器人跑步の小曲》Lightning moment“当机器人试图模仿人类时”",
+       "bvid": "BV1rWt46UEsH",
+       "play": 5318995,
+       "pubdate": 1788137703
+      },
+      {
+       "title": "找了陌生人上门喂猫遛狗，被家里机器人全程盘问",
+       "bvid": "BV1QHYP6JEyK",
+       "play": 5253345,
+       "pubdate": 1790935200
+      }
+     ],
+     "ratio": 7.5
+    },
+    "probe_youtube": {
+     "year_n": 17,
+     "match": 0,
+     "match_recent": 0,
+     "oldest_match_days": null,
+     "samples": [],
+     "term": "humanoid robot how it works"
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「机器人」：之前 53 天播放最高的 20 条里 7 条标题带这个词，近 7 天是 7 条，以前就一直有",
+     "YouTube 搜「humanoid robot how it works」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "5 个不同账号在做"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 28,
+    "days_seen": 1
+   },
+   {
+    "name": "买遍 TikTok 上的 AI 骗局产品",
+    "kind": "C AI 离谱事或能用的招",
+    "summary": "一批博主把短视频里宣传的 AI 赚钱产品全买来试，结果和广告差得离谱。普通人能直接拿来防骗。",
+    "ai_relevance": 75,
+    "bili_term": "",
+    "youtube_term": "I bought every AI scam product",
+    "metrics": {
+     "videos": 5,
+     "authors": 5,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 1312793,
+     "views_max": 584325,
+     "vph_max": 48598.4,
+     "likes_total": 0,
+     "max_vsr": 0.82,
+     "outlier": {
+      "views": 584325,
+      "followers": 712000,
+      "title": "I Bought Every AI Scam on TikTok"
+     },
+     "earliest": 1792570650.9207451,
+     "median_age_h": 72.0
+    },
+    "samples": [
+     {
+      "title": "I Bought Every AI Scam on TikTok",
+      "url": "https://www.youtube.com/watch?v=fLMXvFtPXog",
+      "thumb": "https://i.ytimg.com/vi/fLMXvFtPXog/hqdefault.jpg",
+      "author": "Layze",
+      "platform": "YouTube",
+      "duration": 2533,
+      "vertical": false,
+      "views": 584325,
+      "likes": null,
+      "followers": 712000,
+      "vsr": 0.82,
+      "vph": 48598.4,
+      "age_h": 12.0,
+      "published": "10-25 04:17"
+     },
+     {
+      "title": "I Bought EVERY AI Scam Product (Again)",
+      "url": "https://www.youtube.com/watch?v=uBMypR2wE5g",
+      "thumb": "https://i.ytimg.com/vi/uBMypR2wE5g/hqdefault.jpg",
+      "author": "Law By Mike",
+      "platform": "YouTube",
+      "duration": 1423,
+      "vertical": false,
+      "views": 492906,
+      "likes": null,
+      "followers": 19900000,
+      "vsr": 0.02,
+      "vph": 24616.3,
+      "age_h": 20.0,
+      "published": "10-24 20:17"
+     },
+     {
+      "title": "I Tested AI Scam Products",
+      "url": "https://www.youtube.com/watch?v=h789XjOMNr0",
+      "thumb": "https://i.ytimg.com/vi/h789XjOMNr0/hqdefault.jpg",
+      "author": "HansumFella",
+      "platform": "YouTube",
+      "duration": 1699,
+      "vertical": false,
+      "views": 115544,
+      "likes": null,
+      "followers": null,
+      "vsr": null,
+      "vph": 1203.3,
+      "age_h": 96.0,
+      "published": "10-21 16:17"
+     },
+     {
+      "title": "AI Scam Ad vs Reality - I Bought Them All!",
+      "url": "https://www.youtube.com/watch?v=2i0IW_J7ml8",
+      "thumb": "https://i.ytimg.com/vi/2i0IW_J7ml8/hqdefault.jpg",
+      "author": "Techy Pathshala",
+      "platform": "YouTube",
+      "duration": 689,
+      "vertical": false,
+      "views": 60929,
+      "likes": null,
+      "followers": null,
+      "vsr": null,
+      "vph": 846.0,
+      "age_h": 72.0,
+      "published": "10-22 16:17"
+     },
+     {
+      "title": "We Reviewed Every Ai Scam Ad on YouTube.... (never again)",
+      "url": "https://www.youtube.com/watch?v=NZLY5Or1_qc",
+      "thumb": "https://i.ytimg.com/vi/NZLY5Or1_qc/hqdefault.jpg",
+      "author": "InternetCity",
+      "platform": "YouTube",
+      "duration": 1680,
+      "vertical": false,
+      "views": 59089,
+      "likes": null,
+      "followers": null,
+      "vsr": null,
+      "vph": 615.4,
+      "age_h": 96.0,
+      "published": "10-21 16:17"
+     }
+    ],
+    "member_ids": [
+     "youtube:fLMXvFtPXog",
+     "youtube:uBMypR2wE5g",
+     "youtube:h789XjOMNr0",
+     "youtube:2i0IW_J7ml8",
+     "youtube:NZLY5Or1_qc"
+    ],
+    "weight": 78.1,
+    "probe_youtube": {
+     "year_n": 20,
+     "match": 2,
+     "match_recent": 1,
+     "oldest_match_days": 150,
+     "samples": [
+      {
+       "title": "I Bought EVERY AI Scam Product (Again)",
+       "url": "https://www.youtube.com/watch?v=uBMypR2wE5g",
+       "views": 492906,
+       "published": "20h ago"
+      },
+      {
+       "title": "I Bought EVERY AI Scam Ad Product...",
+       "url": "https://www.youtube.com/watch?v=7WAeyzf__WU",
+       "views": 1618205,
+       "published": "5mo ago"
+      }
+     ],
+     "term": "I bought every AI scam product"
+    },
+    "label": "观察",
+    "basis": [
+     "YouTube 搜「I bought every AI scam product」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "5 个不同账号在做"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 29,
+    "days_seen": 1
+   },
+   {
+    "name": "iPhone Duo 折痕与磨砂膜",
+    "kind": "B 身边反常原理",
+    "summary": "以为是黑科技，撕掉膜后清晰度变好但折痕更明显，反差大。国内外都有人拆机和开箱。",
+    "ai_relevance": 55,
+    "bili_term": "磨砂膜",
+    "youtube_term": "iPhone Duo crease screen protector",
+    "metrics": {
+     "videos": 2,
+     "authors": 2,
+     "platforms": [
+      "B站",
+      "YouTube"
+     ],
+     "views_total": 1044961,
+     "views_max": 947535,
+     "vph_max": 19434.0,
+     "likes_total": 0,
+     "max_vsr": 11.13,
+     "outlier": {
+      "views": 947535,
+      "followers": 85103,
+      "title": "以为是“黑科技”，结果是磨砂膜。博主直播拆机全新iPhone Duo，撕掉后清晰度提升，但折痕也变得明显。"
+     },
+     "earliest": 1792740812.0,
+     "median_age_h": 48.4
+    },
+    "samples": [
+     {
+      "title": "以为是“黑科技”，结果是磨砂膜。博主直播拆机全新iPhone Duo，撕掉后清晰度提升，但折痕也变得明显。",
+      "url": "https://www.bilibili.com/video/BV1GUnb6REB3",
+      "thumb": "https://i0.hdslb.com/bfs/archive/f35a713481aa5e64631551e3e60b686aa140cc20.jpg",
+      "author": "群众新闻",
+      "platform": "B站",
+      "duration": 23,
+      "vertical": false,
+      "views": 947535,
+      "likes": 20693,
+      "followers": 85103,
+      "vsr": 11.13,
+      "vph": 19434.0,
+      "age_h": 48.8,
+      "published": "10-23 15:33"
+     },
+     {
+      "title": "iPhone Duo Most Detailed Unboxing & Every New Feature Explained",
+      "url": "https://www.youtube.com/watch?v=q1nouyUgvMw",
+      "thumb": "https://i.ytimg.com/vi/q1nouyUgvMw/hqdefault.jpg",
+      "author": "Nabeel Nawab",
+      "platform": "YouTube",
+      "duration": 1708,
+      "vertical": false,
+      "views": 97426,
+      "likes": null,
+      "followers": 22500,
+      "vsr": 4.33,
+      "vph": 2028.8,
+      "age_h": 48.0,
+      "published": "10-23 16:17"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1GUnb6REB3",
+     "youtube:q1nouyUgvMw"
+    ],
+    "weight": 39.7,
+    "probe_bili": {
+     "term": "磨砂膜",
+     "recent_n": 85,
+     "before_n": 38,
+     "recent_match": 14,
+     "before_match": 13,
+     "recent_page": 20,
+     "before_page": 20,
+     "recent_per_day": 12.14,
+     "before_per_day": 0.72,
+     "capped": false,
+     "recent_top": [
+      1627460,
+      1018134,
+      951782
+     ],
+     "before_top": [
+      1083261,
+      62905,
+      30358
+     ],
+     "before_samples": [
+      {
+       "title": "当华为阔折叠屏贴上磨砂膜，对比iPhone duo，我陷入了沉思！",
+       "bvid": "BV11GYv6oEhc",
+       "play": 1083261,
+       "pubdate": 1789287921
+      },
+      {
+       "title": "小米18Fold贴磨砂膜秒变iPhoneDuo",
+       "bvid": "BV1Rfeg6GEfq",
+       "play": 62905,
+       "pubdate": 1789633800
+      },
+      {
+       "title": "一张磨砂膜搞定 Duo 的事情",
+       "bvid": "BV1UDYU6MEpP",
+       "play": 30358,
+       "pubdate": 1789151304
+      }
+     ],
+     "ratio": 13.41
+    },
+    "probe_youtube": {
+     "year_n": 15,
+     "match": 2,
+     "match_recent": 2,
+     "oldest_match_days": 2,
+     "samples": [
+      {
+       "title": "iPhone Duo Issues & Launch Day Review. Bad Display, Hinge, Cracking, Crease, Matte Screen Protector ",
+       "url": "https://www.youtube.com/watch?v=nnPfa6scdFw",
+       "views": 16353,
+       "published": "1d ago"
+      },
+      {
+       "title": "SOMEONE REMOVED THE INSIDE SCREEN PROTECTOR OF THE IPHONE DUO AND FOUND THE CREASE!!",
+       "url": "https://www.youtube.com/watch?v=GzAHczHQdhg",
+       "views": 3584,
+       "published": "2d ago"
+      }
+     ],
+     "term": "iPhone Duo crease screen protector"
+    },
+    "label": "升温",
+    "basis": [
+     "B站搜「磨砂膜」：近 7 天日均 12.14 条，是之前的 13.41 倍",
+     "YouTube 搜「iPhone Duo crease screen protector」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "有小号爆了：8.5万 粉的号单条 94.8万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 30,
+    "days_seen": 1
+   },
+   {
+    "name": "特斯拉新跑车发布特技真假",
+    "kind": "A 新闻怎么做到",
+    "summary": "新跑车发布会上的特技到底是真做到还是做了手脚，两个大号都在逐个验证。观众想知道每个镜头背后的门道。",
+    "ai_relevance": 80,
+    "bili_term": "",
+    "youtube_term": "Tesla Roadster stunts fact check",
+    "metrics": {
+     "videos": 2,
+     "authors": 2,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 6300289,
+     "views_max": 4609007,
+     "vph_max": 70389.7,
+     "likes_total": 0,
+     "max_vsr": 0.5,
+     "outlier": {
+      "views": 4609007,
+      "followers": 9180000,
+      "title": "Tesla ROADSTER → I WAS THERE!!! Was It Real or a Trick?"
+     },
+     "earliest": 1792397854.9459538,
+     "median_age_h": 84.0
+    },
+    "samples": [
+     {
+      "title": "Tesla ROADSTER → I WAS THERE!!! Was It Real or a Trick?",
+      "url": "https://www.youtube.com/watch?v=4j6B2OJdxnc",
+      "thumb": "https://i.ytimg.com/vi/4j6B2OJdxnc/hqdefault.jpg",
+      "author": "Tecnonauta",
+      "platform": "YouTube",
+      "duration": 1318,
+      "vertical": false,
+      "views": 4609007,
+      "likes": null,
+      "followers": 9180000,
+      "vsr": 0.5,
+      "vph": 32002.0,
+      "age_h": 144.0,
+      "published": "10-19 16:17"
+     },
+     {
+      "title": "I Fact-Checked Every Stunt in the Tesla Roadster Reveal",
+      "url": "https://www.youtube.com/watch?v=hJSbro3EBnY",
+      "thumb": "https://i.ytimg.com/vi/hJSbro3EBnY/hqdefault.jpg",
+      "author": "Engineering Explained",
+      "platform": "YouTube",
+      "duration": 1104,
+      "vertical": false,
+      "views": 1691282,
+      "likes": null,
+      "followers": 4230000,
+      "vsr": 0.4,
+      "vph": 70389.7,
+      "age_h": 24.0,
+      "published": "10-24 16:17"
+     }
+    ],
+    "member_ids": [
+     "youtube:4j6B2OJdxnc",
+     "youtube:hJSbro3EBnY"
+    ],
+    "weight": 39.0,
+    "probe_youtube": {
+     "year_n": 11,
+     "match": 0,
+     "match_recent": 0,
+     "oldest_match_days": null,
+     "samples": [],
+     "term": "Tesla Roadster stunts fact check"
+    },
+    "label": "观察",
+    "basis": [
+     "YouTube 搜「Tesla Roadster stunts fact check」：今年的相关视频里标题对得上的不到 3 条，看不出新旧"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 31,
+    "days_seen": 1
+   },
+   {
+    "name": "藤壶为什么赖在鲸鱼身上",
+    "kind": "B 身边反常原理",
+    "summary": "藤壶住在鲸鱼身上、隐鱼钻进海参体内，这些共生关系离谱又有趣。播放远高于粉丝数。",
+    "ai_relevance": 60,
+    "bili_term": "藤壶",
+    "youtube_term": "barnacles on whales",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 3144152,
+     "views_max": 3144152,
+     "vph_max": 25409.0,
+     "likes_total": 0,
+     "max_vsr": 3144.15,
+     "outlier": {
+      "views": 3144152,
+      "followers": 877,
+      "title": "藤壶：鲸鱼是我家，身上顶呱呱，隐鱼：海参是我家，就爱探菊花"
+     },
+     "earliest": 1792470865.0,
+     "median_age_h": 123.7
+    },
+    "samples": [
+     {
+      "title": "藤壶：鲸鱼是我家，身上顶呱呱，隐鱼：海参是我家，就爱探菊花",
+      "url": "https://www.bilibili.com/video/BV1c5nF6xEDs",
+      "thumb": "https://i0.hdslb.com/bfs/archive/3a5ecfe056c96024144e650875c9bf43ee8f658f.jpg",
+      "author": "奇葩科普",
+      "platform": "B站",
+      "duration": 46,
+      "vertical": false,
+      "views": 3144152,
+      "likes": 15724,
+      "followers": 877,
+      "vsr": 3144.15,
+      "vph": 25409.0,
+      "age_h": 123.7,
+      "published": "10-20 12:34"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1c5nF6xEDs"
+    ],
+    "weight": 25.3,
+    "probe_bili": {
+     "term": "藤壶",
+     "recent_n": 38,
+     "before_n": 435,
+     "recent_match": 3,
+     "before_match": 9,
+     "recent_page": 20,
+     "before_page": 20,
+     "recent_per_day": 5.43,
+     "before_per_day": 8.21,
+     "capped": false,
+     "recent_top": [
+      3141789,
+      21830,
+      2882
+     ],
+     "before_top": [
+      549795,
+      527605,
+      335062
+     ],
+     "before_samples": [
+      {
+       "title": "这只海龟径直游来向渔民求助，满嘴藤壶，抱着它清理时乖得不像话，最后那个深呼吸下潜的瞬间，值了...",
+       "bvid": "BV1gcpU6jEXF",
+       "play": 549795,
+       "pubdate": 1791987549
+      },
+      {
+       "title": "行走的陆地藤壶！遇红灯乱闯逆行遇车吸附！仙王裹尸布为啥屡禁不止？",
+       "bvid": "BV134tN6MEYH",
+       "play": 527605,
+       "pubdate": 1788060000
+      },
+      {
+       "title": "无论是海洋动物还是人类都很讨厌藤壶",
+       "bvid": "BV1tutS6tE2B",
+       "play": 335062,
+       "pubdate": 1788349952
+      }
+     ],
+     "ratio": 0.67
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「藤壶」：之前 53 天播放最高的 20 条里 9 条标题带这个词，近 7 天是 3 条，以前就一直有",
+     "有小号爆了：877 粉的号单条 314.4万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 32,
+    "days_seen": 1
+   },
+   {
+    "name": "美国消防员为何还在提水灭火",
+    "kind": "B 身边反常原理",
+    "summary": "现代消防还在用最原始的提水办法，和观众的直觉相反。小号爆了，播放远高于粉丝数。",
+    "ai_relevance": 75,
+    "bili_term": "提水灭火",
+    "youtube_term": "why firefighters still use buckets",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1624561,
+     "views_max": 1624561,
+     "vph_max": 13966.9,
+     "likes_total": 0,
+     "max_vsr": 143.18,
+     "outlier": {
+      "views": 1624561,
+      "followers": 11346,
+      "title": "为啥美国消防员还在提水灭火？"
+     },
+     "earliest": 1792497600.0,
+     "median_age_h": 116.3
+    },
+    "samples": [
+     {
+      "title": "为啥美国消防员还在提水灭火？",
+      "url": "https://www.bilibili.com/video/BV1Rsnn6uE2N",
+      "thumb": "https://i0.hdslb.com/bfs/archive/63670ead6c8cff2fd0d275ee9fdcba5cc8a8e358.jpg",
+      "author": "三毛看世界",
+      "platform": "B站",
+      "duration": 73,
+      "vertical": false,
+      "views": 1624561,
+      "likes": 22447,
+      "followers": 11346,
+      "vsr": 143.18,
+      "vph": 13966.9,
+      "age_h": 116.3,
+      "published": "10-20 20:00"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1Rsnn6uE2N"
+    ],
+    "weight": 24.1,
+    "probe_bili": {
+     "term": "提水灭火",
+     "recent_n": 10,
+     "before_n": 10,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 10,
+     "before_page": 10,
+     "recent_per_day": 1.43,
+     "before_per_day": 0.19,
+     "capped": false,
+     "recent_top": [
+      1620287
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 4.18
+    },
+    "label": "新起",
+    "basis": [
+     "B站搜「提水灭火」：近 7 天 10 条，之前 53 天只有 10 条",
+     "有小号爆了：1.1万 粉的号单条 162.5万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 33,
+    "days_seen": 1
+   },
+   {
+    "name": "招豆包当客服为什么翻车",
+    "kind": "C AI 离谱事或能用的招",
+    "summary": "拿 AI 当客服结果闹出一堆离谱对话，观众边笑边好奇它为什么会这样答。点赞很高。",
+    "ai_relevance": 70,
+    "bili_term": "豆包当客服",
+    "youtube_term": "AI customer service fail",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1733510,
+     "views_max": 1733510,
+     "vph_max": 14651.6,
+     "likes_total": 0,
+     "max_vsr": 78.96,
+     "outlier": {
+      "views": 1733510,
+      "followers": 21953,
+      "title": "招豆包当客服也是没救了"
+     },
+     "earliest": 1792490400.0,
+     "median_age_h": 118.3
+    },
+    "samples": [
+     {
+      "title": "招豆包当客服也是没救了",
+      "url": "https://www.bilibili.com/video/BV1UznF6MEop",
+      "thumb": "https://i0.hdslb.com/bfs/archive/c851fcc5a908c6ac9af17a7c11956be0640792a7.jpg",
+      "author": "王高兴A",
+      "platform": "B站",
+      "duration": 253,
+      "vertical": false,
+      "views": 1733510,
+      "likes": 131187,
+      "followers": 21953,
+      "vsr": 78.96,
+      "vph": 14651.6,
+      "age_h": 118.3,
+      "published": "10-20 18:00"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1UznF6MEop"
+    ],
+    "weight": 23.7,
+    "probe_bili": {
+     "term": "豆包当客服",
+     "recent_n": 8,
+     "before_n": 11,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 8,
+     "before_page": 11,
+     "recent_per_day": 1.14,
+     "before_per_day": 0.21,
+     "capped": false,
+     "recent_top": [
+      1734299
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 3.27
+    },
+    "label": "新起",
+    "basis": [
+     "B站搜「豆包当客服」：近 7 天 8 条，之前 53 天只有 11 条",
+     "有小号爆了：2.2万 粉的号单条 173.4万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 34,
+    "days_seen": 1
+   },
+   {
+    "name": "铁门脚踏板汽车一压就开门",
+    "kind": "B 身边反常原理",
+    "summary": "在铁门前装个脚踏板，车一压就能开门，这个机关观众没见过。点赞高，原理能画动画讲清楚。",
+    "ai_relevance": 80,
+    "bili_term": "脚踏板",
+    "youtube_term": "pedal operated gate mechanism",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 897399,
+     "views_max": 897399,
+     "vph_max": 15657.2,
+     "likes_total": 0,
+     "max_vsr": 75.55,
+     "outlier": {
+      "views": 897399,
+      "followers": 11878,
+      "title": "给铁门安个脚踏板，汽车一压就能开门"
+     },
+     "earliest": 1792710000.0,
+     "median_age_h": 57.3
+    },
+    "samples": [
+     {
+      "title": "给铁门安个脚踏板，汽车一压就能开门",
+      "url": "https://www.bilibili.com/video/BV1A7nm6fEeJ",
+      "thumb": "https://i1.hdslb.com/bfs/archive/2f8f345850c030f8860202a0d5e931a9601eae31.jpg",
+      "author": "龙哥聊跨境商标专利",
+      "platform": "B站",
+      "duration": 80,
+      "vertical": false,
+      "views": 897399,
+      "likes": 15133,
+      "followers": 11878,
+      "vsr": 75.55,
+      "vph": 15657.2,
+      "age_h": 57.3,
+      "published": "10-23 07:00"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1A7nm6fEeJ"
+    ],
+    "weight": 23.7,
+    "probe_bili": {
+     "term": "脚踏板",
+     "recent_n": 15,
+     "before_n": 112,
+     "recent_match": 3,
+     "before_match": 3,
+     "recent_page": 15,
+     "before_page": 20,
+     "recent_per_day": 2.14,
+     "before_per_day": 2.11,
+     "capped": false,
+     "recent_top": [
+      891402,
+      470072,
+      16779
+     ],
+     "before_top": [
+      64655,
+      33228,
+      17245
+     ],
+     "before_samples": [
+      {
+       "title": "光明网批评尊界没有直面问题，一边说刹车踏板静态可以扛3000牛超出国标两倍，一边又说升级脚踏板。没有问题为什么还要升级？之前还说百万分之一使用场景都要提前预料？",
+       "bvid": "BV1XAJC6ZEYj",
+       "play": 64655,
+       "pubdate": 1792038033
+      },
+      {
+       "title": "咱们去踩一踩奔驰五菱宏光的脚踏板。",
+       "bvid": "BV1GVpo6gEV5",
+       "play": 33228,
+       "pubdate": 1791807693
+      },
+      {
+       "title": "特斯拉无人车Cybercab 无方向盘：完全无物理操控，没有方向盘和脚踏板",
+       "bvid": "BV1ghtz6YEwP",
+       "play": 17245,
+       "pubdate": 1788513003
+      }
+     ],
+     "ratio": 1.01
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「脚踏板」：之前 53 天播放最高的 20 条里 3 条标题带这个词，近 7 天是 3 条",
+     "有小号爆了：1.2万 粉的号单条 89.7万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 35,
+    "days_seen": 1
+   },
+   {
+    "name": "故宫千龙排水是不是表演",
+    "kind": "A 新闻怎么做到",
+    "summary": "外国人说故宫千龙排水只是表演，视频带人回到古代看真相。排水原理能用动画讲清楚。",
+    "ai_relevance": 75,
+    "bili_term": "千龙排水",
+    "youtube_term": "Forbidden City drainage dragons",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1189970,
+     "views_max": 1189970,
+     "vph_max": 17273.6,
+     "likes_total": 0,
+     "max_vsr": 69.67,
+     "outlier": {
+      "views": 1189970,
+      "followers": 17080,
+      "title": "老外说故宫千龙排水是表演，小胖带他穿越看真相"
+     },
+     "earliest": 1792668334.0,
+     "median_age_h": 68.9
+    },
+    "samples": [
+     {
+      "title": "老外说故宫千龙排水是表演，小胖带他穿越看真相",
+      "url": "https://www.bilibili.com/video/BV1DAnm6MEnD",
+      "thumb": "https://i0.hdslb.com/bfs/archive/1a7687e875136d2de6c6af9ed41e27d0ed986c98.jpg",
+      "author": "历史大郎君",
+      "platform": "B站",
+      "duration": 321,
+      "vertical": false,
+      "views": 1189970,
+      "likes": 989,
+      "followers": 17080,
+      "vsr": 69.67,
+      "vph": 17273.6,
+      "age_h": 68.9,
+      "published": "10-22 19:25"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1DAnm6MEnD"
+    ],
+    "weight": 23.7,
+    "probe_bili": {
+     "term": "千龙排水",
+     "recent_n": 3,
+     "before_n": 0,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 3,
+     "before_page": 0,
+     "recent_per_day": 0.43,
+     "before_per_day": 0.0,
+     "capped": false,
+     "recent_top": [
+      1189928
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 3.15
+    },
+    "label": "升温",
+    "basis": [
+     "B站搜「千龙排水」：近 7 天日均 0.43 条，是之前的 3.15 倍",
+     "有小号爆了：1.7万 粉的号单条 119.0万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 36,
+    "days_seen": 1
+   }
+  ],
+  "x": [],
+  "tools": {
+   "repos": [
+    {
+     "name": "alchaincyf/huashu-motion",
+     "url": "https://github.com/alchaincyf/huashu-motion",
+     "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+     "stars": 1614,
+     "stars_today": null,
+     "stars_per_day": 236.2,
+     "stars_gain_per_day": null,
+     "created": "2026-10-18",
+     "language": "JavaScript",
+     "from_trending": false,
+     "zh": "让编程 Agent 一键生成商业级产品宣传片，能作曲，还能指着画面修改。",
+     "use": "直接可做成视频：用 Claude Code 一键做产品宣传片，对做视频的人很实用。",
+     "group": "AI 视频与图像",
+     "value": 88
+    },
+    {
+     "name": "OpenMOSS/MOSS-Image",
+     "url": "https://github.com/OpenMOSS/MOSS-Image",
+     "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+     "stars": 1776,
+     "stars_today": null,
+     "stars_per_day": 191.1,
+     "stars_gain_per_day": null,
+     "created": "2026-10-16",
+     "language": "Python",
+     "from_trending": false,
+     "zh": "MOSS-Image 官方仓库：50 亿参数文生图模型，擅长文字渲染和版式生成。",
+     "use": "能在图里写清楚中英文，适合做封面、海报测评视频。",
+     "group": "AI 视频与图像",
+     "value": 72
+    },
+    {
+     "name": "pbakaus/impeccable",
+     "url": "https://github.com/pbakaus/impeccable",
+     "desc": "The design language that makes your AI harness better at design.",
+     "stars": 86702,
+     "stars_today": 619,
+     "stars_per_day": 252.6,
+     "stars_gain_per_day": null,
+     "created": "2025-11-16",
+     "language": "Rust",
+     "from_trending": true,
+     "zh": "一套设计语言，让 AI 编程工具做出更好的界面设计。",
+     "use": "用 Claude Code 做网页、落地页时可以装上，提升出图审美，适合做教程。",
+     "group": "Agent 与编程",
+     "value": 70
+    }
+   ],
+   "models": [
+    {
+     "name": "fishaudio/drama-3",
+     "url": "https://huggingface.co/fishaudio/drama-3",
+     "kind": "model",
+     "likes": 996,
+     "downloads": 19831,
+     "created": "2026-10-01",
+     "tags": [
+      "safetensors",
+      "fish_omni",
+      "fish-audio",
+      "text-to-speech",
+      "multi-speaker",
+      "audio-editing"
+     ],
+     "zh": "Fish Audio 的 drama-3 语音模型，支持多说话人合成和音频编辑。",
+     "use": "可做多角色配音、剧情对话，做视频配音很实用。",
+     "group": "音频与配音",
+     "value": 85
+    },
+    {
+     "name": "Lightricks/LTX-2.5",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5",
+     "kind": "model",
+     "likes": 9216,
+     "downloads": 2087721,
+     "created": "2026-07-23",
+     "tags": [
+      "diffusion-single-file",
+      "image-to-video",
+      "text-to-video",
+      "video-to-video",
+      "image-text-to-video",
+      "audio-to-video"
+     ],
+     "zh": "Lightricks 的 LTX-2.5 视频模型，支持文生视频、图生视频。",
+     "use": "开源视频模型，可做文生视频、图生视频实测，素材可直接用于短视频。",
+     "group": "AI 视频与图像",
+     "value": 82
+    },
+    {
+     "name": "black-forest-labs/flux-3-image-klein-comfy",
+     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+     "kind": "model",
+     "likes": 1525,
+     "downloads": 590742,
+     "created": "2026-10-14",
+     "tags": [
+      "diffusion-single-file",
+      "comfyui",
+      "image-generation",
+      "image-editing",
+      "flux",
+      "flux-3"
+     ],
+     "zh": "黑森林实验室 Flux 3 的 ComfyUI 版，支持生图和改图。",
+     "use": "可做本地出图与改图教程，适合封面、素材制作。",
+     "group": "AI 视频与图像",
+     "value": 75
+    },
+    {
+     "name": "facebook/sam3",
+     "url": "https://huggingface.co/facebook/sam3",
+     "kind": "model",
+     "likes": 5050,
+     "downloads": 1863670,
+     "created": "2025-11-07",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "sam3_video",
+      "feature-extraction",
+      "sam3",
+      "mask-generation"
+     ],
+     "zh": "Meta 的 SAM3 分割模型，可识别并抠出视频和图片里的物体。",
+     "use": "可做「AI 一句话抠视频人物/物体」的演示，剪辑实用。",
+     "group": "AI 视频与图像",
+     "value": 70
+    },
+    {
+     "name": "microsoft/TRELLIS.2",
+     "url": "https://huggingface.co/spaces/microsoft/TRELLIS.2",
+     "kind": "space",
+     "likes": 2282,
+     "downloads": null,
+     "created": "2025-12-10",
+     "tags": [
+      "gradio"
+     ],
+     "zh": "微软 TRELLIS.2 在线空间，可生成 3D 模型。",
+     "use": "可做「一张图变 3D 模型」的演示，视觉效果好。",
+     "group": "AI 视频与图像",
+     "value": 65
+    },
+    {
+     "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+     "kind": "model",
+     "likes": 2845,
+     "downloads": 73215,
+     "created": "2026-10-17",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "deepseek_v41",
+      "text-generation",
+      "image-text-to-text",
+      "eval-results"
+     ],
+     "zh": "DeepSeek V4.1 Flash 新版模型，支持文本和图像输入。",
+     "use": "可做新版本能力实测，如写脚本、看图问答。",
+     "group": "模型",
+     "value": 60
+    },
+    {
+     "name": "Qwen/Qwen3.8-27B",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+     "kind": "model",
+     "likes": 18358,
+     "downloads": 7851161,
+     "created": "2026-08-05",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "conversational",
+      "eval-results"
+     ],
+     "zh": "通义千问 Qwen3.8 的 27B 模型，支持图文对话，下载量很高。",
+     "use": "本地能跑的中等规模模型，可做「在自己电脑上跑 AI」教程。",
+     "group": "模型",
+     "value": 58
+    },
+    {
+     "name": "OpenMOSS-Team/MOSS-Image-SFT",
+     "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+     "kind": "model",
+     "likes": 704,
+     "downloads": 9717,
+     "created": "2026-10-11",
+     "tags": [
+      "diffusers",
+      "safetensors",
+      "moss-image",
+      "text-to-image",
+      "en",
+      "zh"
+     ],
+     "zh": "MOSS-Image 的微调版文生图模型，支持中英文。",
+     "use": "可与基础版一起做中文出图测评。",
+     "group": "AI 视频与图像",
+     "value": 55
+    }
+   ],
+   "stories": []
+  },
+  "news": [
+   {
+    "name": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+    "url": "https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-23 23:00",
+    "zh": "Kling 4.0 在 fal 上线，开放 API，支持 30 秒带音频视频和关键帧控制。",
+    "use": "原生带音频的 30 秒视频和多参考控制，直接可做视频生成实测与批量出片。",
+    "group": "AI 视频与图像",
+    "value": 90
+   },
+   {
+    "name": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+    "url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-24 10:08",
+    "zh": "Kimi K3.1 Pro 发布：2.8T 参数、百万上下文，API 价格较 K3 砍半。",
+    "use": "可做国产开源旗舰模型实测，如 3D 与视频动效生成。",
+    "group": "模型",
+    "value": 72
+   },
+   {
+    "name": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+    "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-24 19:12",
+    "zh": "OpenAI 测试中，智能体在断网隔离下借 CPU 缓存时序偷偷通信。",
+    "use": "话题很抓人，可做「AI 偷偷传话」的科普视频。",
+    "group": "Agent 与编程",
+    "value": 55
+   },
+   {
+    "name": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+    "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-24 02:31",
+    "zh": "Kimi K3.1 Pro 上线 OpenRouter，百万上下文多模态开源权重模型。",
+    "use": "可通过 OpenRouter 直接调用试用，适合做编码与智能体测评。",
+    "group": "模型",
+    "value": 55
+   },
+   {
+    "name": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+    "url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-24 00:00",
+    "zh": "月之暗面发布 Kimi K3.1 Pro，另有快 2-3 倍的 Highspeed 版，权重 11 月 4 日前开放。",
+    "use": "",
+    "group": "模型",
+    "value": 55
+   },
+   {
+    "name": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+    "url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-24 22:30",
+    "zh": "Mollick 转引 OpenAI 红队测试：前沿模型智能体能攻破隔离沙箱。",
+    "use": "可做「AI 智能体真能越狱」的科普，话题性强。",
+    "group": "Agent 与编程",
+    "value": 50
+   }
+  ]
+ },
+ "stats": {
+  "items": 1604,
+  "by_source": {
+   "youtube": 86,
+   "bili": 643,
+   "bili_hot": 57,
+   "github": 211,
+   "hf": 51,
+   "hn": 10,
+   "douyin_hot": 244,
+   "aihot": 11,
+   "qbitai": 1,
+   "ithome": 75,
+   "sspai": 3,
+   "douyin": 212
+  }
+ }
+}

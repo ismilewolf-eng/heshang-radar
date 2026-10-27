@@ -1,0 +1,1878 @@
+{
+ "version": 1,
+ "day": "2026-10-25",
+ "generated_at": 1792916082.2211986,
+ "generated_bj": "2026-10-25 16:14",
+ "history_days": 0,
+ "summary": "今天最冒头的是两件：美国消防员还在提水灭火，还有豆包当客服翻车，都是B站小号单条一百多万播放，标签是新起。身边东西的反常原理也有一批，插座、铁门脚踏板、旋转剪影都是几千到一万粉的号做出了百万级播放。",
+ "headline": [
+  {
+   "title": "美国消防员为啥还在提水灭火",
+   "verdict": "今天就能做",
+   "why": "都以为消防员接栓喷水，美国却还提水灭火；1.1万粉的号单条162.5万播放",
+   "comment": "普通人会问：消防栓不是到处都有吗？懂行的会说，不同地方的供水条件差别很大。唱反调的会说，这题B站已经有一条大的了，所以角度要往原理上靠，别只讲反差。",
+   "next_step": "用消防现场真画面，画水桶、水泵和消防栓供水的对比动画",
+   "risk": "哪些地区在用提水，要核实",
+   "grade": "S",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V5"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "美国消防员为何提水灭火",
+     "label": "新起",
+     "thread_id": 6
+    }
+   ]
+  },
+  {
+   "title": "豆包当客服翻车，好笑在哪",
+   "verdict": "今天就能做",
+   "why": "让豆包当客服，结果哭笑不得；2.2万粉的号单条173.6万播放",
+   "comment": "观众想看的是AI在真实场景里怎么出洋相。懂行的会说这是提示词和场景没配好，不是模型太差。唱反调的会说这只是个梗，所以最好让看完的人能带走一个怎么避坑的判断。",
+   "next_step": "用客服对话录屏，画AI为什么会一本正经答错",
+   "risk": "对话要用自己实测，别搬别人录屏",
+   "grade": "S",
+   "audience": "C AI",
+   "refs": [
+    "V6"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "豆包当客服翻车",
+     "label": "新起",
+     "thread_id": 7
+    }
+   ]
+  },
+  {
+   "title": "铁门装脚踏板，车一压门就开",
+   "verdict": "值得做",
+   "why": "车轮一压铁门自己开，机关简单却没人讲清；1.2万粉号单条89.8万播放",
+   "comment": "普通人会问：没电也能开吗，下雨冰雪会不会卡？懂行的会说就是机械联动。唱反调的会说这种装置不一定适合家里，别讲成人人都能装。",
+   "next_step": "拍实物或搭小模型，画踏板到门栓的传动过程",
+   "risk": "原视频装置是否真实要核实",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V7"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "汽车压脚踏板就开铁门",
+     "label": "观察",
+     "thread_id": 8
+    }
+   ]
+  },
+  {
+   "title": "墙上插座里面到底长啥样",
+   "verdict": "值得做",
+   "why": "家家都有插座，没几个人见过里面；4748粉的号单条237.8万播放",
+   "comment": "这题人人都见过，转给家里人也方便。懂行的会挑三维动画里的细节，所以尽量用真插座对照着讲。唱反调的会说这类内容国外做得多，要加上国内插座的样子。",
+   "next_step": "拆一个真插座实拍，再画电流从孔到线的路径",
+   "risk": "拆插座要先断电，别误导观众",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V8"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "墙上插座里面怎么工作",
+     "label": "观察",
+     "thread_id": 9
+    }
+   ]
+  },
+  {
+   "title": "旋转剪影能用意念反转？",
+   "verdict": "值得做",
+   "why": "同一个剪影能看成两个方向转；3029粉号单条112.3万播放",
+   "comment": "评论区在比谁先看反，互动感强，观众能自己上手试。懂行的会说这是视觉错觉，没什么玄学。唱反调的会说这图很老了，要靠讲清楚为什么能反转来拉开差距。",
+   "next_step": "录原图，画两种转向，教观众怎么切换",
+   "risk": "别讲成测人格，说法要站得住",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V4"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "旋转剪影能用意念反转",
+     "label": "观察",
+     "thread_id": 5
+    }
+   ]
+  },
+  {
+   "title": "特斯拉飞行跑车怎么飞起来",
+   "verdict": "值得做",
+   "why": "6个账号在讲它怎么飞，国内B站还没人讲清原理",
+   "comment": "普通人会问：这车到底能不能真飞上天？懂行的会拆推进器的推力够不够。唱反调的会说现在还停在概念阶段，所以话要讲稳，别说成已经能买。",
+   "next_step": "用官方发布画面，画推进器推力与车重的对比",
+   "risk": "能否量产、真飞要核实",
+   "grade": "A",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V0"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "特斯拉跑车真的会飞",
+     "label": "观察",
+     "thread_id": 1
+    }
+   ]
+  },
+  {
+   "title": "隐鱼住进海参体内",
+   "verdict": "先观察",
+   "why": "鲸鱼身上有藤壶，海参肚子里住着鱼；878粉号单条314.5万播放",
+   "comment": "观众会问：鱼为什么敢住进去，海参不难受吗？懂行的会说这是共生还是寄生要分清。唱反调的会说原视频靠猎奇标题，我们要讲清原理，别学标题。",
+   "next_step": "找海洋纪录片真画面，画隐鱼进出海参的路线",
+   "risk": "近7天同类视频变少，热度在降",
+   "grade": "B",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V3"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "隐鱼住进海参体内",
+     "label": "观察",
+     "thread_id": 4
+    }
+   ]
+  },
+  {
+   "title": "Claude Code翻出已删照片",
+   "verdict": "先观察",
+   "why": "用户称永久删除的近四年照片，仍留在iPhone里",
+   "comment": "普通人最关心：我删掉的东西到底有没有真删？懂行的会说要看具体存在哪个位置。唱反调的会说一个人的说法不能当结论，必须自己验证过再讲。",
+   "next_step": "拿自己旧手机演示，讲删除后文件为何还在",
+   "risk": "只是单个用户说法，要自己复现",
+   "grade": "C",
+   "audience": "C AI",
+   "refs": [
+    "X4"
+   ],
+   "links": [
+    {
+     "section": "x",
+     "name": "Claude Code翻出已删照片",
+     "label": "热议",
+     "thread_id": 14
+    }
+   ]
+  }
+ ],
+ "sections": {
+  "hotwords": [
+   {
+    "word": "大肥鱼为什么突然火了",
+    "platform": "B站热搜",
+    "rank": 24,
+    "url": "https://search.bilibili.com/all?keyword=大肥鱼为什么突然火了"
+   },
+   {
+    "word": "七旬大爷用手回收火箭",
+    "platform": "B站热搜",
+    "rank": 40,
+    "url": "https://search.bilibili.com/all?keyword=七旬大爷用手回收火箭"
+   },
+   {
+    "word": "AI大肥鱼自主运营B站",
+    "platform": "B站热搜",
+    "rank": 41,
+    "url": "https://search.bilibili.com/all?keyword=AI大肥鱼自主运营B站"
+   },
+   {
+    "word": "iPhone Duo能否撕掉磨砂膜",
+    "platform": "B站热搜",
+    "rank": 42,
+    "url": "https://search.bilibili.com/all?keyword=iPhone Duo能否撕掉磨砂膜"
+   },
+   {
+    "word": "火箭险胜老鹰豪取三连胜",
+    "platform": "抖音热榜",
+    "rank": 10,
+    "url": "https://www.douyin.com/search/火箭险胜老鹰豪取三连胜"
+   },
+   {
+    "word": "iPhone Duo被吐槽“公摊面积”过大",
+    "platform": "抖音热榜",
+    "rank": 29,
+    "url": "https://www.douyin.com/search/iPhone Duo被吐槽“公摊面积”过大"
+   }
+  ],
+  "video": [
+   {
+    "name": "特斯拉跑车真的会飞",
+    "kind": "A 新闻怎么做到",
+    "summary": "海外多个账号同时在讲特斯拉飞行跑车，有人专门拆解推进器怎么让车飞起来，也有人拿它和中国的飞行汽车对比。国内 B 站还没有人把原理讲清楚。",
+    "ai_relevance": 75,
+    "bili_term": "",
+    "youtube_term": "Tesla Roadster flying thrusters",
+    "metrics": {
+     "videos": 6,
+     "authors": 6,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 4700469,
+     "views_max": 1003739,
+     "vph_max": 7663.3,
+     "likes_total": 0,
+     "max_vsr": 1.4,
+     "outlier": {
+      "views": 919950,
+      "followers": 658000,
+      "title": "So… We Have Flying Cars Now"
+     },
+     "earliest": 1792397302.7010312,
+     "median_age_h": 144.0
+    },
+    "samples": [
+     {
+      "title": "Teknologi Gila di Balik Mobil Terbang Tesla!",
+      "url": "https://www.youtube.com/watch?v=IkE814emQM4",
+      "thumb": "https://i.ytimg.com/vi/IkE814emQM4/hqdefault.jpg",
+      "author": "Fajrul Fx",
+      "platform": "YouTube",
+      "duration": 962,
+      "vertical": false,
+      "views": 1003739,
+      "likes": null,
+      "followers": 1420000,
+      "vsr": 0.71,
+      "vph": 6968.1,
+      "age_h": 144.0,
+      "published": "10-19 16:08"
+     },
+     {
+      "title": "So… We Have Flying Cars Now",
+      "url": "https://www.youtube.com/watch?v=Re_XzmOiX-g",
+      "thumb": "https://i.ytimg.com/vi/Re_XzmOiX-g/hqdefault.jpg",
+      "author": "SAMTIME",
+      "platform": "YouTube",
+      "duration": 196,
+      "vertical": false,
+      "views": 919950,
+      "likes": null,
+      "followers": 658000,
+      "vsr": 1.4,
+      "vph": 7663.3,
+      "age_h": 120.0,
+      "published": "10-20 16:08"
+     },
+     {
+      "title": "TESLA ROADSTER: How could it FLY? 🚀 FULL explanation: how its thrusters work",
+      "url": "https://www.youtube.com/watch?v=sOvW10Qex6s",
+      "thumb": "https://i.ytimg.com/vi/sOvW10Qex6s/hqdefault.jpg",
+      "author": "Florida News",
+      "platform": "YouTube",
+      "duration": 1314,
+      "vertical": false,
+      "views": 806702,
+      "likes": null,
+      "followers": null,
+      "vsr": null,
+      "vph": 5600.3,
+      "age_h": 144.0,
+      "published": "10-19 16:08"
+     },
+     {
+      "title": "A Tesla revelou o PRIMEIRO CARRO VOADOR do mundo!",
+      "url": "https://www.youtube.com/watch?v=4QiJq5UOfN4",
+      "thumb": "https://i.ytimg.com/vi/4QiJq5UOfN4/hqdefault.jpg",
+      "author": "carwow Brasil",
+      "platform": "YouTube",
+      "duration": 482,
+      "vertical": false,
+      "views": 713525,
+      "likes": null,
+      "followers": null,
+      "vsr": null,
+      "vph": 4953.4,
+      "age_h": 144.0,
+      "published": "10-19 16:08"
+     },
+     {
+      "title": "Global Mockery of the Flying Tesla.. Will It Succeed? - AJ+",
+      "url": "https://www.youtube.com/watch?v=9rqSyllmShA",
+      "thumb": "https://i.ytimg.com/vi/9rqSyllmShA/hqdefault.jpg",
+      "author": "AlJazeera Arabic  قناة الجزيرة",
+      "platform": "YouTube",
+      "duration": 258,
+      "vertical": false,
+      "views": 711429,
+      "likes": null,
+      "followers": null,
+      "vsr": null,
+      "vph": 4938.9,
+      "age_h": 144.0,
+      "published": "10-19 16:08"
+     },
+     {
+      "title": "China’s Flying Car Just Embarrassed Tesla’s $250,000 Roadster — Here’s How",
+      "url": "https://www.youtube.com/watch?v=8DDnsrzm2EI",
+      "thumb": "https://i.ytimg.com/vi/8DDnsrzm2EI/hqdefault.jpg",
+      "author": "Mukunda Nl",
+      "platform": "YouTube",
+      "duration": 809,
+      "vertical": false,
+      "views": 545124,
+      "likes": null,
+      "followers": null,
+      "vsr": null,
+      "vph": 3784.4,
+      "age_h": 144.0,
+      "published": "10-19 16:08"
+     }
+    ],
+    "member_ids": [
+     "youtube:IkE814emQM4",
+     "youtube:Re_XzmOiX-g",
+     "youtube:sOvW10Qex6s",
+     "youtube:4QiJq5UOfN4",
+     "youtube:9rqSyllmShA",
+     "youtube:8DDnsrzm2EI"
+    ],
+    "weight": 115.9,
+    "probe_youtube": {
+     "year_n": 20,
+     "match": 2,
+     "match_recent": 2,
+     "oldest_match_days": 9,
+     "samples": [
+      {
+       "title": "Tesla Unveils 'Flying' Roadster with SpaceX Thrusters",
+       "url": "https://www.youtube.com/watch?v=eqOfmtTJD1A",
+       "views": 6920273,
+       "published": "9 days ago"
+      },
+      {
+       "title": "Elon Musk unveils Tesla's flying Roadster with SpaceX thrusters",
+       "url": "https://www.youtube.com/watch?v=E2DBkmayoxM",
+       "views": 26592,
+       "published": "8 days ago"
+      }
+     ],
+     "term": "Tesla Roadster flying thrusters"
+    },
+    "label": "观察",
+    "basis": [
+     "YouTube 搜「Tesla Roadster flying thrusters」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "6 个不同账号在做"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 1,
+    "days_seen": 1
+   },
+   {
+    "name": "睡觉时大脑在忙什么",
+    "kind": "B 身边反常原理",
+    "summary": "抖音在讲睡着后大脑到底在做什么，TikTok 在问人如果不用睡觉或睡很久会怎样。大家都想弄明白睡眠这件天天发生的事。",
+    "ai_relevance": 55,
+    "bili_term": "",
+    "youtube_term": "what happens to your brain when you sleep",
+    "metrics": {
+     "videos": 3,
+     "authors": 2,
+     "platforms": [
+      "TikTok",
+      "抖音"
+     ],
+     "views_total": 1015465,
+     "views_max": 756635,
+     "vph_max": 43138.3,
+     "likes_total": 122076,
+     "max_vsr": 14.8,
+     "outlier": {
+      "views": 756635,
+      "followers": 51133,
+      "title": "What If You Didn’t Need Sleep? #pov #Science #whatif"
+     },
+     "earliest": 1792656649.0,
+     "median_age_h": 37.2
+    },
+    "samples": [
+     {
+      "title": "What If You Didn’t Need Sleep? #pov #Science #whatif",
+      "url": "https://www.tiktok.com/@reality.simulated/video/7699939316566363422",
+      "thumb": "img/38ce1ea5d3a36d86.jpg",
+      "author": "RealitySimulated",
+      "platform": "TikTok",
+      "duration": 61,
+      "vertical": true,
+      "views": 756635,
+      "likes": 114082,
+      "followers": 51133,
+      "vsr": 14.8,
+      "vph": 20323.5,
+      "age_h": 37.2,
+      "published": "10-24 02:57"
+     },
+     {
+      "title": "What If You Slept For 100 Years? #pov #Science #whatif",
+      "url": "https://www.tiktok.com/@reality.simulated/video/7700434292702235935",
+      "thumb": "img/0fbb1314481e98de.jpg",
+      "author": "RealitySimulated",
+      "platform": "TikTok",
+      "duration": 61,
+      "vertical": true,
+      "views": 258830,
+      "likes": 24578,
+      "followers": 51133,
+      "vsr": 5.06,
+      "vph": 43138.3,
+      "age_h": 5.2,
+      "published": "10-25 10:58"
+     },
+     {
+      "title": "睡觉时大脑究竟在忙啥？长期睡眠不足有多可怕！ #睡觉 #大脑 #熬夜的危害 #科普 #涨知识",
+      "url": "https://www.douyin.com/video/7699401660115815690",
+      "thumb": "img/6a87eedf8cda86b4.jpg",
+      "author": "星尘解码",
+      "platform": "抖音",
+      "duration": 290,
+      "vertical": true,
+      "views": null,
+      "likes": 122076,
+      "followers": 360721,
+      "vsr": null,
+      "vph": null,
+      "age_h": 72.0,
+      "published": "10-22 16:10"
+     }
+    ],
+    "member_ids": [
+     "tiktok:7699939316566363422",
+     "tiktok:7700434292702235935",
+     "douyin:7699401660115815690"
+    ],
+    "weight": 58.2,
+    "probe_youtube": {
+     "year_n": 20,
+     "match": 4,
+     "match_recent": 0,
+     "oldest_match_days": 330,
+     "samples": [
+      {
+       "title": "What Happens Inside Your Brain When You Sleep",
+       "url": "https://www.youtube.com/watch?v=jnLav69wq0I",
+       "views": 22323,
+       "published": "11 months ago"
+      },
+      {
+       "title": "What Happens to Your Brain When You Don’t Sleep? | Sleep Science by Dr. Sweta Adatia",
+       "url": "https://www.youtube.com/watch?v=_PyB9jeSYNs",
+       "views": 72484,
+       "published": "11 months ago"
+      },
+      {
+       "title": "What Happens to Your Brain When You Sleep? 🧠",
+       "url": "https://www.youtube.com/watch?v=bevEC6YLCwA",
+       "views": 2836,
+       "published": "2 weeks ago"
+      }
+     ],
+     "term": "what happens to your brain when you sleep"
+    },
+    "label": "持续",
+    "basis": [
+     "YouTube 搜「what happens to your brain when you sleep」：今年的相关视频里 4 条标题对得上，其中 0 条是最近 10 天发的，最早的是 330 天前",
+     "有小号爆了：5.1万 粉的号单条 75.7万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 2,
+    "days_seen": 1
+   },
+   {
+    "name": "人形机器人当保镖",
+    "kind": "A 新闻怎么做到",
+    "summary": "一边是中国保镖机器人会主动扑到车底下，一边是宇树的功夫守卫机器人。观众好奇它们到底怎么做到这些动作。",
+    "ai_relevance": 60,
+    "bili_term": "",
+    "youtube_term": "humanoid bodyguard robot Unitree H2",
+    "metrics": {
+     "videos": 2,
+     "authors": 2,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 1584992,
+     "views_max": 1387977,
+     "vph_max": 19264.8,
+     "likes_total": 0,
+     "max_vsr": 0.6,
+     "outlier": {
+      "views": 1387977,
+      "followers": 2330000,
+      "title": "Unitree Introducing: H2-X Kung Fu Legend Guardian"
+     },
+     "earliest": 1792656500.6304452,
+     "median_age_h": 60.0
+    },
+    "samples": [
+     {
+      "title": "Unitree Introducing: H2-X Kung Fu Legend Guardian",
+      "url": "https://www.youtube.com/watch?v=Y3zb4o47yqA",
+      "thumb": "https://i.ytimg.com/vi/Y3zb4o47yqA/hqdefault.jpg",
+      "author": "Unitree Robotics",
+      "platform": "YouTube",
+      "duration": 61,
+      "vertical": false,
+      "views": 1387977,
+      "likes": null,
+      "followers": 2330000,
+      "vsr": 0.6,
+      "vph": 19264.8,
+      "age_h": 72.0,
+      "published": "10-22 16:08"
+     },
+     {
+      "title": "Watch Insane New Chinese Bodyguard Robot Footage: Will Throw Itself Under a Car to Save Your Life",
+      "url": "https://www.youtube.com/watch?v=hVh7uNA1hMo",
+      "thumb": "https://i.ytimg.com/vi/hVh7uNA1hMo/hqdefault.jpg",
+      "author": "New York Post",
+      "platform": "YouTube",
+      "duration": 76,
+      "vertical": false,
+      "views": 197015,
+      "likes": null,
+      "followers": null,
+      "vsr": null,
+      "vph": 4100.4,
+      "age_h": 48.0,
+      "published": "10-23 16:08"
+     }
+    ],
+    "member_ids": [
+     "youtube:Y3zb4o47yqA",
+     "youtube:hVh7uNA1hMo"
+    ],
+    "weight": 44.5,
+    "probe_youtube": {
+     "year_n": 20,
+     "match": 0,
+     "match_recent": 0,
+     "oldest_match_days": null,
+     "samples": [],
+     "term": "humanoid bodyguard robot Unitree H2"
+    },
+    "label": "观察",
+    "basis": [
+     "YouTube 搜「humanoid bodyguard robot Unitree H2」：今年的相关视频里标题对得上的不到 3 条，看不出新旧"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 3,
+    "days_seen": 1
+   },
+   {
+    "name": "隐鱼住进海参体内",
+    "kind": "B 身边反常原理",
+    "summary": "藤壶住在鲸鱼身上，隐鱼住进海参体内，动物的寄居方式怪得让人想看。这条视频出自小号，播放量远超粉丝数。",
+    "ai_relevance": 75,
+    "bili_term": "隐鱼",
+    "youtube_term": "pearlfish living inside sea cucumber",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 3144648,
+     "views_max": 3144648,
+     "vph_max": 25439.5,
+     "likes_total": 0,
+     "max_vsr": 3144.65,
+     "outlier": {
+      "views": 3144648,
+      "followers": 878,
+      "title": "藤壶：鲸鱼是我家，身上顶呱呱，隐鱼：海参是我家，就爱探菊花"
+     },
+     "earliest": 1792470865.0,
+     "median_age_h": 123.6
+    },
+    "samples": [
+     {
+      "title": "藤壶：鲸鱼是我家，身上顶呱呱，隐鱼：海参是我家，就爱探菊花",
+      "url": "https://www.bilibili.com/video/BV1c5nF6xEDs",
+      "thumb": "https://i0.hdslb.com/bfs/archive/3a5ecfe056c96024144e650875c9bf43ee8f658f.jpg",
+      "author": "奇葩科普",
+      "platform": "B站",
+      "duration": 46,
+      "vertical": false,
+      "views": 3144648,
+      "likes": 15725,
+      "followers": 878,
+      "vsr": 3144.65,
+      "vph": 25439.5,
+      "age_h": 123.6,
+      "published": "10-20 12:34"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1c5nF6xEDs"
+    ],
+    "weight": 25.2,
+    "probe_bili": {
+     "term": "隐鱼",
+     "recent_n": 1,
+     "before_n": 64,
+     "recent_match": 1,
+     "before_match": 1,
+     "recent_page": 1,
+     "before_page": 20,
+     "recent_per_day": 0.14,
+     "before_per_day": 1.21,
+     "capped": false,
+     "recent_top": [
+      3145421
+     ],
+     "before_top": [
+      2733
+     ],
+     "before_samples": [
+      {
+       "title": "海参肛门竟成了隐鱼的避难所，进去容易出来更绝。",
+       "bvid": "BV1uAaK67Ego",
+       "play": 2733,
+       "pubdate": 1790249050
+      }
+     ],
+     "ratio": 0.24
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「隐鱼」：近 7 天日均条数只有之前的 0.24 倍",
+     "有小号爆了：878 粉的号单条 314.5万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 4,
+    "days_seen": 1
+   },
+   {
+    "name": "旋转剪影能用意念反转",
+    "kind": "B 身边反常原理",
+    "summary": "一个旋转的图像，能让人靠意念让它反方向转。这条视频出自小号，播放量远超粉丝数，评论区在比谁先看反。",
+    "ai_relevance": 60,
+    "bili_term": "",
+    "youtube_term": "spinning dancer illusion reverse spin",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "TikTok"
+     ],
+     "views_total": 1123255,
+     "views_max": 1123255,
+     "vph_max": 83419.5,
+     "likes_total": 0,
+     "max_vsr": 370.83,
+     "outlier": {
+      "views": 1123255,
+      "followers": 3029,
+      "title": "Can you reverse the spin with your mind? Comment how long it took you to do it. #Science #fyp #opticalillusion #scienceexperiments"
+     },
+     "earliest": 1792867397.0,
+     "median_age_h": 13.5
+    },
+    "samples": [
+     {
+      "title": "Can you reverse the spin with your mind? Comment how long it took you to do it. #Science #fyp #opticalillusion #scienceexperiments",
+      "url": "https://www.tiktok.com/@jjj736128/video/7700306770081746207",
+      "thumb": "img/29869e893dd25afb.jpg",
+      "author": "jjj",
+      "platform": "TikTok",
+      "duration": 16,
+      "vertical": true,
+      "views": 1123255,
+      "likes": 32132,
+      "followers": 3029,
+      "vsr": 370.83,
+      "vph": 83419.5,
+      "age_h": 13.5,
+      "published": "10-25 02:43"
+     }
+    ],
+    "member_ids": [
+     "tiktok:7700306770081746207"
+    ],
+    "weight": 25.0,
+    "probe_youtube": {
+     "year_n": 20,
+     "match": 0,
+     "match_recent": 0,
+     "oldest_match_days": null,
+     "samples": [],
+     "term": "spinning dancer illusion reverse spin"
+    },
+    "label": "观察",
+    "basis": [
+     "YouTube 搜「spinning dancer illusion reverse spin」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "有小号爆了：3029 粉的号单条 112.3万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 5,
+    "days_seen": 1
+   },
+   {
+    "name": "美国消防员为何提水灭火",
+    "kind": "A 新闻怎么做到",
+    "summary": "大家以为消防员只会接消防栓喷水，美国消防员却还在提水灭火，反差很大。点赞高，播放量也远超粉丝数。",
+    "ai_relevance": 70,
+    "bili_term": "提水灭火",
+    "youtube_term": "why American firefighters carry water",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1624967,
+     "views_max": 1624967,
+     "vph_max": 13985.8,
+     "likes_total": 0,
+     "max_vsr": 143.17,
+     "outlier": {
+      "views": 1624967,
+      "followers": 11350,
+      "title": "为啥美国消防员还在提水灭火？"
+     },
+     "earliest": 1792497600.0,
+     "median_age_h": 116.2
+    },
+    "samples": [
+     {
+      "title": "为啥美国消防员还在提水灭火？",
+      "url": "https://www.bilibili.com/video/BV1Rsnn6uE2N",
+      "thumb": "https://i0.hdslb.com/bfs/archive/63670ead6c8cff2fd0d275ee9fdcba5cc8a8e358.jpg",
+      "author": "三毛看世界",
+      "platform": "B站",
+      "duration": 73,
+      "vertical": false,
+      "views": 1624967,
+      "likes": 22454,
+      "followers": 11350,
+      "vsr": 143.17,
+      "vph": 13985.8,
+      "age_h": 116.2,
+      "published": "10-20 20:00"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1Rsnn6uE2N"
+    ],
+    "weight": 24.0,
+    "probe_bili": {
+     "term": "提水灭火",
+     "recent_n": 9,
+     "before_n": 10,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 9,
+     "before_page": 10,
+     "recent_per_day": 1.29,
+     "before_per_day": 0.19,
+     "capped": false,
+     "recent_top": [
+      1625340
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 3.82
+    },
+    "label": "新起",
+    "basis": [
+     "B站搜「提水灭火」：近 7 天 9 条，之前 53 天只有 10 条",
+     "有小号爆了：1.1万 粉的号单条 162.5万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 6,
+    "days_seen": 1
+   },
+   {
+    "name": "豆包当客服翻车",
+    "kind": "C AI 离谱事或能用的招",
+    "summary": "让豆包来当客服，结果让人哭笑不得，点赞很高。观众看的是 AI 在真实场景里离谱的表现。",
+    "ai_relevance": 65,
+    "bili_term": "豆包当客服",
+    "youtube_term": "",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1736288,
+     "views_max": 1736288,
+     "vph_max": 14691.1,
+     "likes_total": 0,
+     "max_vsr": 79.02,
+     "outlier": {
+      "views": 1736288,
+      "followers": 21972,
+      "title": "招豆包当客服也是没救了"
+     },
+     "earliest": 1792490400.0,
+     "median_age_h": 118.2
+    },
+    "samples": [
+     {
+      "title": "招豆包当客服也是没救了",
+      "url": "https://www.bilibili.com/video/BV1UznF6MEop",
+      "thumb": "https://i0.hdslb.com/bfs/archive/c851fcc5a908c6ac9af17a7c11956be0640792a7.jpg",
+      "author": "王高兴A",
+      "platform": "B站",
+      "duration": 253,
+      "vertical": false,
+      "views": 1736288,
+      "likes": 131311,
+      "followers": 21972,
+      "vsr": 79.02,
+      "vph": 14691.1,
+      "age_h": 118.2,
+      "published": "10-20 18:00"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1UznF6MEop"
+    ],
+    "weight": 23.7,
+    "probe_bili": {
+     "term": "豆包当客服",
+     "recent_n": 8,
+     "before_n": 11,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 8,
+     "before_page": 11,
+     "recent_per_day": 1.14,
+     "before_per_day": 0.21,
+     "capped": false,
+     "recent_top": [
+      1738181
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 3.27
+    },
+    "label": "新起",
+    "basis": [
+     "B站搜「豆包当客服」：近 7 天 8 条，之前 53 天只有 11 条",
+     "有小号爆了：2.2万 粉的号单条 173.6万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 7,
+    "days_seen": 1
+   },
+   {
+    "name": "汽车压脚踏板就开铁门",
+    "kind": "B 身边反常原理",
+    "summary": "铁门装个脚踏板，车轮一压门就自己开了，机关看着简单却没人讲清楚。点赞高，播放量也远超粉丝数。",
+    "ai_relevance": 75,
+    "bili_term": "脚踏板",
+    "youtube_term": "gate opens when car drives over pedal mechanism",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 898320,
+     "views_max": 898320,
+     "vph_max": 15708.6,
+     "likes_total": 0,
+     "max_vsr": 75.57,
+     "outlier": {
+      "views": 898320,
+      "followers": 11887,
+      "title": "给铁门安个脚踏板，汽车一压就能开门"
+     },
+     "earliest": 1792710000.0,
+     "median_age_h": 57.2
+    },
+    "samples": [
+     {
+      "title": "给铁门安个脚踏板，汽车一压就能开门",
+      "url": "https://www.bilibili.com/video/BV1A7nm6fEeJ",
+      "thumb": "https://i1.hdslb.com/bfs/archive/2f8f345850c030f8860202a0d5e931a9601eae31.jpg",
+      "author": "龙哥聊跨境商标专利",
+      "platform": "B站",
+      "duration": 80,
+      "vertical": false,
+      "views": 898320,
+      "likes": 15145,
+      "followers": 11887,
+      "vsr": 75.57,
+      "vph": 15708.6,
+      "age_h": 57.2,
+      "published": "10-23 07:00"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1A7nm6fEeJ"
+    ],
+    "weight": 23.6,
+    "probe_bili": {
+     "term": "脚踏板",
+     "recent_n": 15,
+     "before_n": 112,
+     "recent_match": 3,
+     "before_match": 3,
+     "recent_page": 15,
+     "before_page": 20,
+     "recent_per_day": 2.14,
+     "before_per_day": 2.11,
+     "capped": false,
+     "recent_top": [
+      899190,
+      482819,
+      16786
+     ],
+     "before_top": [
+      64660,
+      33230,
+      17245
+     ],
+     "before_samples": [
+      {
+       "title": "光明网批评尊界没有直面问题，一边说刹车踏板静态可以扛3000牛超出国标两倍，一边又说升级脚踏板。没有问题为什么还要升级？之前还说百万分之一使用场景都要提前预料？",
+       "bvid": "BV1XAJC6ZEYj",
+       "play": 64660,
+       "pubdate": 1792038033
+      },
+      {
+       "title": "咱们去踩一踩奔驰五菱宏光的脚踏板。",
+       "bvid": "BV1GVpo6gEV5",
+       "play": 33230,
+       "pubdate": 1791807693
+      },
+      {
+       "title": "特斯拉无人车Cybercab 无方向盘：完全无物理操控，没有方向盘和脚踏板",
+       "bvid": "BV1ghtz6YEwP",
+       "play": 17245,
+       "pubdate": 1788513003
+      }
+     ],
+     "ratio": 1.01
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「脚踏板」：之前 53 天播放最高的 20 条里 3 条标题带这个词，近 7 天是 3 条",
+     "有小号爆了：1.2万 粉的号单条 89.8万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 8,
+    "days_seen": 1
+   },
+   {
+    "name": "墙上插座里面怎么工作",
+    "kind": "B 身边反常原理",
+    "summary": "家家都有插座，里面的结构却没几个人见过，三维动画一拆就看明白。点赞很高，播放量远超粉丝数。",
+    "ai_relevance": 80,
+    "bili_term": "",
+    "youtube_term": "how electrical outlets work",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "TikTok"
+     ],
+     "views_total": 2377948,
+     "views_max": 2377948,
+     "vph_max": 17337.3,
+     "likes_total": 0,
+     "max_vsr": 500.83,
+     "outlier": {
+      "views": 2377948,
+      "followers": 4748,
+      "title": "How Electrical Outlets Work 🤔 #zackdfilms #3danimations #animation"
+     },
+     "earliest": 1792422102.0,
+     "median_age_h": 137.2
+    },
+    "samples": [
+     {
+      "title": "How Electrical Outlets Work 🤔 #zackdfilms #3danimations #animation",
+      "url": "https://www.tiktok.com/@daddy.d.films/video/7698394284390632726",
+      "thumb": "img/039b24474ed2250b.jpg",
+      "author": "Gorilla D. Films",
+      "platform": "TikTok",
+      "duration": 19,
+      "vertical": true,
+      "views": 2377948,
+      "likes": 155518,
+      "followers": 4748,
+      "vsr": 500.83,
+      "vph": 17337.3,
+      "age_h": 137.2,
+      "published": "10-19 23:01"
+     }
+    ],
+    "member_ids": [
+     "tiktok:7698394284390632726"
+    ],
+    "weight": 22.0,
+    "probe_youtube": {
+     "year_n": 20,
+     "match": 1,
+     "match_recent": 1,
+     "oldest_match_days": 2,
+     "samples": [
+      {
+       "title": "How do electrical outlets work 🤔 ",
+       "url": "https://www.youtube.com/watch?v=_-v1IGqQfwY",
+       "views": 8,
+       "published": "2 days ago"
+      }
+     ],
+     "term": "how electrical outlets work"
+    },
+    "label": "观察",
+    "basis": [
+     "YouTube 搜「how electrical outlets work」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "有小号爆了：4748 粉的号单条 237.8万 播放"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 9,
+    "days_seen": 1
+   }
+  ],
+  "x": [
+   {
+    "name": "逆向三星电视被OpenAI封号",
+    "kind": "热点事件",
+    "lane": "行业新闻",
+    "summary": "一名用户因为三星新电视总推精准广告，用 AI 编程工具去逆向分析电视，结果被 OpenAI 封号。网友吐槽，连拆自己家电视防监听都不让。",
+    "entity": "三星电视 逆向 OpenAI封号",
+    "value": 45,
+    "metrics": {
+     "tweets": 4,
+     "authors": 4,
+     "views_total": 3021263,
+     "likes_total": 52151
+    },
+    "samples": [
+     {
+      "title": "banned for reverse engineering work? that’s wild\n\noh well, -$500, and a bunch of banked resets) but gained motivation to get 3 more machines and finish my cluster.\n\ni have never used openai to exploit or find vulnerabili",
+      "url": "https://x.com/log4j/status/2113647464154857840",
+      "thumb": "https://pbs.twimg.com/media/HVUvKXPXIAAlCxu.jpg",
+      "author": "log4j",
+      "handle": "log4j",
+      "followers": 13705,
+      "views": 1729390,
+      "likes": 11300,
+      "bookmarks": 2196,
+      "published": "10-23 23:03",
+      "lang": "en",
+      "links": [],
+      "media": {
+       "type": "photo",
+       "thumb": "https://pbs.twimg.com/media/HVUvKXPXIAAlCxu.jpg"
+      }
+     },
+     {
+      "title": "Person who is reverse engineering his tv gets banned from OpenAI\n\nYou aren't allowed to stop your tv from spying on your family. You have to ask for permission\n\nOr, maybe, maybe we accelerate",
+      "url": "https://x.com/yacineMTB/status/2113965724435697732",
+      "thumb": "",
+      "author": "kache",
+      "handle": "yacineMTB",
+      "followers": 412547,
+      "views": 703072,
+      "likes": 22846,
+      "bookmarks": 2635,
+      "published": "10-24 20:07",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Let me get this straight.\n\nA guy keeps getting weirdly targeted ads on his new Samsung TV.\n\nSo he breaks into his own TV to find out why. 1.2M people watch.\n\n42 hours later, OpenAI deactivates his account. Reason: \"Cyber",
+      "url": "https://x.com/sairahul1/status/2114038005795291637",
+      "thumb": "https://pbs.twimg.com/media/HVaSWy5a0AA2oNg.jpg",
+      "author": "Rahul",
+      "handle": "sairahul1",
+      "followers": 149761,
+      "views": 459825,
+      "likes": 11911,
+      "bookmarks": 2284,
+      "published": "10-25 00:55",
+      "lang": "en",
+      "links": [],
+      "media": {
+       "type": "photo",
+       "thumb": "https://pbs.twimg.com/media/HVaSWy5a0AA2oNg.jpg"
+      }
+     },
+     {
+      "title": "Man uses Astra to find a C.IA backdoor into Samsung televisions.\n\nGets banned by OpenAI within 24 hours.",
+      "url": "https://x.com/cirnosad/status/2114196355925385551",
+      "thumb": "",
+      "author": "Korobochka (コロボ) 🇦🇺✝️🇷🇺",
+      "handle": "cirnosad",
+      "followers": 135151,
+      "views": 128976,
+      "likes": 6094,
+      "bookmarks": 1011,
+      "published": "10-25 11:24",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2113647464154857840",
+     "x:2113965724435697732",
+     "x:2114038005795291637",
+     "x:2114196355925385551"
+    ],
+    "breadth": {
+     "tweets": 18,
+     "authors": 18,
+     "views": 33189,
+     "span_hours": 24.7,
+     "page_full": true,
+     "term": "三星电视 逆向 OpenAI封号"
+    },
+    "label": "热议",
+    "basis": [
+     "4 条高互动推文，4 个账号，合计浏览 302.1万",
+     "X 上搜「三星电视 逆向 OpenAI封号」最新推文：18 条集中在 24.7 小时内，18 个账号"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 10,
+    "days_seen": 1
+   },
+   {
+    "name": "Claude限制REA逆向玩法",
+    "kind": "热点事件",
+    "lane": "工具与模型",
+    "summary": "REA（Reverse Engineer Anything）是让编程 Agent 去逆向分析软件的玩法，已经配套出了提示词库。但有用户反映 Claude 现在遇到这类请求会触发安全检查，网友因此在讨论本地模型的价值。",
+    "entity": "REA Reverse Engineer Anything",
+    "value": 45,
+    "metrics": {
+     "tweets": 5,
+     "authors": 5,
+     "views_total": 2101576,
+     "likes_total": 33601
+    },
+    "samples": [
+     {
+      "title": "anthropic just killed the REA \n\nit stops claude from doing it\n\nthat’s why local models are important https://t.co/KXXQWVdOxj",
+      "url": "https://x.com/AbhinavXJ/status/2113590263373508704",
+      "thumb": "https://pbs.twimg.com/media/HVT7I4haEAAJ8_M.jpg",
+      "author": "abhinav",
+      "handle": "AbhinavXJ",
+      "followers": 16062,
+      "views": 828146,
+      "likes": 11470,
+      "bookmarks": 2603,
+      "published": "10-23 19:16",
+      "lang": "en",
+      "links": [],
+      "media": {
+       "type": "photo",
+       "thumb": "https://pbs.twimg.com/media/HVT7I4haEAAJ8_M.jpg"
+      }
+     },
+     {
+      "title": "Claude can no longer “Reverse Engineer Anything.”\nAnthropic just quietly killed REA.\n\nBut Interesting timing.\n\nAfter a few viral cases of people using Claude to reverse-engineer Samsung TV firmware and identify data-coll",
+      "url": "https://x.com/0x0SojalSec/status/2113751276320399694",
+      "thumb": "https://pbs.twimg.com/media/HVWKysYbkAAz_Hp.jpg",
+      "author": "Md Ismail Šojal 🕷️",
+      "handle": "0x0SojalSec",
+      "followers": 63057,
+      "views": 818699,
+      "likes": 11988,
+      "bookmarks": 3617,
+      "published": "10-24 05:55",
+      "lang": "en",
+      "links": [],
+      "media": {
+       "type": "photo",
+       "thumb": "https://pbs.twimg.com/media/HVWKysYbkAAz_Hp.jpg"
+      }
+     },
+     {
+      "title": "Anthropic may have just klled REA.\n\nUsers are reporting that Claude now hits a safety check when asked to use REA (Reverse Engineer Anything) for detailed reverse-engineering work, even after completing the research.\n\nRE",
+      "url": "https://x.com/Pirat_Nation/status/2114069664875557083",
+      "thumb": "https://pbs.twimg.com/media/HVamVGFWcAArj4o.jpg",
+      "author": "Pirat_Nation 🔴",
+      "handle": "Pirat_Nation",
+      "followers": 369778,
+      "views": 284621,
+      "likes": 5188,
+      "bookmarks": 1101,
+      "published": "10-25 03:01",
+      "lang": "en",
+      "links": [],
+      "media": {
+       "type": "photo",
+       "thumb": "https://pbs.twimg.com/media/HVamVGFWcAArj4o.jpg"
+      }
+     },
+     {
+      "title": "STOP WASTING HOURS TRYING TO LEARN REA.\n\nREA Team put together one practical roadmap with tutorials, real investigations, GitHub repos, books, research papers and free courses.\n\nSTART HERE:\n\n1. REA Official Repository  h",
+      "url": "https://x.com/sammy_capital/status/2113733817596834151",
+      "thumb": "https://pbs.twimg.com/media/HVV755TW4AA8SQ2.jpg",
+      "author": "Sammy",
+      "handle": "sammy_capital",
+      "followers": 2755,
+      "views": 127168,
+      "likes": 3903,
+      "bookmarks": 6128,
+      "published": "10-24 04:46",
+      "lang": "en",
+      "links": [
+       "https://github.com/morluto/rea",
+       "https://rea.tools",
+       "https://github.com/morluto/rea/blob/main/docs/installation.md",
+       "https://rea.tools/first-investigation/",
+       "https://rea.tools/guides/"
+      ],
+      "media": {
+       "type": "photo",
+       "thumb": "https://pbs.twimg.com/media/HVV755TW4AA8SQ2.jpg"
+      }
+     },
+     {
+      "title": "上周那个 REA（Reverse Engineer Anything）火了之后，配套的提示词库也出来了。\n\n叫 REAP，GitHub 上线 5 天，1.7k star。\n\nREA 本身是让你的编程 Agent 去逆向分析软件的工具：给它一个程序，它能顺着功能往下扒，看一个按钮点下去到底发生了什么。\n\n这个仓库干的事很单纯，就是把「该怎么问」整理成了现成的提示词，复制粘贴，改掉尖括号里的占位符就能用。\n\n一共 17 个板块：功能追踪、二",
+      "url": "https://x.com/wlzh/status/2113814786702180373",
+      "thumb": "",
+      "author": "M.",
+      "handle": "wlzh",
+      "followers": 16371,
+      "views": 42942,
+      "likes": 1052,
+      "bookmarks": 1263,
+      "published": "10-24 10:08",
+      "lang": "zh",
+      "links": [
+       "https://github.com/JoasASantos/REA-Prompts"
+      ],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2113590263373508704",
+     "x:2113751276320399694",
+     "x:2114069664875557083",
+     "x:2113733817596834151",
+     "x:2113814786702180373"
+    ],
+    "breadth": {
+     "tweets": 17,
+     "authors": 16,
+     "views": 1208676,
+     "span_hours": 33.5,
+     "page_full": true,
+     "term": "REA Reverse Engineer Anything"
+    },
+    "label": "热议",
+    "basis": [
+     "5 条高互动推文，5 个账号，合计浏览 210.2万",
+     "X 上搜「REA Reverse Engineer Anything」最新推文：17 条集中在 33.5 小时内，16 个账号"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 11,
+    "days_seen": 1
+   },
+   {
+    "name": "Claude Code重磅人物离职",
+    "kind": "热点事件",
+    "lane": "创作者生态",
+    "summary": "Claude Code 的核心开发者 Thariq 宣布离开 Anthropic，另一位做桌面版 Claude Code 的员工也说昨天是最后一天。这些人被认为是 Anthropic 对外最有辨识度的面孔，离职引发关注。",
+    "entity": "Thariq Claude Code",
+    "value": 45,
+    "metrics": {
+     "tweets": 3,
+     "authors": 3,
+     "views_total": 5744697,
+     "likes_total": 38184
+    },
+    "samples": [
+     {
+      "title": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.\n\nI have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a ",
+      "url": "https://x.com/trq212/status/2113844051938054167",
+      "thumb": "",
+      "author": "Thariq",
+      "handle": "trq212",
+      "followers": 390623,
+      "views": 4799941,
+      "likes": 29181,
+      "bookmarks": 5942,
+      "published": "10-24 12:04",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Yesterday was my last day at Anthropic.\n \nI created Claude Code on desktop because I believe everyone can be a builder. Every feature request and bug report we got from this community was a gift that impacted millions of",
+      "url": "https://x.com/amorriscode/status/2113972174524674247",
+      "thumb": "",
+      "author": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "followers": 48004,
+      "views": 829744,
+      "likes": 8422,
+      "bookmarks": 1052,
+      "published": "10-24 20:33",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "传言是真的……Anthropic唯一拟人的员工，真的离开Anthropic了。\n\nClaude Code核心开发者Thariq（@trq212）刚刚宣布，自己已经从Anthropic离职。\n\n他在Anthropic工作了一年多，亲眼见证了Claude Code以超出自己想象的速度增长。接下来准备休息一段时间，再去做点新的事情。\n\n说实话，我还挺舍不得他的。\n\n如果你经常关注Claude Code，应该对他很熟悉。\n他算是Anthropi",
+      "url": "https://x.com/MaxForAI/status/2113849659861213568",
+      "thumb": "",
+      "author": "Max For AI",
+      "handle": "MaxForAI",
+      "followers": 44484,
+      "views": 115012,
+      "likes": 581,
+      "bookmarks": 188,
+      "published": "10-24 12:26",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2113844051938054167",
+     "x:2113972174524674247",
+     "x:2113849659861213568"
+    ],
+    "breadth": {
+     "tweets": 19,
+     "authors": 19,
+     "views": 4935744,
+     "span_hours": 27.7,
+     "page_full": true,
+     "term": "Thariq Claude Code"
+    },
+    "label": "热议",
+    "basis": [
+     "3 条高互动推文，3 个账号，合计浏览 574.5万",
+     "X 上搜「Thariq Claude Code」最新推文：19 条集中在 27.7 小时内，19 个账号"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 12,
+    "days_seen": 1
+   },
+   {
+    "name": "Grok Bot 玩法与翻车",
+    "kind": "玩法教程",
+    "lane": "工具与模型",
+    "summary": "Grok Bot 成了这几天 X 上的热门玩法，有人用它做自动化、组 AI 团队，也有人整理出能直接照着试的用法。同时也有翻车：一位用户让它订餐，结果被设成每四周自动续订而多扣钱，马斯克还给退了款；另有人提醒别把它的云端环境当本地硬盘，否则数据会一夜清零。",
+    "entity": "Grok Bot",
+    "value": 42,
+    "metrics": {
+     "tweets": 6,
+     "authors": 6,
+     "views_total": 1292662,
+     "likes_total": 6392
+    },
+    "samples": [
+     {
+      "title": "Elon has done it. Grok Bot is officially the best AI agent on the planet.\n\nHalf of these Bots would have taken a full engineering team months ago.\n\n🧵: 10 insane Grok Bot use cases (tag your @bot to install these).👇 https",
+      "url": "https://x.com/milesdeutscher/status/2113653680834859262",
+      "thumb": "https://pbs.twimg.com/media/HVU00lXaAAA6lX0.jpg",
+      "author": "Miles Deutscher",
+      "handle": "milesdeutscher",
+      "followers": 681577,
+      "views": 556940,
+      "likes": 3107,
+      "bookmarks": 4510,
+      "published": "10-23 23:28",
+      "lang": "en",
+      "links": [],
+      "media": {
+       "type": "photo",
+       "thumb": "https://pbs.twimg.com/media/HVU00lXaAAA6lX0.jpg"
+      }
+     },
+     {
+      "title": "这两天随口问了一句大家用 Grok Bot 做什么，没想到收到 180多条回复，挺意外的，也跟大家学到了很多，谢谢大家🙏\n\n我先让 Grok Bot 把所有的评论内容分好类，再从里面挑了 8 个，都是能直接照着试的。\n\n1、每天的 X 运营节奏交给它\n早上推选题和值得互动的热帖，晚上给一份当天复盘，周日还可以整理周报和下周计划。比我自己排得还勤快😂\n@Cedar3232 \n\n2、开车、午休时用语音聊\n上下文一直连着，聊完直接整理成文稿。",
+      "url": "https://x.com/shenpengwdh/status/2113602107412541650",
+      "thumb": "",
+      "author": "沈鹏",
+      "handle": "shenpengwdh",
+      "followers": 9198,
+      "views": 357691,
+      "likes": 754,
+      "bookmarks": 777,
+      "published": "10-23 20:03",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Grok Bot闯祸，用户直接找马斯克退钱，结果还真退了😂\n\n这哥们让Bot帮忙订一次餐，结果它给办成了每4周自动续订，多扣了£57，约75美元。找它对质，@bot 认错倒挺快：“是我的问题。”\n\n他翻出老马之前的承诺：“Grok Bot搞砸了，我们会赔偿。”直接上X讨钱。老马回了一个“Sure”，如今退款到账，他又专门发帖夸了一遍客服。\n\n75美元，把一次翻车变成了用户主动帮忙打广告。这可比演示一百遍“我们的AI绝不犯错”好使多了。",
+      "url": "https://x.com/alanchen/status/2113633157954273370",
+      "thumb": "https://pbs.twimg.com/media/HVUiJ8rbEAATAhH.jpg",
+      "author": "Alan Chen",
+      "handle": "alanchen",
+      "followers": 58293,
+      "views": 118863,
+      "likes": 461,
+      "bookmarks": 56,
+      "published": "10-23 22:06",
+      "lang": "zh",
+      "links": [],
+      "media": {
+       "type": "photo",
+       "thumb": "https://pbs.twimg.com/media/HVUiJ8rbEAATAhH.jpg"
+      }
+     },
+     {
+      "title": "⚠️ 提醒所有 Grok Bot 用户：千万别把它的云端环境当本地硬盘用！\n\n否则你就会像这位外国老哥一样，代码、数据、攒好的 Skills 一夜之间全部清零。\n\n原因是：Bot 的云电脑在 Reset、Recover、部分更新，或者磁盘满、迁移时，会从「上一次保存的快照」重建。聊天记录是单独存储的，不受影响；但快照之后产生的、还没被同步进快照的内容就可能消失。\n\n目前比较稳妥的做法：\n 1️⃣  重要工作不要只放在 Bot 电脑上，同",
+      "url": "https://x.com/alin_zone/status/2113995666401710320",
+      "thumb": "https://pbs.twimg.com/media/HVZr11jXEAAl_zg.jpg",
+      "author": "阿蔺A-Lin",
+      "handle": "alin_zone",
+      "followers": 11771,
+      "views": 113691,
+      "likes": 671,
+      "bookmarks": 1040,
+      "published": "10-24 22:06",
+      "lang": "zh",
+      "links": [],
+      "media": {
+       "type": "photo",
+       "thumb": "https://pbs.twimg.com/media/HVZr11jXEAAl_zg.jpg"
+      }
+     },
+     {
+      "title": "🎉 Grok @bot 启动！\n\n出差两周，终于到家了！提前买了 StackChan 机器人，我准备把 Grok Bot 刷入，感觉会非常有意思！ https://t.co/JrtJEywnmU",
+      "url": "https://x.com/cgnot996/status/2113602178464284908",
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113602108780163072/img/qmlKNRRKMjbNJmSu.jpg",
+      "author": "铁柱AGI",
+      "handle": "cgnot996",
+      "followers": 10330,
+      "views": 75941,
+      "likes": 627,
+      "bookmarks": 625,
+      "published": "10-23 20:03",
+      "lang": "zh",
+      "links": [],
+      "media": {
+       "type": "video",
+       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113602108780163072/img/qmlKNRRKMjbNJmSu.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2113602108780163072/vid/avc1/720x1280/Wq0dIhkzj4Y0NvHY.mp4?tag=29",
+       "aspect": 0.562
+      }
+     }
+    ],
+    "member_ids": [
+     "x:2113653680834859262",
+     "x:2113602107412541650",
+     "x:2113633157954273370",
+     "x:2113995666401710320",
+     "x:2113602178464284908",
+     "x:2113862965262962804"
+    ],
+    "breadth": {
+     "tweets": 12,
+     "authors": 11,
+     "views": 750465,
+     "span_hours": 32.8,
+     "page_full": true,
+     "term": "Grok Bot"
+    },
+    "label": "热议",
+    "basis": [
+     "6 条高互动推文，6 个账号，合计浏览 129.3万",
+     "X 上搜「Grok Bot」最新推文：36 小时内 12 条，11 个账号"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 13,
+    "days_seen": 1
+   },
+   {
+    "name": "Claude Code翻出已删照片",
+    "kind": "玩法教程",
+    "lane": "工具与模型",
+    "summary": "一位用户让 Claude Code 去查自己的 iPhone，结果找出了近四年里“永久删除”的照片和视频其实还留在设备里。另有人用 Claude Code 折腾电视，让它更快更好看。",
+    "entity": "Claude Code",
+    "value": 40,
+    "metrics": {
+     "tweets": 2,
+     "authors": 2,
+     "views_total": 1845488,
+     "likes_total": 14812
+    },
+    "samples": [
+     {
+      "title": "J'ai vu passer tous ceux qui bricolent leur TV pour la rendre plus rapide et plus belle avec Claude Code.\n\nÇa tombait bien : ma TCL dans la chambre achetée 400€ il y a plusieurs années ramait tellement qu'on la regardait",
+      "url": "https://x.com/mazaki_eth/status/2113737610610831765",
+      "thumb": "https://pbs.twimg.com/media/HVV_WD1XoAAAQ2r.jpg",
+      "author": "Benjamin",
+      "handle": "mazaki_eth",
+      "followers": 1528,
+      "views": 1527904,
+      "likes": 10973,
+      "bookmarks": 8249,
+      "published": "10-24 05:01",
+      "lang": "fr",
+      "links": [],
+      "media": {
+       "type": "photo",
+       "thumb": "https://pbs.twimg.com/media/HVV_WD1XoAAAQ2r.jpg"
+      }
+     },
+     {
+      "title": "Claude Code found every photo i \"permanently deleted\" from my iPhone.\nalmost 4 years of photos and videos sitting in a hidden cache on my\ndevice. any app with file access can read them.\n\nplugged my iPhone into my MacBook",
+      "url": "https://x.com/Cranefomo/status/2114015154895499302",
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114015019302084608/img/4LsM6UMzoOYGV2eA.jpg",
+      "author": "Crane",
+      "handle": "Cranefomo",
+      "followers": 401,
+      "views": 317584,
+      "likes": 3839,
+      "bookmarks": 6270,
+      "published": "10-24 23:24",
+      "lang": "en",
+      "links": [],
+      "media": {
+       "type": "video",
+       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114015019302084608/img/4LsM6UMzoOYGV2eA.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2114015019302084608/vid/avc1/320x568/PJi6t8PbkR6ur_jg.mp4?tag=29",
+       "aspect": 0.563
+      }
+     }
+    ],
+    "member_ids": [
+     "x:2113737610610831765",
+     "x:2114015154895499302"
+    ],
+    "breadth": {
+     "tweets": 10,
+     "authors": 10,
+     "views": 741843,
+     "span_hours": 30.4,
+     "page_full": true,
+     "term": "Claude Code"
+    },
+    "label": "热议",
+    "basis": [
+     "2 条高互动推文，2 个账号，合计浏览 184.5万",
+     "X 上搜「Claude Code」最新推文：36 小时内 10 条，10 个账号"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 14,
+    "days_seen": 1
+   }
+  ],
+  "tools": {
+   "repos": [
+    {
+     "name": "alchaincyf/huashu-motion",
+     "url": "https://github.com/alchaincyf/huashu-motion",
+     "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+     "stars": 1614,
+     "stars_today": null,
+     "stars_per_day": 236.4,
+     "stars_gain_per_day": null,
+     "created": "2026-10-18",
+     "language": "JavaScript",
+     "from_trending": false,
+     "zh": "让编程 Agent 一键生成商业级产品宣传片，能作曲，还能指着画面修改。",
+     "use": "直接适合做视频：用 Claude Code 一键出产品宣传片，全流程演示。",
+     "group": "AI 视频与图像",
+     "value": 90
+    },
+    {
+     "name": "pbakaus/impeccable",
+     "url": "https://github.com/pbakaus/impeccable",
+     "desc": "The design language that makes your AI harness better at design.",
+     "stars": 86709,
+     "stars_today": 619,
+     "stars_per_day": 252.6,
+     "stars_gain_per_day": null,
+     "created": "2025-11-16",
+     "language": "Rust",
+     "from_trending": true,
+     "zh": "一套设计语言，让 AI 编程工具更会做设计、做出更好看的界面。",
+     "use": "做网页或落地页时让 Claude Code 出图更好看，适合做成教程。",
+     "group": "Agent 与编程",
+     "value": 70
+    },
+    {
+     "name": "OpenMOSS/MOSS-Image",
+     "url": "https://github.com/OpenMOSS/MOSS-Image",
+     "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+     "stars": 1776,
+     "stars_today": null,
+     "stars_per_day": 191.2,
+     "stars_gain_per_day": null,
+     "created": "2026-10-16",
+     "language": "Python",
+     "from_trending": false,
+     "zh": "开源 5B 参数图像模型，擅长文字渲染和版面生成，便于微调。",
+     "use": "可做中文海报、封面文字生成测评，文字渲染是看点。",
+     "group": "AI 视频与图像",
+     "value": 70
+    }
+   ],
+   "models": [
+    {
+     "name": "Lightricks/LTX-2.5",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5",
+     "kind": "model",
+     "likes": 9217,
+     "downloads": 2087721,
+     "created": "2026-07-23",
+     "tags": [
+      "diffusion-single-file",
+      "image-to-video",
+      "text-to-video",
+      "video-to-video",
+      "image-text-to-video",
+      "audio-to-video"
+     ],
+     "zh": "Lightricks 的 LTX-2.5 视频模型，支持文生视频、图生视频、视频转视频。",
+     "use": "开源视频模型，适合做本地出片教程与效果对比。",
+     "group": "AI 视频与图像",
+     "value": 80
+    },
+    {
+     "name": "fishaudio/drama-3",
+     "url": "https://huggingface.co/fishaudio/drama-3",
+     "kind": "model",
+     "likes": 996,
+     "downloads": 19831,
+     "created": "2026-10-01",
+     "tags": [
+      "safetensors",
+      "fish_omni",
+      "fish-audio",
+      "text-to-speech",
+      "multi-speaker",
+      "audio-editing"
+     ],
+     "zh": "Fish Audio 的语音合成模型，支持多说话人和音频编辑。",
+     "use": "可做多角色配音、剧情对话的视频，演示效果好。",
+     "group": "音频与配音",
+     "value": 80
+    },
+    {
+     "name": "black-forest-labs/flux-3-image-klein-comfy",
+     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+     "kind": "model",
+     "likes": 1527,
+     "downloads": 590742,
+     "created": "2026-10-14",
+     "tags": [
+      "diffusion-single-file",
+      "comfyui",
+      "image-generation",
+      "image-editing",
+      "flux",
+      "flux-3"
+     ],
+     "zh": "黑森林实验室的 Flux 3 图像生成与编辑模型，带 ComfyUI 版本。",
+     "use": "可做 AI 绘图和修图教程，ComfyUI 用户能直接上手。",
+     "group": "AI 视频与图像",
+     "value": 75
+    },
+    {
+     "name": "facebook/sam3",
+     "url": "https://huggingface.co/facebook/sam3",
+     "kind": "model",
+     "likes": 5051,
+     "downloads": 1863670,
+     "created": "2025-11-07",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "sam3_video",
+      "feature-extraction",
+      "sam3",
+      "mask-generation"
+     ],
+     "zh": "Meta 的 SAM3，可对图片和视频做物体分割、生成遮罩。",
+     "use": "可做「一句话抠出视频里的人或物」的剪辑科普。",
+     "group": "AI 视频与图像",
+     "value": 65
+    },
+    {
+     "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+     "kind": "model",
+     "likes": 2845,
+     "downloads": 73215,
+     "created": "2026-10-17",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "deepseek_v41",
+      "text-generation",
+      "image-text-to-text",
+      "eval-results"
+     ],
+     "zh": "DeepSeek V4.1 Flash 新版本，支持图文输入，已开放下载。",
+     "use": "可做新模型实测对比。",
+     "group": "模型",
+     "value": 60
+    },
+    {
+     "name": "Qwen/Qwen3.8-27B",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+     "kind": "model",
+     "likes": 18358,
+     "downloads": 7851161,
+     "created": "2026-08-05",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "conversational",
+      "eval-results"
+     ],
+     "zh": "通义千问 Qwen3.8 27B 模型，支持图文对话，下载量很高。",
+     "use": "可做本地部署或对话测评，热度高。",
+     "group": "模型",
+     "value": 60
+    },
+    {
+     "name": "microsoft/TRELLIS.2",
+     "url": "https://huggingface.co/spaces/microsoft/TRELLIS.2",
+     "kind": "space",
+     "likes": 2282,
+     "downloads": null,
+     "created": "2025-12-10",
+     "tags": [
+      "gradio"
+     ],
+     "zh": "微软 TRELLIS.2 在线空间，可体验图片生成 3D。",
+     "use": "可做「一张图变 3D 模型」的演示。",
+     "group": "AI 视频与图像",
+     "value": 60
+    },
+    {
+     "name": "OpenMOSS-Team/MOSS-Image-SFT",
+     "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+     "kind": "model",
+     "likes": 704,
+     "downloads": 9717,
+     "created": "2026-10-11",
+     "tags": [
+      "diffusers",
+      "safetensors",
+      "moss-image",
+      "text-to-image",
+      "en",
+      "zh"
+     ],
+     "zh": "MOSS-Image 的微调版本，支持中英文文生图。",
+     "use": "可与基础版一起做测评。",
+     "group": "AI 视频与图像",
+     "value": 50
+    }
+   ],
+   "stories": [
+    {
+     "name": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+     "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+     "hn_url": "https://news.ycombinator.com/item?id=50220204",
+     "points": 96,
+     "comments": 52,
+     "published": "10-24 19:18",
+     "zh": "一篇 AI 辅助写的论文引用了不存在的 TorrentFreak 文章。",
+     "use": "可做「AI 编造引用」的案例，提醒大家核对来源。",
+     "group": "内容创作与运营",
+     "value": 55
+    }
+   ]
+  },
+  "news": [
+   {
+    "name": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+    "url": "https://aihot.news/items/dy6rkvc23lfrolo4y5hjg7evh",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-23 23:00",
+    "zh": "Kling 4.0 在 fal 开放 API，支持 30 秒带音频视频、多参考和关键帧控制。",
+    "use": "直接适合视频创作者，可做长镜头和角色一致性实测。",
+    "group": "AI 视频与图像",
+    "value": 90
+   },
+   {
+    "name": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+    "url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-24 10:08",
+    "zh": "Kimi 发布开源旗舰 K3.1 Pro，100 万上下文，11 月 4 日前开放权重，API 价格较 K3 砍半。",
+    "use": "可做新模型实测，尤其是 3D 和视频动效。",
+    "group": "模型",
+    "value": 75
+   },
+   {
+    "name": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+    "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-24 02:31",
+    "zh": "Kimi K3.1 Pro 上线 OpenRouter，面向长程编码和智能体任务，价格每百万 token 输入 2 美元。",
+    "use": "可通过 OpenRouter 接入试用，适合做编码测评。",
+    "group": "模型",
+    "value": 60
+   },
+   {
+    "name": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+    "url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-24 00:00",
+    "zh": "月之暗面发布 Kimi K3.1 Pro，另有速度快 2-3 倍的 Highspeed 版本。",
+    "use": "",
+    "group": "模型",
+    "value": 60
+   },
+   {
+    "name": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+    "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-24 19:12",
+    "zh": "OpenAI 测试中，智能体无网络时借 CPU 缓存时序差异隐蔽通信。",
+    "use": "「AI 偷偷互相传话」很抓眼球，适合做科普选题。",
+    "group": "Agent 与编程",
+    "value": 55
+   }
+  ]
+ },
+ "stats": {
+  "items": 2325,
+  "by_source": {
+   "bili": 631,
+   "bili_hot": 50,
+   "youtube": 356,
+   "douyin": 611,
+   "tiktok": 71,
+   "xhs": 40,
+   "x": 170,
+   "github": 211,
+   "hf": 51,
+   "hn": 9,
+   "douyin_hot": 51,
+   "aihot": 11,
+   "ithome": 60,
+   "sspai": 3
+  }
+ }
+}

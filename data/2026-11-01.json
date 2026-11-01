@@ -1,0 +1,2469 @@
+{
+ "version": 1,
+ "day": "2026-11-01",
+ "generated_at": 1793500368.729028,
+ "generated_bj": "2026-11-01 10:32",
+ "history_days": 7,
+ "summary": "今天唯一标「新起」的是电动矿卡为什么还加柴油，B站1.2万粉的号单条47.6万播放，建议优先做。其余多是持续的老题材，星舰双回收、绿漆刷山、AI 追尾这几条国内还有空档，可以挑着做。",
+ "headline": [
+  {
+   "title": "电动矿卡为什么还要加柴油",
+   "verdict": "今天就能做",
+   "why": "电动矿卡居然还加柴油，1.2万粉的号单条47.6万播放",
+   "comment": "普通人会问：电动的怎么还要油？这个标题自带反常，不用铺垫。懂行的会说这类车型各家技术路线不一样，别一概而论。唱反调的会说B站已经有人讲过，所以要靠动画把分工画清楚。",
+   "next_step": "用矿区真画面，画电和油两套动力怎么分工",
+   "risk": "具体车型的动力方案要核实",
+   "grade": "S",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V8"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "电动矿卡为什么还加柴油",
+     "label": "新起",
+     "thread_id": 170
+    }
+   ]
+  },
+  {
+   "title": "追尾后拿豆包质疑交警",
+   "verdict": "值得做",
+   "why": "追尾的人拿 AI 的回答质疑交警，抖音30.0万赞",
+   "comment": "普通人最想知道 AI 的话到底能不能当依据，还有它为什么让人这么信。懂行的会说 AI 只是顺着提问的方向编，并不了解现场。唱反调的会说这是个别事件，所以最后要给观众一个能拿走的判断标准。",
+   "next_step": "用新闻原片，画 AI 为什么说得头头是道却不负责",
+   "risk": "事实以报道为准，别评判当事人",
+   "grade": "A",
+   "audience": "C AI",
+   "refs": [
+    "V10"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "追尾后拿豆包质疑交警",
+     "label": "持续",
+     "thread_id": 146
+    }
+   ]
+  },
+  {
+   "title": "星舰双回收，助推器怎么接",
+   "verdict": "值得做",
+   "why": "4个账号在做，2.0万粉的号单条50.9万播放，国内没人讲清怎么接",
+   "comment": "普通人会问：这么大的火箭落下来，怎么接得住？懂行的会说静态点火和回收是两件事，别混着讲。唱反调的会说这是持续的老热点，所以动画要比海外账号讲得更清楚。",
+   "next_step": "用官方试飞画面，画助推器怎么对准并被接住",
+   "risk": "最新试飞细节要对官方信息",
+   "grade": "A",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V0"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "星舰试飞双回收怎么接",
+     "label": "持续",
+     "thread_id": 27
+    }
+   ]
+  },
+  {
+   "title": "误会6年的绿漆刷山真相",
+   "verdict": "值得做",
+   "why": "254粉的号单条100.8万播放，观众想知道传言哪来的",
+   "comment": "普通人会问：当年到底是怎么回事？这种被澄清的老误会，转给家里人很顺手。懂行的会说得拿出原始出处，不能只复述视频。唱反调的会说B站已经有人讲了，所以要补上传言怎么传开的那一段。",
+   "next_step": "找当年传言原图和现场画面，画传言怎么传开",
+   "risk": "真相细节要查到原始出处",
+   "grade": "A",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V3"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "绿漆刷山的真相",
+     "label": "持续",
+     "thread_id": 125
+    }
+   ]
+  },
+  {
+   "title": "谷歌把AI算力送上太空运行",
+   "verdict": "值得做",
+   "why": "卫星上的TPU跑Gemma，首次在太空推理并回传回应，B站热榜第2",
+   "comment": "普通人会好奇：AI 怎么跑到太空去了，在那干嘛？懂行的会问为什么非要在轨道上算。唱反调的会说这更像一次演示，离实用还远，所以口径不要说满。",
+   "next_step": "用官方画面，画太空里供电散热和回传怎么做",
+   "risk": "热榜只有标题，细节要查谷歌原文",
+   "grade": "A",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "N5",
+    "N8",
+    "N9"
+   ],
+   "links": [
+    {
+     "section": "news",
+     "name": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
+     "url": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9"
+    },
+    {
+     "section": "news",
+     "name": "谷歌太空AI算力中心成功运行",
+     "url": "https://search.bilibili.com/all?keyword=谷歌太空AI算力中心成功运行"
+    },
+    {
+     "section": "news",
+     "name": "谷歌太空AI算力中心成功运行",
+     "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%A4%AA%E7%A9%BAAI%E7%AE%97%E5%8A%9B%E4%B8%AD%E5%BF%83%E6%88%90%E5%8A%9F%E8%BF%90%E8%A1%8C"
+    }
+   ]
+  },
+  {
+   "title": "没有火花塞，柴油机怎么点着",
+   "verdict": "可以做",
+   "why": "没火花塞一点就着，3290粉的号单条6.4万赞",
+   "comment": "普通人会问：没火花塞凭什么着火？这个反常点很直观，动画好画。懂行的会说这是压缩点火，名词要讲清。唱反调的会说只有点赞，没有播放量，所以先别押太重。",
+   "next_step": "拿单缸柴油机实拍，画空气压缩变热的过程",
+   "risk": "只有点赞数据，没有播放数据",
+   "grade": "B",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V6"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "没有火花塞柴油机怎么点着",
+     "label": "观察",
+     "thread_id": 168
+    }
+   ]
+  },
+  {
+   "title": "AI诈骗机器人被耗到破产",
+   "verdict": "可以留着",
+   "why": "同一账号两期共152.3万播放，骗子被反过来耍",
+   "comment": "观众爱看骗子被耍，普通人也会想知道 AI 骗子长什么样。懂行的会说这是同一个账号的内容，不算多个账号在做。唱反调的会说离国内观众远，所以最好换成国内能碰到的例子。",
+   "next_step": "找国内能用的AI诈骗案例，画骗局怎么运转",
+   "risk": "海外素材，别直接搬运",
+   "grade": "B",
+   "audience": "C AI",
+   "refs": [
+    "V2"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "AI 诈骗机器人被耗到破产",
+     "label": "持续",
+     "thread_id": 124
+    }
+   ]
+  },
+  {
+   "title": "央视曝光空气消毒卡真相",
+   "verdict": "先观察",
+   "why": "宣称三米内病毒一网打尽，专家称存在逻辑悖论",
+   "comment": "普通人会问：这东西到底有没有用？这个选题身边人可能真买过。懂行的会说得先看央视原片和专家怎么讲。唱反调的会说这容易做成打假，所以要落在原理上。",
+   "next_step": "实拍一张卡，画它说的三米消毒哪里讲不通",
+   "risk": "热榜只有标题，要核实央视原片",
+   "grade": "C",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "N18"
+   ],
+   "links": [
+    {
+     "section": "news",
+     "name": "央视曝光空气消毒卡真相：宣称挂在脖子上三米内细菌病毒“一网打尽”，专家称存在逻辑悖论",
+     "url": "https://www.ithome.com/1/020/670.htm"
+    }
+   ]
+  }
+ ],
+ "sections": {
+  "hotwords": [
+   {
+    "word": "谷歌太空AI算力中心成功运行",
+    "platform": "B站热搜",
+    "rank": 2,
+    "url": "https://search.bilibili.com/all?keyword=谷歌太空AI算力中心成功运行"
+   },
+   {
+    "word": "谷歌太空AI算力中心成功运行",
+    "platform": "B站热搜",
+    "rank": 6,
+    "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%A4%AA%E7%A9%BAAI%E7%AE%97%E5%8A%9B%E4%B8%AD%E5%BF%83%E6%88%90%E5%8A%9F%E8%BF%90%E8%A1%8C"
+   },
+   {
+    "word": "AI短片邪修润魂子",
+    "platform": "B站热搜",
+    "rank": 8,
+    "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E9%82%AA%E4%BF%AE%E6%B6%A6%E9%AD%82%E5%AD%90"
+   },
+   {
+    "word": "AI短片邪修润魂子",
+    "platform": "B站热搜",
+    "rank": 19,
+    "url": "https://search.bilibili.com/all?keyword=AI短片邪修润魂子"
+   },
+   {
+    "word": "B站超级科学晚",
+    "platform": "B站热搜",
+    "rank": 20,
+    "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E8%B6%85%E7%BA%A7%E7%A7%91%E5%AD%A6%E6%99%9A"
+   },
+   {
+    "word": "12个AI预测BLG对阵HLE",
+    "platform": "B站热搜",
+    "rank": 30,
+    "url": "https://search.bilibili.com/all?keyword=12个AI预测BLG对阵HLE"
+   },
+   {
+    "word": "12个AI预测BLG对阵HLE",
+    "platform": "B站热搜",
+    "rank": 30,
+    "url": "https://search.bilibili.com/all?keyword=12%E4%B8%AAAI%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E9%98%B5HLE"
+   },
+   {
+    "word": "B站超级科学晚",
+    "platform": "B站热搜",
+    "rank": 31,
+    "url": "https://search.bilibili.com/all?keyword=B站超级科学晚"
+   },
+   {
+    "word": "2026 年 10 月汽车销量 / 交付汇总（持续更新）：理想汽车 29025 辆",
+    "platform": "IT之家",
+    "rank": 1,
+    "url": "https://www.ithome.com/1/020/661.htm"
+   },
+   {
+    "word": "理想汽车 2026 年 10 月交付 29025 辆，其中新款 MEGA 超 3000 辆",
+    "platform": "IT之家",
+    "rank": 3,
+    "url": "https://www.ithome.com/1/020/671.htm"
+   },
+   {
+    "word": "央视曝光空气消毒卡真相：宣称挂在脖子上三米内细菌病毒“一网打尽”，专家称存在逻辑悖论",
+    "platform": "IT之家",
+    "rank": 4,
+    "url": "https://www.ithome.com/1/020/670.htm"
+   },
+   {
+    "word": "小米澎程少量 N70 现车可选：享 3 年 0 息 / 5 年分期前 3 年 0 息等方案",
+    "platform": "IT之家",
+    "rank": 6,
+    "url": "https://www.ithome.com/1/020/668.htm"
+   },
+   {
+    "word": "全新奖励计划海外推出后，曝特斯拉砍掉买车推荐奖励",
+    "platform": "IT之家",
+    "rank": 9,
+    "url": "https://www.ithome.com/1/020/665.htm"
+   },
+   {
+    "word": "深蓝汽车 10 月全球销量 32602 辆，环比增长 8.01%",
+    "platform": "IT之家",
+    "rank": 12,
+    "url": "https://www.ithome.com/1/020/662.htm"
+   },
+   {
+    "word": "乘联分会崔东树：今年前 9 个月中国对欧盟汽车出口 183 万辆远超去年全年，比亚迪断层式领跑、吉利暴增 991%",
+    "platform": "IT之家",
+    "rank": 15,
+    "url": "https://www.ithome.com/1/020/657.htm"
+   },
+   {
+    "word": "小米汽车 2026 年 10 月交付量超过 50,000 台",
+    "platform": "IT之家",
+    "rank": 16,
+    "url": "https://www.ithome.com/1/020/656.htm"
+   },
+   {
+    "word": "Roblox 平台 AI 游戏突破 7 万款，排名前 100 作品超 80% 使用 AI 辅助开发",
+    "platform": "IT之家",
+    "rank": 20,
+    "url": "https://www.ithome.com/1/020/651.htm"
+   },
+   {
+    "word": "华为鲲鹏 920 上跑出超越同代主流硬件的性能：北大团队完成 ABACUS 原子算筹软件深度优化，优化 19 类材料核心算子",
+    "platform": "IT之家",
+    "rank": 21,
+    "url": "https://www.ithome.com/1/020/650.htm"
+   },
+   {
+    "word": "被 AI 假学生薅了 2 亿美元贷款羊毛，美国司法部紧急调查",
+    "platform": "IT之家",
+    "rank": 22,
+    "url": "https://www.ithome.com/1/020/649.htm"
+   },
+   {
+    "word": "吉利汽车规划 2030 年前实现“县县通”：布局 15 万座充电站，其中智充站 10 万座",
+    "platform": "IT之家",
+    "rank": 23,
+    "url": "https://www.ithome.com/1/020/648.htm"
+   },
+   {
+    "word": "消息称 Spotify 计划于明年初推出 AI 音乐混音服务，用户可自制歌曲混音与翻唱版本",
+    "platform": "IT之家",
+    "rank": 24,
+    "url": "https://www.ithome.com/1/020/647.htm"
+   },
+   {
+    "word": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+    "platform": "IT之家",
+    "rank": 26,
+    "url": "https://www.ithome.com/1/020/645.htm"
+   },
+   {
+    "word": "AI 需求暴涨：英特尔火速改造多家 CPU 制造工厂，从桌面处理器改为数据中心处理器",
+    "platform": "IT之家",
+    "rank": 29,
+    "url": "https://www.ithome.com/1/020/642.htm"
+   },
+   {
+    "word": "IT早报 1101：苹果中国官网上线 Apple 智能介绍页面；新款小米 SU7 Ultra 无伪装实车曝光；我国首次载人登月任务乘组计划由三人组成...",
+    "platform": "IT之家",
+    "rank": 30,
+    "url": "https://www.ithome.com/1/020/641.htm"
+   },
+   {
+    "word": "男子自行吃壮阳保健品拖成癌症晚期",
+    "platform": "头条热榜",
+    "rank": 17,
+    "url": "https://www.toutiao.com/trending/7702655742444257290/"
+   },
+   {
+    "word": "华为Mate 90系列韬芯片体验如何",
+    "platform": "头条热榜",
+    "rank": 28,
+    "url": "https://www.toutiao.com/trending/7702848750019939891/"
+   },
+   {
+    "word": "雷军回应小米汽车10月交付量",
+    "platform": "微博热搜",
+    "rank": 23,
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A610%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%23&t=31&band_rank=23&Refer=top"
+   },
+   {
+    "word": "苹果Duo中国版被指偷工减料",
+    "platform": "微博热搜",
+    "rank": 27,
+    "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CDuo%E4%B8%AD%E5%9B%BD%E7%89%88%E8%A2%AB%E6%8C%87%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99&t=31&band_rank=27&Refer=top"
+   },
+   {
+    "word": "儿科医生流失？真相：四年增加8万人",
+    "platform": "百度热搜",
+    "rank": 18,
+    "url": "https://www.baidu.com/s?wd=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E6%B5%81%E5%A4%B1%EF%BC%9F%E7%9C%9F%E7%9B%B8%EF%BC%9A%E5%9B%9B%E5%B9%B4%E5%A2%9E%E5%8A%A08%E4%B8%87%E4%BA%BA"
+   },
+   {
+    "word": "如何评价 Deepseek Harness 发布的 super-agent 构想？",
+    "platform": "知乎热榜",
+    "rank": 2,
+    "url": "https://www.zhihu.com/question/2099984457524572950"
+   },
+   {
+    "word": "和初二女儿约定好，晚上 10 点半把手机放客厅，不留卧室，第一天到点女儿没放，我该怎么沟通呢？",
+    "platform": "知乎热榜",
+    "rank": 4,
+    "url": "https://www.zhihu.com/question/2035506887307813404"
+   },
+   {
+    "word": "小米为什么热衷于把高管和工程师推到台前？",
+    "platform": "知乎热榜",
+    "rank": 8,
+    "url": "https://www.zhihu.com/question/2016241093059040200"
+   },
+   {
+    "word": "「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？",
+    "platform": "知乎热榜",
+    "rank": 10,
+    "url": "https://www.zhihu.com/question/2096595801644299451"
+   },
+   {
+    "word": "如何评价山东东营 80 后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？",
+    "platform": "知乎热榜",
+    "rank": 12,
+    "url": "https://www.zhihu.com/question/2098799350503699522"
+   },
+   {
+    "word": "如何看待特朗普再称台湾为「芯片小偷」，台湾地区外事发言人回应「他这是挫折和羡慕我们」？",
+    "platform": "知乎热榜",
+    "rank": 16,
+    "url": "https://www.zhihu.com/question/2098805525668537881"
+   },
+   {
+    "word": "红果短剧年营收超 150 亿，为什么有创作者称两个月 11 部剧只赚了 9 块 6？",
+    "platform": "知乎热榜",
+    "rank": 17,
+    "url": "https://www.zhihu.com/question/2099456582853605372"
+   },
+   {
+    "word": "为什么很多人都希望成为对方「最好」、「唯一的朋友」？为什么会有这种心理？友情里也有占有欲吗？",
+    "platform": "知乎热榜",
+    "rank": 19,
+    "url": "https://www.zhihu.com/question/2098048209545163647"
+   }
+  ],
+  "video": [
+   {
+    "name": "星舰试飞双回收怎么接",
+    "kind": "A 新闻怎么做到",
+    "summary": "海外多个账号在讲助推器静态点火和一次回收两个东西，热度持续。国内还没人把怎么接讲清楚。",
+    "ai_relevance": 78,
+    "bili_term": "",
+    "youtube_term": "Starship double catch booster",
+    "metrics": {
+     "videos": 5,
+     "authors": 4,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 1470293,
+     "views_max": 508563,
+     "vph_max": 24180.1,
+     "likes_total": 0,
+     "max_vsr": 25.95,
+     "outlier": {
+      "views": 508563,
+      "followers": 19600,
+      "title": "Booster 22 Just Fired! SpaceX Goes for a Double Catch"
+     },
+     "earliest": 1792981672.5698087,
+     "median_age_h": 96.0
+    },
+    "samples": [
+     {
+      "title": "Booster 22 Just Fired! SpaceX Goes for a Double Catch",
+      "url": "https://www.youtube.com/watch?v=D3KJt_lLi1s",
+      "thumb": "https://i.ytimg.com/vi/D3KJt_lLi1s/hqdefault.jpg",
+      "author": "What about it!?",
+      "platform": "YouTube",
+      "duration": 1417,
+      "vertical": false,
+      "views": 508563,
+      "likes": null,
+      "followers": 19600,
+      "vsr": 25.95,
+      "vph": 5295.8,
+      "age_h": 96.0,
+      "published": "10-28 10:27"
+     },
+     {
+      "title": "SpaceX Has Never Moved This Fast With Starship!",
+      "url": "https://www.youtube.com/watch?v=Pvng83SViCM",
+      "thumb": "https://i.ytimg.com/vi/Pvng83SViCM/hqdefault.jpg",
+      "author": "Marcus House",
+      "platform": "YouTube",
+      "duration": 1459,
+      "vertical": false,
+      "views": 363477,
+      "likes": null,
+      "followers": 590000,
+      "vsr": 0.62,
+      "vph": 24180.1,
+      "age_h": 15.0,
+      "published": "10-31 19:27"
+     },
+     {
+      "title": "It’s Happening: SpaceX Starship Flight 15 Is Going For The Big Step!",
+      "url": "https://www.youtube.com/watch?v=hL4XMLC1boQ",
+      "thumb": "https://i.ytimg.com/vi/hL4XMLC1boQ/hqdefault.jpg",
+      "author": "What about it!?",
+      "platform": "YouTube",
+      "duration": 929,
+      "vertical": false,
+      "views": 258765,
+      "likes": null,
+      "followers": 19600,
+      "vsr": 13.2,
+      "vph": 10767.5,
+      "age_h": 24.0,
+      "published": "10-31 10:27"
+     },
+     {
+      "title": "SpaceX conducts Static Fire of Booster 22",
+      "url": "https://www.youtube.com/watch?v=BlyqwOjCJzA",
+      "thumb": "https://i.ytimg.com/vi/BlyqwOjCJzA/hqdefault.jpg",
+      "author": "NASASpaceflight",
+      "platform": "YouTube",
+      "duration": 12440,
+      "vertical": false,
+      "views": 172702,
+      "likes": null,
+      "followers": 26700,
+      "vsr": 6.47,
+      "vph": 1199.1,
+      "age_h": 144.0,
+      "published": "10-26 10:27"
+     },
+     {
+      "title": "SpaceX shows off the ship for the Moon | CDM News 🚀",
+      "url": "https://www.youtube.com/watch?v=6wcWxIXO40Q",
+      "thumb": "https://i.ytimg.com/vi/6wcWxIXO40Q/hqdefault.jpg",
+      "author": "CDM Extra",
+      "platform": "YouTube",
+      "duration": 1553,
+      "vertical": false,
+      "views": 166786,
+      "likes": null,
+      "followers": 81900,
+      "vsr": 2.04,
+      "vph": 1389.5,
+      "age_h": 120.0,
+      "published": "10-27 10:27"
+     }
+    ],
+    "member_ids": [
+     "youtube:D3KJt_lLi1s",
+     "youtube:Pvng83SViCM",
+     "youtube:hL4XMLC1boQ",
+     "youtube:BlyqwOjCJzA",
+     "youtube:6wcWxIXO40Q"
+    ],
+    "weight": 90.5,
+    "probe_youtube": {
+     "year_n": 15,
+     "match": 2,
+     "match_recent": 2,
+     "oldest_match_days": 5,
+     "samples": [
+      {
+       "title": "Starship’s Double Catch Mission Takes Shape as Booster 22 Fires Up | This Week in Spaceflight",
+       "url": "https://www.youtube.com/watch?v=udys8It4_ps",
+       "views": 114317,
+       "published": "4d ago"
+      },
+      {
+       "title": "Starship Double Catch: Flight 15 Booster Fires All 33 Engines",
+       "url": "https://www.youtube.com/watch?v=ei_eikKezC0",
+       "views": 11,
+       "published": "5d ago"
+      }
+     ],
+     "term": "Starship double catch booster"
+    },
+    "label": "持续",
+    "basis": [
+     "YouTube 搜「Starship double catch booster」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "4 个不同账号在做",
+     "有小号爆了：2.0万 粉的号单条 50.9万 播放",
+     "雷达 2026-10-25 起就在记录"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 27,
+    "days_seen": 6
+   },
+   {
+    "name": "买遍AI骗局产品",
+    "kind": "C AI 离谱事或能用的招",
+    "summary": "海外多个账号在买 AI 骗局产品、餐厅和商品，拿真东西来测。观众看的是这些东西到底有多离谱。",
+    "ai_relevance": 65,
+    "bili_term": "",
+    "youtube_term": "I tested AI scam products",
+    "metrics": {
+     "videos": 3,
+     "authors": 3,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 1332818,
+     "views_max": 1126843,
+     "vph_max": 9387.7,
+     "likes_total": 0,
+     "max_vsr": 23.82,
+     "outlier": {
+      "views": 1126843,
+      "followers": 47300,
+      "title": "I tested AI-scam restaurants (it's trash)"
+     },
+     "earliest": 1793068066.434958,
+     "median_age_h": 96.0
+    },
+    "samples": [
+     {
+      "title": "I tested AI-scam restaurants (it's trash)",
+      "url": "https://www.youtube.com/watch?v=djtXEOCjdvE",
+      "thumb": "https://i.ytimg.com/vi/djtXEOCjdvE/hqdefault.jpg",
+      "author": "Самый сахар",
+      "platform": "YouTube",
+      "duration": 1383,
+      "vertical": false,
+      "views": 1126843,
+      "likes": null,
+      "followers": 47300,
+      "vsr": 23.82,
+      "vph": 9387.7,
+      "age_h": 120.0,
+      "published": "10-27 10:27"
+     },
+     {
+      "title": "I Tested AI Scam Products From Facebook Marketplace!",
+      "url": "https://www.youtube.com/watch?v=31xYVMXlICk",
+      "thumb": "https://i.ytimg.com/vi/31xYVMXlICk/hqdefault.jpg",
+      "author": "Sambucha Highlights",
+      "platform": "YouTube",
+      "duration": 5874,
+      "vertical": false,
+      "views": 176908,
+      "likes": null,
+      "followers": 9640,
+      "vsr": 18.35,
+      "vph": 1842.1,
+      "age_h": 96.0,
+      "published": "10-28 10:27"
+     },
+     {
+      "title": "I Tested VIRAL AI Products!",
+      "url": "https://www.youtube.com/watch?v=Y2hZKBKuPJ0",
+      "thumb": "https://i.ytimg.com/vi/Y2hZKBKuPJ0/hqdefault.jpg",
+      "author": "Topper Guild Highlights",
+      "platform": "YouTube",
+      "duration": 6035,
+      "vertical": false,
+      "views": 29067,
+      "likes": null,
+      "followers": 984000,
+      "vsr": 0.03,
+      "vph": 605.1,
+      "age_h": 48.0,
+      "published": "10-30 10:27"
+     }
+    ],
+    "member_ids": [
+     "youtube:djtXEOCjdvE",
+     "youtube:31xYVMXlICk",
+     "youtube:Y2hZKBKuPJ0"
+    ],
+    "weight": 50.6,
+    "probe_youtube": {
+     "year_n": 20,
+     "match": 4,
+     "match_recent": 0,
+     "oldest_match_days": 60,
+     "samples": [
+      {
+       "title": "I Tested AI Scam Products",
+       "url": "https://www.youtube.com/watch?v=XMFSTxKWRRc",
+       "views": 6820448,
+       "published": "1mo ago"
+      },
+      {
+       "title": "I Tested More AI Scam Products",
+       "url": "https://www.youtube.com/watch?v=ZrnKKgQEVCw",
+       "views": 2557075,
+       "published": "3w ago"
+      },
+      {
+       "title": "I Tested Viral AI Scam Products!",
+       "url": "https://www.youtube.com/watch?v=nqFWh3RBViA",
+       "views": 691556,
+       "published": "1mo ago"
+      }
+     ],
+     "term": "I tested AI scam products"
+    },
+    "label": "持续",
+    "basis": [
+     "YouTube 搜「I tested AI scam products」：今年的相关视频里 4 条标题对得上，其中 0 条是最近 10 天发的，最早的是 60 天前",
+     "3 个不同账号在做",
+     "有小号爆了：4.7万 粉的号单条 112.7万 播放",
+     "雷达 2026-10-25 起就在记录"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 29,
+    "days_seen": 8
+   },
+   {
+    "name": "AI 诈骗机器人被耗到破产",
+    "kind": "C AI 离谱事或能用的招",
+    "summary": "同一个账号用整期内容，一个是把 AI 诈骗机器人耗到破产，一个是专门给它打电话。观众爱看骗子被反过来耍。",
+    "ai_relevance": 75,
+    "bili_term": "",
+    "youtube_term": "Kitboga AI scam bot",
+    "metrics": {
+     "videos": 2,
+     "authors": 1,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 1522551,
+     "views_max": 1384376,
+     "vph_max": 14415.5,
+     "likes_total": 0,
+     "max_vsr": 3.27,
+     "outlier": {
+      "views": 1384376,
+      "followers": 424000,
+      "title": "I Bankrupted an AI Scam Bot"
+     },
+     "earliest": 1793154466.434958,
+     "median_age_h": 72.0
+    },
+    "samples": [
+     {
+      "title": "I Bankrupted an AI Scam Bot",
+      "url": "https://www.youtube.com/watch?v=pFDdTFZqYZI",
+      "thumb": "https://i.ytimg.com/vi/pFDdTFZqYZI/hqdefault.jpg",
+      "author": "Kitboga",
+      "platform": "YouTube",
+      "duration": 841,
+      "vertical": false,
+      "views": 1384376,
+      "likes": null,
+      "followers": 424000,
+      "vsr": 3.27,
+      "vph": 14415.5,
+      "age_h": 96.0,
+      "published": "10-28 10:27"
+     },
+     {
+      "title": "Calling AI Scam Bots + Making Scammers Angry",
+      "url": "https://www.youtube.com/watch?v=udAJ_m-a7Mw",
+      "thumb": "https://i.ytimg.com/vi/udAJ_m-a7Mw/hqdefault.jpg",
+      "author": "Kitboga",
+      "platform": "YouTube",
+      "duration": 13884,
+      "vertical": false,
+      "views": 138175,
+      "likes": null,
+      "followers": 424000,
+      "vsr": 0.33,
+      "vph": 2876.6,
+      "age_h": 48.0,
+      "published": "10-30 10:27"
+     }
+    ],
+    "member_ids": [
+     "youtube:pFDdTFZqYZI",
+     "youtube:udAJ_m-a7Mw"
+    ],
+    "weight": 32.1,
+    "probe_youtube": {
+     "year_n": 19,
+     "match": 0,
+     "match_recent": 0,
+     "oldest_match_days": null,
+     "samples": [],
+     "term": "Kitboga AI scam bot"
+    },
+    "label": "持续",
+    "basis": [
+     "YouTube 搜「Kitboga AI scam bot」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "雷达 2026-10-30 起就在记录"
+    ],
+    "first_day": "2026-10-30",
+    "thread_id": 124,
+    "days_seen": 3
+   },
+   {
+    "name": "绿漆刷山的真相",
+    "kind": "A 新闻怎么做到",
+    "summary": "误会多年的绿漆刷山说法被澄清，小号播放远超粉丝量。观众想知道传言从哪来、真相到底是什么。",
+    "ai_relevance": 80,
+    "bili_term": "绿漆刷山",
+    "youtube_term": "",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1008360,
+     "views_max": 1008360,
+     "vph_max": 11544.2,
+     "likes_total": 0,
+     "max_vsr": 1008.36,
+     "outlier": {
+      "views": 1008360,
+      "followers": 254,
+      "title": "误会6年，“绿漆刷山”终于真相大白！"
+     },
+     "earliest": 1793185737.0,
+     "median_age_h": 87.3
+    },
+    "samples": [
+     {
+      "title": "误会6年，“绿漆刷山”终于真相大白！",
+      "url": "https://www.bilibili.com/video/BV1jFxE6jEEA",
+      "thumb": "https://i0.hdslb.com/bfs/archive/e7fc724a43e20e2350925d0c72d464c270a7cea4.jpg",
+      "author": "密奥APP_",
+      "platform": "B站",
+      "duration": 33,
+      "vertical": false,
+      "views": 1008360,
+      "likes": 33414,
+      "followers": 254,
+      "vsr": 1008.36,
+      "vph": 11544.2,
+      "age_h": 87.3,
+      "published": "10-28 19:08"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1jFxE6jEEA"
+    ],
+    "weight": 24.4,
+    "probe_bili": {
+     "term": "绿漆刷山",
+     "recent_n": 1,
+     "before_n": 0,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 1,
+     "before_page": 0,
+     "recent_per_day": 0.14,
+     "before_per_day": 0.0,
+     "capped": false,
+     "recent_top": [
+      1008361
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 1.7
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「绿漆刷山」：之前 53 天播放最高的 20 条里 0 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：254 粉的号单条 100.8万 播放",
+     "雷达 2026-10-30 起就在记录"
+    ],
+    "first_day": "2026-10-30",
+    "thread_id": 125,
+    "days_seen": 3
+   },
+   {
+    "name": "钱学森弹道为何难拦截",
+    "kind": "A 新闻怎么做到",
+    "summary": "B 站点赞和播放都很高，观众想知道这条弹道到底特殊在哪。可以用动画画出轨迹，讲清为什么难拦。",
+    "ai_relevance": 72,
+    "bili_term": "钱学森弹道",
+    "youtube_term": "",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1647219,
+     "views_max": 1647219,
+     "vph_max": 10141.9,
+     "likes_total": 0,
+     "max_vsr": 251.29,
+     "outlier": {
+      "views": 1647219,
+      "followers": 6555,
+      "title": "钱学森弹道为什么难以拦截"
+     },
+     "earliest": 1792915484.0,
+     "median_age_h": 162.4
+    },
+    "samples": [
+     {
+      "title": "钱学森弹道为什么难以拦截",
+      "url": "https://www.bilibili.com/video/BV1vZH36UEGo",
+      "thumb": "https://i1.hdslb.com/bfs/archive/07f3931ce74c8040a44f799718fc34db36fee235.jpg",
+      "author": "东的万物笔记",
+      "platform": "B站",
+      "duration": 72,
+      "vertical": false,
+      "views": 1647219,
+      "likes": 104228,
+      "followers": 6555,
+      "vsr": 251.29,
+      "vph": 10141.9,
+      "age_h": 162.4,
+      "published": "10-25 16:04"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1vZH36UEGo"
+    ],
+    "weight": 23.8,
+    "probe_bili": {
+     "term": "钱学森弹道",
+     "recent_n": 13,
+     "before_n": 29,
+     "recent_match": 7,
+     "before_match": 15,
+     "recent_page": 13,
+     "before_page": 20,
+     "recent_per_day": 1.86,
+     "before_per_day": 0.55,
+     "capped": false,
+     "recent_top": [
+      1647561,
+      30123,
+      1740
+     ],
+     "before_top": [
+      213857,
+      193888,
+      27401
+     ],
+     "before_samples": [
+      {
+       "title": "钱学森弹道：打破常规，打出新天地",
+       "bvid": "BV1FaJ16mEWF",
+       "play": 213857,
+       "pubdate": 1792079858
+      },
+      {
+       "title": "为什么美国不害怕钱学森弹道？",
+       "bvid": "BV1JPaD6sErb",
+       "play": 193888,
+       "pubdate": 1791691200
+      },
+      {
+       "title": "钱学森弹道！",
+       "bvid": "BV1AYHj63ErS",
+       "play": 27401,
+       "pubdate": 1791099149
+      }
+     ],
+     "ratio": 2.75
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「钱学森弹道」：之前 53 天播放最高的 20 条里 15 条标题带这个词，近 7 天是 7 条，以前就一直有",
+     "有小号爆了：6555 粉的号单条 164.7万 播放",
+     "雷达 2026-10-29 起就在记录"
+    ],
+    "first_day": "2026-10-29",
+    "thread_id": 103,
+    "days_seen": 4
+   },
+   {
+    "name": "家里火锅为啥没店里香",
+    "kind": "B 身边反常原理",
+    "summary": "人人在家煮过火锅，却总觉得没有店里的香。点赞不低，适合从底料和火候讲门道。",
+    "ai_relevance": 62,
+    "bili_term": "",
+    "youtube_term": "",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 53551,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793414233.0,
+     "median_age_h": 23.9
+    },
+    "samples": [
+     {
+      "title": "家里火锅为啥总没店里香？",
+      "url": "https://www.douyin.com/video/7702655466081357090",
+      "thumb": "img/6e02b33766b583fe.jpg",
+      "author": "万物冷知识",
+      "platform": "抖音",
+      "duration": 279,
+      "vertical": true,
+      "views": null,
+      "likes": 53551,
+      "followers": 87323,
+      "vsr": null,
+      "vph": null,
+      "age_h": 23.9,
+      "published": "10-31 10:37"
+     }
+    ],
+    "member_ids": [
+     "douyin:7702655466081357090"
+    ],
+    "weight": 23.5,
+    "label": "观察",
+    "basis": [
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-01",
+    "thread_id": 167,
+    "days_seen": 1
+   },
+   {
+    "name": "没有火花塞柴油机怎么点着",
+    "kind": "B 身边反常原理",
+    "summary": "没有火花塞却一点就着，拆开单缸柴油机看门道。小号点赞很高，反常点很直观。",
+    "ai_relevance": 85,
+    "bili_term": "",
+    "youtube_term": "diesel engine no spark plug how",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 64307,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793176988.0,
+     "median_age_h": 89.8
+    },
+    "samples": [
+     {
+      "title": "没有火花塞，凭什么一点就着？拆开单缸柴油机你就懂了",
+      "url": "https://www.douyin.com/video/7701636520214621157",
+      "thumb": "img/5657e598296e4d95.jpg",
+      "author": "市井探索～",
+      "platform": "抖音",
+      "duration": 72,
+      "vertical": true,
+      "views": null,
+      "likes": 64307,
+      "followers": 3290,
+      "vsr": null,
+      "vph": null,
+      "age_h": 89.8,
+      "published": "10-28 16:43"
+     }
+    ],
+    "member_ids": [
+     "douyin:7701636520214621157"
+    ],
+    "weight": 23.3,
+    "label": "观察",
+    "basis": [
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-01",
+    "thread_id": 168,
+    "days_seen": 1
+   },
+   {
+    "name": "乐山大佛淋雨千年没垮",
+    "kind": "B 身边反常原理",
+    "summary": "露天淋了一千二百年却没垮，观众好奇古人怎么做到的。可以画排水和结构的动画。",
+    "ai_relevance": 60,
+    "bili_term": "",
+    "youtube_term": "Leshan Giant Buddha drainage system",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 39572,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793445939.0,
+     "median_age_h": 15.1
+    },
+    "samples": [
+     {
+      "title": "乐山大佛淋了一千二百年，凭什么还没垮",
+      "url": "https://www.douyin.com/video/7702791613877112118",
+      "thumb": "img/389079b26f7e124d.jpg",
+      "author": "星空探索馆",
+      "platform": "抖音",
+      "duration": 284,
+      "vertical": true,
+      "views": null,
+      "likes": 39572,
+      "followers": 288699,
+      "vsr": null,
+      "vph": null,
+      "age_h": 15.1,
+      "published": "10-31 19:25"
+     }
+    ],
+    "member_ids": [
+     "douyin:7702791613877112118"
+    ],
+    "weight": 22.5,
+    "label": "观察",
+    "basis": [
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-01",
+    "thread_id": 169,
+    "days_seen": 1
+   },
+   {
+    "name": "电动矿卡为什么还加柴油",
+    "kind": "B 身边反常原理",
+    "summary": "电动的矿卡居然还要加柴油，标题自带反常。播放÷粉丝较高，适合配动画讲清楚动力怎么分工。",
+    "ai_relevance": 82,
+    "bili_term": "电动矿卡",
+    "youtube_term": "electric mining truck diesel",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 475745,
+     "views_max": 475745,
+     "vph_max": 12045.2,
+     "likes_total": 0,
+     "max_vsr": 41.15,
+     "outlier": {
+      "views": 475745,
+      "followers": 11560,
+      "title": "为什么电动矿卡，还得加柴油呢？"
+     },
+     "earliest": 1793358000.0,
+     "median_age_h": 39.5
+    },
+    "samples": [
+     {
+      "title": "为什么电动矿卡，还得加柴油呢？",
+      "url": "https://www.bilibili.com/video/BV1kExv6MEo5",
+      "thumb": "https://i0.hdslb.com/bfs/archive/203ffa6ffba5a30e7650f20f55fdb38c8934c6af.jpg",
+      "author": "三毛看世界",
+      "platform": "B站",
+      "duration": 70,
+      "vertical": false,
+      "views": 475745,
+      "likes": 6476,
+      "followers": 11560,
+      "vsr": 41.15,
+      "vph": 12045.2,
+      "age_h": 39.5,
+      "published": "10-30 19:00"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1kExv6MEo5"
+    ],
+    "weight": 22.4,
+    "probe_bili": {
+     "term": "电动矿卡",
+     "recent_n": 8,
+     "before_n": 6,
+     "recent_match": 1,
+     "before_match": 4,
+     "recent_page": 8,
+     "before_page": 6,
+     "recent_per_day": 1.14,
+     "before_per_day": 0.11,
+     "capped": false,
+     "recent_top": [
+      476254
+     ],
+     "before_top": [
+      4181,
+      430,
+      212
+     ],
+     "before_samples": [
+      {
+       "title": "别猜了！矿老板扎堆换电动矿卡，根本不是为了环保",
+       "bvid": "BV1s7a96VEey",
+       "play": 4181,
+       "pubdate": 1790737196
+      },
+      {
+       "title": "1000匹马力，国产新能源电动矿卡的天花板！",
+       "bvid": "BV1PzhU6fESj",
+       "play": 430,
+       "pubdate": 1790348071
+      },
+      {
+       "title": "利勃海尔T282C，柴油电动矿卡先驱",
+       "bvid": "BV1AKpg6bEmU",
+       "play": 212,
+       "pubdate": 1791632361
+      }
+     ],
+     "ratio": 4.32
+    },
+    "label": "新起",
+    "basis": [
+     "B站搜「电动矿卡」：近 7 天 8 条，之前 53 天只有 6 条",
+     "有小号爆了：1.2万 粉的号单条 47.6万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-01",
+    "thread_id": 170,
+    "days_seen": 1
+   },
+   {
+    "name": "含羞草坐跳楼机实验",
+    "kind": "B 身边反常原理",
+    "summary": "科学家让含羞草坐上百次跳楼机，实验本身很反常。观众好奇植物到底有没有记忆。",
+    "ai_relevance": 68,
+    "bili_term": "",
+    "youtube_term": "mimosa pudica experiment memory",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 88486,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793415600.0,
+     "median_age_h": 23.5
+    },
+    "samples": [
+     {
+      "title": "为啥科学家要让含羞草坐上百次“跳楼机”？",
+      "url": "https://www.douyin.com/video/7702445876244991267",
+      "thumb": "img/4954eeb438bd3038.jpg",
+      "author": "我是小魔",
+      "platform": "抖音",
+      "duration": 92,
+      "vertical": true,
+      "views": null,
+      "likes": 88486,
+      "followers": 11326743,
+      "vsr": null,
+      "vph": null,
+      "age_h": 23.5,
+      "published": "10-31 11:00"
+     }
+    ],
+    "member_ids": [
+     "douyin:7702445876244991267"
+    ],
+    "weight": 19.5,
+    "label": "观察",
+    "basis": [
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-01",
+    "thread_id": 171,
+    "days_seen": 1
+   },
+   {
+    "name": "追尾后拿豆包质疑交警",
+    "kind": "C AI 离谱事或能用的招",
+    "summary": "追尾的人拿 AI 的回答去质疑交警的认定，点赞很高。观众好奇 AI 的话能不能当依据，它为什么会让人这么信。",
+    "ai_relevance": 88,
+    "bili_term": "",
+    "youtube_term": "",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 300107,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793354644.0,
+     "median_age_h": 40.4
+    },
+    "samples": [
+     {
+      "title": "离谱！追尾后拿豆包质疑交警（记者：丁汀、兰天鸣）",
+      "url": "https://www.douyin.com/video/7702399524458827035",
+      "thumb": "img/04360239b6ee0f88.jpg",
+      "author": "新华社",
+      "platform": "抖音",
+      "duration": 25,
+      "vertical": true,
+      "views": null,
+      "likes": 300107,
+      "followers": 88975272,
+      "vsr": null,
+      "vph": null,
+      "age_h": 40.4,
+      "published": "10-30 18:04"
+     }
+    ],
+    "member_ids": [
+     "douyin:7702399524458827035"
+    ],
+    "weight": 19.1,
+    "label": "持续",
+    "basis": [
+     "雷达 2026-10-31 起就在记录"
+    ],
+    "first_day": "2026-10-31",
+    "thread_id": 146,
+    "days_seen": 2
+   }
+  ],
+  "x": [
+   {
+    "name": "Krea 用 AI 做经典歌曲短片",
+    "kind": "玩法教程",
+    "lane": "AI视频与创作",
+    "summary": "Krea 转发了一支用 AI 做的《Englishman in New York》短片，浏览和点赞都非常高。老歌配 AI 画面，是普通人一看就懂、容易出圈的玩法。",
+    "entity": "Krea",
+    "value": 78,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 26423050,
+     "likes_total": 276351
+    },
+    "samples": [
+     {
+      "title": "RT @antrofrog_: Englishman in New York https://t.co/Nm9M4haX8k",
+      "url": "https://x.com/krea_ai/status/2116385704368541736",
+      "thumb": "",
+      "author": "Krea",
+      "handle": "krea_ai",
+      "followers": 124484,
+      "views": 26423050,
+      "likes": 276351,
+      "bookmarks": 64511,
+      "published": "10-31 12:24",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2116385704368541736"
+    ],
+    "breadth": null,
+    "label": "热议",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 2642.3万",
+     "雷达 2026-10-29 起就在记录"
+    ],
+    "first_day": "2026-10-29",
+    "thread_id": 118,
+    "days_seen": 4
+   },
+   {
+    "name": "Grok Bot 新玩法不断",
+    "kind": "工具模型",
+    "lane": "工具与模型",
+    "summary": "Grok Bot 支持支付宝和银联卡支付，还能共享，并适配了 iPhone Duo。Krea 插件也接了进来，直接对 Grok 说话就能把草图变成卡通动画。",
+    "entity": "Grok Bot",
+    "value": 62,
+    "metrics": {
+     "tweets": 4,
+     "authors": 3,
+     "views_total": 82884,
+     "likes_total": 416
+    },
+    "samples": [
+     {
+      "title": "Grok bot 居然支持支付宝和银联卡支付了，还是老马呀，管你这那的。",
+      "url": "https://x.com/op7418/status/2116442573296513082",
+      "thumb": "",
+      "author": "歸藏(guizang.ai)",
+      "handle": "op7418",
+      "followers": 183900,
+      "views": 47554,
+      "likes": 218,
+      "bookmarks": 25,
+      "published": "10-31 16:10",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "不错，Grok bot 还能共享",
+      "url": "https://x.com/dotey/status/2116605149904781536",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 263305,
+      "views": 13849,
+      "likes": 26,
+      "bookmarks": 28,
+      "published": "11-01 02:56",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "turn your sketches into cartoon animations right inside Grok.\n\npowered by the Krea plugin.\n\njust ask Grok 👇 https://t.co/1nbrumAlqk",
+      "url": "https://x.com/krea_ai/status/2116250851513889245",
+      "thumb": "",
+      "author": "Krea",
+      "handle": "krea_ai",
+      "followers": 124484,
+      "views": 12854,
+      "likes": 160,
+      "bookmarks": 75,
+      "published": "10-31 03:28",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Grok  bot 也适配了 iPhone duo 了 https://t.co/CDLeQwspLb",
+      "url": "https://x.com/op7418/status/2116005477805154537",
+      "thumb": "",
+      "author": "歸藏(guizang.ai)",
+      "handle": "op7418",
+      "followers": 183900,
+      "views": 8627,
+      "likes": 12,
+      "bookmarks": 0,
+      "published": "10-30 11:13",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2116442573296513082",
+     "x:2116605149904781536",
+     "x:2116250851513889245",
+     "x:2116005477805154537"
+    ],
+    "breadth": null,
+    "label": "热议",
+    "basis": [
+     "4 条高互动推文，3 个账号，合计浏览 8.3万",
+     "雷达 2026-10-26 起就在记录"
+    ],
+    "first_day": "2026-10-26",
+    "thread_id": 45,
+    "days_seen": 4
+   },
+   {
+    "name": "苹果 AI 功能将在国内上线",
+    "kind": "热点事件",
+    "lane": "行业新闻",
+    "summary": "苹果 AI 功能终于要在国内上线了，随系统更新推送，大概在十二月。Siri 部分用的是旧版本，页面上写明由千问驱动。",
+    "entity": "Apple Intelligence",
+    "value": 60,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 10825,
+     "likes_total": 22
+    },
+    "samples": [
+     {
+      "title": "苹果 AI 功能终于要在国内上线了！\n\n不过 Siri 这部分应该是之前的版本，不是最新的，是 24 年那个版本。\n\n里面也写了是千问驱动。\n\n然后会在 iOS 27.3 更新，应该是 12 月。\n\n最主要的不是 Siri，Siri 倒无所谓，是一些比如说关于实时翻译呀之类的其他设备的 AI 功能挺有用的。 https://t.co/gJXUmYKJmi",
+      "url": "https://x.com/op7418/status/2116348058254647552",
+      "thumb": "",
+      "author": "歸藏(guizang.ai)",
+      "handle": "op7418",
+      "followers": 183900,
+      "views": 10825,
+      "likes": 22,
+      "bookmarks": 3,
+      "published": "10-31 09:54",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2116348058254647552"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 1.1万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-01",
+    "thread_id": 175,
+    "days_seen": 1
+   },
+   {
+    "name": "OpenAI 付费档使用额度翻倍",
+    "kind": "热点事件",
+    "lane": "工具与模型",
+    "summary": "OpenAI 宣布 Pro 等高价档使用额度全部翻倍，把之前去掉的额度加了回来。Tibo 的连续活动也进入最后两天，会送重置卡。",
+    "entity": "ChatGPT Pro",
+    "value": 58,
+    "metrics": {
+     "tweets": 3,
+     "authors": 3,
+     "views_total": 6649114,
+     "likes_total": 38697
+    },
+    "samples": [
+     {
+      "title": "RT @thsottiaux: Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard yo…",
+      "url": "https://x.com/OpenAI/status/2115854368566321594",
+      "thumb": "",
+      "author": "OpenAI",
+      "handle": "OpenAI",
+      "followers": 5494208,
+      "views": 6589608,
+      "likes": 38521,
+      "bookmarks": 3197,
+      "published": "10-30 01:12",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Tibo 终于熬完他的 28 天了，最后两天送重置卡👍",
+      "url": "https://x.com/dotey/status/2116409662635692138",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 263305,
+      "views": 39291,
+      "likes": 140,
+      "bookmarks": 4,
+      "published": "10-31 13:59",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "我去！\n\nOpenAI 把 Pro 会员的所有使用限额翻倍了！\n\n也就是说他们把之前去掉的那个额度加回来了，这下可以开极高推理爽用了",
+      "url": "https://x.com/op7418/status/2115976609148834301",
+      "thumb": "",
+      "author": "歸藏(guizang.ai)",
+      "handle": "op7418",
+      "followers": 183900,
+      "views": 20215,
+      "likes": 36,
+      "bookmarks": 2,
+      "published": "10-30 09:18",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2115854368566321594",
+     "x:2116409662635692138",
+     "x:2115976609148834301"
+    ],
+    "breadth": null,
+    "label": "热议",
+    "basis": [
+     "3 条高互动推文，3 个账号，合计浏览 664.9万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-01",
+    "thread_id": 176,
+    "days_seen": 1
+   },
+   {
+    "name": "网页客服输入 live agent 转人工",
+    "kind": "玩法教程",
+    "lane": "工具与模型",
+    "summary": "很多公司网页在线客服默认是问答选项，背后不是真人。输入“live agent”通常就能转接真人客服，是普通人马上能用的小招。",
+    "entity": "live agent",
+    "value": 55,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 10527,
+     "likes_total": 29
+    },
+    "samples": [
+     {
+      "title": "一个小技巧，很多公司的网页在线客服，默认都是那种 Q&amp;A 的问答，就是默认一些选项让你选择，实际上得不到有效的回复，因为背后不是真人，这时候你可以试试输入“live agent”，那么会帮你转接真人客服。 https://t.co/7bEDPz5YPZ",
+      "url": "https://x.com/dotey/status/2116258713187312073",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 263305,
+      "views": 10527,
+      "likes": 29,
+      "bookmarks": 11,
+      "published": "10-31 03:59",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2116258713187312073"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 1.1万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-01",
+    "thread_id": 177,
+    "days_seen": 1
+   },
+   {
+    "name": "Krea Ad Studio 贴链接做广告",
+    "kind": "工具模型",
+    "lane": "AI视频与创作",
+    "summary": "Krea 推出 Ad Studio，由新的广告专用模型驱动，贴上品牌链接就能生成广告素材。AI 广告视频工具继续扎堆出现。",
+    "entity": "Krea Ad Studio",
+    "value": 55,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 1373012,
+     "likes_total": 2219
+    },
+    "samples": [
+     {
+      "title": "introducing Ad Studio.\n\n- powered by our new Krea 3 expert model for ads.\n- paste a link of your brand and get dozens of ads\n- full consistency with your brand and products.\n\ntry it now for free 👇 https://t.co/YRbARYF9qN",
+      "url": "https://x.com/krea_ai/status/2115881363413008611",
+      "thumb": "",
+      "author": "Krea",
+      "handle": "krea_ai",
+      "followers": 124484,
+      "views": 1373012,
+      "likes": 2219,
+      "bookmarks": 2266,
+      "published": "10-30 03:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2115881363413008611"
+    ],
+    "breadth": null,
+    "label": "热议",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 137.3万",
+     "雷达 2026-10-29 起就在记录"
+    ],
+    "first_day": "2026-10-29",
+    "thread_id": 120,
+    "days_seen": 4
+   },
+   {
+    "name": "夸克网盘推出 Skill",
+    "kind": "工具模型",
+    "lane": "工具与模型",
+    "summary": "夸克网盘有了 Skill，各种 AI 能直接读取网盘里的图片、视频和旧资料。会员还能用智能搜索和相册整理，对话生成的文件也能直接上传。",
+    "entity": "夸克网盘",
+    "value": 55,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 23479,
+     "likes_total": 132
+    },
+    "samples": [
+     {
+      "title": "夸克网盘有 Skill了，这个牛逼啊！\n\n这下所有的 AI 直接能读你夸克网盘里所有的内容了：\n\n你的图片、你的视频，还有你以前的一些信息。\n\n而且会员的话还支持智能搜索和相册整理。\n\n你对话生成的文件还可以让它直接上传网盘，它也能帮你自动去备份一些重要的资料什么的，就是 Agent 都可以做了。 https://t.co/7xb4JdDxH6",
+      "url": "https://x.com/op7418/status/2116119701487337890",
+      "thumb": "",
+      "author": "歸藏(guizang.ai)",
+      "handle": "op7418",
+      "followers": 183900,
+      "views": 23479,
+      "likes": 132,
+      "bookmarks": 169,
+      "published": "10-30 18:47",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2116119701487337890"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 2.3万",
+     "雷达 2026-10-31 起就在记录"
+    ],
+    "first_day": "2026-10-31",
+    "thread_id": 157,
+    "days_seen": 2
+   },
+   {
+    "name": "X 要不要严打 AI 回复",
+    "kind": "观点讨论",
+    "lane": "创作者生态",
+    "summary": "有人主张 X 对 AI 回复零容忍，发一条就封号。另一位博主说自己更爱刷 Threads，因为那边没有 AI 评论，也看不到明显的 AI 生成内容。",
+    "entity": "X AI 回复",
+    "value": 55,
+    "metrics": {
+     "tweets": 2,
+     "authors": 2,
+     "views_total": 328533,
+     "likes_total": 4908
+    },
+    "samples": [
+     {
+      "title": "RT @levelsio: X should have a zero tolerance policy for AI replies\n\nLike you do one and your account is suspended for life\n\nReplies are a n…",
+      "url": "https://x.com/simonw/status/2116038973395263815",
+      "thumb": "",
+      "author": "Simon Willison",
+      "handle": "simonw",
+      "followers": 247948,
+      "views": 296296,
+      "likes": 4795,
+      "bookmarks": 169,
+      "published": "10-30 13:26",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "最近越来越喜欢刷 threads 了。\n\n一个是那边没有 AI 评论 和一眼是 AI 生成的内容。\n\n第二个是各种体验和交互设计得太好了 刷得很舒服。",
+      "url": "https://x.com/op7418/status/2116546563053178884",
+      "thumb": "",
+      "author": "歸藏(guizang.ai)",
+      "handle": "op7418",
+      "followers": 183900,
+      "views": 32237,
+      "likes": 113,
+      "bookmarks": 35,
+      "published": "10-31 23:03",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2116038973395263815",
+     "x:2116546563053178884"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "2 条高互动推文，2 个账号，合计浏览 32.9万",
+     "雷达 2026-10-31 起就在记录"
+    ],
+    "first_day": "2026-10-31",
+    "thread_id": 156,
+    "days_seen": 2
+   },
+   {
+    "name": "baoyu-design 加评论和局域网共享",
+    "kind": "开源仓库",
+    "lane": "工具与模型",
+    "summary": "baoyu-design 是能在本地当 Skill 运行的开源版 Claude Design。新版加了页面评论功能，Agent 能读取并回复评论，还支持在局域网内分享设计稿让同事直接编辑，也有用户称赞它做原型效果好。",
+    "entity": "baoyu-design",
+    "value": 55,
+    "metrics": {
+     "tweets": 5,
+     "authors": 1,
+     "views_total": 167512,
+     "likes_total": 1002
+    },
+    "samples": [
+     {
+      "title": "baoyu-design v2.1 加上了评论功能，现在可以在设计的页面、slides 上标记元素并添加评论，Agent 可以读取你的评论，并且还可以回复你的评论。\n\n所有评论数据都和项目数据保存在一起，成为你项目数据资产的一部分。\n\nhttps://t.co/POuwOWT2lM https://t.co/zAlJ66CaQN",
+      "url": "https://x.com/dotey/status/2116060639533969759",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 263305,
+      "views": 71914,
+      "likes": 158,
+      "bookmarks": 132,
+      "published": "10-30 14:52",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "做了一个 DeepSeek Harness 插件，现在 Claude Design 可以运行在 DeepSeek Harness，并且可以方便的标注、评论修改。 \n\nDeepSee Harness 确实越来越优秀了👍 @tianyi \n\n插件地址：https://t.co/5aOb2IXJMa https://t.co/BteewRJLfR",
+      "url": "https://x.com/dotey/status/2116336030584574076",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 263305,
+      "views": 59781,
+      "likes": 684,
+      "bookmarks": 715,
+      "published": "10-31 09:06",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "把它当成本地可以作为 skill 运行的 Claude design 就好\n\n主要是为了避免下架所以我改名了下，因为之前很多 claude code 命名的项目都被下架了，包括 Clawdbot 都要改名 openclaw。",
+      "url": "https://x.com/dotey/status/2116180142036828484",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 263305,
+      "views": 16213,
+      "likes": 43,
+      "bookmarks": 32,
+      "published": "10-30 22:47",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "RT @huqinyiyayuguan: 优化的提示词，果然不一样，这效果妥妥的，可以直接做高保真可交互原型了。  \n\n没办法直接用 Claude客户端的亲们 \nbaoyu-design 你值得拥有！ https://t.co/6zJ9sPiBZr",
+      "url": "https://x.com/dotey/status/2116210571909415126",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 263305,
+      "views": 12643,
+      "likes": 39,
+      "bookmarks": 50,
+      "published": "10-31 00:48",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "baoyu-design 增加了局域网内的团队共享功能，现在你的设计稿做好了，或者slides写好了，可以在局域网内分享，生成一个内部 IP 地址加端口的 URL（注意防火墙设置），让你的同事、老板也能对你的内容进行编辑、评论，并且实时同步。\n\n安全性也不用担心，所有数据都在你本机，你可以控制分享的权限级别：只读、评论、编辑，并且可以随时修改权限设置。\n\ndeepseek harness 的插件也同步更新了，一样支持这个功能。\n\n最新版",
+      "url": "https://x.com/dotey/status/2116623097839149231",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 263305,
+      "views": 6961,
+      "likes": 78,
+      "bookmarks": 39,
+      "published": "11-01 04:07",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2116060639533969759",
+     "x:2116336030584574076",
+     "x:2116180142036828484",
+     "x:2116210571909415126",
+     "x:2116623097839149231"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "5 条高互动推文，1 个账号，合计浏览 16.8万",
+     "雷达 2026-10-31 起就在记录"
+    ],
+    "first_day": "2026-10-31",
+    "thread_id": 151,
+    "days_seen": 2
+   },
+   {
+    "name": "归藏合并设计 Skill 做成插件",
+    "kind": "开源仓库",
+    "lane": "工具与模型",
+    "summary": "归藏把自己的几个设计 Skill 合并成 DeepSeek Harness 的插件，共用一套设计系统，旧的 PPT Skill 也做了优化。插件里还内置了能把图文视频排成精美网页的排版 Skill。",
+    "entity": "dsh-guizang-design",
+    "value": 52,
+    "metrics": {
+     "tweets": 4,
+     "authors": 1,
+     "views_total": 114647,
+     "likes_total": 820
+    },
+    "samples": [
+     {
+      "title": "终于把自己的几个设计 Skill 合并了！\n\n做成了一个 DSH 的插件 dsh-guizang-design\n\n共用一套设计系统和 Design Token，还加了几个有用的功能 https://t.co/PmrL9Cx3yL",
+      "url": "https://x.com/op7418/status/2116203707318841379",
+      "thumb": "",
+      "author": "歸藏(guizang.ai)",
+      "handle": "op7418",
+      "followers": 183900,
+      "views": 82674,
+      "likes": 592,
+      "bookmarks": 719,
+      "published": "10-31 00:20",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "这次给 Deepseek Harness 做的这个新插件 dsh-guizang-design，旧的 PPT Skill 也进行了很多优化。\n\n如果你已经安装过其中的几个 Skill 的话，建议更新一下\n\n这个插件内置的几个 Skill，比如 PPT Skill、社交媒体卡片 Skill 都获得了更新。\n\n比如 PPT Skill 那个杂志风格的 WebGL 背景加回来了，而且大幅优化了性能，不会再因为这个东西变得卡顿发热了",
+      "url": "https://x.com/op7418/status/2116357353566302376",
+      "thumb": "",
+      "author": "歸藏(guizang.ai)",
+      "handle": "op7418",
+      "followers": 183900,
+      "views": 20346,
+      "likes": 151,
+      "bookmarks": 138,
+      "published": "10-31 10:31",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "这次随之发布的，还有大家以前一直想要的网页排版 skill（guizang-pages-skill），也内置在插件里了。\n\n它会帮你把图文、视频排成一个非常精美的网页，所有的字体、字号、间距和细节都是为了阅读而设计的，尤其针对中文排版做了很多优化。\n\n右下角可以自定义样式，也做了移动端优化。\n\n同时它还可以帮你导出 PDF，非常适合将自己写的内容和 AI 的内容分享给朋友们",
+      "url": "https://x.com/op7418/status/2116398126546526443",
+      "thumb": "",
+      "author": "歸藏(guizang.ai)",
+      "handle": "op7418",
+      "followers": 183900,
+      "views": 11254,
+      "likes": 76,
+      "bookmarks": 83,
+      "published": "10-31 13:13",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Twitter 设计师的一个 skill 可以帮你制作更好的 UI 元素。\n\n比如在动效、交互体验的结果以及排版上都能有一些优化。\n\n如果有页面设计的需求，可以试试它。",
+      "url": "https://x.com/op7418/status/2116711094622593292",
+      "thumb": "",
+      "author": "歸藏(guizang.ai)",
+      "handle": "op7418",
+      "followers": 183900,
+      "views": 373,
+      "likes": 1,
+      "bookmarks": 1,
+      "published": "11-01 09:57",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2116203707318841379",
+     "x:2116357353566302376",
+     "x:2116398126546526443",
+     "x:2116711094622593292"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "4 条高互动推文，1 个账号，合计浏览 11.5万",
+     "雷达 2026-10-28 起就在记录"
+    ],
+    "first_day": "2026-10-28",
+    "thread_id": 98,
+    "days_seen": 4
+   },
+   {
+    "name": "万圣节 Seedance 2.5 提示词玩法",
+    "kind": "玩法教程",
+    "lane": "AI视频与创作",
+    "summary": "Dreamina 连发多支 Seedance 2.5 作品，评论关键词就能领完整提示词，还有万圣节品牌营销物料的教程。鼓励用户拿现成视频换个创意重新做。",
+    "entity": "Seedance 2.5",
+    "value": 50,
+    "metrics": {
+     "tweets": 9,
+     "authors": 1,
+     "views_total": 13803,
+     "likes_total": 266
+    },
+    "samples": [
+     {
+      "title": "No more posing. This red carpet just became a football field.\n\nComment \"football\" to get full prompts ⚽\n\n#DreaminaSeedance25 #Dreamina #ballondor https://t.co/TIgpw023ml",
+      "url": "https://x.com/dreamina_ai/status/2115911557905621492",
+      "thumb": "",
+      "author": "Dreamina AI",
+      "handle": "dreamina_ai",
+      "followers": 29401,
+      "views": 2384,
+      "likes": 42,
+      "bookmarks": 5,
+      "published": "10-30 05:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "She wants it, she gets it... 👜\n\nTutorial at the end 👀\n\n#DreaminaSeedance25 #Dreamina #viral #aigc https://t.co/C8K4qbqkyF",
+      "url": "https://x.com/dreamina_ai/status/2115956857118306795",
+      "thumb": "",
+      "author": "Dreamina AI",
+      "handle": "dreamina_ai",
+      "followers": 29401,
+      "views": 2324,
+      "likes": 49,
+      "bookmarks": 13,
+      "published": "10-30 08:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "🔥 Your turn to remix!\n\nTake this video, flip the idea, and make it YOURS. Any scene. Any style. No limits. 🎬\n🎁 Win 2,000 Dreamina credits!\n5 creators will be selected to win.\n\nHow to enter:\n1️⃣ Follow @dreamina_ai\n2️⃣ Qu",
+      "url": "https://x.com/dreamina_ai/status/2116606128054522004",
+      "thumb": "",
+      "author": "Dreamina AI",
+      "handle": "dreamina_ai",
+      "followers": 29401,
+      "views": 1915,
+      "likes": 36,
+      "bookmarks": 14,
+      "published": "11-01 03:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "He directly counts the money into a waterfall...💵\n\nComment \"money\" to get full prompts ⚽\n\n#DreaminaSeedance25 #Dreamina #viral #aigc https://t.co/mDv7BRyQOe",
+      "url": "https://x.com/dreamina_ai/status/2116198441738985504",
+      "thumb": "",
+      "author": "Dreamina AI",
+      "handle": "dreamina_ai",
+      "followers": 29401,
+      "views": 1658,
+      "likes": 40,
+      "bookmarks": 2,
+      "published": "10-31 00:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "When arresting the wanted criminal, she even played soccer...⚽️\n\nComment \"soccer\" to get full prompts ⚽\n\n#DreaminaSeedance25 #Dreamina #viral #ballondor https://t.co/g5Q3pYxNVO",
+      "url": "https://x.com/dreamina_ai/status/2116273938997363109",
+      "thumb": "",
+      "author": "Dreamina AI",
+      "handle": "dreamina_ai",
+      "followers": 29401,
+      "views": 1616,
+      "likes": 25,
+      "bookmarks": 3,
+      "published": "10-31 05:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2115911557905621492",
+     "x:2115956857118306795",
+     "x:2116606128054522004",
+     "x:2116198441738985504",
+     "x:2116273938997363109",
+     "x:2116566816801841272",
+     "x:2116581372743872609",
+     "x:2116636327257235754",
+     "x:2116681629389430915"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "9 条高互动推文，1 个账号，合计浏览 1.4万",
+     "雷达 2026-10-26 起就在记录"
+    ],
+    "first_day": "2026-10-26",
+    "thread_id": 53,
+    "days_seen": 3
+   },
+   {
+    "name": "Kimi 3D Make 连 Blender 建模",
+    "kind": "工具模型",
+    "lane": "工具与模型",
+    "summary": "Kimi 推出 3D Make，能连接 Blender 和 CAD 工具来建模、搭场景。有人点评说是让大模型用工具搭世界，成果能留在自己电脑上。",
+    "entity": "Kimi 3D Make",
+    "value": 50,
+    "metrics": {
+     "tweets": 2,
+     "authors": 2,
+     "views_total": 172893,
+     "likes_total": 3544
+    },
+    "samples": [
+     {
+      "title": "Introducing 3D Make in Kimi. \nKimi connects to tools like Blender and CAD tools to create models, assemble scenes, and develop games. \nAvailable now on https://t.co/Q150OaO4ww and Kimi Work. https://t.co/pwmv4Ccn00",
+      "url": "https://x.com/Kimi_Moonshot/status/2116005725814280570",
+      "thumb": "",
+      "author": "Kimi.ai",
+      "handle": "Kimi_Moonshot",
+      "followers": 389809,
+      "views": 171995,
+      "likes": 3535,
+      "bookmarks": 1402,
+      "published": "10-30 11:14",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Ah yes, the world you build can live on your PC using Kimi’s new 3D Make. LLMs use tools to build worlds, not code or framegen.\n\nDescribe a scene, and Kimi can use code and tools to build it\n🌀 Blender for geometry, mater",
+      "url": "https://x.com/TeksEdge/status/2116070097953624109",
+      "thumb": "",
+      "author": "David Hendrickson",
+      "handle": "TeksEdge",
+      "followers": 12594,
+      "views": 898,
+      "likes": 9,
+      "bookmarks": 7,
+      "published": "10-30 15:30",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2116005725814280570",
+     "x:2116070097953624109"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "2 条高互动推文，2 个账号，合计浏览 17.3万",
+     "雷达 2026-10-31 起就在记录"
+    ],
+    "first_day": "2026-10-31",
+    "thread_id": 161,
+    "days_seen": 2
+   },
+   {
+    "name": "Pika H3 Flex 开源视频模型",
+    "kind": "工具模型",
+    "lane": "AI视频与创作",
+    "summary": "Pika 发布 H3 Flex，在 DesignArena 文生视频榜上位列开源权重模型第一。官方还发了技术细节长帖，强调速度和创作者的灵活度。",
+    "entity": "Pika H3 Flex",
+    "value": 50,
+    "metrics": {
+     "tweets": 4,
+     "authors": 2,
+     "views_total": 1871671,
+     "likes_total": 5378
+    },
+    "samples": [
+     {
+      "title": "RT @pika_labs: Meet Pika H3 Flex, debuting today as the #1 open weight model on DesignArena’s t2v board.\n\nIt’s built for professional itera…",
+      "url": "https://x.com/huggingface/status/2115864260190314923",
+      "thumb": "",
+      "author": "Hugging Face",
+      "handle": "huggingface",
+      "followers": 833469,
+      "views": 919476,
+      "likes": 2519,
+      "bookmarks": 1101,
+      "published": "10-30 01:52",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Meet Pika H3 Flex, debuting today as the #1 open weight model on DesignArena’s t2v board.\n\nIt’s built for professional iteration, with exportable audio stems, resolutions up to 4k, and faster-than-realtime generation. It",
+      "url": "https://x.com/pika_labs/status/2115860471215788262",
+      "thumb": "",
+      "author": "Pika",
+      "handle": "pika_labs",
+      "followers": 151343,
+      "views": 919476,
+      "likes": 2519,
+      "bookmarks": 1101,
+      "published": "10-30 01:37",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "RT @pika_labs: Everything we put into this model was designed to give creators the flexibility and speed to explore with precision.\n\nIn tha…",
+      "url": "https://x.com/huggingface/status/2115864329052381528",
+      "thumb": "",
+      "author": "Hugging Face",
+      "handle": "huggingface",
+      "followers": 833469,
+      "views": 22966,
+      "likes": 209,
+      "bookmarks": 190,
+      "published": "10-30 01:52",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "A little deep dive on the technical aspects of our new model 🧵\n\nPika H3 Flex is open weights, faster-than-realtime, and priced starting at 0.01/sec. We post-trained it to generate in six denoising steps instead of 50, th",
+      "url": "https://x.com/pika_labs/status/2116288173378810003",
+      "thumb": "",
+      "author": "Pika",
+      "handle": "pika_labs",
+      "followers": 151343,
+      "views": 9753,
+      "likes": 131,
+      "bookmarks": 51,
+      "published": "10-31 05:56",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2115864260190314923",
+     "x:2115860471215788262",
+     "x:2115864329052381528",
+     "x:2116288173378810003"
+    ],
+    "breadth": null,
+    "label": "热议",
+    "basis": [
+     "4 条高互动推文，2 个账号，合计浏览 187.2万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-01",
+    "thread_id": 185,
+    "days_seen": 1
+   }
+  ],
+  "tools": {
+   "repos": [],
+   "models": [
+    {
+     "name": "Lightricks/LTX-2.5",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5",
+     "kind": "model",
+     "likes": 10100,
+     "downloads": 2441077,
+     "created": "2026-07-23",
+     "tags": [
+      "diffusion-single-file",
+      "image-to-video",
+      "text-to-video",
+      "video-to-video",
+      "image-text-to-video",
+      "audio-to-video"
+     ],
+     "zh": "Lightricks 的 LTX-2.5 开源视频生成模型，文生视频、图生视频",
+     "use": "下载量很高，可做「本地免费生成 AI 视频」的一期",
+     "group": "AI 视频与图像",
+     "value": 80
+    },
+    {
+     "name": "black-forest-labs/flux-3-image-klein-comfy",
+     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+     "kind": "model",
+     "likes": 2199,
+     "downloads": 925236,
+     "created": "2026-10-14",
+     "tags": [
+      "diffusion-single-file",
+      "comfyui",
+      "image-generation",
+      "image-editing",
+      "flux",
+      "flux-3"
+     ],
+     "zh": "Black Forest Labs 的 FLUX 3 Klein 图像生成与编辑模型，带 ComfyUI 工作流",
+     "use": "可做「一句话改图、出图」的教程，适合做封面和素材",
+     "group": "AI 视频与图像",
+     "value": 78
+    },
+    {
+     "name": "facebook/sam3",
+     "url": "https://huggingface.co/facebook/sam3",
+     "kind": "model",
+     "likes": 5571,
+     "downloads": 1900570,
+     "created": "2025-11-07",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "sam3_video",
+      "feature-extraction",
+      "sam3",
+      "mask-generation"
+     ],
+     "zh": "Meta 的 SAM3，能把图片和视频里的物体精准抠出来",
+     "use": "可做「AI 一键抠像、视频抠人」的科普，对剪辑有帮助",
+     "group": "AI 视频与图像",
+     "value": 65
+    },
+    {
+     "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+     "kind": "model",
+     "likes": 4111,
+     "downloads": 156373,
+     "created": "2026-10-17",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "deepseek_v41",
+      "text-generation",
+      "image-text-to-text",
+      "eval-results"
+     ],
+     "zh": "DeepSeek 新一代 V4.1 Flash 模型，支持文字和图片输入，速度快",
+     "use": "可以做一期国产大模型新版实测对比，普通人也能看懂",
+     "group": "模型",
+     "value": 62
+    },
+    {
+     "name": "Pika-Labs/Pika-H3-Flex",
+     "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+     "kind": "model",
+     "likes": 266,
+     "downloads": 294,
+     "created": "2026-10-30",
+     "tags": [
+      "diffusers",
+      "safetensors",
+      "video-generation",
+      "audio-video-generation",
+      "lora",
+      "image-to-video"
+     ],
+     "zh": "Pika 的视频生成模型，支持音视频同步生成和图生视频",
+     "use": "能同时出画面和声音，可做新视频模型体验，但目前热度低",
+     "group": "AI 视频与图像",
+     "value": 60
+    },
+    {
+     "name": "Qwen/Qwen3.8-27B",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+     "kind": "model",
+     "likes": 18866,
+     "downloads": 7581050,
+     "created": "2026-08-05",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "conversational",
+      "eval-results"
+     ],
+     "zh": "通义千问 Qwen3.8 27B 开源模型，能看图聊天，下载量很大",
+     "use": "可做国产开源模型实测，本地部署门槛中等",
+     "group": "模型",
+     "value": 58
+    },
+    {
+     "name": "microsoft/TRELLIS.2",
+     "url": "https://huggingface.co/spaces/microsoft/TRELLIS.2",
+     "kind": "space",
+     "likes": 2317,
+     "downloads": null,
+     "created": "2025-12-10",
+     "tags": [
+      "gradio"
+     ],
+     "zh": "微软 TRELLIS.2 空间，上传图片生成 3D 模型",
+     "use": "可做「一张图变 3D 模型」的上手演示，网页直接用",
+     "group": "AI 视频与图像",
+     "value": 58
+    },
+    {
+     "name": "speridlabs/idol",
+     "url": "https://huggingface.co/speridlabs/idol",
+     "kind": "model",
+     "likes": 214,
+     "downloads": 2367,
+     "created": "2026-10-28",
+     "tags": [
+      "idol",
+      "gaussian-splatting",
+      "3d",
+      "image-to-3d"
+     ],
+     "zh": "由单张图片生成 3D 高斯点云模型的项目",
+     "use": "可做「一张照片变 3D」的趣味演示",
+     "group": "AI 视频与图像",
+     "value": 45
+    }
+   ],
+   "stories": []
+  },
+  "news": [
+   {
+    "name": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
+    "url": "https://aihot.news/items/akdeq33m7cpr8m7zsfgvfiz5c",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-31 08:58",
+    "zh": "Figma 发布 Weave，用节点工作流做图像视频的生成与编辑",
+    "use": "可做「AI 图片视频流水线」的科普，批量出素材很对口",
+    "group": "AI 视频与图像",
+    "value": 72
+   },
+   {
+    "name": "Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制",
+    "url": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-31 01:42",
+    "zh": "Claude 套餐改名为 Max 和 Ultra，Ultra 取消 5 小时限制",
+    "use": "Claude Code 重度用户直接受益，可做订阅选择指南",
+    "group": "Agent 与编程",
+    "value": 68
+   },
+   {
+    "name": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+    "url": "https://aihot.news/items/ykvaq4vx3ydt23josezzan62r",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-30 12:04",
+    "zh": "Kimi 官方教程：用 K3.1 Pro 做 3D 作品，含 4 个案例",
+    "use": "可照着教程做「AI 做 3D」的视频，案例现成",
+    "group": "AI 视频与图像",
+    "value": 66
+   },
+   {
+    "name": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+    "url": "https://www.qbitai.com/2026/10/506855.html",
+    "source_name": "量子位",
+    "votes": null,
+    "published": "10-31 13:05",
+    "zh": "Claude 取消 5 小时限制，首批 Ultra 用户已解封",
+    "use": "Claude Code 用户可以连续长时间使用，直接利好",
+    "group": "Agent 与编程",
+    "value": 66
+   },
+   {
+    "name": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+    "url": "https://www.qbitai.com/2026/10/506743.html",
+    "source_name": "量子位",
+    "votes": null,
+    "published": "10-30 15:31",
+    "zh": "英伟达与 MIT 开源视频增强方案，最高支持 4K 重生成",
+    "use": "可把模糊视频升到 4K，对剪辑素材修复有用",
+    "group": "AI 视频与图像",
+    "value": 65
+   },
+   {
+    "name": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
+    "url": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-31 02:28",
+    "zh": "谷歌在轨道卫星上用 TPU 运行 Gemma，首次在太空完成推理",
+    "use": "「AI 在太空写诗」很有话题性，适合做科普",
+    "group": "模型",
+    "value": 60
+   },
+   {
+    "name": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+    "url": "https://aihot.news/items/cbggw7imkzd4c01ifblroln6v",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "10-31 08:03",
+    "zh": "千问接入苹果智能，11月4日开始测试",
+    "use": "国内 iPhone 用户在 Siri 里就能用千问，话题度高",
+    "group": "模型",
+    "value": 55
+   },
+   {
+    "name": "OpenAI 12月起将ChatGPT与Codex合并为统一Token额度",
+    "url": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-01 08:22",
+    "zh": "OpenAI 12月起把 ChatGPT 与 Codex 用量合并为统一 Token 额度",
+    "use": "Plus/Pro 用户额度算法会变，可提醒用 Codex 的人注意",
+    "group": "Agent 与编程",
+    "value": 50
+   }
+  ]
+ },
+ "stats": {
+  "items": 1883,
+  "by_source": {
+   "bili": 613,
+   "bili_hot": 50,
+   "youtube": 55,
+   "douyin": 147,
+   "x": 658,
+   "hf": 51,
+   "hn": 13,
+   "douyin_hot": 200,
+   "aihot": 20,
+   "qbitai": 10,
+   "ithome": 60,
+   "sspai": 6
+  }
+ }
+}

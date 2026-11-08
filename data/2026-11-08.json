@@ -1,0 +1,2206 @@
+{
+ "version": 1,
+ "day": "2026-11-08",
+ "generated_at": 1794105607.2997081,
+ "generated_bj": "2026-11-08 10:40",
+ "history_days": 14,
+ "summary": "今天最亮的是星舰新动作，6 个账号在 YouTube 同时讲，2 万粉的号单条 49 万播放，国内还没人讲清楚。身边反常原理那条线有好几个小号在 B 站冲到百万播放，AI 那边贴纸遮 AI 眼镜指示灯和 Claude 做梦整理记忆都能做。",
+ "headline": [
+  {
+   "title": "星舰这次入轨，多了哪些新动作",
+   "verdict": "今天就能做",
+   "why": "6 个账号同时在讲星舰新动作，2 万粉的号单条 49 万播放。",
+   "comment": "普通人会问火箭都飞上天了，怎么还能原地接住。懂行的会盯着焊接工艺和入轨细节挑错。唱反调的会说这些别人早讲过，所以要挑一个点讲透，别什么都讲。",
+   "next_step": "用官方直播画面，各画一张入轨、回收接住、焊接的原理动画。",
+   "risk": "入轨、接住、焊接三件事要先核实。",
+   "grade": "S",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V0"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "星舰新一次试飞新动作",
+     "label": "新起",
+     "thread_id": 27
+    }
+   ]
+  },
+  {
+   "title": "一张小贴纸，让 AI 眼镜变偷拍神器",
+   "verdict": "值得做",
+   "why": "贴纸一遮指示灯就能拍，4.7 万粉的号单条 186.8 万播放。",
+   "comment": "观众会问自己被拍了怎么知道。懂行的会说光靠一盏灯本来就不可靠。唱反调的会说这是电商卖家炒作。重点讲怎么防，别讲怎么拍。",
+   "next_step": "用新闻画面加自画图，讲指示灯怎么提醒路人、为啥一挡就失效。",
+   "risk": "销量 5000 件要核实来源，别教偷拍。",
+   "grade": "A",
+   "audience": "C AI",
+   "refs": [
+    "V7"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "贴纸遮住AI眼镜指示灯",
+     "label": "持续",
+     "thread_id": 237
+    }
+   ]
+  },
+  {
+   "title": "植物嫁接为什么没有排异反应",
+   "verdict": "值得做",
+   "why": "两株植物能接成一棵，3.1 万粉的号单条 134.2 万播放。",
+   "comment": "大家都吃过嫁接的水果，但没想过为啥不排斥。这题用人体器官移植一对比，反差就出来了。懂行的会提醒不是什么植物都能接。",
+   "next_step": "拿真嫁接果树的画面，画切口两边组织怎么长到一起。",
+   "risk": "嫁接也有不亲和，别说成绝对没排异。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V5"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "植物嫁接为何没有排异",
+     "label": "观察",
+     "thread_id": 325
+    }
+   ]
+  },
+  {
+   "title": "狗为什么对黄色小鸭子这么着迷",
+   "verdict": "值得做",
+   "why": "狗见黄鸭子就痴迷，3.6 万粉的号单条 119.2 万播放。",
+   "comment": "养狗的人基本都见过，转发给朋友的意愿高。懂行的会说狗的视觉和人不一样。唱反调的会说其实不是所有狗都迷黄鸭子。",
+   "next_step": "用养狗人都有的真画面，画狗眼里看到的颜色。",
+   "risk": "原因可能不止一个，查论文再下结论。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V6"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "狗为什么迷恋黄鸭子",
+     "label": "观察",
+     "thread_id": 326
+    }
+   ]
+  },
+  {
+   "title": "有人带头鼓掌，为什么有时全场跟",
+   "verdict": "值得做",
+   "why": "同样带头鼓掌，有时全场起立有时没人跟，1384 粉的号单条 128.2 万播放。",
+   "comment": "观众最想知道的是什么时候不跟。这个标签是持续，别写成刚冒出来的题。能拿走一个判断标准，比如谁在带头、周围人怎么看。",
+   "next_step": "用演讲现场真画面，画一个人到全场的跟风链条。",
+   "risk": "跟风条件要有研究出处，别拍脑袋。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V4"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "有人带头鼓掌为何全场跟",
+     "label": "持续",
+     "thread_id": 277
+    }
+   ]
+  },
+  {
+   "title": "Claude 靠做梦整理记忆是啥意思",
+   "verdict": "值得做",
+   "why": "Anthropic 说 Claude 用做梦整理记忆，官方推文 41.2 万浏览。",
+   "comment": "普通人会问 AI 真的会做梦吗。懂行的会说这只是整理记忆的拟人说法。唱反调的会说这是营销话术，所以开头就要讲明白是比喻。",
+   "next_step": "画白天记事、夜里整理的动画，对照人睡觉巩固记忆。",
+   "risk": "「做梦」是比喻，先读原博客再讲。",
+   "grade": "A",
+   "audience": "C AI",
+   "refs": [
+    "X5"
+   ],
+   "links": [
+    {
+     "section": "x",
+     "name": "Claude 用做梦整理记忆",
+     "label": "关注",
+     "thread_id": 318
+    }
+   ]
+  },
+  {
+   "title": "古代守城，为什么要煮粪水泼下去",
+   "verdict": "可以留着",
+   "why": "放着开水不用偏煮粪水，866 粉的号单条 74.3 万播放。",
+   "comment": "这个反常点很抓人，观众一听就想知道门道。但标签只是观察，还没有多个账号在做。懂行的会追问哪本书里写的，所以得先查清出处。",
+   "next_step": "画城头泼下去的过程，对比开水和粪水造成的伤口。",
+   "risk": "史料出处要核实，别当成定论。",
+   "grade": "B",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V3"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "古代守城为何煮粪水",
+     "label": "观察",
+     "thread_id": 323
+    }
+   ]
+  },
+  {
+   "title": "故意胡说八道，能骗过 AI 面试吗",
+   "verdict": "先观察",
+   "why": "有人想故意面试失败，211 粉的号单条 25.8 万播放。",
+   "comment": "观众会好奇 AI 面试官到底看什么。懂行的会说每家系统打分方式不一样。唱反调的会说一条视频说明不了问题，先等等看有没有第二条。",
+   "next_step": "找原视频授权片段，画 AI 面试官打分流程。",
+   "risk": "只有一条视频，AI 打分机制别瞎猜。",
+   "grade": "C",
+   "audience": "C AI",
+   "refs": [
+    "V8"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "故意胡说能否骗过AI面试",
+     "label": "观察",
+     "thread_id": 328
+    }
+   ]
+  }
+ ],
+ "sections": {
+  "hotwords": [
+   {
+    "word": "OpenAI dots读验证码代用户登录",
+    "platform": "B站热搜",
+    "rank": 8,
+    "url": "https://search.bilibili.com/all?keyword=OpenAI dots读验证码代用户登录"
+   },
+   {
+    "word": "OpenAI dots读验证码代用户登录",
+    "platform": "B站热搜",
+    "rank": 8,
+    "url": "https://search.bilibili.com/all?keyword=OpenAI%20dots%E8%AF%BB%E9%AA%8C%E8%AF%81%E7%A0%81%E4%BB%A3%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95"
+   },
+   {
+    "word": "DeepSeek Harness基础教学",
+    "platform": "B站热搜",
+    "rank": 14,
+    "url": "https://search.bilibili.com/all?keyword=DeepSeek Harness"
+   },
+   {
+    "word": "DeepSeek Harness基础教学",
+    "platform": "B站热搜",
+    "rank": 19,
+    "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness"
+   },
+   {
+    "word": "顶尖科学家谈是否会被AI取代",
+    "platform": "B站热搜",
+    "rank": 37,
+    "url": "https://search.bilibili.com/all?keyword=顶尖科学家谈是否会被AI取代"
+   },
+   {
+    "word": "明年停产的特斯拉 Cybertruck 又涨价，入门版已暂停接受订单",
+    "platform": "IT之家",
+    "rank": 4,
+    "url": "https://www.ithome.com/1/023/863.htm"
+   },
+   {
+    "word": "陶琳：特斯拉上海超级工厂零部件本土化率达 98%",
+    "platform": "IT之家",
+    "rank": 7,
+    "url": "https://www.ithome.com/1/023/861.htm"
+   },
+   {
+    "word": "芝加哥大学教授：AI 时代数学人才招聘将更看重研究愿景与表达能力",
+    "platform": "IT之家",
+    "rank": 8,
+    "url": "https://www.ithome.com/1/023/859.htm"
+   },
+   {
+    "word": "IT早报 1108：比亚迪超豪华行政旗舰轿车仰望鼎曜行政版发布；中国空间站将迎首位外籍航天员；深蓝汽车“车载洗脚装置”专利公布；搜狗问问正式停运...",
+    "platform": "IT之家",
+    "rank": 20,
+    "url": "https://www.ithome.com/1/023/846.htm"
+   },
+   {
+    "word": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致",
+    "platform": "IT之家",
+    "rank": 21,
+    "url": "https://www.ithome.com/1/023/845.htm"
+   },
+   {
+    "word": "神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周",
+    "platform": "IT之家",
+    "rank": 22,
+    "url": "https://www.ithome.com/1/023/844.htm"
+   },
+   {
+    "word": "《塞尔达传说：时之笛》重制版刚发售，就已可在越狱版 PS5 和 iPhone 上运行",
+    "platform": "IT之家",
+    "rank": 25,
+    "url": "https://www.ithome.com/1/023/841.htm"
+   },
+   {
+    "word": "Backglow 应用上线：可让新款 MacBook Pro 发光苹果 Logo 随音乐律动",
+    "platform": "IT之家",
+    "rank": 27,
+    "url": "https://www.ithome.com/1/023/839.htm"
+   },
+   {
+    "word": "谷歌高管哈里森辞去 SpaceX 董事会职务，任职已超十年",
+    "platform": "IT之家",
+    "rank": 30,
+    "url": "https://www.ithome.com/1/023/836.htm"
+   },
+   {
+    "word": "乘客削苹果遇急刹车水果刀插进心脏",
+    "platform": "头条热榜",
+    "rank": 10,
+    "url": "https://www.toutiao.com/trending/7705013644970574345/"
+   },
+   {
+    "word": "巴西市长检查医院男女医生闭门大睡",
+    "platform": "头条热榜",
+    "rank": 26,
+    "url": "https://www.toutiao.com/trending/7705315282226987062/"
+   },
+   {
+    "word": "中国不买英伟达芯片美国人急什么",
+    "platform": "头条热榜",
+    "rank": 28,
+    "url": "https://www.toutiao.com/trending/7704527128851398719/"
+   },
+   {
+    "word": "医生口中的“清淡饮食”到底指什么",
+    "platform": "百度热搜",
+    "rank": 22,
+    "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%E5%8F%A3%E4%B8%AD%E7%9A%84%E2%80%9C%E6%B8%85%E6%B7%A1%E9%A5%AE%E9%A3%9F%E2%80%9D%E5%88%B0%E5%BA%95%E6%8C%87%E4%BB%80%E4%B9%88"
+   },
+   {
+    "word": "“不想打工”的人形机器人在仓库吃灰",
+    "platform": "百度热搜",
+    "rank": 23,
+    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8D%E6%83%B3%E6%89%93%E5%B7%A5%E2%80%9D%E7%9A%84%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E4%BB%93%E5%BA%93%E5%90%83%E7%81%B0"
+   },
+   {
+    "word": "为什么说健身房练完后器械上面的杠铃片要归位？",
+    "platform": "知乎热榜",
+    "rank": 5,
+    "url": "https://www.zhihu.com/question/470350250"
+   },
+   {
+    "word": "中国空间站将迎首位外籍航天员，巴基斯坦载荷专家参加神舟二十四号任务，具有哪些意义？",
+    "platform": "知乎热榜",
+    "rank": 7,
+    "url": "https://www.zhihu.com/question/2102344635867559303"
+   },
+   {
+    "word": "怎么看字节跳动的扣子宣布下线解散，AI 工作流是不是已经没有市场了？",
+    "platform": "知乎热榜",
+    "rank": 8,
+    "url": "https://www.zhihu.com/question/2101391707430565604"
+   },
+   {
+    "word": "横店短剧女主半年接不到戏，选择摆摊交房租，当 AI 短剧越来越火，未来真人短剧行业将如何发展？",
+    "platform": "知乎热榜",
+    "rank": 9,
+    "url": "https://www.zhihu.com/question/2101613309371986604"
+   },
+   {
+    "word": "为什么我们要保护并不稀有的麻雀？",
+    "platform": "知乎热榜",
+    "rank": 10,
+    "url": "https://www.zhihu.com/question/2098747939841652056"
+   },
+   {
+    "word": "东风 -61 已列装到火箭军，这意味着什么？",
+    "platform": "知乎热榜",
+    "rank": 12,
+    "url": "https://www.zhihu.com/question/2101952535791718620"
+   },
+   {
+    "word": "曝美光将暂停 45 亿美元内存厂扩产，为何后续会出现要么 AI 崩要么内存涨价的局面？",
+    "platform": "知乎热榜",
+    "rank": 16,
+    "url": "https://www.zhihu.com/question/2102194286016082260"
+   },
+   {
+    "word": "为什么同样是医学季，offer 3 不像 offer 8 一样被骂？",
+    "platform": "知乎热榜",
+    "rank": 17,
+    "url": "https://www.zhihu.com/question/2096320545000092515"
+   },
+   {
+    "word": "教育部推行教师 AI 全覆盖培训，部分教师却表示「越用 AI 反而越累」，为什么会出现这种现象？",
+    "platform": "知乎热榜",
+    "rank": 20,
+    "url": "https://www.zhihu.com/question/2101733537099559120"
+   }
+  ],
+  "video": [
+   {
+    "name": "星舰新一次试飞新动作",
+    "kind": "A 新闻怎么做到",
+    "summary": "YouTube 上多条视频围绕星舰这次新动作：入轨、回收接住、焊接工艺升级。观众想看懂这些动作是怎么做到的。",
+    "ai_relevance": 75,
+    "bili_term": "",
+    "youtube_term": "Starship Go For Orbit",
+    "metrics": {
+     "videos": 6,
+     "authors": 6,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 2241820,
+     "views_max": 716432,
+     "vph_max": 64928.9,
+     "likes_total": 0,
+     "max_vsr": 25.0,
+     "outlier": {
+      "views": 490000,
+      "followers": 19600,
+      "title": "SpaceX Ship 42 Just Did Something No Starship Has Ever Done!"
+     },
+     "earliest": 1793759694.0120332,
+     "median_age_h": 48.0
+    },
+    "samples": [
+     {
+      "title": "Starship - Go For Orbit",
+      "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY",
+      "thumb": "https://i.ytimg.com/vi/8ySMdUIF3cY/hqdefault.jpg",
+      "author": "SpaceX",
+      "platform": "YouTube",
+      "duration": 1271,
+      "vertical": false,
+      "views": 716432,
+      "likes": null,
+      "followers": 7010000,
+      "vsr": 0.1,
+      "vph": 64928.9,
+      "age_h": 11.0,
+      "published": "11-07 23:34"
+     },
+     {
+      "title": "SpaceX Ship 42 Just Did Something No Starship Has Ever Done!",
+      "url": "https://www.youtube.com/watch?v=e9L1y0Kcs2I",
+      "thumb": "https://i.ytimg.com/vi/e9L1y0Kcs2I/hqdefault.jpg",
+      "author": "What about it!?",
+      "platform": "YouTube",
+      "duration": 1255,
+      "vertical": false,
+      "views": 490000,
+      "likes": null,
+      "followers": 19600,
+      "vsr": 25.0,
+      "vph": 5102.4,
+      "age_h": 96.0,
+      "published": "11-04 10:34"
+     },
+     {
+      "title": "SpaceX - “GO FOR ORBIT” Documentary 4K",
+      "url": "https://www.youtube.com/watch?v=wlWF7kJokvk",
+      "thumb": "https://i.ytimg.com/vi/wlWF7kJokvk/hqdefault.jpg",
+      "author": "Launch Heaven",
+      "platform": "YouTube",
+      "duration": 1271,
+      "vertical": false,
+      "views": 314420,
+      "likes": null,
+      "followers": 28700,
+      "vsr": 10.96,
+      "vph": 13082.2,
+      "age_h": 24.0,
+      "published": "11-07 10:34"
+     },
+     {
+      "title": "SpaceX’s New Starship Reveal Is Incredible!",
+      "url": "https://www.youtube.com/watch?v=mZRZyi6Lvf0",
+      "thumb": "https://i.ytimg.com/vi/mZRZyi6Lvf0/hqdefault.jpg",
+      "author": "Marcus House",
+      "platform": "YouTube",
+      "duration": 1389,
+      "vertical": false,
+      "views": 305773,
+      "likes": null,
+      "followers": 590000,
+      "vsr": 0.52,
+      "vph": 21787.8,
+      "age_h": 14.0,
+      "published": "11-07 20:34"
+     },
+     {
+      "title": "The Catch That Will Unlock SpaceX's Future | Starship Update",
+      "url": "https://www.youtube.com/watch?v=8Dsld-4HrXY",
+      "thumb": "https://i.ytimg.com/vi/8Dsld-4HrXY/hqdefault.jpg",
+      "author": "NASASpaceflight",
+      "platform": "YouTube",
+      "duration": 930,
+      "vertical": false,
+      "views": 223928,
+      "likes": null,
+      "followers": 26700,
+      "vsr": 8.39,
+      "vph": 3108.6,
+      "age_h": 72.0,
+      "published": "11-05 10:34"
+     },
+     {
+      "title": "SpaceX's New Starship Welding Upgrade JUST ERASED 75% of Production Time!",
+      "url": "https://www.youtube.com/watch?v=ZEXW9LOloWY",
+      "thumb": "https://i.ytimg.com/vi/ZEXW9LOloWY/hqdefault.jpg",
+      "author": "TECH MAP",
+      "platform": "YouTube",
+      "duration": 703,
+      "vertical": false,
+      "views": 191267,
+      "likes": null,
+      "followers": 134000,
+      "vsr": 1.43,
+      "vph": 2655.2,
+      "age_h": 72.0,
+      "published": "11-05 10:34"
+     }
+    ],
+    "member_ids": [
+     "youtube:8ySMdUIF3cY",
+     "youtube:e9L1y0Kcs2I",
+     "youtube:wlWF7kJokvk",
+     "youtube:mZRZyi6Lvf0",
+     "youtube:8Dsld-4HrXY",
+     "youtube:ZEXW9LOloWY"
+    ],
+    "weight": 102.9,
+    "probe_youtube": {
+     "year_n": 11,
+     "match": 6,
+     "match_recent": 4,
+     "oldest_match_days": 30,
+     "samples": [
+      {
+       "title": "Starship - Go For Orbit",
+       "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY",
+       "views": 716585,
+       "published": "11h ago"
+      },
+      {
+       "title": "SpaceX Just Released The Go For Orbit' Documentary & New Footage Shows Starship Was Almost A Tragedy",
+       "url": "https://www.youtube.com/watch?v=zpf2GN-PkwU",
+       "views": 1584,
+       "published": "9h ago"
+      },
+      {
+       "title": "SpaceX Go For Orbit (Starship Episode 4) Documentary",
+       "url": "https://www.youtube.com/watch?v=gY4wgwJ-els",
+       "views": 245,
+       "published": "1d ago"
+      }
+     ],
+     "term": "Starship Go For Orbit"
+    },
+    "label": "新起",
+    "basis": [
+     "YouTube 搜「Starship Go For Orbit」：今年的相关视频里 6 条标题对得上，其中 4 条是最近 10 天发的，以前几乎没有",
+     "6 个不同账号在做",
+     "有小号爆了：2.0万 粉的号单条 49.0万 播放",
+     "雷达 2026-10-25 起就在记录"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 27,
+    "days_seen": 13
+   },
+   {
+    "name": "夜市摊位越干净越危险",
+    "kind": "B 身边反常原理",
+    "summary": "抖音上两条讲同一个反常点：看着干净的小吃反而藏着风险，其中一条还说排第一的你可能天天吃。观众想知道危险在哪。",
+    "ai_relevance": 75,
+    "bili_term": "",
+    "youtube_term": "clean looking street food hidden danger",
+    "metrics": {
+     "videos": 2,
+     "authors": 2,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 135709,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793646364.0,
+     "median_age_h": 120.2
+    },
+    "samples": [
+     {
+      "title": "看着越干净越危险的六种小吃，排名第一你可能天天吃！",
+      "url": "https://www.douyin.com/video/7703652458400689593",
+      "thumb": "img/9444fe8ab6c4e7d6.jpg",
+      "author": "久久万物",
+      "platform": "抖音",
+      "duration": 298,
+      "vertical": true,
+      "views": null,
+      "likes": 122568,
+      "followers": 530293,
+      "vsr": null,
+      "vph": null,
+      "age_h": 127.5,
+      "published": "11-03 03:06"
+     },
+     {
+      "title": "看着干净，但蕴藏危险的小吃",
+      "url": "https://www.douyin.com/video/7703879617975629203",
+      "thumb": "img/d6187c385ea23f70.jpg",
+      "author": "深空解码",
+      "platform": "抖音",
+      "duration": 343,
+      "vertical": true,
+      "views": null,
+      "likes": 13141,
+      "followers": 93527,
+      "vsr": null,
+      "vph": null,
+      "age_h": 112.8,
+      "published": "11-03 17:47"
+     }
+    ],
+    "member_ids": [
+     "douyin:7703652458400689593",
+     "douyin:7703879617975629203"
+    ],
+    "weight": 42.9,
+    "label": "持续",
+    "basis": [
+     "雷达 2026-11-02 起就在记录"
+    ],
+    "first_day": "2026-11-02",
+    "thread_id": 189,
+    "days_seen": 3
+   },
+   {
+    "name": "古法鱼眼夜明珠",
+    "kind": "B 身边反常原理",
+    "summary": "用鱼眼制作古法夜明珠，这个做法很稀奇。小号靠它爆了，观众好奇真假和做法。",
+    "ai_relevance": 55,
+    "bili_term": "",
+    "youtube_term": "",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 93127,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793968937.0,
+     "median_age_h": 37.9
+    },
+    "samples": [
+     {
+      "title": "古法夜明珠-用鱼眼制作",
+      "url": "https://www.douyin.com/video/7705037913624439153",
+      "thumb": "img/5b5c59dff3c45c12.jpg",
+      "author": "小煜动漫科普",
+      "platform": "抖音",
+      "duration": 66,
+      "vertical": true,
+      "views": null,
+      "likes": 93127,
+      "followers": 3588,
+      "vsr": null,
+      "vph": null,
+      "age_h": 37.9,
+      "published": "11-06 20:42"
+     }
+    ],
+    "member_ids": [
+     "douyin:7705037913624439153"
+    ],
+    "weight": 25.7,
+    "label": "观察",
+    "basis": [
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 322,
+    "days_seen": 1
+   },
+   {
+    "name": "古代守城为何煮粪水",
+    "kind": "B 身边反常原理",
+    "summary": "古代守城时放着开水不用，偏要在城头架锅煮粪水往下泼。小号爆了，观众想知道这个反常做法的门道。",
+    "ai_relevance": 60,
+    "bili_term": "煮粪水",
+    "youtube_term": "medieval siege defenders boiling feces",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 743482,
+     "views_max": 743482,
+     "vph_max": 15900.6,
+     "likes_total": 0,
+     "max_vsr": 743.48,
+     "outlier": {
+      "views": 743482,
+      "followers": 866,
+      "title": "「Vibe知识大赏」古代守城，为什么放着开水不用，非要在城头架起大锅“煮粪水”往下泼？"
+     },
+     "earliest": 1793937088.0,
+     "median_age_h": 46.8
+    },
+    "samples": [
+     {
+      "title": "「Vibe知识大赏」古代守城，为什么放着开水不用，非要在城头架起大锅“煮粪水”往下泼？",
+      "url": "https://www.bilibili.com/video/BV1aX4i6oE5h",
+      "thumb": "https://i2.hdslb.com/bfs/archive/6aeb4f084afa318773ea6ae3220c2765b0173b38.jpg",
+      "author": "问号灯呀",
+      "platform": "B站",
+      "duration": 112,
+      "vertical": false,
+      "views": 743482,
+      "likes": 17376,
+      "followers": 866,
+      "vsr": 743.48,
+      "vph": 15900.6,
+      "age_h": 46.8,
+      "published": "11-06 11:51"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1aX4i6oE5h"
+    ],
+    "weight": 24.6,
+    "probe_bili": {
+     "term": "煮粪水",
+     "recent_n": 1,
+     "before_n": 0,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 1,
+     "before_page": 0,
+     "recent_per_day": 0.14,
+     "before_per_day": 0.0,
+     "capped": false,
+     "recent_top": [
+      743861
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 1.7
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「煮粪水」：之前 53 天播放最高的 20 条里 0 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：866 粉的号单条 74.3万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 323,
+    "days_seen": 1
+   },
+   {
+    "name": "有人带头鼓掌为何全场跟",
+    "kind": "B 身边反常原理",
+    "summary": "同样是有人带头鼓掌，有时全场起立，有时没人跟。观众想知道群体为什么会跟风，什么时候不跟。",
+    "ai_relevance": 85,
+    "bili_term": "带头鼓掌",
+    "youtube_term": "why do people follow clapping crowd",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1282301,
+     "views_max": 1282301,
+     "vph_max": 13827.3,
+     "likes_total": 0,
+     "max_vsr": 926.52,
+     "outlier": {
+      "views": 1282301,
+      "followers": 1384,
+      "title": "有人带头鼓掌，为什么有时全场站、有时没人跟？"
+     },
+     "earliest": 1793771564.0,
+     "median_age_h": 92.7
+    },
+    "samples": [
+     {
+      "title": "有人带头鼓掌，为什么有时全场站、有时没人跟？",
+      "url": "https://www.bilibili.com/video/BV12WxX6oEx4",
+      "thumb": "https://i1.hdslb.com/bfs/archive/895526129a72422db5e890aadac064505ab9c8a3.jpg",
+      "author": "墨点实验室",
+      "platform": "B站",
+      "duration": 105,
+      "vertical": false,
+      "views": 1282301,
+      "likes": 33605,
+      "followers": 1384,
+      "vsr": 926.52,
+      "vph": 13827.3,
+      "age_h": 92.7,
+      "published": "11-04 13:52"
+     }
+    ],
+    "member_ids": [
+     "bili:BV12WxX6oEx4"
+    ],
+    "weight": 24.4,
+    "probe_bili": {
+     "term": "带头鼓掌",
+     "recent_n": 3,
+     "before_n": 40,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 3,
+     "before_page": 20,
+     "recent_per_day": 0.43,
+     "before_per_day": 0.75,
+     "capped": false,
+     "recent_top": [
+      1282720
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 0.66
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「带头鼓掌」：之前 53 天播放最高的 20 条里 0 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：1384 粉的号单条 128.2万 播放",
+     "雷达 2026-11-06 起就在记录"
+    ],
+    "first_day": "2026-11-06",
+    "thread_id": 277,
+    "days_seen": 3
+   },
+   {
+    "name": "植物嫁接为何没有排异",
+    "kind": "B 身边反常原理",
+    "summary": "两株不同的植物接在一起能长成一棵，不像器官移植那样排异。观众想知道植物为什么能做到。",
+    "ai_relevance": 80,
+    "bili_term": "植物嫁接",
+    "youtube_term": "how plant grafting works why no rejection",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1342184,
+     "views_max": 1342184,
+     "vph_max": 21692.5,
+     "likes_total": 0,
+     "max_vsr": 43.91,
+     "outlier": {
+      "views": 1342184,
+      "followers": 30566,
+      "title": "植物嫁接为什么没有排异反应？"
+     },
+     "earliest": 1793882673.0,
+     "median_age_h": 61.9
+    },
+    "samples": [
+     {
+      "title": "植物嫁接为什么没有排异反应？",
+      "url": "https://www.bilibili.com/video/BV1RV4b6gEBj",
+      "thumb": "https://i0.hdslb.com/bfs/archive/3c2c94f9068dd837857f124f6e16aaed2587e112.jpg",
+      "author": "有点诣思",
+      "platform": "B站",
+      "duration": 59,
+      "vertical": false,
+      "views": 1342184,
+      "likes": 12375,
+      "followers": 30566,
+      "vsr": 43.91,
+      "vph": 21692.5,
+      "age_h": 61.9,
+      "published": "11-05 20:44"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1RV4b6gEBj"
+    ],
+    "weight": 23.5,
+    "probe_bili": {
+     "term": "植物嫁接",
+     "recent_n": 5,
+     "before_n": 55,
+     "recent_match": 1,
+     "before_match": 2,
+     "recent_page": 5,
+     "before_page": 20,
+     "recent_per_day": 0.71,
+     "before_per_day": 1.04,
+     "capped": false,
+     "recent_top": [
+      1343613
+     ],
+     "before_top": [
+      79589,
+      1660
+     ],
+     "before_samples": [
+      {
+       "title": "为什么植物嫁接不会发生排异反应？",
+       "bvid": "BV1WZa76uEJL",
+       "play": 79589,
+       "pubdate": 1790655189
+      },
+      {
+       "title": "植物嫁接为什么不排异？原理其实很简单",
+       "bvid": "BV17gpb6BEzo",
+       "play": 1660,
+       "pubdate": 1791552844
+      }
+     ],
+     "ratio": 0.73
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「植物嫁接」：之前 53 天播放最高的 20 条里 2 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：3.1万 粉的号单条 134.2万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 325,
+    "days_seen": 1
+   },
+   {
+    "name": "狗为什么迷恋黄鸭子",
+    "kind": "B 身边反常原理",
+    "summary": "很多狗见到黄色小鸭玩具就痴迷，宠物主人都见过。观众想知道狗为什么偏偏对它着迷。",
+    "ai_relevance": 65,
+    "bili_term": "黄鸭子",
+    "youtube_term": "why dogs love rubber duck toys",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1191506,
+     "views_max": 1191506,
+     "vph_max": 19082.9,
+     "likes_total": 0,
+     "max_vsr": 32.72,
+     "outlier": {
+      "views": 1191506,
+      "followers": 36415,
+      "title": "为什么狗对黄鸭子如此痴迷？"
+     },
+     "earliest": 1793880638.0,
+     "median_age_h": 62.4
+    },
+    "samples": [
+     {
+      "title": "为什么狗对黄鸭子如此痴迷？",
+      "url": "https://www.bilibili.com/video/BV1nc4b6JE8G",
+      "thumb": "https://i1.hdslb.com/bfs/archive/1f27b4ce5f32c46977d5d96ae5ed3562951a096a.jpg",
+      "author": "狗狗陪伴师",
+      "platform": "B站",
+      "duration": 78,
+      "vertical": false,
+      "views": 1191506,
+      "likes": 419,
+      "followers": 36415,
+      "vsr": 32.72,
+      "vph": 19082.9,
+      "age_h": 62.4,
+      "published": "11-05 20:10"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1nc4b6JE8G"
+    ],
+    "weight": 23.1,
+    "probe_bili": {
+     "term": "黄鸭子",
+     "recent_n": 1,
+     "before_n": 10,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 1,
+     "before_page": 10,
+     "recent_per_day": 0.14,
+     "before_per_day": 0.19,
+     "capped": false,
+     "recent_top": [
+      1191539
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 0.87
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「黄鸭子」：之前 53 天播放最高的 10 条里 0 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：3.6万 粉的号单条 119.2万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 326,
+    "days_seen": 1
+   },
+   {
+    "name": "贴纸遮住AI眼镜指示灯",
+    "kind": "C AI 离谱事或能用的招",
+    "summary": "一张小贴纸遮住指示灯，AI 眼镜照样能拍，被当成偷拍工具卖。观众好奇这个防偷拍的设计为什么这么容易失效。",
+    "ai_relevance": 80,
+    "bili_term": "指示灯",
+    "youtube_term": "AI glasses recording light covered sticker",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1868119,
+     "views_max": 1868119,
+     "vph_max": 13425.1,
+     "likes_total": 0,
+     "max_vsr": 39.94,
+     "outlier": {
+      "views": 1868119,
+      "followers": 46777,
+      "title": "小小贴纸变身“偷拍美女帅哥利器”电商平台热销超5000件，多款AI眼镜指示灯被遮挡仍可拍摄"
+     },
+     "earliest": 1793604473.0,
+     "median_age_h": 139.2
+    },
+    "samples": [
+     {
+      "title": "小小贴纸变身“偷拍美女帅哥利器”电商平台热销超5000件，多款AI眼镜指示灯被遮挡仍可拍摄",
+      "url": "https://www.bilibili.com/video/BV1Wp4F6rERL",
+      "thumb": "https://i2.hdslb.com/bfs/archive/76beadf9f0be11f1b8ebbcf15eda87533174d851.jpg",
+      "author": "贵州2频道百姓关注",
+      "platform": "B站",
+      "duration": 54,
+      "vertical": false,
+      "views": 1868119,
+      "likes": 19179,
+      "followers": 46777,
+      "vsr": 39.94,
+      "vph": 13425.1,
+      "age_h": 139.2,
+      "published": "11-02 15:27"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1Wp4F6rERL"
+    ],
+    "weight": 22.5,
+    "probe_bili": {
+     "term": "指示灯",
+     "recent_n": 35,
+     "before_n": 284,
+     "recent_match": 11,
+     "before_match": 4,
+     "recent_page": 20,
+     "before_page": 20,
+     "recent_per_day": 5.0,
+     "before_per_day": 5.36,
+     "capped": false,
+     "recent_top": [
+      1868137,
+      556,
+      449
+     ],
+     "before_top": [
+      3824,
+      2127,
+      1557
+     ],
+     "before_samples": [
+      {
+       "title": "车上仪表盘这些故障指示灯亮了都表示什么意思，有车的一定要知道#汽车知识 #用车小知识 #每天一个用车知识",
+       "bvid": "BV1fmnx6ZEgA",
+       "play": 3824,
+       "pubdate": 1792735257
+      },
+      {
+       "title": "DIY新能源汽车动能回收指示灯上路测试",
+       "bvid": "BV1wJnP6BEvc",
+       "play": 2127,
+       "pubdate": 1792495820
+      },
+      {
+       "title": "GBA保养清洁维修开关和更换电容的视频教程 解决开机不灵 无法开机 电池指示灯闪红 声音小无声音 有底噪 杂音滋滋音破音 死机黑屏不稳定关机 屏幕闪烁 干扰波纹",
+       "bvid": "BV1YSJf6kESf",
+       "play": 1557,
+       "pubdate": 1792474954
+      }
+     ],
+     "ratio": 0.94
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「指示灯」：之前 53 天播放最高的 20 条里 4 条标题带这个词，近 7 天是 11 条",
+     "有小号爆了：4.7万 粉的号单条 186.8万 播放",
+     "雷达 2026-11-04 起就在记录"
+    ],
+    "first_day": "2026-11-04",
+    "thread_id": 237,
+    "days_seen": 4
+   },
+   {
+    "name": "故意胡说能否骗过AI面试",
+    "kind": "C AI 离谱事或能用的招",
+    "summary": "有人在 AI 面试里故意说乱码想让自己面试失败，结果出人意料。观众好奇 AI 面试官到底是怎么评判的。",
+    "ai_relevance": 65,
+    "bili_term": "",
+    "youtube_term": "fail AI job interview gibberish",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 258112,
+     "views_max": 258112,
+     "vph_max": 2150.2,
+     "likes_total": 0,
+     "max_vsr": 258.11,
+     "outlier": {
+      "views": 258112,
+      "followers": 211,
+      "title": "I Tried to Fail an AI Job Interview by Speaking Gibberish"
+     },
+     "earliest": 1793673278.4878507,
+     "median_age_h": 120.0
+    },
+    "samples": [
+     {
+      "title": "I Tried to Fail an AI Job Interview by Speaking Gibberish",
+      "url": "https://www.youtube.com/watch?v=byNOdB81n04",
+      "thumb": "https://i.ytimg.com/vi/byNOdB81n04/hqdefault.jpg",
+      "author": "Tyler Cooper",
+      "platform": "YouTube",
+      "duration": 200,
+      "vertical": false,
+      "views": 258112,
+      "likes": null,
+      "followers": 211,
+      "vsr": 258.11,
+      "vph": 2150.2,
+      "age_h": 120.0,
+      "published": "11-03 10:34"
+     }
+    ],
+    "member_ids": [
+     "youtube:byNOdB81n04"
+    ],
+    "weight": 19.6,
+    "probe_youtube": {
+     "year_n": 12,
+     "match": 1,
+     "match_recent": 1,
+     "oldest_match_days": 5,
+     "samples": [
+      {
+       "title": "I Tried to Fail an AI Job Interview by Speaking Gibberish",
+       "url": "https://www.youtube.com/watch?v=byNOdB81n04",
+       "views": 258292,
+       "published": "5d ago"
+      }
+     ],
+     "term": "fail AI job interview gibberish"
+    },
+    "label": "观察",
+    "basis": [
+     "YouTube 搜「fail AI job interview gibberish」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "有小号爆了：211 粉的号单条 25.8万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 328,
+    "days_seen": 1
+   }
+  ],
+  "x": [
+   {
+    "name": "Claude 接视频平台一句话出片",
+    "kind": "玩法教程",
+    "lane": "AI视频与创作",
+    "summary": "Higgsfield 说一部长篇恐龙纪录片是在 Claude 里通过 Higgsfield MCP 一次生成的，还预告了后期功能。Luma 也把预设工作流接进了 Claude 和 ChatGPT，用对话就能调视频工具。",
+    "entity": "Higgsfield MCP",
+    "value": 62,
+    "metrics": {
+     "tweets": 4,
+     "authors": 2,
+     "views_total": 92276,
+     "likes_total": 1140
+    },
+    "samples": [
+     {
+      "title": "This 10-min dinosaur documentary was one-shotted in Claude with Higgsfield MCP.\n\nBroadcast-ready quality with no outside editing tools, 100% automated:\n\n&gt; Script\n&gt; Shots\n&gt; Narration\n&gt; Music\n&gt; SFX\n&gt; Edit",
+      "url": "https://x.com/higgsfield_ai/status/2118517745138778461",
+      "thumb": "",
+      "author": "Higgsfield AI 🧩",
+      "handle": "higgsfield_ai",
+      "followers": 253721,
+      "views": 64909,
+      "likes": 834,
+      "bookmarks": 490,
+      "published": "11-06 09:36",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Here's the first look at Higgsfield Miracle:\n\n&gt; Recolor any object\n&gt; Live text editing\n&gt; Zero-frame edit latency\n\nComing soon to Higgsfield MCP. https://t.co/RbBx0qyq0Y",
+      "url": "https://x.com/higgsfield_ai/status/2118781233266381273",
+      "thumb": "",
+      "author": "Higgsfield AI 🧩",
+      "handle": "higgsfield_ai",
+      "followers": 253721,
+      "views": 12591,
+      "likes": 197,
+      "bookmarks": 63,
+      "published": "11-07 03:03",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Cinema-grade post-production is here.\n\nComing soon to Higgsfield MCP. https://t.co/39Ff4MCvJG",
+      "url": "https://x.com/higgsfield_ai/status/2118789471454077219",
+      "thumb": "",
+      "author": "Higgsfield AI 🧩",
+      "handle": "higgsfield_ai",
+      "followers": 253721,
+      "views": 8819,
+      "likes": 66,
+      "bookmarks": 29,
+      "published": "11-07 03:35",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "The brief changed again.\nLuma MCP brings Luma’s pre-set workflows into Claude and ChatGPT.\nStart with the product photo. Make the angles. Change the scene. Add the offer. Get to the finished creative.\nQ4 moves weekly. So",
+      "url": "https://x.com/LumaLabsAI/status/2118372770547487117",
+      "thumb": "",
+      "author": "Luma",
+      "handle": "LumaLabsAI",
+      "followers": 196198,
+      "views": 5957,
+      "likes": 43,
+      "bookmarks": 7,
+      "published": "11-06 00:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118517745138778461",
+     "x:2118781233266381273",
+     "x:2118789471454077219",
+     "x:2118372770547487117"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "4 条高互动推文，2 个账号，合计浏览 9.2万",
+     "雷达 2026-11-06 起就在记录"
+    ],
+    "first_day": "2026-11-06",
+    "thread_id": 292,
+    "days_seen": 3
+   },
+   {
+    "name": "ChatGPT 图像新版能直接做 GIF",
+    "kind": "工具模型",
+    "lane": "工具与模型",
+    "summary": "OpenAI 官方说用 GPT-Image 新版个人和团队都能直接生成 GIF，开发者晒出了风景动图。Runway、Krea 也已接入，Higgsfield 还拿它玩品牌 logo。",
+    "entity": "GPT Image 2.6",
+    "value": 60,
+    "metrics": {
+     "tweets": 5,
+     "authors": 4,
+     "views_total": 91137,
+     "likes_total": 1277
+    },
+    "samples": [
+     {
+      "title": "RT @devteamdrew: A few scenic GIFs made using ChatGPT Images 2.6 https://t.co/Z33LNitehM",
+      "url": "https://x.com/OpenAIDevs/status/2118533124204220724",
+      "thumb": "",
+      "author": "OpenAI Developers",
+      "handle": "OpenAIDevs",
+      "followers": 473009,
+      "views": 37551,
+      "likes": 525,
+      "bookmarks": 341,
+      "published": "11-06 10:37",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Everyone, or every team, can create GIFs with GPT-Image-2.6.\n\nhttps://t.co/rJIMLuDrPT",
+      "url": "https://x.com/OpenAIDevs/status/2118852567509909716",
+      "thumb": "",
+      "author": "OpenAI Developers",
+      "handle": "OpenAIDevs",
+      "followers": 473009,
+      "views": 32560,
+      "likes": 572,
+      "bookmarks": 62,
+      "published": "11-07 07:46",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "GPT Image 2.6 is now available in Runway.\n\nGenerate images 50% faster, bring your ideas to life with GIFs, export SVG vectors and make precise edits while keeping characters, products and brand details consistent.\n\nTry i",
+      "url": "https://x.com/runwayml/status/2118735600241270879",
+      "thumb": "",
+      "author": "Runway",
+      "handle": "runwayml",
+      "followers": 295766,
+      "views": 9915,
+      "likes": 66,
+      "bookmarks": 13,
+      "published": "11-07 00:01",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "we let gpt image 2.6 play with our logo 🧩 https://t.co/5OtgQEf0Ln",
+      "url": "https://x.com/higgsfield_ai/status/2118775971071561952",
+      "thumb": "",
+      "author": "Higgsfield AI 🧩",
+      "handle": "higgsfield_ai",
+      "followers": 253721,
+      "views": 8486,
+      "likes": 87,
+      "bookmarks": 6,
+      "published": "11-07 02:42",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "GPT Image 2.6 is now live in Krea.\n\ngenerate images 50% faster, edit with a single reference, and bring them to life as GIFs.\n\ntry it now 👇 https://t.co/oRatjFBIlH",
+      "url": "https://x.com/krea_ai/status/2118849021796307151",
+      "thumb": "",
+      "author": "Krea",
+      "handle": "krea_ai",
+      "followers": 125049,
+      "views": 2625,
+      "likes": 27,
+      "bookmarks": 6,
+      "published": "11-07 07:32",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118533124204220724",
+     "x:2118852567509909716",
+     "x:2118735600241270879",
+     "x:2118775971071561952",
+     "x:2118849021796307151"
+    ],
+    "breadth": null,
+    "label": "热议",
+    "basis": [
+     "5 条高互动推文，4 个账号，合计浏览 9.1万",
+     "雷达 2026-11-05 起就在记录"
+    ],
+    "first_day": "2026-11-05",
+    "thread_id": 260,
+    "days_seen": 4
+   },
+   {
+    "name": "TikTok 推荐算法被逆向",
+    "kind": "热点事件",
+    "lane": "创作者生态",
+    "summary": "有人逆向了 TikTok 手机端，发现里面有多个 AI 模型，用来判断什么内容能让人一直刷下去。视频播放前就已经打好了推荐分，让不少人对推荐算法有了新认识。",
+    "entity": "TikTok 推荐算法",
+    "value": 55,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 31251,
+     "likes_total": 310
+    },
+    "samples": [
+     {
+      "title": "RT @vista8: 我去，这个 TikTok逆向有点意思，对推荐算法有了新认知！\n\n1. TikTok 手机端有 25+ 个 AI 模型。\n\n用来判断什么内容能让用户持续刷下去。\n\n2. 视频播放前已打好“推荐分”\n\n服务器预先给每个视频计算“推荐分”，即预测用户“跳过、看…",
+      "url": "https://x.com/dotey/status/2118380045202751544",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 266809,
+      "views": 31251,
+      "likes": 310,
+      "bookmarks": 370,
+      "published": "11-06 00:28",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118380045202751544"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 3.1万",
+     "雷达 2026-11-06 起就在记录"
+    ],
+    "first_day": "2026-11-06",
+    "thread_id": 287,
+    "days_seen": 3
+   },
+   {
+    "name": "个人做 AI 漫剧会亏",
+    "kind": "观点讨论",
+    "lane": "项目与变现",
+    "summary": "转发的帖子直言个人创作者冲进 AI 漫剧大概率亏钱，并说教你做漫剧大赚的人全是骗子。这是对漫剧热潮的一盆冷水。",
+    "entity": "AI 漫剧",
+    "value": 55,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 20108,
+     "likes_total": 120
+    },
+    "samples": [
+     {
+      "title": "RT @binghe: 我一定要补充一下，还有个人创作者不要命往里冲呢。。。\n\n个人做 AI 漫剧绝逼亏死你。。。\n\n教你做漫剧能大赚特赚的的，有一个算一个，全是骗子！\n\nAI…",
+      "url": "https://x.com/dotey/status/2118371722411839967",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 266809,
+      "views": 20108,
+      "likes": 120,
+      "bookmarks": 108,
+      "published": "11-05 23:55",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118371722411839967"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 2.0万",
+     "雷达 2026-11-06 起就在记录"
+    ],
+    "first_day": "2026-11-06",
+    "thread_id": 289,
+    "days_seen": 3
+   },
+   {
+    "name": "Gemini Omni 1.2 Flash 视频模型",
+    "kind": "工具模型",
+    "lane": "AI视频与创作",
+    "summary": "Google 发布视频模型 Gemini Omni 1.2 Flash，单条时长有上限，开发者和企业今天就能在 AI Studio 和 API 里用。Runway 和 Krea 也同步接入，支持多轮编辑。",
+    "entity": "Gemini Omni 1.2 Flash",
+    "value": 55,
+    "metrics": {
+     "tweets": 5,
+     "authors": 5,
+     "views_total": 279684,
+     "likes_total": 4537
+    },
+    "samples": [
+     {
+      "title": "introducing gemini omni 1.2 flash, now available in ai studio and the gemini api\n\nwhat's new:\n\n- fast &amp; 30% lower cost\n- longer clips\n- edit in conversation\n- more natural speech\n- more controllable shots https://t.c",
+      "url": "https://x.com/GoogleAIStudio/status/2118390015382454491",
+      "thumb": "",
+      "author": "Google AI Studio",
+      "handle": "GoogleAIStudio",
+      "followers": 212360,
+      "views": 123920,
+      "likes": 2124,
+      "bookmarks": 487,
+      "published": "11-06 01:08",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "RT @GoogleAIStudio: introducing gemini omni 1.2 flash, now available in ai studio and the gemini api\n\nwhat's new:\n\n- fast &amp; 30% lower cost…",
+      "url": "https://x.com/GoogleDeepMind/status/2118392265961869549",
+      "thumb": "",
+      "author": "Google DeepMind",
+      "handle": "GoogleDeepMind",
+      "followers": 1600084,
+      "views": 123917,
+      "likes": 2123,
+      "bookmarks": 487,
+      "published": "11-06 01:17",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Google’s Gemini Omni 1.2 Flash is now available in Runway.\n\nCreate and edit videos up to 15 seconds, with more natural dialogue and stronger consistency across shots. Refine your scene without starting over, then upscale",
+      "url": "https://x.com/runwayml/status/2118401505069809835",
+      "thumb": "",
+      "author": "Runway",
+      "handle": "runwayml",
+      "followers": 295766,
+      "views": 16972,
+      "likes": 144,
+      "bookmarks": 30,
+      "published": "11-06 01:54",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Google 发布 Gemini Omni 1.2 Flash：单条视频最长 15 秒，720p 一条约 1 美元，开发者和企业今天就能用\n\nGoogle 11 月 5 日发布视频模型 Gemini Omni 1.2 Flash。一次最长能生成 15 秒带声音的视频，比上一版 1.1 降价 30%，720p 每秒 0.07 美元。\n\n这也是 Omni 第一次正式商用（GA），可以直接用在生产环境。Omni 是 Google 今年 5 月",
+      "url": "https://x.com/dotey/status/2118820452038557790",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 266809,
+      "views": 8301,
+      "likes": 45,
+      "bookmarks": 30,
+      "published": "11-07 05:38",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Gemini Omni 1.2 Flash is now live in Krea.\n\n15 second clips, deeper cinematic control, and multi-turn editing!\n\ntry it now 👇 https://t.co/MphGYuWaAy",
+      "url": "https://x.com/krea_ai/status/2118508716261810321",
+      "thumb": "",
+      "author": "Krea",
+      "handle": "krea_ai",
+      "followers": 125049,
+      "views": 6574,
+      "likes": 101,
+      "bookmarks": 17,
+      "published": "11-06 09:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118390015382454491",
+     "x:2118392265961869549",
+     "x:2118401505069809835",
+     "x:2118820452038557790",
+     "x:2118508716261810321"
+    ],
+    "breadth": null,
+    "label": "热议",
+    "basis": [
+     "5 条高互动推文，5 个账号，合计浏览 28.0万",
+     "雷达 2026-11-06 起就在记录"
+    ],
+    "first_day": "2026-11-06",
+    "thread_id": 291,
+    "days_seen": 3
+   },
+   {
+    "name": "Claude 用做梦整理记忆",
+    "kind": "热点事件",
+    "lane": "工具与模型",
+    "summary": "Anthropic 工程博客介绍了让 Claude 通过做梦来整理记忆，记忆是 Claude 从经验里学习的基础。这个拟人化的说法很适合讲给普通人听。",
+    "entity": "Claude dreaming",
+    "value": 55,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 412407,
+     "likes_total": 5454
+    },
+    "samples": [
+     {
+      "title": "Memory is what allows Claude to learn from experience. In a new Engineering Blog post, we share how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next ti",
+      "url": "https://x.com/AnthropicAI/status/2118814753154064501",
+      "thumb": "",
+      "author": "Anthropic",
+      "handle": "AnthropicAI",
+      "followers": 1883897,
+      "views": 412407,
+      "likes": 5454,
+      "bookmarks": 4169,
+      "published": "11-07 05:16",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118814753154064501"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 41.2万",
+     "雷达 2026-11-07 起就在记录"
+    ],
+    "first_day": "2026-11-07",
+    "thread_id": 318,
+    "days_seen": 2
+   },
+   {
+    "name": "Cursor 做实时应用发链接",
+    "kind": "工具模型",
+    "lane": "工具与模型",
+    "summary": "Cursor 宣布现在可以在里面搭建实时运行的应用，并通过链接分享给别人。写代码已经变容易，这个功能解决的是做完之后怎么分享。",
+    "entity": "Cursor",
+    "value": 50,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 438345,
+     "likes_total": 3583
+    },
+    "samples": [
+     {
+      "title": "You can now build live apps in Cursor and share them with a link.\n\nAgents have made it easier to write code, but most apps never make it off localhost. Describe the tool you want - Cursor will build it, set up a database",
+      "url": "https://x.com/cursor_ai/status/2118458629091426304",
+      "thumb": "",
+      "author": "Cursor",
+      "handle": "cursor_ai",
+      "followers": 497977,
+      "views": 438345,
+      "likes": 3583,
+      "bookmarks": 1329,
+      "published": "11-06 05:41",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118458629091426304"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 43.8万",
+     "雷达 2026-11-06 起就在记录"
+    ],
+    "first_day": "2026-11-06",
+    "thread_id": 295,
+    "days_seen": 3
+   },
+   {
+    "name": "狗狗 GIF 变成小游戏",
+    "kind": "玩法教程",
+    "lane": "AI视频与创作",
+    "summary": "Higgsfield 展示用 GPT Image 新版把一张狗的 GIF 做成了一个小游戏，是动图素材延伸出的新玩法。",
+    "entity": "Higgsfield",
+    "value": 50,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 29361,
+     "likes_total": 264
+    },
+    "samples": [
+     {
+      "title": "RT @higgsfield_ai: GPT Image 2.6 made a video game out of a dog GIF.\n\nMade on Higgsfield. https://t.co/PomOWTiIJm",
+      "url": "https://x.com/OpenAIDevs/status/2118689004002611506",
+      "thumb": "",
+      "author": "OpenAI Developers",
+      "handle": "OpenAIDevs",
+      "followers": 473009,
+      "views": 29361,
+      "likes": 264,
+      "bookmarks": 92,
+      "published": "11-06 20:56",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118689004002611506"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 2.9万",
+     "雷达 2026-11-06 起就在记录"
+    ],
+    "first_day": "2026-11-06",
+    "thread_id": 285,
+    "days_seen": 3
+   },
+   {
+    "name": "Pika H3 Flex 每天免费生成",
+    "kind": "工具模型",
+    "lane": "AI视频与创作",
+    "summary": "Pika 的 H3 Flex 上线，每天有免费生成额度，官方放出了可以做的内容示例。",
+    "entity": "Pika H3 Flex",
+    "value": 45,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 5938,
+     "likes_total": 85
+    },
+    "samples": [
+     {
+      "title": "Now that Pika H3 Flex is live on Pika, here’s a look at what you can do with your 15 free generations per day.🧵\n\nTry it here: https://t.co/XKylhWc9N8 https://t.co/LNUm01u9VO",
+      "url": "https://x.com/pika_labs/status/2118401327130890643",
+      "thumb": "",
+      "author": "Pika",
+      "handle": "pika_labs",
+      "followers": 151491,
+      "views": 5938,
+      "likes": 85,
+      "bookmarks": 37,
+      "published": "11-06 01:53",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118401327130890643"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 5938",
+     "雷达 2026-11-01 起就在记录"
+    ],
+    "first_day": "2026-11-01",
+    "thread_id": 185,
+    "days_seen": 5
+   },
+   {
+    "name": "Meta Muse 专用模型和实时数字人",
+    "kind": "工具模型",
+    "lane": "工具与模型",
+    "summary": "Meta 把用 Muse Wonder 训练的专用模型带到 Muse 和 Meta AI。Connect 大会上还预览了 Muse 实时数字人技术。",
+    "entity": "Muse Realtime Avatar",
+    "value": 45,
+    "metrics": {
+     "tweets": 2,
+     "authors": 1,
+     "views_total": 101733,
+     "likes_total": 926
+    },
+    "samples": [
+     {
+      "title": "Today we're bringing specialized models trained using Muse Wonder to @Muse and Meta AI, giving users access to some of Muse Wonder's frontier capabilities for complex tasks at work and in everyday life.\n\nThese specialize",
+      "url": "https://x.com/AIatMeta/status/2118768974779634084",
+      "thumb": "",
+      "author": "AI at Meta",
+      "handle": "AIatMeta",
+      "followers": 880215,
+      "views": 54040,
+      "likes": 524,
+      "bookmarks": 112,
+      "published": "11-07 02:14",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "During Connect, we previewed Muse Realtime Avatar, our real-time embodiment technology that turns Muse Realtime Voice into expressive, interactive avatars.\n\nToday, we’re rolling it out in the @Muse app in the US, giving ",
+      "url": "https://x.com/AIatMeta/status/2118412135340572850",
+      "thumb": "",
+      "author": "AI at Meta",
+      "handle": "AIatMeta",
+      "followers": 880215,
+      "views": 47693,
+      "likes": 402,
+      "bookmarks": 80,
+      "published": "11-06 02:36",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118768974779634084",
+     "x:2118412135340572850"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "2 条高互动推文，1 个账号，合计浏览 10.2万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 338,
+    "days_seen": 1
+   },
+   {
+    "name": "纸板加投影做桌面街机",
+    "kind": "玩法教程",
+    "lane": "AI视频与创作",
+    "summary": "有人用白纸板、投影仪和摄像头做出桌面街机，在桌上玩打鸭子游戏，被 OpenAI 开发者账号转发。",
+    "entity": "Project Tabletop",
+    "value": 42,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 12582,
+     "likes_total": 43
+    },
+    "samples": [
+     {
+      "title": "RT @alexbiemann: White cardboard + projector + webcam = tabletop arcade! 🦆\n\nDuck Hunt in Project Tabletop 1.4.1: a saloon shooting gallery,…",
+      "url": "https://x.com/OpenAIDevs/status/2118688689752801600",
+      "thumb": "",
+      "author": "OpenAI Developers",
+      "handle": "OpenAIDevs",
+      "followers": 473009,
+      "views": 12582,
+      "likes": 43,
+      "bookmarks": 14,
+      "published": "11-06 20:55",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118688689752801600"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 1.3万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 339,
+    "days_seen": 1
+   },
+   {
+    "name": "Qwen 神秘预热新模型",
+    "kind": "热点事件",
+    "lane": "工具与模型",
+    "summary": "Qwen 官方发了一句预热，暗示要有新动作。有人称几天前在 Qwen 自己的配置里发现了新一代模型的名字。",
+    "entity": "Qwen4",
+    "value": 40,
+    "metrics": {
+     "tweets": 2,
+     "authors": 2,
+     "views_total": 1728957,
+     "likes_total": 14847
+    },
+    "samples": [
+     {
+      "title": "The becoming begins. https://t.co/SdWEEuG8F3",
+      "url": "https://x.com/Alibaba_Qwen/status/2118674834632978755",
+      "thumb": "",
+      "author": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "followers": 306985,
+      "views": 1726140,
+      "likes": 14829,
+      "bookmarks": 1300,
+      "published": "11-06 20:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Qwen is teasing something. 👀🔥\n\nFive days ago, I found Qwen4-Plus and Qwen4-Max being prepared in Qwen's own coding client.\n\nAnd now Qwen's official account posted\n\"The becoming begins.\"\n\nEarlier at Alibaba's Amsterdam ev",
+      "url": "https://x.com/TeksEdge/status/2118731747366216130",
+      "thumb": "",
+      "author": "David Hendrickson",
+      "handle": "TeksEdge",
+      "followers": 12810,
+      "views": 2817,
+      "likes": 18,
+      "bookmarks": 2,
+      "published": "11-06 23:46",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118674834632978755",
+     "x:2118731747366216130"
+    ],
+    "breadth": null,
+    "label": "热议",
+    "basis": [
+     "2 条高互动推文，2 个账号，合计浏览 172.9万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 340,
+    "days_seen": 1
+   },
+   {
+    "name": "Anthropic 员工 Thariq 离职",
+    "kind": "热点事件",
+    "lane": "行业新闻",
+    "summary": "Thariq Shihipar 在一个周五下午停用了公司邮箱，几小时后他离职的消息就在 X 上传开了。文章讲述了他离职当天的经过。",
+    "entity": "Thariq Shihipar",
+    "value": 40,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 59304,
+     "likes_total": 277
+    },
+    "samples": [
+     {
+      "title": "上个月底的一个周五，下午三点，Thariq Shihipar 停用了自己的 Anthropic 公司邮箱。到六点，他离职的消息已经在 X 上传开了。他说，有人会专门盯着一批邮箱地址，哪个一失效就知道人走了；也有人是在和他共用的 Slack 频道里发现的。他本来想先安静歇一阵，结果连别家公司的 CEO 都来私信问，只好自己发帖说明。\n\nThariq 在 Anthropic 做了一年多 Claude Code，是这个产品在 X 上最常露面的",
+      "url": "https://x.com/dotey/status/2118471688866213999",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 266809,
+      "views": 59304,
+      "likes": 277,
+      "bookmarks": 318,
+      "published": "11-06 06:33",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118471688866213999"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 5.9万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 341,
+    "days_seen": 1
+   },
+   {
+    "name": "Dreamina 万圣节提示词整活",
+    "kind": "玩法教程",
+    "lane": "AI视频与创作",
+    "summary": "Dreamina 官方继续发万圣节主题的 AI 视频，有悬崖逃生、惹女巫等创意短片，评论区留关键词就能拿到完整提示词。",
+    "entity": "Dreamina",
+    "value": 40,
+    "metrics": {
+     "tweets": 3,
+     "authors": 1,
+     "views_total": 6783,
+     "likes_total": 156
+    },
+    "samples": [
+     {
+      "title": "Halloween may be over but that doesn't mean the spooky festivities have to end! 🎃 Check out our Spooktacular Film Contest Winners!\n\nA huge shout out to our top 3 winners!\n🏆 P_T for \"Asylum Job Interview\"\n🏆 Eliott Mogenet",
+      "url": "https://x.com/dreamina_ai/status/2118538876621074598",
+      "thumb": "",
+      "author": "Dreamina AI",
+      "handle": "dreamina_ai",
+      "followers": 30003,
+      "views": 3704,
+      "likes": 74,
+      "bookmarks": 14,
+      "published": "11-06 11:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Bro found the wildest way out. 💀\n\nComment \"cliff\" to get full prompts\n\n#viralreels #dreaminapioneer #DreaminaSeedance25 #DreaminaAI #DreaminaIdeas https://t.co/VBbgKAW3Un",
+      "url": "https://x.com/dreamina_ai/status/2118735169074897102",
+      "thumb": "",
+      "author": "Dreamina AI",
+      "handle": "dreamina_ai",
+      "followers": 30003,
+      "views": 2345,
+      "likes": 71,
+      "bookmarks": 5,
+      "published": "11-07 00:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "Don't provoke the witch, otherwise the consequences will be very serious...🧙♀️\n\nComment \"witch\" to get full prompts\n\n#viralreels #dreaminapioneer #DreaminaSeedance25 #DreaminaAI #witch #DreaminaIdeas https://t.co/vpEyUWC",
+      "url": "https://x.com/dreamina_ai/status/2118855960341127480",
+      "thumb": "",
+      "author": "Dreamina AI",
+      "handle": "dreamina_ai",
+      "followers": 30003,
+      "views": 734,
+      "likes": 11,
+      "bookmarks": 0,
+      "published": "11-07 08:00",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2118538876621074598",
+     "x:2118735169074897102",
+     "x:2118855960341127480"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "3 条高互动推文，1 个账号，合计浏览 6783",
+     "雷达 2026-10-26 起就在记录"
+    ],
+    "first_day": "2026-10-26",
+    "thread_id": 53,
+    "days_seen": 5
+   }
+  ],
+  "tools": {
+   "repos": [],
+   "models": [
+    {
+     "name": "Lightricks/LTX-2.5",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5",
+     "kind": "model",
+     "likes": 11003,
+     "downloads": 2643778,
+     "created": "2026-07-23",
+     "tags": [
+      "diffusion-single-file",
+      "image-to-video",
+      "text-to-video",
+      "video-to-video",
+      "image-text-to-video",
+      "audio-to-video"
+     ],
+     "zh": "Lightricks的LTX-2.5，支持文生视频和图生视频的开源模型",
+     "use": "能本地或在ComfyUI里生成视频，适合做「免费AI出片」教程",
+     "group": "AI 视频与图像",
+     "value": 82
+    },
+    {
+     "name": "black-forest-labs/flux-3-image-klein-comfy",
+     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+     "kind": "model",
+     "likes": 2694,
+     "downloads": 1143397,
+     "created": "2026-10-14",
+     "tags": [
+      "diffusion-single-file",
+      "comfyui",
+      "image-generation",
+      "image-editing",
+      "flux",
+      "flux-3"
+     ],
+     "zh": "黑森林实验室Flux 3 Klein的ComfyUI版，支持生图和改图",
+     "use": "可做「AI生图改图」教程，适合配图和封面制作",
+     "group": "AI 视频与图像",
+     "value": 72
+    },
+    {
+     "name": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+     "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+     "kind": "model",
+     "likes": 5713,
+     "downloads": 65099,
+     "created": "2026-09-20",
+     "tags": [
+      "gguf",
+      "qwen",
+      "image-generation",
+      "comfyui",
+      "comfyui-gguf",
+      "mlx"
+     ],
+     "zh": "Qwen-Image 2.1 Turbo的量化版，能在ComfyUI里低配运行",
+     "use": "显存小也能跑生图，适合做「老电脑也能AI绘图」一期",
+     "group": "AI 视频与图像",
+     "value": 70
+    },
+    {
+     "name": "facebook/sam3",
+     "url": "https://huggingface.co/facebook/sam3",
+     "kind": "model",
+     "likes": 6055,
+     "downloads": 1952223,
+     "created": "2025-11-07",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "sam3_video",
+      "feature-extraction",
+      "sam3",
+      "mask-generation"
+     ],
+     "zh": "Meta的SAM3，可对图像和视频里的物体做分割抠图",
+     "use": "可做「一句话把视频里的人或物抠出来」教程，对剪辑有用",
+     "group": "AI 视频与图像",
+     "value": 68
+    },
+    {
+     "name": "microsoft/TRELLIS.2",
+     "url": "https://huggingface.co/spaces/microsoft/TRELLIS.2",
+     "kind": "space",
+     "likes": 2350,
+     "downloads": null,
+     "created": "2025-12-10",
+     "tags": [
+      "gradio"
+     ],
+     "zh": "微软TRELLIS.2在线演示，把图片生成3D模型",
+     "use": "网页直接试，可做「一张图变3D模型」的视频素材",
+     "group": "AI 视频与图像",
+     "value": 65
+    },
+    {
+     "name": "Edge0/Audio8-TTS-Realistic-Air",
+     "url": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air",
+     "kind": "model",
+     "likes": 348,
+     "downloads": 14103,
+     "created": "2026-10-14",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "arktts",
+      "feature-extraction",
+      "audio",
+      "text-to-speech"
+     ],
+     "zh": "Edge0的Audio8真实感文字转语音模型",
+     "use": "可做AI配音测评，具体效果和语言支持简介未说明",
+     "group": "音频与配音",
+     "value": 60
+    },
+    {
+     "name": "Qwen/Qwen3.8-27B",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+     "kind": "model",
+     "likes": 19346,
+     "downloads": 7813215,
+     "created": "2026-08-05",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "conversational",
+      "eval-results"
+     ],
+     "zh": "通义千问Qwen3.8-27B，支持图文输入的开源模型",
+     "use": "可本地跑的中等大小模型，适合做「自己电脑跑AI」一期",
+     "group": "模型",
+     "value": 55
+    },
+    {
+     "name": "speridlabs/idol",
+     "url": "https://huggingface.co/speridlabs/idol",
+     "kind": "model",
+     "likes": 1132,
+     "downloads": 20689,
+     "created": "2026-10-28",
+     "tags": [
+      "idol",
+      "gaussian-splatting",
+      "3d",
+      "image-to-3d"
+     ],
+     "zh": "把单张图片转成3D高斯点云模型的工具",
+     "use": "可做「一张照片变3D场景」的演示视频，但需要一定部署门槛",
+     "group": "AI 视频与图像",
+     "value": 50
+    }
+   ],
+   "stories": [
+    {
+     "name": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+     "hn_url": "https://news.ycombinator.com/item?id=50407882",
+     "points": 195,
+     "comments": 131,
+     "published": "11-08 04:45",
+     "zh": "研究称Claude Code「不再询问」选项导致1122个公开文件泄露密码",
+     "use": "Claude Code用户要注意权限设置，可做「别踩这个坑」提醒",
+     "group": "Agent 与编程",
+     "value": 55
+    }
+   ]
+  },
+  "news": [
+   {
+    "name": "Artificial Analysis 实测 GPT Image 2.6 图像生成与编辑表现",
+    "url": "https://aihot.news/items/pqbbgx5sn86iy7v4izf1qv49z",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-07 07:40",
+    "zh": "Artificial Analysis实测OpenAI的GPT Image 2.6，生图和改图排名第一二",
+    "use": "可做生图工具最新排名对比，选工具有参考价值",
+    "group": "AI 视频与图像",
+    "value": 72
+   },
+   {
+    "name": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+    "url": "https://www.qbitai.com/2026/11/508118.html",
+    "source_name": "量子位",
+    "votes": null,
+    "published": "11-06 14:54",
+    "zh": "AI短剧开始为双11卖家电做商业视频",
+    "use": "AI短剧带货是可参考的变现打法，值得做一期",
+    "group": "内容创作与运营",
+    "value": 65
+   },
+   {
+    "name": "AGENTS.MD，危险危险危险！！！",
+    "url": "https://www.qbitai.com/2026/11/508244.html",
+    "source_name": "量子位",
+    "votes": null,
+    "published": "11-07 11:43",
+    "zh": "报道称AGENTS.MD文件可能成为新型电脑病毒入口",
+    "use": "用Claude Code这类工具的人需知道的安全风险，可做提醒",
+    "group": "Agent 与编程",
+    "value": 50
+   }
+  ]
+ },
+ "stats": {
+  "items": 1914,
+  "by_source": {
+   "bili": 638,
+   "bili_hot": 50,
+   "youtube": 64,
+   "douyin": 155,
+   "x": 657,
+   "hf": 49,
+   "hn": 19,
+   "douyin_hot": 200,
+   "aihot": 9,
+   "qbitai": 9,
+   "ithome": 60,
+   "sspai": 4
+  }
+ }
+}

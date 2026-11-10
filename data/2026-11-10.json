@@ -1,0 +1,1613 @@
+{
+ "version": 1,
+ "day": "2026-11-10",
+ "generated_at": 1794278244.5004804,
+ "generated_bj": "2026-11-10 10:37",
+ "history_days": 16,
+ "summary": "今天最像要起势的是星舰新试飞，海外五个账号在讲，国内还没人讲清楚原理。身边东西这条线有几个几百到几万粉的小号单条过九十万播放，AI 那边没有特别急的。",
+ "headline": [
+  {
+   "title": "星舰新试飞做了没做过的动作",
+   "verdict": "今天就能做",
+   "why": "5个账号在讲星舰新动作，2万粉小号单条51.1万播放。",
+   "comment": "普通人会问：这次到底比上次多干了什么？懂行的会盯入轨和回收这两步。唱反调的会说海外早讲过，不过国内还没人把原理讲清楚，这就是空档。",
+   "next_step": "用官方试飞画面，自己画入轨和回收的动作原理动画。",
+   "risk": "具体新动作要对官方信息核实。",
+   "grade": "S",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V0"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "星舰新一次试飞新动作",
+     "label": "升温",
+     "thread_id": 27
+    }
+   ]
+  },
+  {
+   "title": "守城有开水为何偏煮粪水",
+   "verdict": "值得做",
+   "why": "866粉的号单条93.9万播放，开水明明有却偏要煮粪水。",
+   "comment": "大家最想知道的是图什么，一句话答案就能转给朋友。懂历史的人可能会挑史料出处，所以要先查清楚再讲。这条只是持续有热度，不算突然冒头。",
+   "next_step": "画两口锅的对比动画，讲粪水比开水多了什么。",
+   "risk": "史料出处和效果说法要先核实。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V1"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "古代守城为何煮粪水",
+     "label": "持续",
+     "thread_id": 323
+    }
+   ]
+  },
+  {
+   "title": "巴黎桥上的爱情锁为何被剪",
+   "verdict": "值得做",
+   "why": "1.7万粉的号单条91.9万播放，浪漫的锁成了麻烦。",
+   "comment": "普通人会问浪漫的东西怎么就成了麻烦。懂行的会说是桥扛不住，唱反调的会说这个说法早就有人讲过。要靠画面和原因讲得更清楚。",
+   "next_step": "用桥上挂满锁的真画面，画受力和清理的原因。",
+   "risk": "具体原因要查官方说法。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V2"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "巴黎桥上的爱情锁为何被剪",
+     "label": "持续",
+     "thread_id": 346
+    }
+   ]
+  },
+  {
+   "title": "墨水搅散后居然能复原",
+   "verdict": "可以留着",
+   "why": "墨水搅散还能复原，粘度不同结果天差地别，抖音4.7万赞。",
+   "comment": "画面反直觉，很适合配自己画的动画。但现在只是在观察，还没看到多个账号在做。懂行的会说这和液体流动的方式有关，要讲得简单点。",
+   "next_step": "自己拍墨水实验，画分子随搅动变化的动画。",
+   "risk": "原作者画面不能直接搬。",
+   "grade": "B",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V6"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "墨水搅散后居然能复原",
+     "label": "观察",
+     "thread_id": 369
+    }
+   ]
+  },
+  {
+   "title": "建筑窗户到底有多荒谬",
+   "verdict": "先观察",
+   "why": "2490粉的号单条93.4万播放，天天见的窗户有门道。",
+   "comment": "人人天天看窗户，但没人讲过它哪里荒谬，这个角度不错。不过国内相关视频看不出新旧，先别急。普通人会问窗户荒谬在哪，开头要把这点说出来。",
+   "next_step": "拍家里窗户的实拍画面，画玻璃与窗框的门道。",
+   "risk": "英文原片版权，窗户说法要核实。",
+   "grade": "B",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V3"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "建筑窗户到底有多荒谬",
+     "label": "观察",
+     "thread_id": 366
+    }
+   ]
+  },
+  {
+   "title": "不用电的灯是怎么亮的",
+   "verdict": "先观察",
+   "why": "一盏不用电的灯在抖音拿到12万赞，大家想知道它为啥能亮。",
+   "comment": "这个好奇点很直接，赞也高。但只有一个账号的一条视频，灯的类型也没说清，不能先下结论。懂行的人一眼就能看出门道，所以别讲错。",
+   "next_step": "先查清是哪种灯，再画它的发光原理。",
+   "risk": "到底是哪种灯，要先核实。",
+   "grade": "B",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V5"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "不用电的灯是怎么亮的",
+     "label": "观察",
+     "thread_id": 368
+    }
+   ]
+  },
+  {
+   "title": "Claude靠做梦整理记忆",
+   "verdict": "先观察",
+   "why": "Anthropic说Claude边干边记，再靠做梦回头纠错整理。",
+   "comment": "AI会做梦这句话很好讲给家里人听。普通人会问它记住的东西会不会搞错。懂行的会说这只是整理记忆的设计，别吹过头。",
+   "next_step": "画个小人白天记笔记、晚上整理的动画。",
+   "risk": "做梦是比喻，别讲成真会做梦。",
+   "grade": "B",
+   "audience": "C AI",
+   "refs": [
+    "X1"
+   ],
+   "links": [
+    {
+     "section": "x",
+     "name": "Claude 靠做梦整理记忆",
+     "label": "关注",
+     "thread_id": 318
+    }
+   ]
+  },
+  {
+   "title": "印度Alpie 9B被指照搬Qwen",
+   "verdict": "先观察",
+   "why": "号称印度自研的模型，被指架构和词表都照抄Qwen。",
+   "comment": "这是AI圈的一件离谱事，普通人也能看懂照抄是什么意思。懂行的会说开源模型借鉴很常见，关键看有没有说明。现在只有一条推文，先别下结论。",
+   "next_step": "找出对比的原始说法，画两个模型逐项对照的图。",
+   "risk": "对比只来自一条推文，要先核实。",
+   "grade": "C",
+   "audience": "C AI",
+   "refs": [
+    "X5"
+   ],
+   "links": [
+    {
+     "section": "x",
+     "name": "印度 Alpie 9B 被指照搬 Qwen",
+     "label": "关注",
+     "thread_id": 375
+    }
+   ]
+  }
+ ],
+ "sections": {
+  "hotwords": [
+   {
+    "word": "美国AI泡沫还能撑多久",
+    "platform": "B站热搜",
+    "rank": 4,
+    "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85"
+   },
+   {
+    "word": "美国AI泡沫还能撑多久",
+    "platform": "B站热搜",
+    "rank": 9,
+    "url": "https://search.bilibili.com/all?keyword=美国AI泡沫还能撑多久"
+   },
+   {
+    "word": "涉税罪案剧谷雨历史科普",
+    "platform": "B站热搜",
+    "rank": 15,
+    "url": "https://search.bilibili.com/all?keyword=涉税罪案剧谷雨历史科普"
+   },
+   {
+    "word": "细节复盘BLG被抢龙真相",
+    "platform": "B站热搜",
+    "rank": 16,
+    "url": "https://search.bilibili.com/all?keyword=细节复盘BLG被抢龙真相"
+   },
+   {
+    "word": "细节复盘BLG被抢龙真相",
+    "platform": "B站热搜",
+    "rank": 17,
+    "url": "https://search.bilibili.com/all?keyword=%E7%BB%86%E8%8A%82%E5%A4%8D%E7%9B%98BLG%E8%A2%AB%E6%8A%A2%E9%BE%99%E7%9C%9F%E7%9B%B8"
+   },
+   {
+    "word": "让九个AI大模型玩造桥",
+    "platform": "B站热搜",
+    "rank": 19,
+    "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5"
+   },
+   {
+    "word": "用AI原创68分钟科幻长片",
+    "platform": "B站热搜",
+    "rank": 24,
+    "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87"
+   },
+   {
+    "word": "涉税罪案剧谷雨历史科普",
+    "platform": "B站热搜",
+    "rank": 25,
+    "url": "https://search.bilibili.com/all?keyword=%E6%B6%89%E7%A8%8E%E7%BD%AA%E6%A1%88%E5%89%A7%E8%B0%B7%E9%9B%A8%E5%8E%86%E5%8F%B2%E7%A7%91%E6%99%AE"
+   },
+   {
+    "word": "BLG为什么能够战胜T1",
+    "platform": "B站热搜",
+    "rank": 27,
+    "url": "https://search.bilibili.com/all?keyword=BLG为什么能够战胜T1"
+   },
+   {
+    "word": "用AI原创68分钟科幻长片",
+    "platform": "B站热搜",
+    "rank": 28,
+    "url": "https://search.bilibili.com/all?keyword=用AI原创68分钟科幻长片"
+   },
+   {
+    "word": "新款iPad mini能否取代iPhone Duo",
+    "platform": "B站热搜",
+    "rank": 28,
+    "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E6%AC%BEiPad%20mini"
+   },
+   {
+    "word": "让九个AI大模型玩造桥",
+    "platform": "B站热搜",
+    "rank": 29,
+    "url": "https://search.bilibili.com/all?keyword=让九个AI大模型玩造桥"
+   },
+   {
+    "word": "Faker为什么是GOAT",
+    "platform": "B站热搜",
+    "rank": 30,
+    "url": "https://search.bilibili.com/all?keyword=Faker为什么是GOAT"
+   },
+   {
+    "word": "BLG为什么能够战胜T1",
+    "platform": "B站热搜",
+    "rank": 30,
+    "url": "https://search.bilibili.com/all?keyword=BLG%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%A4%9F%E6%88%98%E8%83%9CT1"
+   },
+   {
+    "word": "新款iPad mini能否取代iPhone Duo",
+    "platform": "B站热搜",
+    "rank": 38,
+    "url": "https://search.bilibili.com/all?keyword=新款iPad mini"
+   },
+   {
+    "word": "五个AI挑战恋爱测试题",
+    "platform": "B站热搜",
+    "rank": 50,
+    "url": "https://search.bilibili.com/all?keyword=五个AI挑战恋爱测试题"
+   },
+   {
+    "word": "35 秒内“叫停”失控的 AI 智能体，OpenAI 部署“控制室”系统",
+    "platform": "IT之家",
+    "rank": 6,
+    "url": "https://www.ithome.com/1/024/631.htm"
+   },
+   {
+    "word": "SpaceX 拟在 Starbase 斥资 240 亿美元建设燃气发电厂与超算设施",
+    "platform": "IT之家",
+    "rank": 7,
+    "url": "https://www.ithome.com/1/024/625.htm"
+   },
+   {
+    "word": "6999 元，“第二代豆包手机”努比亚 NaviX Ultra 星空典藏版开启预售",
+    "platform": "IT之家",
+    "rank": 8,
+    "url": "https://www.ithome.com/1/024/624.htm"
+   },
+   {
+    "word": "腾讯首款专属 AI 游戏陪伴 Agent“鹅次元”开启内测，支持实时陪聊、手机 QQ 陪伴聊天等",
+    "platform": "IT之家",
+    "rank": 11,
+    "url": "https://www.ithome.com/1/024/620.htm"
+   },
+   {
+    "word": "消息称三星电子、SK 海力士均将向 ASML EUV 光刻机投资超 10 万亿韩元",
+    "platform": "IT之家",
+    "rank": 12,
+    "url": "https://www.ithome.com/1/024/619.htm"
+   },
+   {
+    "word": "华为官宣 MateBook Fold S 鸿蒙小折叠电脑 11 月 14 日开启预订",
+    "platform": "IT之家",
+    "rank": 13,
+    "url": "https://www.ithome.com/1/024/618.htm"
+   },
+   {
+    "word": "快舟六号火箭预计 2027 年完成首飞及回收，运载能力达 20 吨级",
+    "platform": "IT之家",
+    "rank": 15,
+    "url": "https://www.ithome.com/1/024/616.htm"
+   },
+   {
+    "word": "首位英国艺人：Olivia Dean 当选苹果 2026 Apple Music 年度艺人",
+    "platform": "IT之家",
+    "rank": 16,
+    "url": "https://www.ithome.com/1/024/615.htm"
+   },
+   {
+    "word": "部分用户反馈苹果 HomePod mini 2“当 Mac 扬声器”失灵",
+    "platform": "IT之家",
+    "rank": 20,
+    "url": "https://www.ithome.com/1/024/608.htm"
+   },
+   {
+    "word": "消息称显示面板制造商考虑开发 HD（720p）OLED 智能手机屏幕",
+    "platform": "IT之家",
+    "rank": 21,
+    "url": "https://www.ithome.com/1/024/607.htm"
+   },
+   {
+    "word": "512G 国补后 2744 元：华为 Mate 70 Air 再降新低，双卡双扬多摄大电池",
+    "platform": "IT之家",
+    "rank": 22,
+    "url": "https://www.ithome.com/1/024/606.htm"
+   },
+   {
+    "word": "Meta 推出轻量级 AI 模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3",
+    "platform": "IT之家",
+    "rank": 24,
+    "url": "https://www.ithome.com/1/024/604.htm"
+   },
+   {
+    "word": "余承东预告华为 MateBook Fold S 小折电脑即将发布，全新背屏设计",
+    "platform": "IT之家",
+    "rank": 26,
+    "url": "https://www.ithome.com/1/024/600.htm"
+   },
+   {
+    "word": "苹果预留“后悔药”，其首款触控 MacBook Pro 支持禁用触控输入",
+    "platform": "IT之家",
+    "rank": 27,
+    "url": "https://www.ithome.com/1/024/599.htm"
+   },
+   {
+    "word": "12+512GB 卫星通信版：vivo X300 Pro 国补后 5999 → 3865 元",
+    "platform": "IT之家",
+    "rank": 28,
+    "url": "https://www.ithome.com/1/024/598.htm"
+   },
+   {
+    "word": "雷军：10 月份新能源汽车零售榜（20 万以上车型），小米 4 款车全部上榜",
+    "platform": "IT之家",
+    "rank": 29,
+    "url": "https://www.ithome.com/1/024/592.htm"
+   },
+   {
+    "word": "特朗普：不希望美在AI领域落后中国",
+    "platform": "头条热榜",
+    "rank": 4,
+    "url": "https://www.toutiao.com/trending/7705984247575626249/"
+   },
+   {
+    "word": "中央网信办整治科普健康类网络谣言",
+    "platform": "头条热榜",
+    "rank": 11,
+    "url": "https://www.toutiao.com/trending/7705644967859126315/"
+   },
+   {
+    "word": "迪丽热巴爸爸20分钟卖了7000单苹果",
+    "platform": "头条热榜",
+    "rank": 12,
+    "url": "https://www.toutiao.com/trending/7706111143546372658/"
+   },
+   {
+    "word": "小米四款车全部上榜",
+    "platform": "微博热搜",
+    "rank": 1,
+    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%9B%9B%E6%AC%BE%E8%BD%A6%E5%85%A8%E9%83%A8%E4%B8%8A%E6%A6%9C&t=31&band_rank=1&Refer=top"
+   },
+   {
+    "word": "外交部回应美输华芯片相关问题",
+    "platform": "抖音热榜",
+    "rank": 9,
+    "url": "https://www.douyin.com/hot/2737502"
+   },
+   {
+    "word": "网信开展科普健康类网络谣言整治",
+    "platform": "抖音热榜",
+    "rank": 11,
+    "url": "https://www.douyin.com/hot/2737895"
+   },
+   {
+    "word": "用豆包手搓和朋友们的快乐老家",
+    "platform": "抖音热榜",
+    "rank": 29,
+    "url": "https://www.douyin.com/hot/2737950"
+   },
+   {
+    "word": "山姆多款始祖鸟加拿大鹅被抢空，有商品比官方便宜近 5000 元，为什么能卖这么便宜？背后是怎样的商业策略？",
+    "platform": "知乎热榜",
+    "rank": 7,
+    "url": "https://www.zhihu.com/question/2102852244009743862"
+   },
+   {
+    "word": "Claude Fable 5.2 正式发布了，大家怎么看它的实际能力和性价比？",
+    "platform": "知乎热榜",
+    "rank": 11,
+    "url": "https://www.zhihu.com/question/2103352437654474967"
+   },
+   {
+    "word": "动物都知道躲避天敌，而为什么几千年了，昆虫还是不知道躲着人类？",
+    "platform": "知乎热榜",
+    "rank": 13,
+    "url": "https://www.zhihu.com/question/2017588180904346561"
+   },
+   {
+    "word": "人形机器人能翻跟头、跑半马，却难以进入工厂稳定作业，背后的原因是啥？其商业化落地核心卡点是什么？",
+    "platform": "知乎热榜",
+    "rank": 14,
+    "url": "https://www.zhihu.com/question/2102469513891541519"
+   },
+   {
+    "word": "AI 短剧《持械入宋》为什么能火爆出圈？",
+    "platform": "知乎热榜",
+    "rank": 17,
+    "url": "https://www.zhihu.com/question/2101701219836060907"
+   }
+  ],
+  "video": [
+   {
+    "name": "星舰新一次试飞新动作",
+    "kind": "A 新闻怎么做到",
+    "summary": "海外多个账号都在讲星舰这次做了此前没做过的事，以及入轨和回收相关的新动作。国内还没人把这些动作的原理讲清楚。",
+    "ai_relevance": 70,
+    "bili_term": "",
+    "youtube_term": "Starship Ship 42 new",
+    "metrics": {
+     "videos": 5,
+     "authors": 5,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 3935244,
+     "views_max": 2355991,
+     "vph_max": 49050.1,
+     "likes_total": 0,
+     "max_vsr": 26.07,
+     "outlier": {
+      "views": 510983,
+      "followers": 19600,
+      "title": "SpaceX Ship 42 Just Did Something No Starship Has Ever Done!"
+     },
+     "earliest": 1793759561.5489573,
+     "median_age_h": 72.0
+    },
+    "samples": [
+     {
+      "title": "Starship - Go For Orbit",
+      "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY",
+      "thumb": "https://i.ytimg.com/vi/8ySMdUIF3cY/hqdefault.jpg",
+      "author": "SpaceX",
+      "platform": "YouTube",
+      "duration": 1271,
+      "vertical": false,
+      "views": 2355991,
+      "likes": null,
+      "followers": 7010000,
+      "vsr": 0.34,
+      "vph": 49050.1,
+      "age_h": 48.0,
+      "published": "11-08 10:32"
+     },
+     {
+      "title": "SpaceX Ship 42 Just Did Something No Starship Has Ever Done!",
+      "url": "https://www.youtube.com/watch?v=e9L1y0Kcs2I",
+      "thumb": "https://i.ytimg.com/vi/e9L1y0Kcs2I/hqdefault.jpg",
+      "author": "What about it!?",
+      "platform": "YouTube",
+      "duration": 1255,
+      "vertical": false,
+      "views": 510983,
+      "likes": null,
+      "followers": 19600,
+      "vsr": 26.07,
+      "vph": 3547.7,
+      "age_h": 144.0,
+      "published": "11-04 10:32"
+     },
+     {
+      "title": "SpaceX’s New Starship Reveal Is Incredible!",
+      "url": "https://www.youtube.com/watch?v=mZRZyi6Lvf0",
+      "thumb": "https://i.ytimg.com/vi/mZRZyi6Lvf0/hqdefault.jpg",
+      "author": "Marcus House",
+      "platform": "YouTube",
+      "duration": 1389,
+      "vertical": false,
+      "views": 479812,
+      "likes": null,
+      "followers": 591000,
+      "vsr": 0.81,
+      "vph": 9989.4,
+      "age_h": 48.0,
+      "published": "11-08 10:32"
+     },
+     {
+      "title": "SpaceX - “STARSHIP GO FOR ORBIT” Documentary 4K",
+      "url": "https://www.youtube.com/watch?v=wlWF7kJokvk",
+      "thumb": "https://i.ytimg.com/vi/wlWF7kJokvk/hqdefault.jpg",
+      "author": "Launch Heaven",
+      "platform": "YouTube",
+      "duration": 1271,
+      "vertical": false,
+      "views": 354118,
+      "likes": null,
+      "followers": 28700,
+      "vsr": 12.34,
+      "vph": 4916.1,
+      "age_h": 72.0,
+      "published": "11-07 10:32"
+     },
+     {
+      "title": "The Catch That Will Unlock SpaceX's Future | Starship Update",
+      "url": "https://www.youtube.com/watch?v=8Dsld-4HrXY",
+      "thumb": "https://i.ytimg.com/vi/8Dsld-4HrXY/hqdefault.jpg",
+      "author": "NASASpaceflight",
+      "platform": "YouTube",
+      "duration": 930,
+      "vertical": false,
+      "views": 234340,
+      "likes": null,
+      "followers": 26700,
+      "vsr": 8.78,
+      "vph": 1952.3,
+      "age_h": 120.0,
+      "published": "11-05 10:32"
+     }
+    ],
+    "member_ids": [
+     "youtube:8ySMdUIF3cY",
+     "youtube:e9L1y0Kcs2I",
+     "youtube:mZRZyi6Lvf0",
+     "youtube:wlWF7kJokvk",
+     "youtube:8Dsld-4HrXY"
+    ],
+    "weight": 99.3,
+    "probe_youtube": {
+     "year_n": 12,
+     "match": 9,
+     "match_recent": 3,
+     "oldest_match_days": 14,
+     "samples": [
+      {
+       "title": "SpaceX Ship 42 Just Did Something No Starship Has Ever Done!",
+       "url": "https://www.youtube.com/watch?v=e9L1y0Kcs2I",
+       "views": 510983,
+       "published": "6d ago"
+      },
+      {
+       "title": "Did SpaceX Discover A Starship Problem? Ship 42 Is Being Fixed!",
+       "url": "https://www.youtube.com/watch?v=O8ItoFDIKY0",
+       "views": 510297,
+       "published": "2w ago"
+      },
+      {
+       "title": "SpaceX Just Discovered A Major Problem On Starship Ship 42 — And It's Alarming",
+       "url": "https://www.youtube.com/watch?v=K6cVLJaF5NM",
+       "views": 3976,
+       "published": "2w ago"
+      }
+     ],
+     "term": "Starship Ship 42 new"
+    },
+    "label": "升温",
+    "basis": [
+     "YouTube 搜「Starship Ship 42 new」：今年的相关视频里 9 条标题对得上，其中 3 条是最近 10 天发的",
+     "5 个不同账号在做",
+     "有小号爆了：2.0万 粉的号单条 51.1万 播放",
+     "雷达 2026-10-25 起就在记录"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 27,
+    "days_seen": 15
+   },
+   {
+    "name": "古代守城为何煮粪水",
+    "kind": "B 身边反常原理",
+    "summary": "守城明明有开水可用，却偏要架大锅煮粪水往下泼，观众想知道图什么。小号这条播放远超粉丝量，说明这个反常点戳中了好奇心。",
+    "ai_relevance": 90,
+    "bili_term": "煮粪水",
+    "youtube_term": "",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 938921,
+     "views_max": 938921,
+     "vph_max": 9912.7,
+     "likes_total": 0,
+     "max_vsr": 938.92,
+     "outlier": {
+      "views": 938921,
+      "followers": 866,
+      "title": "「Vibe知识大赏」古代守城，为什么放着开水不用，非要在城头架起大锅“煮粪水”往下泼？"
+     },
+     "earliest": 1793937088.0,
+     "median_age_h": 94.7
+    },
+    "samples": [
+     {
+      "title": "「Vibe知识大赏」古代守城，为什么放着开水不用，非要在城头架起大锅“煮粪水”往下泼？",
+      "url": "https://www.bilibili.com/video/BV1aX4i6oE5h",
+      "thumb": "https://i2.hdslb.com/bfs/archive/6aeb4f084afa318773ea6ae3220c2765b0173b38.jpg",
+      "author": "问号灯呀",
+      "platform": "B站",
+      "duration": 112,
+      "vertical": false,
+      "views": 938921,
+      "likes": 23079,
+      "followers": 866,
+      "vsr": 938.92,
+      "vph": 9912.7,
+      "age_h": 94.7,
+      "published": "11-06 11:51"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1aX4i6oE5h"
+    ],
+    "weight": 24.3,
+    "probe_bili": {
+     "term": "煮粪水",
+     "recent_n": 1,
+     "before_n": 0,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 1,
+     "before_page": 0,
+     "recent_per_day": 0.14,
+     "before_per_day": 0.0,
+     "capped": false,
+     "recent_top": [
+      939205
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 1.7
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「煮粪水」：之前 53 天播放最高的 20 条里 0 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：866 粉的号单条 93.9万 播放",
+     "雷达 2026-11-08 起就在记录"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 323,
+    "days_seen": 3
+   },
+   {
+    "name": "巴黎桥上的爱情锁为何被剪",
+    "kind": "B 身边反常原理",
+    "summary": "桥上挂满的爱情锁被工作人员剪掉，浪漫的东西为什么成了麻烦，观众想知道背后原因。",
+    "ai_relevance": 80,
+    "bili_term": "爱情锁",
+    "youtube_term": "Paris love locks bridge removed",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 919470,
+     "views_max": 919470,
+     "vph_max": 13784.4,
+     "likes_total": 0,
+     "max_vsr": 53.95,
+     "outlier": {
+      "views": 919470,
+      "followers": 17044,
+      "title": "巴黎桥上的爱情锁，为何会被工作人员剪掉？背后原因揭秘！"
+     },
+     "earliest": 1794037945.0,
+     "median_age_h": 66.7
+    },
+    "samples": [
+     {
+      "title": "巴黎桥上的爱情锁，为何会被工作人员剪掉？背后原因揭秘！",
+      "url": "https://www.bilibili.com/video/BV17g4J6HE4Z",
+      "thumb": "https://i0.hdslb.com/bfs/archive/2ba5ae0f7f86b86df7b0ff4e92920134995454d3.jpg",
+      "author": "奇文科普",
+      "platform": "B站",
+      "duration": 24,
+      "vertical": false,
+      "views": 919470,
+      "likes": 15701,
+      "followers": 17044,
+      "vsr": 53.95,
+      "vph": 13784.4,
+      "age_h": 66.7,
+      "published": "11-07 15:52"
+     }
+    ],
+    "member_ids": [
+     "bili:BV17g4J6HE4Z"
+    ],
+    "weight": 23.6,
+    "probe_bili": {
+     "term": "爱情锁",
+     "recent_n": 70,
+     "before_n": 418,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 20,
+     "before_page": 20,
+     "recent_per_day": 10.0,
+     "before_per_day": 7.89,
+     "capped": false,
+     "recent_top": [
+      919862
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 1.26
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「爱情锁」：之前 53 天播放最高的 20 条里 0 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：1.7万 粉的号单条 91.9万 播放",
+     "雷达 2026-11-09 起就在记录"
+    ],
+    "first_day": "2026-11-09",
+    "thread_id": 346,
+    "days_seen": 2
+   },
+   {
+    "name": "建筑窗户到底有多荒谬",
+    "kind": "B 身边反常原理",
+    "summary": "工程师频道把窗户当成一个荒谬的东西来讲，小频道上这条播放很高。人人天天看到窗户，却没人讲过它的门道。",
+    "ai_relevance": 65,
+    "bili_term": "",
+    "youtube_term": "Windows Are Absurd",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 933775,
+     "views_max": 933775,
+     "vph_max": 6482.8,
+     "likes_total": 0,
+     "max_vsr": 375.01,
+     "outlier": {
+      "views": 933775,
+      "followers": 2490,
+      "title": "Windows Are Absurd"
+     },
+     "earliest": 1793759541.9865897,
+     "median_age_h": 144.0
+    },
+    "samples": [
+     {
+      "title": "Windows Are Absurd",
+      "url": "https://www.youtube.com/watch?v=JsRiC6vGb1E",
+      "thumb": "https://i.ytimg.com/vi/JsRiC6vGb1E/hqdefault.jpg",
+      "author": "Practical Engineering",
+      "platform": "YouTube",
+      "duration": 1469,
+      "vertical": false,
+      "views": 933775,
+      "likes": null,
+      "followers": 2490,
+      "vsr": 375.01,
+      "vph": 6482.8,
+      "age_h": 144.0,
+      "published": "11-04 10:32"
+     }
+    ],
+    "member_ids": [
+     "youtube:JsRiC6vGb1E"
+    ],
+    "weight": 23.5,
+    "probe_youtube": {
+     "year_n": 6,
+     "match": 1,
+     "match_recent": 1,
+     "oldest_match_days": 6,
+     "samples": [
+      {
+       "title": "Windows Are Absurd",
+       "url": "https://www.youtube.com/watch?v=JsRiC6vGb1E",
+       "views": 933775,
+       "published": "6d ago"
+      }
+     ],
+     "term": "Windows Are Absurd"
+    },
+    "label": "观察",
+    "basis": [
+     "YouTube 搜「Windows Are Absurd」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "有小号爆了：2490 粉的号单条 93.4万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-10",
+    "thread_id": 366,
+    "days_seen": 1
+   },
+   {
+    "name": "古法制冰没有冰箱怎么做",
+    "kind": "B 身边反常原理",
+    "summary": "一分多钟教你古法制冰，小号点赞不低。观众好奇古人没有冰箱是怎么做出冰的。",
+    "ai_relevance": 65,
+    "bili_term": "",
+    "youtube_term": "ancient ice making",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 34356,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793889079.0,
+     "median_age_h": 108.1
+    },
+    "samples": [
+     {
+      "title": "用1分17秒带你学会《古法制冰》",
+      "url": "https://www.douyin.com/video/7704694869771537714",
+      "thumb": "img/104030b3ff6592a5.jpg",
+      "author": "万物起源",
+      "platform": "抖音",
+      "duration": 77,
+      "vertical": true,
+      "views": null,
+      "likes": 34356,
+      "followers": 16402,
+      "vsr": null,
+      "vph": null,
+      "age_h": 108.1,
+      "published": "11-05 22:31"
+     }
+    ],
+    "member_ids": [
+     "douyin:7704694869771537714"
+    ],
+    "weight": 22.7,
+    "label": "观察",
+    "basis": [
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-10",
+    "thread_id": 367,
+    "days_seen": 1
+   },
+   {
+    "name": "不用电的灯是怎么亮的",
+    "kind": "B 身边反常原理",
+    "summary": "一盏不用电的灯被称为伟大的发明，点赞很高。观众想看它不插电为什么能照亮。",
+    "ai_relevance": 75,
+    "bili_term": "",
+    "youtube_term": "lamp without electricity",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 120017,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793701080.0,
+     "median_age_h": 160.3
+    },
+    "samples": [
+     {
+      "title": "一个伟大的发明，不用电的灯。",
+      "url": "https://www.douyin.com/video/7703841772812667578",
+      "thumb": "img/0e0b0e58f14e8286.jpg",
+      "author": "中学物理李",
+      "platform": "抖音",
+      "duration": 49,
+      "vertical": true,
+      "views": null,
+      "likes": 120017,
+      "followers": 1566519,
+      "vsr": null,
+      "vph": null,
+      "age_h": 160.3,
+      "published": "11-03 18:18"
+     }
+    ],
+    "member_ids": [
+     "douyin:7703841772812667578"
+    ],
+    "weight": 21.6,
+    "label": "观察",
+    "basis": [
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-10",
+    "thread_id": 368,
+    "days_seen": 1
+   },
+   {
+    "name": "墨水搅散后居然能复原",
+    "kind": "B 身边反常原理",
+    "summary": "墨水被搅散之后还能复原，而且不同粘度的液体结果天差地别，画面反直觉。适合配自己画的原理动画。",
+    "ai_relevance": 70,
+    "bili_term": "",
+    "youtube_term": "reversible mixing viscous fluid",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 47337,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793856223.0,
+     "median_age_h": 117.2
+    },
+    "samples": [
+     {
+      "title": "墨水被搅散之后居然可以复原，不同粘度的液体结果天差地别。",
+      "url": "https://www.douyin.com/video/7704549778180901105",
+      "thumb": "img/4bdae9ba12eb6d3c.jpg",
+      "author": "科普宇宙",
+      "platform": "抖音",
+      "duration": 63,
+      "vertical": true,
+      "views": null,
+      "likes": 47337,
+      "followers": 2240678,
+      "vsr": null,
+      "vph": null,
+      "age_h": 117.2,
+      "published": "11-05 13:23"
+     }
+    ],
+    "member_ids": [
+     "douyin:7704549778180901105"
+    ],
+    "weight": 19.6,
+    "label": "观察",
+    "basis": [
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-10",
+    "thread_id": 369,
+    "days_seen": 1
+   }
+  ],
+  "x": [
+   {
+    "name": "GPT-6.2 Astra 明天可能发布",
+    "kind": "热点事件",
+    "lane": "工具与模型",
+    "summary": "OpenAI 开发者账号只发了一句“明天”，宝玉猜测是 GPT-6.2 要来了。另有消息称 GPT-6.2 Astra 明天发布，但早期反馈是还比不上 Opus 5.5。",
+    "entity": "GPT-6.2 Astra",
+    "value": 62,
+    "metrics": {
+     "tweets": 3,
+     "authors": 3,
+     "views_total": 662127,
+     "likes_total": 8863
+    },
+    "samples": [
+     {
+      "title": "Tomorrow. https://t.co/ZWapS1LIST",
+      "url": "https://x.com/OpenAIDevs/status/2119521359185478140",
+      "thumb": "",
+      "author": "OpenAI Developers",
+      "handle": "OpenAIDevs",
+      "followers": 474665,
+      "views": 649892,
+      "likes": 8825,
+      "bookmarks": 1450,
+      "published": "11-09 04:04",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "猜测是 GPT-6.2 要来了",
+      "url": "https://x.com/dotey/status/2119539550112317743",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 267686,
+      "views": 11275,
+      "likes": 34,
+      "bookmarks": 4,
+      "published": "11-09 05:16",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "GPT-6.2 Astra tomorrow! Early reports is that it doesn't quite match Opus 5.5.",
+      "url": "https://x.com/TeksEdge/status/2119570311813460073",
+      "thumb": "",
+      "author": "David Hendrickson",
+      "handle": "TeksEdge",
+      "followers": 12926,
+      "views": 960,
+      "likes": 4,
+      "bookmarks": 0,
+      "published": "11-09 07:18",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2119521359185478140",
+     "x:2119539550112317743",
+     "x:2119570311813460073"
+    ],
+    "breadth": null,
+    "label": "热议",
+    "basis": [
+     "3 条高互动推文，3 个账号，合计浏览 66.2万",
+     "雷达 2026-11-09 起就在记录"
+    ],
+    "first_day": "2026-11-09",
+    "thread_id": 355,
+    "days_seen": 2
+   },
+   {
+    "name": "Claude 靠做梦整理记忆",
+    "kind": "工具模型",
+    "lane": "工具与模型",
+    "summary": "Anthropic 工程团队发文讲怎么给 Claude 设计跨会话的记忆：Claude 一边干活一边记，再通过“做梦”回头纠错、整理。“AI 会做梦”这个说法很容易讲给普通人听。",
+    "entity": "Claude 记忆",
+    "value": 60,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 29652,
+     "likes_total": 212
+    },
+    "samples": [
+     {
+      "title": "Anthropic 拆解智能体记忆：Claude 边干边记，再靠“做梦”回头纠错整理\n\nAnthropic 工程团队 11 月 6 日发文，讲他们怎么给 Claude 设计跨会话的记忆。难点在于：Claude 得在当下决定什么值得记，可它并不知道以后会用到什么。\n\n他们的办法是加一个后台步骤，叫“做梦”（dreaming）：会话结束后，让 Claude 回头翻原始对话记录，改掉记错的笔记，把零散笔记整理成更好找的形式。这有点像人睡觉时大",
+      "url": "https://x.com/dotey/status/2119269064543445168",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 267686,
+      "views": 29652,
+      "likes": 212,
+      "bookmarks": 273,
+      "published": "11-08 11:21",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2119269064543445168"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 3.0万",
+     "雷达 2026-11-07 起就在记录"
+    ],
+    "first_day": "2026-11-07",
+    "thread_id": 318,
+    "days_seen": 4
+   },
+   {
+    "name": "Opus 5.5 加 Seedance 做森马广告",
+    "kind": "玩法教程",
+    "lane": "AI视频与创作",
+    "summary": "创作者用 Opus 5.5 加 Seedance 2.5，为森马当季主打的大兴安岭鹅绒服做了一条 TVC 短片，是 AI 做品牌广告的实例。",
+    "entity": "Seedance 2.5",
+    "value": 60,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 66718,
+     "likes_total": 441
+    },
+    "samples": [
+     {
+      "title": "RT @ring_hyacinth: 感谢森马的再次邀请，我们用 Opus 5.5 + Seedance 2.5 为当季主打「大兴安岭鹅绒服」制作了一条 TVC 短片。 \n\n藏宝图上说，大兴安岭的鹅绒，轻到能停在睫毛上，暖到能把鸡蛋孵成小鸡，还像 QQ 糖一样有弹性。 \n\n森马…",
+      "url": "https://x.com/dotey/status/2119095256624808252",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 267686,
+      "views": 66718,
+      "likes": 441,
+      "bookmarks": 254,
+      "published": "11-07 23:50",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2119095256624808252"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 6.7万",
+     "雷达 2026-11-09 起就在记录"
+    ],
+    "first_day": "2026-11-09",
+    "thread_id": 352,
+    "days_seen": 2
+   },
+   {
+    "name": "DeepSeek Harness 称要做 Agent 操作系",
+    "kind": "工具模型",
+    "lane": "工具与模型",
+    "summary": "DeepSeek 希望 DeepSeek Harness 成为 Agent 时代的操作系统。歸藏透露它的日活已突破 154 万，并且团队推荐了他的设计插件。",
+    "entity": "DeepSeek Harness",
+    "value": 55,
+    "metrics": {
+     "tweets": 2,
+     "authors": 2,
+     "views_total": 27502,
+     "likes_total": 168
+    },
+    "samples": [
+     {
+      "title": "“DeepSeek 希望 DeepSeek Harness 可以作为 Agent 时代的操作系统。”",
+      "url": "https://x.com/dotey/status/2119481319935692908",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 267686,
+      "views": 18915,
+      "likes": 88,
+      "bookmarks": 22,
+      "published": "11-09 01:24",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "哇🤩！感谢 DeepSeek Harness 团队推荐我的歸藏设计插件\n\n没想到 DeepSeek harness 已经突破了 154 万的日活，相当恐怖了。 https://t.co/HUTw3uuYuS",
+      "url": "https://x.com/op7418/status/2119432018450870276",
+      "thumb": "",
+      "author": "歸藏(guizang.ai)",
+      "handle": "op7418",
+      "followers": 187116,
+      "views": 8587,
+      "likes": 80,
+      "bookmarks": 20,
+      "published": "11-08 22:09",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2119481319935692908",
+     "x:2119432018450870276"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "2 条高互动推文，2 个账号，合计浏览 2.8万",
+     "雷达 2026-10-28 起就在记录"
+    ],
+    "first_day": "2026-10-28",
+    "thread_id": 98,
+    "days_seen": 8
+   },
+   {
+    "name": "OpenAI 分享无缝循环动画提示词",
+    "kind": "玩法教程",
+    "lane": "AI视频与创作",
+    "summary": "OpenAIDevs 转发网友分享的提示词，用来生成几秒钟的无缝循环动画，读者可以直接复制试用。",
+    "entity": "OpenAIDevs",
+    "value": 48,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 22751,
+     "likes_total": 88
+    },
+    "samples": [
+     {
+      "title": "RT @fedesarquis: @pawelk411 @OpenAIDevs You can try the prompt yourself! Here:\n\nCreate a seamless 4–5-second looping GIF celebrating [BRAND…",
+      "url": "https://x.com/OpenAIDevs/status/2119084288771502532",
+      "thumb": "",
+      "author": "OpenAI Developers",
+      "handle": "OpenAIDevs",
+      "followers": 474665,
+      "views": 22751,
+      "likes": 88,
+      "bookmarks": 132,
+      "published": "11-07 23:07",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2119084288771502532"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 2.3万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-10",
+    "thread_id": 374,
+    "days_seen": 1
+   },
+   {
+    "name": "印度 Alpie 9B 被指照搬 Qwen",
+    "kind": "热点事件",
+    "lane": "行业新闻",
+    "summary": "印度光明节期间发布了号称印度自研的 Alpie 9B。有人对比后发现它架构完全照抄 Qwen3.5-9B，分词器词表也一个字没改，被说成是“致敬”。",
+    "entity": "Alpie 9B",
+    "value": 45,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 15110,
+     "likes_total": 78
+    },
+    "samples": [
+     {
+      "title": "RT @dongxi_nlp: 印度光明节，号称 built in 印度的 Alpie 9B 发布。看了一下，完全是向 Qwen3.5-9B “致敬”：\n\n- 架构方面，完全 copy\n- 分词器方面，词表一个字没动\n- 权重结构和数值：基本逐位相同\n\n哦，唯一不同的是模型的自…",
+      "url": "https://x.com/dotey/status/2119484753464213820",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 267686,
+      "views": 15110,
+      "likes": 78,
+      "bookmarks": 12,
+      "published": "11-09 01:38",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2119484753464213820"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 1.5万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-10",
+    "thread_id": 375,
+    "days_seen": 1
+   },
+   {
+    "name": "卡帕西夸 YouTube 频道榜单",
+    "kind": "观点讨论",
+    "lane": "创作者生态",
+    "summary": "卡帕西转发 Tristan 本周公布的 YouTube 频道推荐榜单，称看起来很不错。",
+    "entity": "Karpathy",
+    "value": 40,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 845363,
+     "likes_total": 8633
+    },
+    "samples": [
+     {
+      "title": "Earlier this week Tristan published his top YouTube channels:\nhttps://t.co/NZ3UCNo6cT\nWhich looked excellent so clearly I had to turn it into TristanTube:\nhttps://t.co/l0KyW1WdNH\n47K super nerdy videos +TV mode for laid ",
+      "url": "https://x.com/karpathy/status/2119114537442189652",
+      "thumb": "",
+      "author": "Andrej Karpathy",
+      "handle": "karpathy",
+      "followers": 4437676,
+      "views": 845363,
+      "likes": 8633,
+      "bookmarks": 9756,
+      "published": "11-08 01:07",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2119114537442189652"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 84.5万",
+     "雷达 2026-11-09 起就在记录"
+    ],
+    "first_day": "2026-11-09",
+    "thread_id": 357,
+    "days_seen": 2
+   }
+  ],
+  "tools": {
+   "repos": [],
+   "models": [
+    {
+     "name": "Lightricks/LTX-2.5",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5",
+     "kind": "model",
+     "likes": 11270,
+     "downloads": 2720096,
+     "created": "2026-07-23",
+     "tags": [
+      "diffusion-single-file",
+      "image-to-video",
+      "text-to-video",
+      "video-to-video",
+      "image-text-to-video",
+      "audio-to-video"
+     ],
+     "zh": "Lightricks的LTX-2.5开源视频模型，支持文生视频、图生视频",
+     "use": "可本地或通过ComfyUI生成短视频素材，适合做「免费AI出片」教程",
+     "group": "AI 视频与图像",
+     "value": 72
+    },
+    {
+     "name": "Viggle/Viggle-Remake",
+     "url": "https://huggingface.co/Viggle/Viggle-Remake",
+     "kind": "model",
+     "likes": 237,
+     "downloads": 97356,
+     "created": "2026-10-23",
+     "tags": [
+      "minimax-h3",
+      "gguf",
+      "video-editing",
+      "character-replacement",
+      "video-to-video",
+      "lora"
+     ],
+     "zh": "Viggle Remake：视频里替换人物角色的模型",
+     "use": "可做「一键把视频主角换成别人/卡通角色」的爆款演示",
+     "group": "AI 视频与图像",
+     "value": 70
+    },
+    {
+     "name": "black-forest-labs/flux-3-image-klein-comfy",
+     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+     "kind": "model",
+     "likes": 2826,
+     "downloads": 1203472,
+     "created": "2026-10-14",
+     "tags": [
+      "diffusion-single-file",
+      "comfyui",
+      "image-generation",
+      "image-editing",
+      "flux",
+      "flux-3"
+     ],
+     "zh": "Black Forest Labs的FLUX 3 Klein ComfyUI版，可生成和编辑图片",
+     "use": "在ComfyUI中生成配图、封面并改图，适合做图片工作流教程",
+     "group": "AI 视频与图像",
+     "value": 68
+    },
+    {
+     "name": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+     "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+     "kind": "model",
+     "likes": 5751,
+     "downloads": 89977,
+     "created": "2026-09-20",
+     "tags": [
+      "gguf",
+      "qwen",
+      "image-generation",
+      "comfyui",
+      "comfyui-gguf",
+      "mlx"
+     ],
+     "zh": "Qwen-Image 2.1 Turbo量化版，低配电脑也能跑的出图模型",
+     "use": "可做「普通电脑本地免费AI画图」教程",
+     "group": "AI 视频与图像",
+     "value": 62
+    },
+    {
+     "name": "facebook/sam3",
+     "url": "https://huggingface.co/facebook/sam3",
+     "kind": "model",
+     "likes": 6183,
+     "downloads": 2004798,
+     "created": "2025-11-07",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "sam3_video",
+      "feature-extraction",
+      "sam3",
+      "mask-generation"
+     ],
+     "zh": "Meta的SAM3，能在图片和视频里分割抠出指定物体",
+     "use": "可做「AI自动抠视频里任何物体」的科普，剪辑抠像很实用",
+     "group": "AI 视频与图像",
+     "value": 60
+    },
+    {
+     "name": "Pika-Labs/Pika-H3-Flex",
+     "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+     "kind": "model",
+     "likes": 528,
+     "downloads": 1083,
+     "created": "2026-10-30",
+     "tags": [
+      "pika-h3-flex",
+      "diffusers",
+      "safetensors",
+      "video-generation",
+      "audio-video-generation",
+      "lora"
+     ],
+     "zh": "Pika的开源视频模型，支持音视频一起生成",
+     "use": "可试做带声音的AI短视频，演示效果有看点",
+     "group": "AI 视频与图像",
+     "value": 58
+    },
+    {
+     "name": "speridlabs/idol",
+     "url": "https://huggingface.co/speridlabs/idol",
+     "kind": "model",
+     "likes": 1643,
+     "downloads": 24747,
+     "created": "2026-10-28",
+     "tags": [
+      "idol",
+      "gaussian-splatting",
+      "3d",
+      "image-to-3d"
+     ],
+     "zh": "IDOL：用高斯泼溅技术把单张图片转成3D模型的开源模型",
+     "use": "可做一期「一张照片变3D」的科普演示，但需要一定部署门槛",
+     "group": "AI 视频与图像",
+     "value": 45
+    },
+    {
+     "name": "LiquidAI/LFM3-Omni-2B-WebGPU",
+     "url": "https://huggingface.co/spaces/LiquidAI/LFM3-Omni-2B-WebGPU",
+     "kind": "space",
+     "likes": 144,
+     "downloads": null,
+     "created": "2026-10-30",
+     "tags": [
+      "static"
+     ],
+     "zh": "Liquid AI的LFM3 Omni 2B，浏览器里直接跑的多模态小模型演示",
+     "use": "打开网页就能体验本地AI，适合做「不联网的AI」演示",
+     "group": "模型",
+     "value": 45
+    }
+   ],
+   "stories": [
+    {
+     "name": "Claude Fable 5.2 and Mythos 5.2",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "hn_url": "https://news.ycombinator.com/item?id=50429906",
+     "points": 961,
+     "comments": 3,
+     "published": "11-10 02:56",
+     "zh": "Anthropic发布Claude Fable 5.2和Mythos 5.2两款新模型",
+     "use": "Claude新模型发布，可做一期实测科普",
+     "group": "模型",
+     "value": 75
+    }
+   ]
+  },
+  "news": [
+   {
+    "name": "GPT-Image-2.6 实测：10 个 GIF 玩法提示词与三项新能力评测",
+    "url": "https://aihot.news/items/kss7rjmanc8dv5mpj60jtdzgd",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-08 22:22",
+    "zh": "GPT-Image-2.6实测：10个GIF玩法提示词和三项新能力",
+    "use": "提示词可直接照抄，做表情包、动态图表等，一期现成选题",
+    "group": "AI 视频与图像",
+    "value": 88
+   },
+   {
+    "name": "字节发布 Seedream 5.5 图像创作模型：支持 100 轮编辑与原生 RGBA 透明输出",
+    "url": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-09 00:00",
+    "zh": "字节Seedream 5.5发布：支持100轮连续编辑和原生透明背景输出",
+    "use": "免抠图直接出透明素材，改图百轮不跑偏，适合做封面和素材的教程",
+    "group": "AI 视频与图像",
+    "value": 85
+   },
+   {
+    "name": "实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出",
+    "url": "https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-10 07:21",
+    "zh": "实测Claude Fable 5.2：一次生成视频和3D网页，10个任务都直出",
+    "use": "可跟着复刻实测任务，做「AI一次做出3D网页和视频」的视频",
+    "group": "AI 视频与图像",
+    "value": 82
+   },
+   {
+    "name": "Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用",
+    "url": "https://aihot.news/items/ugn21ui1m8kftffpe2c95qlkx",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-10 04:06",
+    "zh": "Claude Fable 5.2上线Higgsfield，3天免费不限量用视频和图像模型",
+    "use": "限时免费，可抓紧做一期免费AI出片实测",
+    "group": "AI 视频与图像",
+    "value": 80
+   },
+   {
+    "name": "Zyphra 发布开源 TTS 模型 ZONOS3-Mini，可在手机浏览器实时运行",
+    "url": "https://aihot.news/items/r5h0cwwdh1peqbg2rk6k9ljrh",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-09 00:00",
+    "zh": "Zyphra开源ZONOS3-Mini，手机浏览器实时运行的语音克隆TTS",
+    "use": "可做免费语音克隆配音教程，手机网页就能跑",
+    "group": "音频与配音",
+    "value": 78
+   },
+   {
+    "name": "Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2",
+    "url": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-09 00:00",
+    "zh": "Anthropic发布Claude Fable 5.2与Mythos 5.2，同一底层模型",
+    "use": "Claude新模型发布，可做一期上手介绍",
+    "group": "模型",
+    "value": 70
+   },
+   {
+    "name": "数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛",
+    "url": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-09 07:56",
+    "zh": "卡兹克上线Token羊毛网站，汇总各厂商免费额度和活动",
+    "use": "可帮你找免费AI额度，省钱做视频和测试工具",
+    "group": "内容创作与运营",
+    "value": 65
+   },
+   {
+    "name": "Anthropic 指南：Claude 开发该选 Haiku 5.5、Sonnet 5.5、Opus 5.5 还是 Fable 5.2",
+    "url": "https://aihot.news/items/ykrvgcox3whsx6tst5qesbf62",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-09 20:00",
+    "zh": "Anthropic发指南：Haiku、Sonnet、Opus、Fable该怎么选",
+    "use": "Claude Code用户选模型和省钱的参考，可做成选模型科普",
+    "group": "Agent 与编程",
+    "value": 60
+   }
+  ]
+ },
+ "stats": {
+  "items": 1929,
+  "by_source": {
+   "bili": 644,
+   "bili_hot": 50,
+   "youtube": 66,
+   "douyin": 148,
+   "x": 658,
+   "hf": 47,
+   "hn": 17,
+   "douyin_hot": 199,
+   "aihot": 22,
+   "qbitai": 10,
+   "ithome": 60,
+   "sspai": 8
+  }
+ }
+}

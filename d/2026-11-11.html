@@ -1,0 +1,796 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>小小和尚 · 选题情报站 · 2026-11-11</title><meta name="robots" content="noindex">
+<meta name="referrer" content="no-referrer">
+<style>
+:root{--brand-deep:#006659;--brand-700:#087f73;--brand-600:#248f80;--brand-500:#36a590;--brand-100:#d9f5ef;--brand-50:#e9fffc;
+--canvas:#f2f5f6;--surface:#fff;--subtle:#f7f9fa;--border:#e2e8ea;--border-strong:#cbd7d9;--text:#242528;--text-2:#3b3d40;--muted:#757980;
+--info:#2877c7;--success:#228b65;--warning:#b96913;--danger:#c43b4d;--r-sm:8px;--r-md:12px;--r-lg:16px;--ink:#0d1517;
+--shadow-sm:0 1px 2px rgba(17,55,51,.04),0 5px 16px rgba(17,55,51,.05);--shadow-md:0 14px 36px rgba(17,72,65,.10)}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:108px}
+body{margin:0;background:var(--canvas);color:var(--text);font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit;text-decoration:none}button{font:inherit;color:inherit}
+a:focus-visible,button:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--brand-600);outline-offset:2px;border-radius:6px}
+.nav{position:sticky;top:0;z-index:20;height:56px;background:rgba(255,255,255,.92);backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--border)}
+@supports not (backdrop-filter:blur(1px)){.nav{background:#fff}}
+.nav-in,.wrap{max-width:1240px;margin:0 auto;padding:0 24px}
+.nav-in{height:56px;display:flex;align-items:center;gap:16px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:720;font-size:16px;white-space:nowrap}
+.brand-mark{width:28px;height:28px;border-radius:8px;background:linear-gradient(135deg,var(--brand-500),var(--brand-deep));display:grid;place-items:center}
+.brand small{font-weight:500;color:var(--muted);font-size:13px}
+.daypick{margin-left:auto;display:flex;align-items:center;gap:6px}
+.daypick a,.daypick select{height:36px;min-width:40px;border:1px solid var(--border);background:#fff;border-radius:var(--r-sm);display:inline-grid;place-items:center;color:var(--text-2);font:inherit;font-size:14px;padding:0 10px;cursor:pointer}
+.daypick a[aria-disabled=true]{color:#b5babf;pointer-events:none}
+.mast{background:radial-gradient(circle at 8% 0%,rgba(54,165,144,.18),transparent 36%),radial-gradient(circle at 92% 10%,rgba(40,119,199,.08),transparent 30%),linear-gradient(135deg,#f5fffc 0%,#f8fbff 58%,#fffaf0 100%);border-bottom:1px solid var(--border)}
+.mast .wrap{padding-top:26px;padding-bottom:22px}
+.mast-top{display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px}
+.eyebrow{display:inline-flex;align-items:center;gap:7px;font-size:12.5px;font-weight:680;color:var(--brand-deep);background:#fff;border:1px solid var(--brand-100);border-radius:999px;padding:3px 11px}
+.eyebrow::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--brand-500);box-shadow:0 0 0 3px rgba(54,165,144,.18)}
+.mast-date{font-size:13px;color:var(--muted)}
+.mast h1{margin:12px 0 0;font-size:30px;line-height:1.3;font-weight:780;letter-spacing:.01em}
+.mast .lead{max-width:860px;margin:10px 0 0;font-size:16px;line-height:1.75;color:var(--text-2)}
+.rising{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:16px}
+.rising-k{font-size:13px;font-weight:700;color:var(--text-2);margin-right:2px}
+.rise{display:inline-flex;align-items:center;gap:8px;min-height:36px;padding:4px 12px 4px 5px;background:#fff;border:1px solid var(--border);border-radius:999px;box-shadow:var(--shadow-sm);font-size:14px;font-weight:620;transition:border-color .15s,transform .15s}
+.rise i{font-style:normal;color:var(--muted);font-weight:500}
+.rise:hover{border-color:var(--brand-500);transform:translateY(-1px)}.rise:hover i{color:var(--brand-deep)}
+.scan{margin:14px 0 0;font-size:13px;color:var(--muted)}
+.tabs{position:sticky;top:56px;z-index:15;background:rgba(242,245,246,.96);border-bottom:1px solid var(--border)}
+.tabs-in{max-width:1240px;margin:0 auto;padding:0 24px;display:flex;gap:2px}
+.tabs a{padding:11px 12px;font-size:14px;color:var(--text-2);border-bottom:2px solid transparent;font-weight:560;white-space:nowrap}
+.tabs a:hover{color:var(--brand-deep)}.tabs a.on{color:var(--brand-deep);border-bottom-color:var(--brand-600)}
+main .wrap{padding-top:4px;padding-bottom:64px}
+section.block{padding-top:26px}
+.block-head{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.block-head h2{margin:0;font-size:21px;font-weight:740;display:flex;align-items:baseline;gap:10px}.block-head p{margin:0;color:var(--muted);font-size:14px}
+.sec-no{font-size:13px;font-weight:700;color:var(--brand-600);font-variant-numeric:tabular-nums;letter-spacing:.04em}
+.filters{margin-left:auto;display:flex;gap:6px;flex-wrap:wrap}
+.filters button{height:32px;padding:0 12px;border-radius:999px;border:1px solid var(--border);background:#fff;font-size:13px;color:var(--text-2);cursor:pointer}
+.filters button[aria-pressed=true]{background:var(--brand-deep);border-color:var(--brand-deep);color:#fff}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-lg);box-shadow:var(--shadow-sm);padding:18px 20px}
+/* media: a 16:9 box that holds a thumbnail, then the player */
+.media{position:relative;aspect-ratio:16/9;border-radius:var(--r-md);overflow:hidden;background:var(--ink)}
+.media .player{position:absolute;inset:0;display:block;width:100%;height:100%;padding:0;border:0;background:none;cursor:pointer}
+.media img.ph{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.media.v img.ph{object-fit:contain}
+.media img.bg{position:absolute;inset:-10%;width:120%;height:120%;object-fit:cover;filter:blur(18px) brightness(.62);transform:scale(1.05)}
+.media.tall{aspect-ratio:9/16;width:min(100%,46vh);margin:0 auto}
+.media.noimg{background:linear-gradient(135deg,#21363a,#0d1517)}.media.noimg img{display:none}
+.media iframe,.media video{position:absolute;inset:0;width:100%;height:100%;border:0;background:#000}
+.pbtn{position:absolute;left:50%;top:50%;width:52px;height:52px;margin:-26px 0 0 -26px;border-radius:50%;background:rgba(10,18,20,.62);color:#fff;display:grid;place-items:center;box-shadow:0 4px 14px rgba(0,0,0,.25);transition:background .15s,transform .15s}
+.pbtn svg{width:24px;height:24px;margin-left:3px}
+.m-open{position:absolute;top:8px;right:8px;width:30px;height:30px;border-radius:8px;background:rgba(10,18,20,.62);color:#fff;display:grid;place-items:center}.m-open svg{width:16px;height:16px}
+a.player:hover .m-open{background:var(--brand-600)}
+.big .pbtn{width:64px;height:64px;margin:-32px 0 0 -32px}.big .pbtn svg{width:30px;height:30px}
+.player:hover .pbtn{background:var(--brand-600);transform:scale(1.06)}
+.m-plat,.m-dur{position:absolute;bottom:8px;font-size:12px;line-height:1;padding:5px 7px;border-radius:6px;background:rgba(10,18,20,.66);color:#fff}
+.m-plat{left:8px;display:inline-flex;align-items:center;gap:5px}
+.m-plat[data-p]::before{content:"";width:6px;height:6px;border-radius:50%;background:#fff}
+.m-plat[data-p=bili]::before{background:#fb7299}.m-plat[data-p=yt]::before{background:#ff3b3b}.m-plat[data-p=dy]::before{background:#fe2c55}
+.m-plat[data-p=tt]::before{background:#25f4ee}.m-plat[data-p=xhs]::before{background:#ff2442}.m-plat[data-p=x]::before{background:#e7e9ea}.m-dur{right:8px;font-variant-numeric:tabular-nums}
+/* headline */
+.hl-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;align-items:start}
+.hl{display:flex;flex-direction:column;gap:14px;padding:14px 14px 18px}
+.hl.lead{grid-column:1/-1;display:grid;grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:22px;padding:16px}
+.hl.no-media{padding:18px 20px}
+.hl-media{display:flex;flex-direction:column;gap:8px;min-width:0}
+.hl-body{display:flex;flex-direction:column;gap:8px;min-width:0;padding:0 6px}
+.hl.lead .hl-body{padding:6px 6px 4px 0}
+.hl-top{display:flex;align-items:center;gap:10px}
+.grade{flex:none;height:26px;padding:0 10px;border-radius:7px;display:inline-grid;place-items:center;font-weight:720;font-size:13px;letter-spacing:.04em}
+.g-s{background:var(--brand-deep);color:#fff}.g-a{background:var(--brand-100);color:var(--brand-deep)}.g-b{background:#e6f0fa;color:var(--info)}.g-c{background:var(--subtle);color:var(--muted);border:1px solid var(--border)}
+.verdict{color:var(--brand-deep);font-weight:680;font-size:14.5px}
+
+.hl h3{margin:0;font-size:19px;line-height:1.4;font-weight:720}.hl.lead h3{font-size:23px}
+.facts{font-size:13px;line-height:1.7;color:var(--muted);font-variant-numeric:tabular-nums}.facts .label{margin-right:8px}
+.why{margin:0;font-size:15px;line-height:1.7;color:var(--text-2)}
+.pt{margin:0;font-size:14px;line-height:1.65;color:var(--text-2);display:flex;gap:8px;align-items:baseline}
+.pt b{flex:none;font-size:12px;padding:1px 7px;border-radius:6px;font-weight:650}
+.k-next{background:var(--brand-50);color:var(--brand-deep);border:1px solid var(--brand-100)}.k-risk{background:#fff4ea;color:var(--warning);border:1px solid #f4dfc6}
+.more{font-size:14px;color:var(--text-2)}.more summary,.basis summary{cursor:pointer;color:var(--brand-700);font-weight:600;width:max-content;font-size:13px;list-style:none;padding:4px 0}
+.more summary::-webkit-details-marker,.basis summary::-webkit-details-marker{display:none}
+.more summary::after,.basis summary::after{content:" ›";display:inline-block;transition:transform .15s}
+.more[open] summary::after,.basis[open] summary::after{transform:rotate(90deg)}
+.more p{margin:4px 0 0;line-height:1.75}
+.cap{display:flex;flex-direction:column;gap:1px;font-size:13px;line-height:1.45;min-width:0}
+.cap b{font-weight:620;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.cap span{color:var(--muted);font-size:12px}
+.cap:hover b{color:var(--brand-deep)}
+.strip{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.mini{position:relative;aspect-ratio:16/9;border:0;padding:0;border-radius:10px;overflow:hidden;background:var(--ink);cursor:pointer}
+.mini img.ph{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.92;transition:opacity .15s}
+.mini:hover img.ph{opacity:1}.mini.on{outline:2px solid var(--brand-500);outline-offset:1px}
+.mini-t{position:absolute;left:0;right:0;bottom:0;padding:14px 7px 5px;font-size:11.5px;line-height:1.3;color:#fff;text-align:left;background:linear-gradient(transparent,rgba(0,0,0,.72));white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.chips{display:flex;flex-wrap:wrap;gap:6px;align-items:center;padding-top:2px}
+.chip{display:inline-flex;align-items:center;gap:4px;font-size:13px;border:1px solid var(--border);background:var(--subtle);border-radius:999px;padding:3px 10px;color:var(--text-2);min-height:28px}
+.chip svg{width:12px;height:12px;color:var(--muted)}a.chip:hover{border-color:var(--brand-500);color:var(--brand-deep)}
+/* topics */
+.topic{margin-bottom:16px}
+.topic-head{display:flex;align-items:center;gap:12px;justify-content:space-between}
+.topic-title{display:flex;align-items:center;gap:10px;flex-wrap:wrap;min-width:0}.topic-title h3{margin:0;font-size:18px;font-weight:700}
+.kind{font-size:12px;color:var(--muted);border:1px solid var(--border);border-radius:6px;padding:1px 7px}
+.seen{font-size:13px;color:var(--muted);white-space:nowrap}.deep-link{color:var(--brand-700);font-weight:600}.deep-link:hover{color:var(--brand-deep)}
+.label{font-size:12px;font-weight:700;padding:2px 9px;border-radius:999px;white-space:nowrap}
+.l-new{background:var(--brand-deep);color:#fff}.l-up{background:#fff1e3;color:#9a560c;border:1px solid #f1d6b6}
+.l-keep{background:#e9f2fb;color:#1f62a6;border:1px solid #cfe0f3}.l-watch{background:var(--subtle);color:var(--muted);border:1px solid var(--border)}
+.l-down{background:#f6eef0;color:#a2394a;border:1px solid #ecd3d8}
+.summary{margin:6px 0 14px;color:var(--text-2);line-height:1.7}
+.vids{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.vids:not(.all)>.vcard:nth-child(n+5){display:none}
+.vcard{display:flex;flex-direction:column;gap:3px;min-width:0}
+.vcard .media{margin-bottom:5px}
+.v-title{font-size:13.5px;line-height:1.45;font-weight:620;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.v-title:hover{color:var(--brand-deep)}
+.small-hit{color:var(--warning);font-weight:650;margin-left:6px}
+.v-meta{font-size:12px;color:var(--muted);line-height:1.45;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.more-btn{margin-top:12px;height:34px;padding:0 14px;border-radius:999px;border:1px solid var(--border);background:#fff;font-size:13px;color:var(--text-2);cursor:pointer}
+.more-btn:hover{border-color:var(--brand-500);color:var(--brand-deep)}
+.topic-foot{margin-top:14px;padding-top:12px;border-top:1px solid var(--border);display:flex;gap:6px 18px;flex-wrap:wrap;align-items:baseline}
+.facts-line{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.basis{font-size:13px;color:var(--text-2)}.basis ul{margin:4px 0 0;padding-left:20px}.basis li{margin:2px 0}.basis[open]{flex-basis:100%}
+.tweets{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;align-items:start}
+.tweets:not(.all)>.tweet:nth-child(n+4){display:none}
+.tweet{display:flex;flex-direction:column;gap:8px;border:1px solid var(--border);border-radius:var(--r-md);padding:12px 14px;background:#fff;min-width:0}
+.tw-head{font-size:13px;display:flex;flex-wrap:wrap;gap:0 6px}.tw-head span{color:var(--muted)}.tw-head:hover b{color:var(--brand-deep)}
+.tw-text{margin:0;font-size:14px;line-height:1.6;color:var(--text-2);display:-webkit-box;-webkit-line-clamp:6;-webkit-box-orient:vertical;overflow:hidden;white-space:pre-line}
+.tw-meta{font-size:12px;color:var(--muted)}
+/* news, tools */
+.news{list-style:none;margin:0;padding:4px 20px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:28px}
+.news-item{padding:12px 0;border-top:1px solid var(--border)}
+.news-item:nth-child(-n+2){border-top:0}
+.n-top{display:flex;gap:8px;align-items:center;font-size:12px;color:var(--muted)}.n-votes{color:var(--warning);font-weight:650}
+.n-title{display:block;margin-top:4px;font-weight:650;font-size:15px;line-height:1.5}.n-title:hover{color:var(--brand-deep)}
+.news-item p{margin:3px 0 0;font-size:13.5px;color:var(--text-2);line-height:1.6}.news-item p.use,.tool p.use,.repo p.use{color:var(--brand-700)}
+.sub-title{margin:0 0 10px;font-size:16px;font-weight:700}
+.repos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-bottom:16px}
+.repo{display:flex;flex-direction:column;background:#fff;border:1px solid var(--border);border-radius:var(--r-lg);box-shadow:var(--shadow-sm);overflow:hidden;transition:border-color .15s,box-shadow .15s}
+.repo:hover{border-color:var(--brand-500);box-shadow:var(--shadow-md)}
+.repo .media{border-radius:0;aspect-ratio:2/1;background:var(--subtle);border-bottom:1px solid var(--border)}
+.repo-media img.ph{object-fit:cover}
+.repo-body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:4px}
+.repo-name{font-weight:680;word-break:break-all}.repo-tags{display:flex;gap:6px;flex-wrap:wrap}
+.repo p{margin:2px 0 0;font-size:14px;color:var(--text-2);line-height:1.6}
+.tools-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;align-items:start}
+.col-title{margin:0 0 4px;font-size:16px;font-weight:700}
+ul.tools{list-style:none;margin:0;padding:0}
+.tool{padding:11px 0;border-top:1px solid var(--border)}.tool:first-child{border-top:0}
+.tool-main{display:flex;gap:6px;flex-wrap:wrap;align-items:center}.tool-main a{font-weight:650;word-break:break-all}.tool-main a:hover{color:var(--brand-deep)}
+.tool p{margin:3px 0 0;font-size:14px;color:var(--text-2);line-height:1.6}
+.tool-meta{margin-top:4px;font-size:12px;color:var(--muted)}.tool-meta a:hover{color:var(--brand-deep)}
+.tag{font-size:11.5px;color:var(--muted);border:1px solid var(--border);border-radius:6px;padding:0 6px;white-space:nowrap}.t-hot{color:#9a560c;border-color:#f1d6b6;background:#fff8f0}
+.about{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr) minmax(0,1fr);gap:16px}
+.about-col{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-lg);box-shadow:var(--shadow-sm);padding:18px 20px}
+.about-col h3{margin:0 0 10px;font-size:15.5px;font-weight:700}
+.about-col p{margin:0 0 10px;font-size:14px;line-height:1.75;color:var(--text-2)}.about-col p:last-child{margin:0}
+.legend{margin:0;display:flex;flex-direction:column;gap:9px}
+.lg{display:grid;grid-template-columns:52px 1fr;gap:10px;align-items:baseline}.lg dt{margin:0}.lg dd{margin:0;font-size:13.5px;line-height:1.65;color:var(--text-2)}
+.about-foot{margin:12px 2px 0;font-size:12.5px;color:var(--muted)}
+.empty{color:var(--muted);font-size:14px}
+footer{color:var(--muted);font-size:13px;text-align:center;padding:28px 16px 36px;border-top:1px solid var(--border);margin-top:8px}footer b{color:var(--text-2);font-weight:650}
+/* share cards */
+.share-btn{position:relative;flex:none;display:inline-flex;align-items:center;gap:5px;height:32px;padding:0 12px 0 10px;border:1px solid var(--border);border-radius:999px;background:#fff;color:var(--text-2);font-size:13px;font-weight:600;cursor:pointer;transition:border-color .15s,color .15s}
+.share-btn::after{content:"";position:absolute;inset:-5px -3px}
+.share-btn svg{width:15px;height:15px}.share-btn:hover{border-color:var(--brand-500);color:var(--brand-deep)}
+.hl-top .share-btn{margin-left:auto}
+.head-r{display:flex;align-items:center;gap:12px;flex:none}
+.repo-wrap{position:relative;display:flex;border-radius:var(--r-lg)}.repo-wrap>.repo{flex:1;min-width:0}
+.repo-wrap .share-btn{position:absolute;top:10px;right:10px;background:rgba(255,255,255,.95);box-shadow:var(--shadow-sm)}
+.card.flash,.repo-wrap.flash{animation:flash 2.4s ease-out 1 both}
+@keyframes flash{0%{box-shadow:0 0 0 0 rgba(54,165,144,.6),var(--shadow-md)}30%{box-shadow:0 0 0 12px rgba(54,165,144,.16),var(--shadow-md)}100%{box-shadow:0 0 0 3px var(--brand-500),var(--shadow-md)}}
+html.sd-lock{overflow:hidden}
+.sd{width:min(440px,calc(100vw - 24px));max-width:none;max-height:calc(100vh - 24px);max-height:calc(100dvh - 24px);padding:0;border:0;border-radius:var(--r-lg);background:var(--surface);color:var(--text);box-shadow:0 24px 64px rgba(13,21,23,.28);overflow:hidden}
+.sd[open]{display:flex;flex-direction:column}.sd [hidden]{display:none}.sd::backdrop{background:rgba(13,21,23,.58)}
+.sd-head{display:flex;align-items:center;gap:12px;padding:8px 8px 8px 20px;border-bottom:1px solid var(--border)}
+.sd-head h2{margin:0;font-size:16px;font-weight:700;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sd-x{flex:none;width:40px;height:40px;border:0;border-radius:var(--r-sm);background:none;display:grid;place-items:center;color:var(--muted);cursor:pointer}
+.sd-x:hover{background:var(--subtle);color:var(--text)}.sd-x svg{width:20px;height:20px}
+.sd-stage{flex:1 1 auto;min-height:0;overflow:auto;background:var(--canvas);padding:16px;display:grid;place-items:center}
+.sd-frame{position:relative;width:min(100%,calc((100vh - 236px) * .75));width:min(100%,calc((100dvh - 236px) * .75));aspect-ratio:3/4;border-radius:10px;overflow:hidden;background:#fff;box-shadow:var(--shadow-md)}
+.sd-img{position:absolute;inset:0;width:100%;height:100%;display:block;-webkit-touch-callout:default;user-select:auto}
+.sd-wait{position:absolute;inset:0;margin:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;font-size:14px;color:var(--muted);background:linear-gradient(135deg,#f5fffc,#f8fbff 58%,#fffaf0)}
+.sd-wait::before{content:"";width:28px;height:28px;border-radius:50%;border:3px solid var(--brand-100);border-top-color:var(--brand-600);animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.sd-foot{padding:10px 16px 16px;display:flex;flex-direction:column;gap:10px;border-top:1px solid var(--border)}
+.sd-tip{margin:0;min-height:20px;font-size:13px;line-height:1.5;color:var(--muted);text-align:center}
+.sd.inapp .sd-tip{color:var(--brand-deep);font-weight:650;font-size:14px}
+.sd-acts{display:grid;grid-template-columns:1fr 1fr;gap:10px}.sd.inapp .sd-acts{grid-template-columns:1fr}.sd.inapp .sd-save{display:none}
+.sd-acts button{height:44px;border-radius:var(--r-sm);font-size:15px;font-weight:650;cursor:pointer}
+.sd-save{background:var(--brand-deep);border:1px solid var(--brand-deep);color:#fff}.sd-save:hover{background:var(--brand-700)}
+.sd-copy{background:#fff;border:1px solid var(--border-strong);color:var(--text-2)}.sd-copy:hover{border-color:var(--brand-500);color:var(--brand-deep)}
+.sd-acts button:disabled{background:var(--subtle);border-color:var(--border);color:#9aa0a6;cursor:default}
+.toast{position:fixed;left:50%;bottom:24px;z-index:40;max-width:calc(100vw - 32px);transform:translate(-50%,16px);opacity:0;pointer-events:none;background:var(--text);color:#fff;font-size:14px;padding:10px 16px;border-radius:999px;box-shadow:var(--shadow-md);transition:opacity .2s,transform .2s}
+.toast.on{opacity:1;transform:translate(-50%,0)}
+@media (max-width:1024px){.about{grid-template-columns:1fr 1fr}.about-col:first-child{grid-column:1/-1}}
+@media (max-width:1024px){.tweets{grid-template-columns:repeat(2,minmax(0,1fr))}.repos{grid-template-columns:repeat(2,minmax(0,1fr))}.hl.lead{grid-template-columns:1fr}}
+@media (max-width:760px){.nav-in,.wrap,.tabs-in{padding:0 16px}.brand small{display:none}
+.mast .wrap{padding-top:18px;padding-bottom:16px}.mast h1{font-size:23px;margin-top:10px}.mast .lead{font-size:15px}
+.rise{font-size:13.5px}.about{grid-template-columns:1fr}
+.hl-grid{grid-template-columns:1fr;gap:12px}.hl,.hl.lead{padding:10px 10px 16px;gap:12px}.hl-body{padding:0 4px}.hl h3,.hl.lead h3{font-size:18px}
+.card{padding:14px}.topic-head{align-items:flex-start}.topic-title{flex:1}.head-r{gap:8px}.seen{font-size:0}.seen .deep-link{font-size:13px}
+.share-btn{height:34px;padding:0 10px 0 9px}
+.filters{margin-left:0;width:100%}
+/* phone: samples become a swipeable row so a topic stays one screen tall */
+.vids,.tweets{display:flex;align-items:flex-start;overflow-x:auto;scroll-snap-type:x mandatory;gap:10px;margin:0 -14px;padding:0 14px 4px;scrollbar-width:none}
+.vids::-webkit-scrollbar,.tweets::-webkit-scrollbar{display:none}
+.vids>.vcard,.vids:not(.all)>.vcard:nth-child(n+4),.vids:not(.all)>.vcard:nth-child(n+5){display:flex;flex:0 0 78%;scroll-snap-align:start}
+.tweets>.tweet,.tweets:not(.all)>.tweet:nth-child(n+4){display:flex;flex:0 0 86%;scroll-snap-align:start}
+.more-btn{display:none}
+.news{grid-template-columns:1fr;padding:2px 14px}.news-item:nth-child(2){border-top:1px solid var(--border)}
+.repos{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:10px;margin:0 -16px 14px;padding:0 16px 4px;scrollbar-width:none}
+.repos::-webkit-scrollbar{display:none}.repo-wrap{flex:0 0 82%;scroll-snap-align:start}
+.tools-grid{grid-template-columns:1fr}
+.tabs-in{overflow-x:auto;scrollbar-width:none}.tabs-in::-webkit-scrollbar{display:none}.tabs a{padding:10px 10px}
+.daypick select{max-width:128px}}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+</style></head>
+<body>
+<nav class="nav"><div class="nav-in">
+  <a class="brand" href="../"><span class="brand-mark" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"><circle cx="12" cy="12" r="3"/><path d="M12 3a9 9 0 0 1 9 9"/><path d="M12 7a5 5 0 0 1 5 5"/><path d="M3 12a9 9 0 0 0 9 9"/></svg></span>小小和尚 · 选题情报站<small>小小和尚 · 每日</small></a>
+  <div class="daypick">
+    <a href="2026-11-10.html" aria-label="前一天" aria-disabled="false">‹</a>
+    <select id="daysel" aria-label="选择日期"><option value="2026-11-11.html" selected>2026-11-11</option><option value="2026-11-10.html">2026-11-10</option><option value="2026-11-09.html">2026-11-09</option><option value="2026-11-08.html">2026-11-08</option><option value="2026-11-07.html">2026-11-07</option><option value="2026-11-06.html">2026-11-06</option><option value="2026-11-05.html">2026-11-05</option><option value="2026-11-04.html">2026-11-04</option><option value="2026-11-03.html">2026-11-03</option><option value="2026-11-02.html">2026-11-02</option><option value="2026-11-01.html">2026-11-01</option><option value="2026-10-31.html">2026-10-31</option><option value="2026-10-30.html">2026-10-30</option><option value="2026-10-29.html">2026-10-29</option><option value="2026-10-28.html">2026-10-28</option><option value="2026-10-27.html">2026-10-27</option><option value="2026-10-26.html">2026-10-26</option><option value="2026-10-25.html">2026-10-25</option></select>
+    <a href="#" aria-label="后一天" aria-disabled="true">›</a>
+  </div>
+</div></nav>
+<header class="mast"><div class="wrap">
+  <div class="mast-top"><span class="eyebrow">每日选题情报 · 第 18 期</span>
+    <span class="mast-date">11 月 11 日 星期三 · 北京时间 10:11 更新</span></div>
+  <h1>今天值得做的选题</h1>
+  <p class="lead">今天最稳的是星舰助推器被机械臂接住，几千粉的小号单条就有 361.9 万播放，真画面和原理动画都现成。另外几条身边东西的反常原理（嫁接、爱情锁、按压鸡蛋）都有小号起量，AI 那边没有特别新鲜的离谱事，只剩脑细胞算力和 AI 造桥两个可以盯着看。</p>
+  
+  <p class="scan">扫描了 B站、YouTube、抖音、GitHub、Hugging Face、Hacker News 1,491 条公开内容，归出 6 个视频题材、0 个 X 话题</p>
+</div></header>
+<div class="tabs"><div class="tabs-in"><a href="#headline">今日头条</a><a href="#video">视频新选题</a><a href="#news">资讯</a><a href="#tools">开源与工具</a><a href="#hot">平台热搜</a><a href="#about">关于这份情报</a></div></div>
+<main><div class="wrap"><section class="block" id="headline"><div class="block-head"><h2><span class="sec-no">01</span>今日头条</h2><p>从下面各分区挑出来最值得看的，点画面直接播放</p></div><div class="hl-grid">
+<article class="card hl lead" id="head-1">
+  <div class="hl-media"><div class="media big"><button class="player" type="button" data-kind="iframe" data-src="https://www.youtube-nocookie.com/embed/w9dAtutWOx8?autoplay=1&amp;rel=0&amp;playsinline=1" aria-label="播放：SpaceX Caught an Entire Rocket Booster W"><img class="ph" src="https://i.ytimg.com/vi/w9dAtutWOx8/hqdefault.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="yt">YouTube</span><span class="m-dur">0:44</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div><a class="cap" href="https://www.youtube.com/watch?v=w9dAtutWOx8" target="_blank" rel="noopener"><b>SpaceX Caught an Entire Rocket Booster With Giant Mechanical Arms! 🚀🤯</b><span>YouTube · 361.9万 播放 · 3 天前 · ZEHAN · 3790 粉</span></a><div class="strip"><button class="mini" type="button" data-kind="iframe" data-src="https://www.youtube-nocookie.com/embed/CrXy7OIL3sg?autoplay=1&amp;rel=0&amp;playsinline=1" aria-label="播放：SpaceX Caught an Entire Rocket Booster W"><img class="ph" src="https://i.ytimg.com/vi/CrXy7OIL3sg/hqdefault.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="mini-t">YouTube · 186.1万 播放 · 5 天前</span></button><button class="mini" type="button" data-kind="iframe" data-src="https://www.youtube-nocookie.com/embed/8Dsld-4HrXY?autoplay=1&amp;rel=0&amp;playsinline=1" aria-label="播放：The Catch That Will Unlock SpaceX&#x27;s Futu"><img class="ph" src="https://i.ytimg.com/vi/8Dsld-4HrXY/hqdefault.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="mini-t">YouTube · 24.3万 播放 · 6 天前</span></button></div></div>
+  <div class="hl-body">
+    <div class="hl-top"><span class="grade g-a">推荐</span><span class="verdict">今天就能做</span><button class="share-btn" type="button" data-share="head-1" aria-haspopup="dialog" aria-label="生成分享卡片：星舰助推器落地不用腿，被机械臂直接夹住"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+    <h3>星舰助推器落地不用腿，被机械臂直接夹住</h3>
+    <div class="facts"><span class="label l-keep">持续</span><span>3 个账号 · 合计 572.3万 播放 · 3790 粉的号单条 361.9万</span></div>
+    <p class="why">3790 粉的号单条 361.9 万播放，共 3 个账号在做。</p>
+    <p class="pt"><b class="k-next">下一步</b>用发射塔接箭的官方画面，自己画机械臂对准、夹住的过程。</p>
+    <p class="pt"><b class="k-risk">注意</b>官方画面版权；夹取精度要核实</p>
+    <details class="more"><summary>展开完整点评</summary><p>普通人最想问的是这么大的家伙怎么对得这么准，夹的时候不会砸坏吗。懂行的会提到发射塔和助推器之间怎么修正位置。唱反调的会说这事已经火了一阵，所以要讲出别人没讲清的那一步。</p></details>
+    <div class="chips"><a class="chip" href="#video-27">星舰助推器被机械臂接住</a></div>
+  </div>
+</article>
+<article class="card hl" id="head-2">
+  <div class="hl-media"><div class="media big"><button class="player" type="button" data-kind="iframe" data-src="https://player.bilibili.com/player.html?isOutside=true&amp;bvid=BV1RV4b6gEBj&amp;autoplay=1&amp;danmaku=0&amp;high_quality=1" aria-label="播放：植物嫁接为什么没有排异反应？"><img class="ph" src="https://i0.hdslb.com/bfs/archive/3c2c94f9068dd837857f124f6e16aaed2587e112.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="bili">B站</span><span class="m-dur">0:59</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div><a class="cap" href="https://www.bilibili.com/video/BV1RV4b6gEBj" target="_blank" rel="noopener"><b>植物嫁接为什么没有排异反应？</b><span>B站 · 191.1万 播放 · 5 天前 · 有点诣思 · 3.1万 粉</span></a></div>
+  <div class="hl-body">
+    <div class="hl-top"><span class="grade g-a">推荐</span><span class="verdict">值得做</span><button class="share-btn" type="button" data-share="head-2" aria-haspopup="dialog" aria-label="生成分享卡片：植物嫁接为什么不排异，动物移植却会"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+    <h3>植物嫁接为什么不排异，动物移植却会</h3>
+    <div class="facts"><span class="label l-keep">持续</span><span>1 个账号 · 合计 191.1万 播放 · 3.1万 粉的号单条 191.1万</span></div>
+    <p class="why">3.1万粉的号单条 191.1 万播放，疑问点一句话就懂。</p>
+    <p class="pt"><b class="k-next">下一步</b>拍真实嫁接过程，画两段茎的切口怎么长到一起。</p>
+    <p class="pt"><b class="k-risk">注意</b>不排异的原因要查可靠资料</p>
+    <details class="more"><summary>展开完整点评</summary><p>观众会问为什么人换个器官那么麻烦，树却随便接。懂行的会说植物没有免疫系统那一套，但具体说法要查清楚。唱反调的会说嫁接也有不亲和的情况，不是什么都能接。</p></details>
+    <div class="chips"><a class="chip" href="#video-325">植物嫁接为何没有排异</a></div>
+  </div>
+</article>
+<article class="card hl" id="head-3">
+  <div class="hl-media"><div class="media big"><button class="player" type="button" data-kind="iframe" data-src="https://player.bilibili.com/player.html?isOutside=true&amp;bvid=BV17g4J6HE4Z&amp;autoplay=1&amp;danmaku=0&amp;high_quality=1" aria-label="播放：巴黎桥上的爱情锁，为何会被工作人员剪掉？背后原因揭秘！"><img class="ph" src="https://i0.hdslb.com/bfs/archive/2ba5ae0f7f86b86df7b0ff4e92920134995454d3.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="bili">B站</span><span class="m-dur">0:24</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div><a class="cap" href="https://www.bilibili.com/video/BV17g4J6HE4Z" target="_blank" rel="noopener"><b>巴黎桥上的爱情锁，为何会被工作人员剪掉？背后原因揭秘！</b><span>B站 · 102.1万 播放 · 3 天前 · 奇文科普 · 1.7万 粉</span></a></div>
+  <div class="hl-body">
+    <div class="hl-top"><span class="grade g-a">推荐</span><span class="verdict">值得做</span><button class="share-btn" type="button" data-share="head-3" aria-haspopup="dialog" aria-label="生成分享卡片：巴黎桥上的爱情锁，为什么要被剪掉"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+    <h3>巴黎桥上的爱情锁，为什么要被剪掉</h3>
+    <div class="facts"><span class="label l-keep">持续</span><span>1 个账号 · 合计 102.1万 播放 · 1.7万 粉的号单条 102.1万</span></div>
+    <p class="why">1.7万粉的号单条 102.1 万播放，原因让人意外。</p>
+    <p class="pt"><b class="k-next">下一步</b>先查清官方说法，再用挂锁实拍配动画讲清楚。</p>
+    <p class="pt"><b class="k-risk">注意</b>具体原因要查官方说法，别照搬</p>
+    <details class="more"><summary>展开完整点评</summary><p>观众的第一反应是挂个锁而已，凭什么要剪。懂行的可能知道桥栏杆的承重问题，但这里没有核实过，要自己查。唱反调的会说这是老新闻了，所以要找一个新角度。</p></details>
+    <div class="chips"><a class="chip" href="#video-346">巴黎桥上的爱情锁为何被剪</a></div>
+  </div>
+</article>
+<article class="card hl" id="head-4">
+  <div class="hl-media"><div class="media big"><button class="player" type="button" data-kind="iframe" data-src="https://player.bilibili.com/player.html?isOutside=true&amp;bvid=BV1zoWt63EPQ&amp;autoplay=1&amp;danmaku=0&amp;high_quality=1" aria-label="播放：为什么要不停按压鸡蛋"><img class="ph" src="https://i2.hdslb.com/bfs/archive/93d379254c1937547ed1ce7d841b1e0f54d42589.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="bili">B站</span><span class="m-dur">0:19</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div><a class="cap" href="https://www.bilibili.com/video/BV1zoWt63EPQ" target="_blank" rel="noopener"><b>为什么要不停按压鸡蛋</b><span>B站 · 50.2万 播放 · 40 小时前 · bili_15090926251 · 720 粉</span></a></div>
+  <div class="hl-body">
+    <div class="hl-top"><span class="grade g-b">参考</span><span class="verdict">可以试做</span><button class="share-btn" type="button" data-share="head-4" aria-haspopup="dialog" aria-label="生成分享卡片：为什么要不停按压鸡蛋"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+    <h3>为什么要不停按压鸡蛋</h3>
+    <div class="facts"><span class="label l-watch">观察</span><span>1 个账号 · 合计 50.2万 播放 · 720 粉的号单条 50.2万</span></div>
+    <p class="why">720 粉的号单条 50.2 万播放，40 小时前发的。</p>
+    <p class="pt"><b class="k-next">下一步</b>自己拿鸡蛋拍一遍按压过程，画蛋壳受力的示意动画。</p>
+    <p class="pt"><b class="k-risk">注意</b>原因还没核实，别先下结论</p>
+    <details class="more"><summary>展开完整点评</summary><p>十几秒的小视频就这么多人看，说明这个动作本身抓人。观众只想知道为啥，懂行的会直接给答案，但我们这边没有核实过。唱反调的会说太小众，所以要先拍个验证再决定做不做。</p></details>
+    <div class="chips"><a class="chip" href="#video-379">为什么要不停按压鸡蛋</a></div>
+  </div>
+</article>
+<article class="card hl no-media" id="head-5">
+  
+  <div class="hl-body">
+    <div class="hl-top"><span class="grade g-b">参考</span><span class="verdict">先核实再做</span><button class="share-btn" type="button" data-share="head-5" aria-haspopup="dialog" aria-label="生成分享卡片：高铁座椅USB口充手机，越充越掉电？"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+    <h3>高铁座椅USB口充手机，越充越掉电？</h3>
+    
+    <p class="why">百度热搜第 16 名，人人坐高铁都碰到过。</p>
+    <p class="pt"><b class="k-next">下一步</b>带充电宝和测电流表上车实测，画供电功率对比。</p>
+    <p class="pt"><b class="k-risk">注意</b>是否属实要实测，别直接断言</p>
+    <details class="more"><summary>展开完整点评</summary><p>普通人会问我的手机是不是被坑了，以后还能不能插。懂行的会说座椅口输出功率很低，但要自己测过才能讲。唱反调的会说这就是个热搜词，没必要认真做。</p></details>
+    <div class="chips"><a class="chip" href="https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85USB%E5%8F%A3%E5%85%85%E6%89%8B%E6%9C%BA%E8%B6%8A%E5%85%85%E8%B6%8A%E6%8E%89%E7%94%B5" target="_blank" rel="noopener">高铁座椅USB口充手机越充越掉电 <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg></a></div>
+  </div>
+</article>
+<article class="card hl" id="head-6">
+  <div class="hl-media"><div class="media big"><button class="player" type="button" data-kind="iframe" data-src="https://www.youtube-nocookie.com/embed/qoBGtiOBzBA?autoplay=1&amp;rel=0&amp;playsinline=1" aria-label="播放：New AI Robot Is Run By Living Human Brai"><img class="ph" src="https://i.ytimg.com/vi/qoBGtiOBzBA/hqdefault.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="yt">YouTube</span><span class="m-dur">12:18</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div><a class="cap" href="https://www.youtube.com/watch?v=qoBGtiOBzBA" target="_blank" rel="noopener"><b>New AI Robot Is Run By Living Human Brain Cells (Absolutely Terrifying)</b><span>YouTube · 18.1万 播放 · 4 天前 · MACHINEKIND and AI</span></a><div class="strip"><button class="mini" type="button" data-kind="iframe" data-src="https://open.douyin.com/player/video?vid=7704999355450674441&amp;autoplay=0" aria-label="播放：首个脑细胞AI数据中心，离谱！ 新加坡国立大学医学院建设..."><img class="ph" src="../img/573cb70bf0108f5d.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="mini-t">抖音 · 945 赞 · 4 天前</span></button></div></div>
+  <div class="hl-body">
+    <div class="hl-top"><span class="grade g-c">观察</span><span class="verdict">先观察</span><button class="share-btn" type="button" data-share="head-6" aria-haspopup="dialog" aria-label="生成分享卡片：有人拿活的人脑细胞当 AI 算力"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+    <h3>有人拿活的人脑细胞当 AI 算力</h3>
+    <div class="facts"><span class="label l-watch">观察</span><span>2 个账号 · 合计 18.1万 播放</span></div>
+    <p class="why">国内外同时在传，两条视频合计 18.1 万播放。</p>
+    <p class="pt"><b class="k-next">下一步</b>先找论文或官方说法，再画神经元当芯片的示意动画。</p>
+    <p class="pt"><b class="k-risk">注意</b>标题党多，别写成已经商用</p>
+    <details class="more"><summary>展开完整点评</summary><p>观众会觉得细思极恐，问这东西是不是有意识。懂行的会问到底是做到什么程度，是实验室还是真建数据中心。唱反调的会说都是营销话术，所以要先核实再动手。</p></details>
+    <div class="chips"><a class="chip" href="#video-378">用活体脑细胞做算力的AI</a></div>
+  </div>
+</article>
+<article class="card hl no-media" id="head-7">
+  
+  <div class="hl-body">
+    <div class="hl-top"><span class="grade g-c">观察</span><span class="verdict">先观察</span><button class="share-btn" type="button" data-share="head-7" aria-haspopup="dialog" aria-label="生成分享卡片：让九个AI大模型比赛造桥"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+    <h3>让九个AI大模型比赛造桥</h3>
+    
+    <p class="why">B站热搜第 13、14 名，AI 比拼的画面很直观。</p>
+    <p class="pt"><b class="k-next">下一步</b>找原视频出处，截关键画面，讲桥为什么能撑住或塌掉。</p>
+    <p class="pt"><b class="k-risk">注意</b>原作者和版权要查，别搬运</p>
+    <details class="more"><summary>展开完整点评</summary><p>观众会好奇哪个模型造的桥最结实。懂行的会问用的是什么规则和评分。唱反调的会说只是热榜上的一个标题，细节我们还没看到。</p></details>
+    <div class="chips"><a class="chip" href="https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5" target="_blank" rel="noopener">让九个AI大模型玩造桥 <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg></a></div>
+  </div>
+</article></div></section><section class="block" id="video"><div class="block-head"><h2><span class="sec-no">02</span>视频新选题</h2><p>B站、抖音、YouTube 最近 7 天的科普、科技和 AI 视频，按选题归类，冒头的排在前面</p><div class="filters" role="group" aria-label="按标签筛选" data-target="video-list"><button type="button" data-label="" aria-pressed="true">全部</button><button type="button" data-label="持续" aria-pressed="false">持续 3</button><button type="button" data-label="观察" aria-pressed="false">观察 3</button></div></div><div id="video-list">
+<article class="card topic" id="video-27" data-label="持续">
+  <header class="topic-head">
+    <div class="topic-title"><span class="label l-keep">持续</span><h3>星舰助推器被机械臂接住</h3><span class="kind">A 新闻怎么做到</span></div>
+    <div class="head-r"><span class="seen">第 16 天出现</span><button class="share-btn" type="button" data-share="video-27" aria-haspopup="dialog" aria-label="生成分享卡片：星舰助推器被机械臂接住"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+  </header>
+  <p class="summary">巨大的火箭助推器落回来，不用着陆架，被发射塔的机械臂直接夹住。观众好奇这么大的家伙怎么对得这么准、夹得住。</p>
+  <div class="vids" data-shown="4"><div class="vcard"><div class="media"><button class="player" type="button" data-kind="iframe" data-src="https://www.youtube-nocookie.com/embed/w9dAtutWOx8?autoplay=1&amp;rel=0&amp;playsinline=1" aria-label="播放：SpaceX Caught an Entire Rocket Booster W"><img class="ph" src="https://i.ytimg.com/vi/w9dAtutWOx8/hqdefault.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="yt">YouTube</span><span class="m-dur">0:44</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div>
+  <a class="v-title" href="https://www.youtube.com/watch?v=w9dAtutWOx8" target="_blank" rel="noopener">SpaceX Caught an Entire Rocket Booster With Giant Mechanical Arms! 🚀🤯</a>
+  <span class="v-meta">YouTube · 361.9万 播放 · 3 天前</span>
+  <span class="v-meta">ZEHAN · 3790 粉<b class="small-hit">小号爆款</b></span></div><div class="vcard"><div class="media"><button class="player" type="button" data-kind="iframe" data-src="https://www.youtube-nocookie.com/embed/CrXy7OIL3sg?autoplay=1&amp;rel=0&amp;playsinline=1" aria-label="播放：SpaceX Caught an Entire Rocket Booster W"><img class="ph" src="https://i.ytimg.com/vi/CrXy7OIL3sg/hqdefault.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="yt">YouTube</span><span class="m-dur">0:54</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div>
+  <a class="v-title" href="https://www.youtube.com/watch?v=CrXy7OIL3sg" target="_blank" rel="noopener">SpaceX Caught an Entire Rocket Booster With Giant Mechanical Arms! 🚀🤯</a>
+  <span class="v-meta">YouTube · 186.1万 播放 · 5 天前</span>
+  <span class="v-meta">Beyond Earth · 3.2万 粉<b class="small-hit">小号爆款</b></span></div><div class="vcard"><div class="media"><button class="player" type="button" data-kind="iframe" data-src="https://www.youtube-nocookie.com/embed/8Dsld-4HrXY?autoplay=1&amp;rel=0&amp;playsinline=1" aria-label="播放：The Catch That Will Unlock SpaceX&#x27;s Futu"><img class="ph" src="https://i.ytimg.com/vi/8Dsld-4HrXY/hqdefault.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="yt">YouTube</span><span class="m-dur">15:30</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div>
+  <a class="v-title" href="https://www.youtube.com/watch?v=8Dsld-4HrXY" target="_blank" rel="noopener">The Catch That Will Unlock SpaceX&#x27;s Future | Starship Update</a>
+  <span class="v-meta">YouTube · 24.3万 播放 · 6 天前</span>
+  <span class="v-meta">NASASpaceflight · 2.7万 粉</span></div></div>
+  
+  <div class="topic-foot"><span class="facts-line">3 条视频 · 3 个账号 · YouTube · 合计 572.3万 播放 · 最快每小时 5.0万 播放 · 3790 粉的号单条 361.9万 播放</span>
+    <details class="basis"><summary>判断依据</summary><ul><li>YouTube 搜「SpaceX catch booster mechanical arms」：今年的相关视频里标题对得上的不到 3 条，看不出新旧</li><li>3 个不同账号在做</li><li>有小号爆了：3790 粉的号单条 361.9万 播放</li><li>雷达 2026-10-25 起就在记录</li></ul></details></div>
+</article>
+<article class="card topic" id="video-325" data-label="持续">
+  <header class="topic-head">
+    <div class="topic-title"><span class="label l-keep">持续</span><h3>植物嫁接为何没有排异</h3><span class="kind">B 身边反常原理</span></div>
+    <div class="head-r"><span class="seen">第 2 天出现</span><button class="share-btn" type="button" data-share="video-325" aria-haspopup="dialog" aria-label="生成分享卡片：植物嫁接为何没有排异"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+  </header>
+  <p class="summary">动物移植会排异，植物嫁接却不会。播放÷粉丝比较高，疑问点很清楚。</p>
+  <div class="vids" data-shown="4"><div class="vcard"><div class="media"><button class="player" type="button" data-kind="iframe" data-src="https://player.bilibili.com/player.html?isOutside=true&amp;bvid=BV1RV4b6gEBj&amp;autoplay=1&amp;danmaku=0&amp;high_quality=1" aria-label="播放：植物嫁接为什么没有排异反应？"><img class="ph" src="https://i0.hdslb.com/bfs/archive/3c2c94f9068dd837857f124f6e16aaed2587e112.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="bili">B站</span><span class="m-dur">0:59</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div>
+  <a class="v-title" href="https://www.bilibili.com/video/BV1RV4b6gEBj" target="_blank" rel="noopener">植物嫁接为什么没有排异反应？</a>
+  <span class="v-meta">B站 · 191.1万 播放 · 5 天前</span>
+  <span class="v-meta">有点诣思 · 3.1万 粉<b class="small-hit">小号爆款</b></span></div></div>
+  
+  <div class="topic-foot"><span class="facts-line">1 条视频 · 1 个账号 · B站 · 合计 191.1万 播放 · 最快每小时 1.4万 播放 · 3.1万 粉的号单条 191.1万 播放</span>
+    <details class="basis"><summary>判断依据</summary><ul><li>B站搜「植物嫁接」：之前 53 天播放最高的 20 条里 2 条标题带这个词，近 7 天是 1 条</li><li>有小号爆了：3.1万 粉的号单条 191.1万 播放</li><li>雷达 2026-11-08 起就在记录</li></ul></details></div>
+</article>
+<article class="card topic" id="video-346" data-label="持续">
+  <header class="topic-head">
+    <div class="topic-title"><span class="label l-keep">持续</span><h3>巴黎桥上的爱情锁为何被剪</h3><span class="kind">B 身边反常原理</span></div>
+    <div class="head-r"><span class="seen">第 3 天出现</span><button class="share-btn" type="button" data-share="video-346" aria-haspopup="dialog" aria-label="生成分享卡片：巴黎桥上的爱情锁为何被剪"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+  </header>
+  <p class="summary">桥上挂满爱情锁，工作人员却要剪掉。背后有个让人意外的原因，播放÷粉丝较高。</p>
+  <div class="vids" data-shown="4"><div class="vcard"><div class="media"><button class="player" type="button" data-kind="iframe" data-src="https://player.bilibili.com/player.html?isOutside=true&amp;bvid=BV17g4J6HE4Z&amp;autoplay=1&amp;danmaku=0&amp;high_quality=1" aria-label="播放：巴黎桥上的爱情锁，为何会被工作人员剪掉？背后原因揭秘！"><img class="ph" src="https://i0.hdslb.com/bfs/archive/2ba5ae0f7f86b86df7b0ff4e92920134995454d3.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="bili">B站</span><span class="m-dur">0:24</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div>
+  <a class="v-title" href="https://www.bilibili.com/video/BV17g4J6HE4Z" target="_blank" rel="noopener">巴黎桥上的爱情锁，为何会被工作人员剪掉？背后原因揭秘！</a>
+  <span class="v-meta">B站 · 102.1万 播放 · 3 天前</span>
+  <span class="v-meta">奇文科普 · 1.7万 粉<b class="small-hit">小号爆款</b></span></div></div>
+  
+  <div class="topic-foot"><span class="facts-line">1 条视频 · 1 个账号 · B站 · 合计 102.1万 播放 · 最快每小时 1.1万 播放 · 1.7万 粉的号单条 102.1万 播放</span>
+    <details class="basis"><summary>判断依据</summary><ul><li>B站搜「爱情锁」：之前 53 天播放最高的 20 条里 0 条标题带这个词，近 7 天是 1 条</li><li>有小号爆了：1.7万 粉的号单条 102.1万 播放</li><li>雷达 2026-11-09 起就在记录</li></ul></details></div>
+</article>
+<article class="card topic" id="video-378" data-label="观察">
+  <header class="topic-head">
+    <div class="topic-title"><span class="label l-watch">观察</span><h3>用活体脑细胞做算力的AI</h3><span class="kind">C AI 离谱事或能用的招</span></div>
+    <div class="head-r"><span class="seen">首次出现</span><button class="share-btn" type="button" data-share="video-378" aria-haspopup="dialog" aria-label="生成分享卡片：用活体脑细胞做算力的AI"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+  </header>
+  <p class="summary">国内外同时在传：有人拿活的人类脑细胞当 AI 的算力，甚至要建数据中心。标题都在强调离谱和细思极恐。</p>
+  <div class="vids" data-shown="4"><div class="vcard"><div class="media"><button class="player" type="button" data-kind="iframe" data-src="https://www.youtube-nocookie.com/embed/qoBGtiOBzBA?autoplay=1&amp;rel=0&amp;playsinline=1" aria-label="播放：New AI Robot Is Run By Living Human Brai"><img class="ph" src="https://i.ytimg.com/vi/qoBGtiOBzBA/hqdefault.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="yt">YouTube</span><span class="m-dur">12:18</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div>
+  <a class="v-title" href="https://www.youtube.com/watch?v=qoBGtiOBzBA" target="_blank" rel="noopener">New AI Robot Is Run By Living Human Brain Cells (Absolutely Terrifying)</a>
+  <span class="v-meta">YouTube · 18.1万 播放 · 4 天前</span>
+  <span class="v-meta">MACHINEKIND and AI</span></div><div class="vcard"><div class="media v"><button class="player" type="button" data-kind="iframe" data-src="https://open.douyin.com/player/video?vid=7704999355450674441&amp;autoplay=0" aria-label="播放：首个脑细胞AI数据中心，离谱！ 新加坡国立大学医学院建设..."><img class="bg" src="../img/573cb70bf0108f5d.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><img class="ph" src="../img/573cb70bf0108f5d.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="dy">抖音</span><span class="m-dur">0:20</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div>
+  <a class="v-title" href="https://www.douyin.com/video/7704999355450674441" target="_blank" rel="noopener">首个脑细胞AI数据中心，离谱！ 新加坡国立大学医学院建设...</a>
+  <span class="v-meta">抖音 · 945 赞 · 4 天前</span>
+  <span class="v-meta">硅基财神 · 1702 粉</span></div></div>
+  
+  <div class="topic-foot"><span class="facts-line">2 条视频 · 2 个账号 · YouTube / 抖音 · 合计 18.1万 播放 · 抖音/小红书合计 945 赞 · 最快每小时 1882 播放</span>
+    <details class="basis"><summary>判断依据</summary><ul><li>YouTube 搜「AI robot living human brain cells」：今年的相关视频里标题对得上的不到 3 条，看不出新旧</li><li>雷达之前没记录过</li></ul></details></div>
+</article>
+<article class="card topic" id="video-379" data-label="观察">
+  <header class="topic-head">
+    <div class="topic-title"><span class="label l-watch">观察</span><h3>为什么要不停按压鸡蛋</h3><span class="kind">B 身边反常原理</span></div>
+    <div class="head-r"><span class="seen">首次出现</span><button class="share-btn" type="button" data-share="video-379" aria-haspopup="dialog" aria-label="生成分享卡片：为什么要不停按压鸡蛋"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+  </header>
+  <p class="summary">一条十几秒的小视频，问为什么要对鸡蛋不停按压。小号爆了，播放远超粉丝数，说明这个反常动作很抓人。</p>
+  <div class="vids" data-shown="4"><div class="vcard"><div class="media"><button class="player" type="button" data-kind="iframe" data-src="https://player.bilibili.com/player.html?isOutside=true&amp;bvid=BV1zoWt63EPQ&amp;autoplay=1&amp;danmaku=0&amp;high_quality=1" aria-label="播放：为什么要不停按压鸡蛋"><img class="ph" src="https://i2.hdslb.com/bfs/archive/93d379254c1937547ed1ce7d841b1e0f54d42589.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="bili">B站</span><span class="m-dur">0:19</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div>
+  <a class="v-title" href="https://www.bilibili.com/video/BV1zoWt63EPQ" target="_blank" rel="noopener">为什么要不停按压鸡蛋</a>
+  <span class="v-meta">B站 · 50.2万 播放 · 40 小时前</span>
+  <span class="v-meta">bili_15090926251 · 720 粉<b class="small-hit">小号爆款</b></span></div></div>
+  
+  <div class="topic-foot"><span class="facts-line">1 条视频 · 1 个账号 · B站 · 合计 50.2万 播放 · 最快每小时 1.2万 播放 · 720 粉的号单条 50.2万 播放</span>
+    <details class="basis"><summary>判断依据</summary><ul><li>B站搜「按压鸡蛋」：之前 53 天播放最高的 5 条里 0 条标题带这个词，近 7 天是 1 条</li><li>有小号爆了：720 粉的号单条 50.2万 播放</li><li>雷达之前没记录过</li></ul></details></div>
+</article>
+<article class="card topic" id="video-382" data-label="观察">
+  <header class="topic-head">
+    <div class="topic-title"><span class="label l-watch">观察</span><h3>一片生菜放倒小女孩的烤肉包肉</h3><span class="kind">B 身边反常原理</span></div>
+    <div class="head-r"><span class="seen">首次出现</span><button class="share-btn" type="button" data-share="video-382" aria-haspopup="dialog" aria-label="生成分享卡片：一片生菜放倒小女孩的烤肉包肉"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+  </header>
+  <p class="summary">一片烤肉店常见的生菜让孩子倒下，标题追问包肉的生菜里到底藏了什么。抖音点赞较高，贴近日常饮食。</p>
+  <div class="vids" data-shown="4"><div class="vcard"><div class="media v"><button class="player" type="button" data-kind="iframe" data-src="https://open.douyin.com/player/video?vid=7704950364281343270&amp;autoplay=0" aria-label="播放：一片生菜放倒4岁女孩：烤肉包肉到底藏了什么？"><img class="bg" src="../img/842c27aecff0ec7c.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><img class="ph" src="../img/842c27aecff0ec7c.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="m-plat" data-p="dy">抖音</span><span class="m-dur">5:20</span><span class="pbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg></span></button></div>
+  <a class="v-title" href="https://www.douyin.com/video/7704950364281343270" target="_blank" rel="noopener">一片生菜放倒4岁女孩：烤肉包肉到底藏了什么？</a>
+  <span class="v-meta">抖音 · 3.3万 赞 · 4 天前</span>
+  <span class="v-meta">𝙏𝙞𝙣𝘼终极探索 · 7.4万 粉</span></div></div>
+  
+  <div class="topic-foot"><span class="facts-line">1 条视频 · 1 个账号 · 抖音 · 抖音/小红书合计 3.3万 赞</span>
+    <details class="basis"><summary>判断依据</summary><ul><li>雷达之前没记录过</li></ul></details></div>
+</article></div></section><section class="block" id="news"><div class="block-head"><h2><span class="sec-no">03</span>资讯</h2><p>IT之家、少数派、量子位和 AI HOT 里，普通人可能好奇的</p></div><ul class="card news">
+<li class="news-item">
+  <div class="n-top"><span class="tag">AI HOT</span><span class="n-time">11-10 07:21</span></div>
+  <a class="n-title" href="https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0" target="_blank" rel="noopener">实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出</a>
+  <p>实测 Fable 5.2：一次直出视频动效和 3D 网页，细节出色</p><p class="use">案例现成，可直接复刻成「一句话做 3D 网页」的视频。</p>
+</li>
+<li class="news-item">
+  <div class="n-top"><span class="tag">AI HOT</span><span class="n-time">11-11 00:23</span></div>
+  <a class="n-title" href="https://aihot.news/items/eel6o8sxfldx5itfa8f8wigc0" target="_blank" rel="noopener">MiniMax 发布开源图像生成模型 H3-Image，10 秒内生成 4K 图像</a>
+  <p>MiniMax 开源 H3-Image，10 秒内出 4K 图</p><p class="use">可做封面与配图的实测，速度和画质都有话题。</p>
+</li>
+<li class="news-item">
+  <div class="n-top"><span class="tag">AI HOT</span><span class="n-time">11-10 08:00</span></div>
+  <a class="n-title" href="https://aihot.news/items/c1fodrvts3po1pprz70weooju" target="_blank" rel="noopener">Anthropic 发布 Claude Whiteboards 和 Claude Sheets，Claude Dashboards 转正为 Claude Data</a>
+  <p>Claude Whiteboards 和 Sheets 开测，Dashboards 更名 Claude Data</p><p class="use">付费用户都能用，可做表格和白板上手教程。</p>
+</li>
+<li class="news-item">
+  <div class="n-top"><span class="tag">AI HOT</span><span class="n-time">11-10 12:17</span></div>
+  <a class="n-title" href="https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go" target="_blank" rel="noopener">Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目</a>
+  <p>Anthropic 员工分享一条提示词让 Claude Code 全面审查项目</p><p class="use">复制就能用，可做成「一句话体检项目」的教程。</p>
+</li>
+<li class="news-item">
+  <div class="n-top"><span class="tag">AI HOT</span><span class="n-time">11-10 04:06</span></div>
+  <a class="n-title" href="https://aihot.news/items/ugn21ui1m8kftffpe2c95qlkx" target="_blank" rel="noopener">Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用</a>
+  <p>Fable 5.2 上线 Higgsfield，3 天免费不限量用视频图像模型</p><p class="use">免费窗口期短，趁热做视频图像模型实测。</p>
+</li>
+<li class="news-item">
+  <div class="n-top"><span class="tag">AI HOT</span><span class="n-time">11-10 20:52</span></div>
+  <a class="n-title" href="https://aihot.news/items/yrk09s03tcgcxsxq8jh0npjk0" target="_blank" rel="noopener">n8n Labs 发布本机个人智能体 Nod 研究预览版</a>
+  <p>n8n 发布本机个人智能体 Nod，可取消订阅、比价、订酒店</p><p class="use">这类生活场景演示直观，可做成一期，免账号免云服务。</p>
+</li>
+<li class="news-item">
+  <div class="n-top"><span class="tag">AI HOT</span><span class="n-time">11-11 07:56</span></div>
+  <a class="n-title" href="https://aihot.news/items/uditkv6u7rrzmtj1nx7pxbgjj" target="_blank" rel="noopener">Claude Fable 5.2 实测观察：大模型正用代码吞噬审美与创作</a>
+  <p>实测认为 Fable 5.2 的最大差异是审美</p><p class="use">可做模型审美对比的视频，直观好懂。</p>
+</li>
+<li class="news-item">
+  <div class="n-top"><span class="tag">AI HOT</span><span class="n-time">11-10 08:00</span></div>
+  <a class="n-title" href="https://aihot.news/items/s7ny0oaxr6q9e5677fmb2hqpf" target="_blank" rel="noopener">Claude 升级交互式连接器，应用可在对话旁全屏打开并由 Claude 直接操作</a>
+  <p>Claude 交互式连接器升级，可全屏打开应用并直接操作</p><p class="use">演示效果直观，可做 Claude 操作你的工具的视频。</p>
+</li></ul></section><section class="block" id="tools"><div class="block-head"><h2><span class="sec-no">04</span>开源与工具</h2><p>能做成一期「AI 能用的招」或者做视频用得上的新仓库、模型和讨论</p></div>
+<h3 class="sub-title">GitHub 新仓库</h3>
+<div class="repos">
+<div class="repo-wrap" id="repo-1"><a class="repo" href="https://github.com/JuneYaooo/rea-video" target="_blank" rel="noopener">
+  <div class="media repo-media"><img class="ph" src="https://opengraph.githubassets.com/1/JuneYaooo/rea-video" alt="JuneYaooo/rea-video" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
+  <div class="repo-body">
+    <div class="repo-name">JuneYaooo/rea-video</div>
+    <div class="repo-tags"><span class="tag">AI 视频与图像</span></div>
+    <p>逐镜头拆解视频，判断是实拍、AI 生成还是代码做的，并给出复刻方法</p><p class="use">直接对应视频创作：拆爆款、学镜头、复刻玩法，很适合做成一期。</p>
+    <div class="tool-meta">★ 6429 · 日均 +518 · 创建 2026-10-30 · Python</div>
+  </div>
+</a><button class="share-btn" type="button" data-share="repo-1" aria-haspopup="dialog" aria-label="生成分享卡片：JuneYaooo/rea-video"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+<div class="repo-wrap" id="repo-2"><a class="repo" href="https://github.com/heydamir/unslop" target="_blank" rel="noopener">
+  <div class="media repo-media"><img class="ph" src="https://opengraph.githubassets.com/1/heydamir/unslop" alt="heydamir/unslop" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
+  <div class="repo-body">
+    <div class="repo-name">heydamir/unslop</div>
+    <div class="repo-tags"><span class="tag">Agent 与编程</span></div>
+    <p>Claude 技能：把一眼 AI 味的界面改成有设计感的界面</p><p class="use">做网页或封面的人可以一键去 AI 味，前后对比很适合做成视频。</p>
+    <div class="tool-meta">★ 1.4万 · 日均 +1108 · 创建 2026-10-29 · JavaScript</div>
+  </div>
+</a><button class="share-btn" type="button" data-share="repo-2" aria-haspopup="dialog" aria-label="生成分享卡片：heydamir/unslop"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+<div class="repo-wrap" id="repo-3"><a class="repo" href="https://github.com/patch-gg/pixelfx" target="_blank" rel="noopener">
+  <div class="media repo-media"><img class="ph" src="https://opengraph.githubassets.com/1/patch-gg/pixelfx" alt="patch-gg/pixelfx" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
+  <div class="repo-body">
+    <div class="repo-name">patch-gg/pixelfx</div>
+    <div class="repo-tags"><span class="tag">AI 视频与图像</span></div>
+    <p>244 个像素风特效代码，附带 Claude Code 技能可自制特效</p><p class="use">画面效果好看，适合做成「一句话让 AI 做像素特效」的视频素材。</p>
+    <div class="tool-meta">★ 6685 · 日均 +566 · 创建 2026-10-30 · JavaScript</div>
+  </div>
+</a><button class="share-btn" type="button" data-share="repo-3" aria-haspopup="dialog" aria-label="生成分享卡片：patch-gg/pixelfx"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+<div class="repo-wrap" id="repo-4"><a class="repo" href="https://github.com/anthropics/skills" target="_blank" rel="noopener">
+  <div class="media repo-media"><img class="ph" src="https://opengraph.githubassets.com/1/anthropics/skills" alt="anthropics/skills" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
+  <div class="repo-body">
+    <div class="repo-name">anthropics/skills</div>
+    <div class="repo-tags"><span class="tag">Agent 与编程</span><span class="tag t-hot">今日上榜</span></div>
+    <p>Anthropic 官方的 Agent 技能公开仓库</p><p class="use">官方技能可以直接装进 Claude Code，做「官方技能怎么用」教程很稳。</p>
+    <div class="tool-meta">★ 19.2万 · 今日 +1679 · 日均 +464 · 创建 2025-09-22 · Python</div>
+  </div>
+</a><button class="share-btn" type="button" data-share="repo-4" aria-haspopup="dialog" aria-label="生成分享卡片：anthropics/skills"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+<div class="repo-wrap" id="repo-5"><a class="repo" href="https://github.com/mattpocock/skills" target="_blank" rel="noopener">
+  <div class="media repo-media"><img class="ph" src="https://opengraph.githubassets.com/1/mattpocock/skills" alt="mattpocock/skills" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
+  <div class="repo-body">
+    <div class="repo-name">mattpocock/skills</div>
+    <div class="repo-tags"><span class="tag">Agent 与编程</span><span class="tag t-hot">今日上榜</span></div>
+    <p>Matt Pocock 公开自己的 Agent 技能合集</p><p class="use">可以直接抄进 Claude Code 当技能用，做「大神的 AI 配置长啥样」一期。</p>
+    <div class="tool-meta">★ 32.1万 · 今日 +1225 · 日均 +1144 · 创建 2026-02-03 · Shell</div>
+  </div>
+</a><button class="share-btn" type="button" data-share="repo-5" aria-haspopup="dialog" aria-label="生成分享卡片：mattpocock/skills"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div>
+<div class="repo-wrap" id="repo-6"><a class="repo" href="https://github.com/jamesondh/chimera-vocal-synth" target="_blank" rel="noopener">
+  <div class="media repo-media"><img class="ph" src="https://opengraph.githubassets.com/1/jamesondh/chimera-vocal-synth" alt="jamesondh/chimera-vocal-synth" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>
+  <div class="repo-body">
+    <div class="repo-name">jamesondh/chimera-vocal-synth</div>
+    <div class="repo-tags"><span class="tag">音频与配音</span></div>
+    <p>能唱歌、说话、打节奏的人声合成器</p><p class="use">做音乐或配音类视频可以试，简介没写是否用 AI，需自己确认。</p>
+    <div class="tool-meta">★ 1712 · 日均 +324 · 创建 2026-11-06 · Rust</div>
+  </div>
+</a><button class="share-btn" type="button" data-share="repo-6" aria-haspopup="dialog" aria-label="生成分享卡片：jamesondh/chimera-vocal-synth"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="M7.5 7.5 12 3l4.5 4.5"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span>分享</span></button></div></div>
+<div class="tools-grid">
+  <section class="card"><h3 class="col-title">Hugging Face 热门</h3><ul class="tools">
+<li class="tool">
+  <div class="tool-main"><a href="https://huggingface.co/Lightricks/LTX-2.5" target="_blank" rel="noopener">Lightricks/LTX-2.5</a><span class="tag">模型</span></div>
+  <p>Lightricks 的文生视频、图生视频开源模型</p><p class="use">下载量很大，可做「本地免费出 AI 视频」的实测。</p>
+  <div class="tool-meta">♥ 1.1万 · 下载 279.2万 · 创建 2026-07-23</div>
+</li>
+<li class="tool">
+  <div class="tool-main"><a href="https://huggingface.co/Viggle/Viggle-Remake" target="_blank" rel="noopener">Viggle/Viggle-Remake</a><span class="tag">模型</span></div>
+  <p>Viggle 视频角色替换模型</p><p class="use">能把视频里的人物换成别的角色，适合做趣味换脸换角色视频。</p>
+  <div class="tool-meta">♥ 271 · 下载 11.5万 · 创建 2026-10-23</div>
+</li>
+<li class="tool">
+  <div class="tool-main"><a href="https://huggingface.co/MiniMaxAI/MiniMax-H3-Image" target="_blank" rel="noopener">MiniMaxAI/MiniMax-H3-Image</a><span class="tag">模型</span></div>
+  <p>MiniMax 开源图像模型，支持文生图和改图</p><p class="use">做封面和配图用，开源可本地跑，可以做评测视频。</p>
+  <div class="tool-meta">♥ 405 · 下载 667 · 创建 2026-11-03</div>
+</li>
+<li class="tool">
+  <div class="tool-main"><a href="https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy" target="_blank" rel="noopener">black-forest-labs/flux-3-image-klein-comfy</a><span class="tag">模型</span></div>
+  <p>Flux 3 Klein 图像生成与编辑模型，带 ComfyUI 版本</p><p class="use">做图、改图都能用，适合做出图对比评测。</p>
+  <div class="tool-meta">♥ 2872 · 下载 125.2万 · 创建 2026-10-14</div>
+</li>
+<li class="tool">
+  <div class="tool-main"><a href="https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B" target="_blank" rel="noopener">nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B</a><span class="tag">模型</span></div>
+  <p>英伟达的语音转文字模型</p><p class="use">可用来做视频自动字幕，但需要一定部署能力。</p>
+  <div class="tool-meta">♥ 3153 · 下载 7.2万 · 创建 2026-10-08</div>
+</li>
+<li class="tool">
+  <div class="tool-main"><a href="https://huggingface.co/facebook/sam3" target="_blank" rel="noopener">facebook/sam3</a><span class="tag">模型</span></div>
+  <p>Meta 的万物分割模型 SAM 3，支持视频</p><p class="use">可做视频自动抠人、抠物，对剪辑有帮助。</p>
+  <div class="tool-meta">♥ 6264 · 下载 202.5万 · 创建 2025-11-07</div>
+</li>
+<li class="tool">
+  <div class="tool-main"><a href="https://huggingface.co/speridlabs/idol" target="_blank" rel="noopener">speridlabs/idol</a><span class="tag">模型</span></div>
+  <p>单张图片生成 3D 模型的高斯泼溅模型</p><p class="use">可以做「一张照片变 3D」的演示，素材感强。</p>
+  <div class="tool-meta">♥ 1876 · 下载 2.6万 · 创建 2026-10-28</div>
+</li></ul></section>
+  <section class="card"><h3 class="col-title">Hacker News 讨论</h3><ul class="tools">
+<li class="tool">
+  <div class="tool-main"><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2" target="_blank" rel="noopener">Claude Fable 5.2 and Mythos 5.2</a></div>
+  <p>Anthropic 发布 Claude Fable 5.2 和 Mythos 5.2</p><p class="use">最新 Claude 模型发布，可做上手实测或选型科普。</p>
+  <div class="tool-meta"><a href="https://news.ycombinator.com/item?id=50429906" target="_blank" rel="noopener">HN 988 分 · 8 评论</a> · 11-10 02:56</div>
+</li>
+<li class="tool">
+  <div class="tool-main"><a href="https://claude.com/resources/articles/sheets-whiteboards-data" target="_blank" rel="noopener">Claude Whiteboards, Claude Sheets, and Claude Data</a></div>
+  <p>Claude 推出 Whiteboards、Sheets、Data 三款新产品</p><p class="use">白板、表格和数据看板可以直接上手，适合做运营与办公类教程。</p>
+  <div class="tool-meta"><a href="https://news.ycombinator.com/item?id=50443716" target="_blank" rel="noopener">HN 158 分 · 132 评论</a> · 11-11 01:55</div>
+</li>
+<li class="tool">
+  <div class="tool-main"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/" target="_blank" rel="noopener">Gemini 4 Carbon is now available</a></div>
+  <p>谷歌 Gemini 4 Carbon 正式可用</p><p class="use">可以和 Fable 5.2 做对比评测。</p>
+  <div class="tool-meta"><a href="https://news.ycombinator.com/item?id=50442303" target="_blank" rel="noopener">HN 275 分 · 149 评论</a> · 11-11 00:07</div>
+</li></ul></section>
+</div></section><section class="block" id="hot"><div class="block-head"><h2><span class="sec-no">05</span>平台热搜</h2><p>抖音、微博、头条、知乎、百度、B站热榜里和科技、科普、AI 有关的词</p></div><div class="chips"><a class="chip" href="https://search.bilibili.com/all?keyword=用AI原创68分钟科幻长片" target="_blank" rel="noopener">B站热搜 #13 · 用AI原创68分钟科幻长片</a><a class="chip" href="https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5" target="_blank" rel="noopener">B站热搜 #13 · 让九个AI大模型玩造桥</a><a class="chip" href="https://search.bilibili.com/all?keyword=让九个AI大模型玩造桥" target="_blank" rel="noopener">B站热搜 #14 · 让九个AI大模型玩造桥</a><a class="chip" href="https://search.bilibili.com/all?keyword=AI%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1%20%E5%AD%A4%E9%B2%B8" target="_blank" rel="noopener">B站热搜 #14 · 一人打造78分钟硬科幻AI电影</a><a class="chip" href="https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87" target="_blank" rel="noopener">B站热搜 #15 · 用AI原创68分钟科幻长片</a><a class="chip" href="https://search.bilibili.com/all?keyword=AI科幻电影 孤鲸" target="_blank" rel="noopener">B站热搜 #19 · 一人打造78分钟硬科幻AI电影</a><a class="chip" href="https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87%20%E6%B1%A4%E7%97%87" target="_blank" rel="noopener">B站热搜 #20 · AI长片 汤症</a><a class="chip" href="https://search.bilibili.com/all?keyword=深度分析后会友期为什么动人" target="_blank" rel="noopener">B站热搜 #31 · 读懂后会友期里成年人的友情</a><a class="chip" href="https://search.bilibili.com/all?keyword=BLG为什么能够战胜T1" target="_blank" rel="noopener">B站热搜 #35 · BLG为什么能够战胜T1</a><a class="chip" href="https://search.bilibili.com/all?keyword=AI长片 汤症" target="_blank" rel="noopener">B站热搜 #39 · AI长片 汤症</a><a class="chip" href="https://search.bilibili.com/all?keyword=三家国产AI预测BLG夺冠" target="_blank" rel="noopener">B站热搜 #42 · 三家国产AI预测BLG夺冠</a><a class="chip" href="https://www.ithome.com/1/025/295.htm" target="_blank" rel="noopener">IT之家 #4 · 成都第五代贡嘎人形机器人发布，宣称拥有“全球最领先人形机器人大脑核心技术”</a><a class="chip" href="https://www.ithome.com/1/025/294.htm" target="_blank" rel="noopener">IT之家 #5 · Arm 发布 Cortex-M42 处理器：向量算力最高达前代 3 倍，让更多小型设备用上本地 AI</a><a class="chip" href="https://www.ithome.com/1/025/292.htm" target="_blank" rel="noopener">IT之家 #6 · Anthropic 宣布额度免费重置：Pro、Max、Ultra 和 Team 用户可领，Claude 支持更多 MCP Apps 扩展</a><a class="chip" href="https://www.ithome.com/1/025/262.htm" target="_blank" rel="noopener">IT之家 #9 · 领克 900L 旗舰大七座 SUV 全球首秀：车长增至 5280mm，2.0T 插混配 70kWh 电池</a><a class="chip" href="https://www.ithome.com/1/025/227.htm" target="_blank" rel="noopener">IT之家 #12 · （更新：恢复正常）苹果 iCloud 服务全球性故障，影响注册登录、照片同步和查找 iPhone 等</a><a class="chip" href="https://www.ithome.com/1/025/246.htm" target="_blank" rel="noopener">IT之家 #14 · 微软正式发布 .NET 11：开发更省时，AI 工具更齐全</a><a class="chip" href="https://www.ithome.com/1/025/244.htm" target="_blank" rel="noopener">IT之家 #15 · 小米推出米家落地灯新品：智能光影技术 + 1600 万色可调，众筹价 719 元</a><a class="chip" href="https://www.ithome.com/1/025/232.htm" target="_blank" rel="noopener">IT之家 #24 · 谷歌更新安卓 AI 开发基准榜单：Kimi K3.1 Pro / DeepSeek V4.1 Flash 成绩揭晓</a><a class="chip" href="https://www.ithome.com/1/025/231.htm" target="_blank" rel="noopener">IT之家 #25 · 苹果团队赴印度工厂调查，3 名塔塔合同工在维护污水处理设施时遇难</a><a class="chip" href="https://www.ithome.com/1/025/230.htm" target="_blank" rel="noopener">IT之家 #26 · 鸿蒙智行享界 V8 及华为星芒品牌发布会定档 11 月 20 日</a><a class="chip" href="https://www.ithome.com/1/025/226.htm" target="_blank" rel="noopener">IT之家 #28 · 挑战微软 Win11：原生 AI 系统 KORA 登场，将率先适配高通骁龙 X2 Elite 芯片</a><a class="chip" href="https://www.ithome.com/1/025/225.htm" target="_blank" rel="noopener">IT之家 #29 · 苹果子公司 Claris 正测试「Harbor」应用：将 Mac 变身本地 AI 服务器</a><a class="chip" href="https://www.ithome.com/1/025/224.htm" target="_blank" rel="noopener">IT之家 #30 · IT早报 1111：Anthropic 启动最高 643.5 亿美元 IPO；全球最强模型 Claude Fable 5.2 登场；董明珠称因铜涨价致格力业绩下滑...</a><a class="chip" href="https://www.douyin.com/hot/2739941" target="_blank" rel="noopener">抖音热榜 #20 · 草根团队做出爆款AI漫剧持械入宋</a><a class="chip" href="https://www.douyin.com/hot/2738568" target="_blank" rel="noopener">抖音热榜 #22 · 人类有自己的毛茸茸宇宙</a><a class="chip" href="https://www.baidu.com/s?wd=%E9%AB%98%E9%93%81%E5%BA%A7%E6%A4%85USB%E5%8F%A3%E5%85%85%E6%89%8B%E6%9C%BA%E8%B6%8A%E5%85%85%E8%B6%8A%E6%8E%89%E7%94%B5" target="_blank" rel="noopener">百度热搜 #16 · 高铁座椅USB口充手机越充越掉电</a><a class="chip" href="https://www.zhihu.com/question/2103073365011461582" target="_blank" rel="noopener">知乎热榜 #3 · 为什么说《九州》注定会失败？</a><a class="chip" href="https://www.zhihu.com/question/2103438593268238305" target="_blank" rel="noopener">知乎热榜 #4 · 女子银行短信提醒突然被取消，卡里近26万元消失，手机曾不受控制黑屏闪烁，这一过程发生了什么？该如何防范？</a><a class="chip" href="https://www.zhihu.com/question/2103425545253778677" target="_blank" rel="noopener">知乎热榜 #6 · 10 月 20 万元以上新能源车销量榜出炉，前三名全是小米，哪些数据值得关注？当前市场格局如何？</a><a class="chip" href="https://www.zhihu.com/question/2103543470912530322" target="_blank" rel="noopener">知乎热榜 #8 · 理想汽车称「理想 i6 团购返佣」活动与公司无关，已报警，究竟是怎么回事？这种「下单返佣」有哪些风险？</a><a class="chip" href="https://www.zhihu.com/question/2093992462004102216" target="_blank" rel="noopener">知乎热榜 #11 · 如何评价学院命名冗余的现象？比如「数学学院」「化学学院」，以前都是简单的「数学院」「化学院」？</a></div></section><section class="block" id="about"><div class="block-head"><h2><span class="sec-no">06</span>关于这份情报</h2><p>标签怎么来的、看了哪些地方</p></div>
+<div class="about">
+  <div class="about-col"><h3>标签怎么来的</h3><dl class="legend"><div class="lg"><dt><span class="label l-new">新起</span></dt><dd>以前几乎没有、最近突然冒出来。至少要两条独立信号同时成立，比如这个词以前搜不到、这周突然多了，同时有好几个账号在做或者有小号爆了。</dd></div><div class="lg"><dt><span class="label l-up">升温</span></dt><dd>以前就有，最近一周明显变多。</dd></div><div class="lg"><dt><span class="label l-keep">持续</span></dt><dd>一直有人做、一直有人看的常青题材。</dd></div><div class="lg"><dt><span class="label l-watch">观察</span></dt><dd>只有一条信号，先放着看。</dd></div><div class="lg"><dt><span class="label l-new">爆发</span></dt><dd>X 上一件事在十几个小时里被十几个账号同时提到。</dd></div></dl></div>
+  <div class="about-col"><h3>看了哪些地方</h3>
+    <p>B站、YouTube、抖音、GitHub、Hugging Face、Hacker News，以及中文 AI 资讯和 Product Hunt 的新产品，只看公开内容。视频看最近 7 天发布的，X 看最近两天，开源仓库看最近两周新建的。</p>
+    <p>新起和升温的题材会再往回查两年，找最早能查到的视频和更多同类爆款，入口在题材卡片右上角。</p></div>
+  <div class="about-col"><h3>数字和判断</h3>
+    <p>播放、点赞、粉丝这些数字都来自平台公开页面，由程序计算；题材归类、标题和点评由 AI 写，每张卡片的「判断依据」写着触发了哪几条信号。</p>
+    <p>只有一个账号说、又查不到来源的收入说法，不会放进头条。</p></div>
+</div>
+<p class="about-foot">本期整理了 1,491 条公开内容，北京时间 2026-11-11 10:11 生成。内容由程序和 AI 自动整理，仅供参考。</p></section></div></main>
+<footer><b>小小和尚 · 选题情报站</b> · 小小和尚出品 · 整理自各平台公开内容，每天早上更新</footer>
+<dialog class="sd" id="share-dlg" aria-labelledby="sd-t">
+  <div class="sd-head"><h2 id="sd-t">分享卡片</h2><button class="sd-x" type="button" aria-label="关闭"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <div class="sd-stage"><div class="sd-frame"><img class="sd-img" alt="" hidden><p class="sd-wait" role="status">正在生成卡片…</p></div></div>
+  <div class="sd-foot"><p class="sd-tip" role="status" aria-live="polite"></p>
+    <div class="sd-acts"><button class="sd-save" type="button" disabled>保存图片</button><button class="sd-copy" type="button" disabled>复制链接</button></div></div>
+</dialog>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script type="application/json" id="share-data">{"meta":{"day":"2026-11-11","site":"小小和尚 · 选题情报站","by":"小小和尚","date":"11 月 11 日","week":"星期三","issue":18,"host":"ismilewolf-eng.github.io"},"items":[{"id":"head-1","grade":"推荐","verdict":"今天就能做","title":"星舰助推器落地不用腿，被机械臂直接夹住","line":"3790 粉的号单条 361.9 万播放，共 3 个账号在做。","label":"持续","stats":[["3","个账号在做"],["572.3万","合计播放"],["361.9万","3790 粉的号单条播放"]],"cover":"../img/36124835bd6a007b.jpg","vertical":false,"plat":"YouTube","pkey":"yt","cap":"361.9万 播放","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=head-1","qr":{"n":41,"m":"fe353ba5bfc103d10a506eb662098bb753b5e215dbad51927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e26dc5ef4ddef9d402dae0b27e7a731a5e30d065c7a447565f1e7ffe6518b7029d13d1048afc958ce52c603bfe0dc57ee531c8a8ead2cda15a62cc94b2438a117f84f6f0d4abbd930e38a0c50fb460ed2e54244be48879eede722b6b206a733c2738171b49ed46f4d7322b6ce1e5636e58d01e60e63e29382e15ffa8051ccd244ff87e8856b1057e314f1ababfa690fa5d6d2cb7e82ebeaa9e7f1040169615afed2a2f53a0"}},{"id":"head-2","grade":"推荐","verdict":"值得做","title":"植物嫁接为什么不排异，动物移植却会","line":"3.1万粉的号单条 191.1 万播放，疑问点一句话就懂。","label":"持续","stats":[["1","个账号在做"],["191.1万","3.1万粉的号单条播放"],["1.4万","最快每小时播放"]],"cover":"../img/64f5bb54f7a663dc.jpg","vertical":false,"plat":"B站","pkey":"bili","cap":"191.1万 播放","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=head-2","qr":{"n":41,"m":"fe353ba5bfc131d10a506eae62098bb75ff5e215dbad71927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e66dc5ef4ddec9d402dae0b27e7a731a1630d065c78647965f1e7ff80518b7029c13d1048afc958ce52c621bfe0dc57e6531c8a8ea12cda15a72ec94b24382d07f84f6f4f4abbd930e18a0c50fb660ed2e54200be48879eeee722b6b2172733c27f8531349ed46d4d3b22b6ce1e3236e58d01f70e63e29382e15ffa8051ccd244ff8fe8856b1057a314f1abadda690fa5d6c2cb7e82ebeaa9e7f1040169615afed2a2f53a0"}},{"id":"head-3","grade":"推荐","verdict":"值得做","title":"巴黎桥上的爱情锁，为什么要被剪掉","line":"1.7万粉的号单条 102.1 万播放，原因让人意外。","label":"持续","stats":[["1","个账号在做"],["102.1万","1.7万粉的号单条播放"],["1.1万","最快每小时播放"]],"cover":"../img/0c6c2bfc0b9f7368.jpg","vertical":false,"plat":"B站","pkey":"bili","cap":"102.1万 播放","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=head-3","qr":{"n":41,"m":"fe313ba5bfc112d10a506ebf62098bb757f5e215dbad71927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e26dc5ef4ddee9d402dae1b27e7a731a1638d065c7844f165f1e7ff84518b7029d13d1048afd958ce52c601bfe0dc57f7d31c8a8eadecda15a628a94b24392417f84f6f0d4abbd930818a0c50fb660ed2e54200be48879edfe722b6b20fa733c2778d713c9ed46f4d3f22b6ce1e3636e58d01e60e63e29393e15ffa8073ccd244ff8668856b105f6314f1abadda690fa5d7c2cb7e82ebeaa9e7f1040169615afed2a2f53a0"}},{"id":"head-4","grade":"参考","verdict":"可以试做","title":"为什么要不停按压鸡蛋","line":"720 粉的号单条 50.2 万播放，40 小时前发的。","label":"观察","stats":[["1","个账号在做"],["50.2万","720 粉的号单条播放"],["1.2万","最快每小时播放"]],"cover":"../img/bc88a99ea8b87268.jpg","vertical":false,"plat":"B站","pkey":"bili","cap":"50.2万 播放","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=head-4","qr":{"n":41,"m":"fe753ba5bfc100d10a506eb762098bb75b75e215dbad71927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e62dc5ef4dded9d402dae0327e7a731ada30d065c7a647d65f1e7ffa6518b7029e33d1048afd958ce52c601bfe0dc57f6531c8a8ea1ecda15a62ca94b2439a817f84f6f0b4abbd930a28a0c50fb660ed2e54204be48879eede722b6a2172733c27b8971349ed46f6dbf22b6ce1e5036e58d01d70e63e29393e15ffa8071ccd244ff8ee8856b105f2314f1abaf9a690fa5d6c2cb7e82ebeaa9e7f1040169615afed2a2f53a0"}},{"id":"head-5","grade":"参考","verdict":"先核实再做","title":"高铁座椅USB口充手机，越充越掉电？","line":"百度热搜第 16 名，人人坐高铁都碰到过。","label":"","stats":[],"cover":"","vertical":false,"plat":"","pkey":"","cap":"","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=head-5","qr":{"n":41,"m":"fe713ba5bfc123d10a506ea662098bb75375e215dbad71927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e22dc5ef4ddef9d402dae1327e7a731ada38d065c7a44f565f1e7ffa2518b7029f33d1048afc958ce52c621bfe0dc57e7d31c8a8ead2cda15a72ac94b2438a107f84f6f494abbd930c28a0c50fb660ed2e54204be48879edce722b6a20fa733c27381313c9ed46d6dbb22b6ce1e5436e58d01c60e63e29382e15ffa8053ccd244ff8768856b1057e314f1abaf9a690fa5d7c2cb7e82ebeaa9e7f1040169615afed2a2f53a0"}},{"id":"head-6","grade":"观察","verdict":"先观察","title":"有人拿活的人脑细胞当 AI 算力","line":"国内外同时在传，两条视频合计 18.1 万播放。","label":"观察","stats":[["2","个账号在做"],["18.1万","合计播放"],["945","合计点赞"]],"cover":"../img/76d17b1c75b5a4f9.jpg","vertical":false,"plat":"YouTube","pkey":"yt","cap":"18.1万 播放","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=head-6","qr":{"n":41,"m":"fe713ba5bfc111d10a506ebe62098bb75f35e215dbad51927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e62dc5ef4ddec9d402dae1327e7a731a9238d065c7864f965f1e7ffc4518b7029e33d1048afc958ce52c603bfe0dc57efd31c8a8ea12cda15a628c94b24382d17f84f6f0b4abbd930c08a0c50fb460ed2e54240be48879edfe722b6a21e2733c27f8571bc9ed46f6df322b6ce1e3036e58d01d70e63e29382e15ffa8053ccd244ff8f68856b1057a314f1aba9ba690fa5d7d2cb7e82ebeaa9e7f1040169615afed2a2f53a0"}},{"id":"head-7","grade":"观察","verdict":"先观察","title":"让九个AI大模型比赛造桥","line":"B站热搜第 13、14 名，AI 比拼的画面很直观。","label":"","stats":[],"cover":"","vertical":false,"plat":"","pkey":"","cap":"","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=head-7","qr":{"n":41,"m":"fe753ba5bfc132d10a506eaf62098bb75735e215dbad51927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e22dc5ef4ddee9d402dae0327e7a731a9230d065c78447165f1e7ffc0518b7029f33d1048afd958ce52c623bfe0dc57fe531c8a8eadecda15a72ea94b24392407f84f6f494abbd930a08a0c50fb460ed2e54240be48879eeee722b6a206a733c2778d31b49ed46d6df722b6ce1e3436e58d01c60e63e29393e15ffa8071ccd244ff86e8856b105f6314f1aba9ba690fa5d6d2cb7e82ebeaa9e7f1040169615afed2a2f53a0"}},{"id":"video-27","sec":"视频新题材","sub":"A 新闻怎么做到","label":"持续","title":"星舰助推器被机械臂接住","line":"巨大的火箭助推器落回来，不用着陆架，被发射塔的机械臂直接夹住。观众好奇这么大的家伙怎么对得这么准、夹得住。","stats":[["3","个账号在做"],["572.3万","合计播放"],["361.9万","3790 粉的号单条播放"]],"cover":"../img/36124835bd6a007b.jpg","vertical":false,"plat":"YouTube","pkey":"yt","cap":"361.9万 播放","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=video-27","qr":{"n":41,"m":"fef13ba5bfc17d67d1106e8d0fbf4bb75bf5e215dba6a74912ec1397870d07faaaaaaafe015ae63c00b73ee42f25a6cd5ef4ddd2afbb4018c00b517c58016215065465a2ea08453c8a168ae6c631d23d1348df133578899a77648d6a9befd31c8a9c1e816ccecaa0722692e12017f84fdd1f370d021d135d61e6216762d2e5439ad7be5cf3dbba4f0071762433c2738efc9a45b1db86da9462a23e1436e18c7853d50f545aff5785ff0073ccd244ffb8b3e8ebd05a95cf911ba79a690fa5d519a6c87aea4cf28a570409e9615afead8f43e10"}},{"id":"video-378","sec":"视频新题材","sub":"C AI 离谱事或能用的招","label":"观察","title":"用活体脑细胞做算力的AI","line":"国内外同时在传：有人拿活的人类脑细胞当 AI 的算力，甚至要建数据中心。标题都在强调离谱和细思极恐。","stats":[["2","个账号在做"],["18.1万","合计播放"],["945","合计点赞"]],"cover":"../img/76d17b1c75b5a4f9.jpg","vertical":false,"plat":"YouTube","pkey":"yt","cap":"18.1万 播放","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=video-378","qr":{"n":41,"m":"fe357fe5bfc102e239506eb6fb908bb75b31a655dba973b07aec15ca31d507faaaaaaafe01e83d5100be7352f43e22dc5ef4dded9b002dae0225e7a735bda39d8edc64247121bbe7dfa637eb7129c30e2348af5949de52eca19dc2dc5786ca850a8e896016d5a53ecb690439af36e95fdfcb4abbd970e04a0c50f84744d2e543c4b608879e4ee562b6aa1e2723c2738d30bc165c6d0dfb66f9ce0e7050838d11e73d52e28313f04efa8073eef044ff87711ceb105fefd831aba9984b2fa5d6d1da6ea2ea7b29e7e10489a9615afef882f53a0"}},{"id":"video-379","sec":"视频新题材","sub":"B 身边反常原理","label":"观察","title":"为什么要不停按压鸡蛋","line":"一条十几秒的小视频，问为什么要对鸡蛋不停按压。小号爆了，播放远超粉丝数，说明这个反常动作很抓人。","stats":[["1","个账号在做"],["50.2万","720 粉的号单条播放"],["1.2万","最快每小时播放"]],"cover":"../img/bc88a99ea8b87268.jpg","vertical":false,"plat":"B站","pkey":"bili","cap":"50.2万 播放","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=video-379","qr":{"n":41,"m":"fef17fe5bfc14f54e2106e941626cbb75bb1a655dba6c56b12ec12a7870d07faaaaaaafe015ee63c00b71ee42f25e2dc5ef4ddf2addb4018d888517c5801e3158edc63a2264c0d3cba16ec86c729e00e23481b83246889801546af6a979fca850a9812cda00ec9ae5004b2e12736e95fdd5e270d021d309161e6236644d2e543dadbbe5cf3e9be0f0071772723c27386fd82cd31dbc612d022a20e5450838c7853e63f545a7e4695ff0071eef044ffb92a716bd0525903511ba3f84b2fa5d51ab7d87aebcdf28a570489a9615afea3ef43e10"}},{"id":"video-325","sec":"视频新题材","sub":"B 身边反常原理","label":"持续","title":"植物嫁接为何没有排异","line":"动物移植会排异，植物嫁接却不会。播放÷粉丝比较高，疑问点很清楚。","stats":[["1","个账号在做"],["191.1万","3.1万粉的号单条播放"],["1.4万","最快每小时播放"]],"cover":"../img/64f5bb54f7a663dc.jpg","vertical":false,"plat":"B站","pkey":"bili","cap":"191.1万 播放","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=video-325","qr":{"n":41,"m":"fef17fe1bfc16c54e3106e941626cbb75bb1a655dba6e56b12ec12a7870d07faaaaaaafe015ee63c00b71ee42f25a2dc5ef4ddc3addb4018d188517c5809231d8edc6182ee4c0d3cba16ec84c729f10e22481b82246889803546af6a978f4a850a981a4da00ec9a47004b2e1a236e95fdd1a270d021d119161e6234644d2e543dadbbe5cf3eabe0f007166a723c273827d02cd31dbe612d022a20e5450838c7852e63f545a7e4695ff0073eef044ffa1aa716bd0525903511ba7d84b2fa5d40ab7d87aebcdf28a570489a9615afea3ef43e10"}},{"id":"video-346","sec":"视频新题材","sub":"B 身边反常原理","label":"持续","title":"巴黎桥上的爱情锁为何被剪","line":"桥上挂满爱情锁，工作人员却要剪掉。背后有个让人意外的原因，播放÷粉丝较高。","stats":[["1","个账号在做"],["102.1万","1.7万粉的号单条播放"],["1.1万","最快每小时播放"]],"cover":"../img/0c6c2bfc0b9f7368.jpg","vertical":false,"plat":"B站","pkey":"bili","cap":"102.1万 播放","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=video-346","qr":{"n":41,"m":"fe357fe1bfc123e23a506eb77b908bb75f31a655dbab53b07aec15ca31d507faaaaaaafe01e83d5100be7352f43e62dc5ef4dddc9b002dae1225e7a735bda3958edc6604f121bbe7dfe237e97129c30e2148af4949de52eca19dc2dc578eca850a8e81a016d5a532ab690439a626e95fdfcf4abbd970c34a0c50f84644d2e543c0b608879e7ce562b6aa17a723c27381f0bc165c6f0d7f66f9ce0e3050838d11f43d52e28312f04efa8051eef044ff96711ceb1053efd831aba9f84b2fa5d7d1da6ea2ea7b29e7e10489a9615afef882f53a0"}},{"id":"video-382","sec":"视频新题材","sub":"B 身边反常原理","label":"观察","title":"一片生菜放倒小女孩的烤肉包肉","line":"一片烤肉店常见的生菜让孩子倒下，标题追问包肉的生菜里到底藏了什么。抖音点赞较高，贴近日常饮食。","stats":[["1","个账号在做"],["3.3万","合计点赞"],["1","条同类视频"]],"cover":"../img/842c27aecff0ec7c.jpg","vertical":true,"plat":"抖音","pkey":"dy","cap":"3.3万 赞","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=video-382","qr":{"n":41,"m":"fe357fe1bfc120e23b506ea7fb908bb75731a655dbab53b07aec15ca31d507faaaaaaafe01e83d5100be7352f43e62dc5ef4ddfc9b002dae1ba5e7a735b9e31d8edc6604b121bbe7dfe637e97129c30e2048af5849df52ec839dc2dc5787ca850a8e85a016d5a43acb6904392726e95fdf8d4abbd970824a0c50f84644d2e54384b608879e4ce562b6aa1f2723c2738d30b4165c6f2dbb66f9ce0e1250838d11f53d52e28302f04efa8073eef044ff86f11ceb105befd831aba9984b2fa5d6d1da6ea2ea7b29e7e10489a9615afef882f53a0"}},{"id":"repo-1","sec":"开源与工具","sub":"AI 视频与图像","label":"","title":"JuneYaooo/rea-video","line":"逐镜头拆解视频，判断是实拍、AI 生成还是代码做的，并给出复刻方法。直接对应视频创作：拆爆款、学镜头、复刻玩法，很适合做成一期。","stats":[["6429","GitHub 星标"],["+518","日均新增星标"],["10-30","创建日期"]],"cover":"../img/3185aa987cc9392b.png","vertical":false,"plat":"GitHub","pkey":"gh","cap":"","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=repo-1","qr":{"n":41,"m":"fe313ba5bfc102d10a506ea762098bb75bb5e215dbad51927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e22dc5ef4ddcd9d402dae0ba7e7a731b9638d065c7244f165f1e7ffa0518b7029c13d1048afc858ce52c621bfe0dc57f6d31c8a8ead2cda15a624a94b24392417f84f6f8d4abbd950c38a0c50eb460ed2e54640be48879e7ce722b6b20f2733c27385f1b49ed46f4d7f22b6ce1e1236e58d01c70e63e29383e15ffa8053ccd244ff8f68856b1053a314f1abadba690fa5d7d2cb7e82ebeaa9e7e1040169615afed2a2f53a0"}},{"id":"repo-2","sec":"开源与工具","sub":"Agent 与编程","label":"","title":"heydamir/unslop","line":"Claude 技能：把一眼 AI 味的界面改成有设计感的界面。做网页或封面的人可以一键去 AI 味，前后对比很适合做成视频。","stats":[["1.4万","GitHub 星标"],["+1108","日均新增星标"],["10-29","创建日期"]],"cover":"../img/3464e2ee30ad2ad5.png","vertical":false,"plat":"GitHub","pkey":"gh","cap":"","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=repo-2","qr":{"n":41,"m":"fe313ba5bfc130d10a506ebf62098bb757f5e215dbad71927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e62dc5ef4ddce9d402dae0ba7e7a731bde38d065c7064fd65f1e7ffc6518b7029d13d1048afc858ce52c603bfe0dc57fed31c8a8ea12cda15a726a94b2439a807f84f6fcf4abbd950c18a0c50eb660ed2e54604be48879e7fe722b6b21ea733c27f81b1349ed46d4d3722b6ce1e7636e58d01d60e63e29383e15ffa8053ccd244ff8768856b1053e314f1abab9a690fa5d7c2cb7e82ebeaa9e7e1040169615afed2a2f53a0"}},{"id":"repo-3","sec":"开源与工具","sub":"AI 视频与图像","label":"","title":"patch-gg/pixelfx","line":"244 个像素风特效代码，附带 Claude Code 技能可自制特效。画面效果好看，适合做成「一句话让 AI 做像素特效」的视频素材。","stats":[["6685","GitHub 星标"],["+566","日均新增星标"],["10-30","创建日期"]],"cover":"../img/ef3d9972fe814962.png","vertical":false,"plat":"GitHub","pkey":"gh","cap":"","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=repo-3","qr":{"n":41,"m":"fe353ba5bfc113d10a506eae62098bb75ff5e215dbad71927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e22dc5ef4ddcc9d402dae1ba7e7a731bde30d065c70447565f1e7ffc2518b7029c13d1048afd858ce52c623bfe0dc57ef531c8a8eadecda15a620c94b2438a117f84f6f8d4abbd950a18a0c50eb660ed2e54604be48879e4ee722b6b2062733c27789f13c9ed46f4d3322b6ce1e7236e58d01c70e63e29392e15ffa8071ccd244ff8ee8856b105b2314f1abab9a690fa5d6c2cb7e82ebeaa9e7e1040169615afed2a2f53a0"}},{"id":"repo-4","sec":"开源与工具","sub":"Agent 与编程","label":"今日上榜","title":"anthropics/skills","line":"Anthropic 官方的 Agent 技能公开仓库。官方技能可以直接装进 Claude Code，做「官方技能怎么用」教程很稳。","stats":[["19.2万","GitHub 星标"],["+1679","今日新增星标"],["09-22","创建日期"]],"cover":"../img/d7126461a0badfe5.png","vertical":false,"plat":"GitHub","pkey":"gh","cap":"","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=repo-4","qr":{"n":41,"m":"fe713ba5bfc101d10a506ea662098bb75375e215dbad71927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e66dc5ef4ddcf9d402dae03a7e7a731b1238d065c7264f965f1e7ffe0518b7029f33d1048afd858ce52c623bfe0dc57eed31c8a8ea1ecda15a624c94b24382d17f84f6f8b4abbd950828a0c50eb660ed2e54600be48879e7ce722b6a21ea733c27b8df1349ed46f6db322b6ce1e1436e58d01f60e63e29392e15ffa8073ccd244ff8668856b105b6314f1aba9da690fa5d7c2cb7e82ebeaa9e7e1040169615afed2a2f53a0"}},{"id":"repo-5","sec":"开源与工具","sub":"Agent 与编程","label":"今日上榜","title":"mattpocock/skills","line":"Matt Pocock 公开自己的 Agent 技能合集。可以直接抄进 Claude Code 当技能用，做「大神的 AI 配置长啥样」一期。","stats":[["32.1万","GitHub 星标"],["+1225","今日新增星标"],["02-03","创建日期"]],"cover":"../img/9adb5820502099bc.png","vertical":false,"plat":"GitHub","pkey":"gh","cap":"","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=repo-5","qr":{"n":41,"m":"fe753ba5bfc122d10a506eb762098bb75b75e215dbad71927aec14ea31d507faaaaaaafe01ac3d5100be5d52f43e26dc5ef4ddcd9d402dae13a7e7a731b1230d065c72447165f1e7ffe4518b7029e33d1048afc858ce52c603bfe0dc57ff531c8a8ead2cda15a722a94b24392407f84f6fc94abbd950e28a0c50eb660ed2e54600be48879e4de722b6a2062733c27385b13c9ed46d6db722b6ce1e1036e58d01e70e63e29383e15ffa8051ccd244ff8fe8856b1053a314f1aba9da690fa5d6c2cb7e82ebeaa9e7e1040169615afed2a2f53a0"}},{"id":"repo-6","sec":"开源与工具","sub":"音频与配音","label":"","title":"jamesondh/chimera-vocal-synth","line":"能唱歌、说话、打节奏的人声合成器。做音乐或配音类视频可以试，简介没写是否用 AI，需自己确认。","stats":[["1712","GitHub 星标"],["+324","日均新增星标"],["11-06","创建日期"]],"cover":"../img/6cf7eac3c412cd93.png","vertical":false,"plat":"GitHub","pkey":"gh","cap":"","url":"https://ismilewolf-eng.github.io/heshang-radar/#intel-radar?day=2026-11-11&item=repo-6","qr":{"n":41,"m":"fef53ba5bfc17d67d1106e940fbf4bb75735e215dba0e74912ec1387870d07faaaaaaafe011ae63c00b730e42f25e6dc5ef4dde3ab9b4018c88a517c5c05a30d065c75c2a608473c9a348ae6c629f33d10481b13357889aa97648d6a97f7531c8a983a416ccecbb6722692e1a817f84f6d58270d023d525161e630460ed2e5461ed3fe5cf3f8bc4f007977a733c27f8abc0a45b9d9a692946da21e7436e58c6840d50e544aee5784ff0051ccd244ffb133e8ebd05e55cf911ba7fa690fa5d409a6c85aea5c728a57040169615afe89cf43e10"}}]}</script>
+<script>
+(function(){
+var cur=null;
+function mount(box,kind,src,label){
+  if(!box||!src)return;
+  if(cur&&cur.box!==box){cur.box.innerHTML=cur.html;cur.box.classList.remove('tall');}
+  if(!cur||cur.box!==box){cur={box:box,html:box.innerHTML};}
+  var el;
+  if(kind==='video'){el=document.createElement('video');el.controls=true;el.autoplay=true;el.playsInline=true;el.preload='metadata';el.src=src;}
+  else{el=document.createElement('iframe');el.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';
+    /* players get the page origin (YouTube refuses embeds without one); everything else, X's mp4 included, gets no referrer */
+    el.allowFullscreen=true;el.referrerPolicy='strict-origin-when-cross-origin';el.title=label||'视频';el.src=src;}
+  box.classList.toggle('tall',src.indexOf('open.douyin.com')>=0);
+  box.innerHTML='';box.appendChild(el);
+}
+document.addEventListener('click',function(ev){
+  var p=ev.target.closest('button.player');
+  if(p){mount(p.closest('.media'),p.dataset.kind,p.dataset.src,p.getAttribute('aria-label'));return;}
+  var m=ev.target.closest('.mini');
+  if(m){var card=m.closest('.hl-media');card.querySelectorAll('.mini').forEach(function(x){x.classList.toggle('on',x===m)});
+    mount(card.querySelector('.media'),m.dataset.kind,m.dataset.src,m.getAttribute('aria-label'));return;}
+  var b=ev.target.closest('.more-btn');
+  if(b){var list=b.previousElementSibling,open=list.classList.toggle('all');b.setAttribute('aria-expanded',open);
+    var t=b.textContent;b.textContent=b.dataset.less;b.dataset.less=t;return;}
+  var f=ev.target.closest('.filters button');
+  if(f){var bar=f.parentNode,want=f.dataset.label,target=document.getElementById(bar.dataset.target);
+    bar.querySelectorAll('button').forEach(function(x){x.setAttribute('aria-pressed',x===f?'true':'false')});
+    target.querySelectorAll('.topic').forEach(function(c){c.hidden=!!want&&want.split(',').indexOf(c.dataset.label)<0;});}
+});
+document.addEventListener('error',function(ev){var t=ev.target;if(t.tagName==='IMG'){var m=t.closest('.media,.mini');if(m)m.classList.add('noimg');}},true);
+var sel=document.getElementById('daysel');if(sel){sel.addEventListener('change',function(){location.href=sel.value;});}
+var links=[].slice.call(document.querySelectorAll('.tabs a'));
+var obs=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting){links.forEach(function(a){
+  var on=a.getAttribute('href')==='#'+en.target.id;a.classList.toggle('on',on);if(on&&a.scrollIntoView&&a.parentNode.scrollWidth>a.parentNode.clientWidth)a.parentNode.scrollLeft=a.offsetLeft-16;})}})},{rootMargin:'-140px 0px -60% 0px'});
+links.forEach(function(a){var s=document.querySelector(a.getAttribute('href'));if(s)obs.observe(s);});
+})();
+</script>
+<script>
+(function(){
+/* Share cards: a 1080x1440 PNG drawn on a canvas from the specs in #share-data (radar/share.py). */
+var src=document.getElementById('share-data'),dlg=document.getElementById('share-dlg');
+if(!src||!dlg)return;
+var D=JSON.parse(src.textContent),M=D.meta,ITEMS={};D.items.forEach(function(x){ITEMS[x.id]=x;});
+var W=1080,H=1440,FF='-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif';
+var LB={'新起':['#006659','#fff'],'爆发':['#006659','#fff'],'升温':['#fff1e3','#9a560c'],'热议':['#fff1e3','#9a560c'],'持续':['#e9f2fb','#1f62a6'],
+  '关注':['#f7f9fa','#757980'],'观察':['#f7f9fa','#757980'],'回落':['#f6eef0','#a2394a'],'今日上榜':['#fff8f0','#9a560c']};
+var GR={'必看':['#006659','#fff'],'推荐':['#d9f5ef','#006659'],'参考':['#e6f0fa','#2877c7'],'观察':['#f7f9fa','#757980']};
+var PC={bili:'#fb7299',yt:'#ff3b3b',dy:'#fe2c55',tt:'#25f4ee',xhs:'#ff2442',x:'#e7e9ea'};
+var UA=navigator.userAgent,INAPP=/MicroMessenger|Lark|Feishu|DingTalk|QQ\/|Weibo|AlipayClient|aweme|BytedanceWebview/i.test(UA),
+  MOBILE=/iPhone|iPad|iPod|Android|Mobile/i.test(UA)||(navigator.maxTouchPoints>1&&/Macintosh/.test(UA));
+function font(c,w,s){c.font=w+' '+s+'px '+FF;}
+function rr(c,x,y,w,h,r){c.beginPath();c.moveTo(x+r,y);c.arcTo(x+w,y,x+w,y+h,r);c.arcTo(x+w,y+h,x,y+h,r);c.arcTo(x,y+h,x,y,r);c.arcTo(x,y,x+w,y,r);c.closePath();}
+var NOSTART='，。、；：？！）】」』》”’,.;:?!)%…';
+function wrap(c,s,w,max){   /* greedy lines: CJK by character, latin by word; the last line gets an ellipsis */
+  var tk=[];((s||'').replace(/\s+/g,' ').trim().match(/[A-Za-z0-9][\w.+\-'%\/:#@&]*|[\s\S]/gu)||[]).forEach(function(t){
+    if(t.length>1&&c.measureText(t).width>w)tk.push.apply(tk,Array.from(t));else tk.push(t);});
+  var L=[],cur='';
+  for(var i=0;i<tk.length;i++){var t=tk[i];
+    if(!cur&&t===' ')continue;
+    if(!cur||c.measureText(cur+t).width<=w||NOSTART.indexOf(t)>=0){cur+=t;continue;}
+    L.push(cur.replace(/ +$/,''));cur=t===' '?'':t;
+    if(L.length===max)break;}
+  if(L.length<max){if(cur)L.push(cur);return L;}
+  var last=L[max-1];while(last&&c.measureText(last+'…').width>w)last=last.slice(0,-1);
+  L[max-1]=last.replace(/[\s，。、；：,.;:]+$/,'')+'…';return L;}
+function clip(c,s,w){return wrap(c,s,w,1)[0]||'';}
+function pill(c,x,y,h,text,bg,fg,size,weight,border){font(c,weight,size);var w=Math.round(c.measureText(text).width+h*.8);
+  rr(c,x,y,w,h,h/2);c.fillStyle=bg;c.fill();if(border){c.strokeStyle=border;c.lineWidth=2;c.stroke();}
+  c.fillStyle=fg;c.textBaseline='middle';c.fillText(text,x+h*.4,y+h/2+1);c.textBaseline='top';return w;}
+function backdrop(c){var g=c.createLinearGradient(0,0,W,H);g.addColorStop(0,'#f5fffc');g.addColorStop(.58,'#f8fbff');g.addColorStop(1,'#fffaf0');
+  c.fillStyle=g;c.fillRect(0,0,W,H);
+  [[90,0,660,'rgba(54,165,144,.2)'],[1000,150,520,'rgba(40,119,199,.09)']].forEach(function(r){
+    var q=c.createRadialGradient(r[0],r[1],0,r[0],r[1],r[2]);q.addColorStop(0,r[3]);q.addColorStop(1,'rgba(255,255,255,0)');c.fillStyle=q;c.fillRect(0,0,W,H);});}
+function logo(c,x,y,s){var g=c.createLinearGradient(x,y,x+s,y+s);g.addColorStop(0,'#36a590');g.addColorStop(1,'#006659');
+  rr(c,x,y,s,s,s*.29);c.fillStyle=g;c.fill();var k=s*16/28/24;
+  c.save();c.translate(x+s*6/28,y+s*6/28);c.scale(k,k);c.strokeStyle='#fff';c.lineWidth=2.2;c.lineCap='round';
+  ['M12 3a9 9 0 0 1 9 9','M12 7a5 5 0 0 1 5 5','M3 12a9 9 0 0 0 9 9'].forEach(function(d){c.stroke(new Path2D(d));});
+  c.beginPath();c.arc(12,12,3,0,Math.PI*2);c.stroke();c.restore();}
+function fit(c,img,sx,sy,sw,sh,x,y,w,h){var r=Math.max(w/sw,h/sh),dw=w/r,dh=h/r;c.drawImage(img,sx+(sw-dw)/2,sy+(sh-dh)/2,dw,dh,x,y,w,h);}
+function cover(c,it,img,x,y,w,h){
+  var flat=it.pkey==='gh';   /* GitHub's preview image is a white 2:1 card: no shade, no corner badge */
+  c.save();rr(c,x,y,w,h,24);c.clip();
+  var g=c.createLinearGradient(x,y,x+w,y+h);g.addColorStop(0,'#14443e');g.addColorStop(1,'#0d1517');c.fillStyle=flat?'#fff':g;c.fillRect(x,y,w,h);
+  if(img){var iw=img.naturalWidth,ih=img.naturalHeight,sx=0,sw=iw;
+    if(it.vertical||ih>iw*1.1){if(iw>ih){sw=Math.min(iw,ih*9/16);sx=(iw-sw)/2;}   /* a Shorts thumbnail is a 9:16 frame inside a 4:3 one */
+      var t=document.createElement('canvas');t.width=24;t.height=Math.max(8,Math.round(24*h/w));fit(t.getContext('2d'),img,sx,0,sw,ih,0,0,t.width,t.height);
+      c.imageSmoothingEnabled=true;c.drawImage(t,x-30,y-30,w+60,h+60);c.fillStyle='rgba(8,14,16,.4)';c.fillRect(x,y,w,h);
+      var dw=Math.min(w,h*sw/ih);c.drawImage(img,sx,0,sw,ih,x+(w-dw)/2,y,dw,h);}
+    else fit(c,img,0,0,iw,ih,x,y,w,h);}
+  else if(it.quote&&it.quote.t){c.fillStyle='rgba(54,165,144,.55)';font(c,800,200);c.textAlign='right';c.fillText('\u201d',x+w-36,y+6);c.textAlign='left';
+    c.fillStyle='#fff';font(c,500,34);var n=Math.max(1,Math.floor((h-260)/54)),ql=wrap(c,it.quote.t,w-120,n);
+    ql.forEach(function(l,i){c.fillText(l,x+60,y+112+i*54);});
+    c.fillStyle='rgba(255,255,255,.66)';font(c,500,24);c.fillText(clip(c,'\u2014 '+it.quote.who,w-120),x+60,y+112+ql.length*54+18);}
+  else{c.strokeStyle='rgba(54,165,144,.32)';c.lineWidth=3;for(var k=1;k<=6;k++){c.beginPath();c.arc(x+w-60,y+h+40,k*95,Math.PI,Math.PI*1.5);c.stroke();}}
+  if(!flat&&(img||it.plat)){var s2=c.createLinearGradient(0,y+h-160,0,y+h);s2.addColorStop(0,'rgba(0,0,0,0)');s2.addColorStop(1,'rgba(0,0,0,.5)');c.fillStyle=s2;c.fillRect(x,y+h-160,w,160);}
+  c.restore();
+  if(flat){rr(c,x+1,y+1,w-2,h-2,23);c.strokeStyle='#e2e8ea';c.lineWidth=2;c.stroke();}
+  if(it.label){var lb=LB[it.label]||LB['观察'];c.save();c.shadowColor='rgba(0,0,0,.22)';c.shadowBlur=14;c.shadowOffsetY=3;pill(c,x+24,y+24,54,it.label,lb[0],lb[1],28,760);c.restore();}
+  if(it.plat&&!flat){var tx=it.plat+(it.cap?' \u00b7 '+it.cap:'');font(c,600,23);var pw=c.measureText(tx).width+58;
+    rr(c,x+24,y+h-70,pw,46,12);c.fillStyle='rgba(10,18,20,.7)';c.fill();
+    c.fillStyle=PC[it.pkey]||'#fff';c.beginPath();c.arc(x+46,y+h-47,6,0,Math.PI*2);c.fill();
+    c.fillStyle='#fff';c.textBaseline='middle';c.fillText(tx,x+62,y+h-46);c.textBaseline='top';}}
+function draw(it,img){
+  var cv=document.createElement('canvas');cv.width=W;cv.height=H;var c=cv.getContext('2d');c.textBaseline='top';
+  backdrop(c);
+  logo(c,48,40,64);
+  c.fillStyle='#242528';font(c,780,36);c.fillText(M.site,128,44);
+  c.fillStyle='#757980';font(c,500,22);c.fillText((M.by?M.by+' · ':'')+'每日选题情报',128,90);
+  c.textAlign='right';c.fillStyle='#242528';font(c,740,32);c.fillText(M.date,W-48,46);
+  c.fillStyle='#757980';font(c,500,22);c.fillText(M.week+' · 第 '+M.issue+' 期',W-48,90);c.textAlign='left';
+  var px=32,py=140,pw=W-64,ph=H-py-32,stub=232,sy=py+ph-stub;
+  c.save();c.shadowColor='rgba(17,72,65,.14)';c.shadowBlur=48;c.shadowOffsetY=16;rr(c,px,py,pw,ph,32);c.fillStyle='#fff';c.fill();c.restore();
+  /* the text decides its height; the cover takes what is left, up to 16:9 */
+  var bx=px+48,bw=pw-96,st=(it.stats||[]).length?112:0;
+  font(c,760,54);var tl=wrap(c,it.title,bw,2);font(c,400,30);var wl=wrap(c,it.line,bw,3);
+  function body(){return 36+46+24+tl.length*72+16+wl.length*48+(st?30+st:0)+36;}
+  var cx=px+24,cy=py+24,cw=pw-48,full=Math.round(cw/(it.pkey==='gh'?2:16/9)),ch=sy-cy-body();
+  if(ch<450&&wl.length>2){wl=wrap(c,it.line,bw,2);ch=sy-cy-body();}
+  var spare=Math.max(0,ch-full);ch-=spare;
+  cover(c,it,img,cx,cy,cw,ch);
+  var y=cy+ch+36+Math.round(spare/2);
+  if(it.grade){var g=GR[it.grade]||GR['观察'],gw=pill(c,bx,y,46,it.grade,g[0],g[1],25,740);
+    c.fillStyle='#006659';font(c,700,28);c.textBaseline='middle';c.fillText(clip(c,it.verdict,bw-gw-20),bx+gw+18,y+24);c.textBaseline='top';}
+  else{var sw=pill(c,bx,y,46,it.sec||'',"#e9fffc","#006659",24,700,'#d9f5ef');
+    c.fillStyle='#757980';font(c,500,25);c.textBaseline='middle';c.fillText(clip(c,it.sub||'',bw-sw-20),bx+sw+18,y+24);c.textBaseline='top';}
+  y+=46+24;
+  c.fillStyle='#242528';font(c,760,54);tl.forEach(function(l,i){c.fillText(l,bx,y+9+i*72);});y+=tl.length*72+16;
+  c.fillStyle='#3b3d40';font(c,400,30);wl.forEach(function(l,i){c.fillText(l,bx,y+9+i*48);});
+  if(st){var ty=sy-36-st,n=it.stats.length,colw=bw/n;rr(c,bx,ty,bw,st,20);c.fillStyle='#f7f9fa';c.fill();c.strokeStyle='#e2e8ea';c.lineWidth=2;c.stroke();
+    it.stats.forEach(function(s,i){var x=bx+colw*i+28,size=46;font(c,760,size);while(size>30&&c.measureText(s[0]).width>colw-44){size-=2;font(c,760,size);}
+      c.fillStyle=i===0?'#006659':'#242528';c.fillText(s[0],x,ty+18+(46-size)/2);
+      c.fillStyle='#757980';font(c,500,22);c.fillText(clip(c,s[1],colw-44),x,ty+74);
+      if(i){c.fillStyle='#e2e8ea';c.fillRect(bx+colw*i,ty+24,2,st-48);}});}
+  /* ticket stub: perforation with notches, then the QR code */
+  c.save();c.beginPath();c.arc(px,sy,18,0,Math.PI*2);c.arc(px+pw,sy,18,0,Math.PI*2);c.clip();backdrop(c);c.restore();
+  c.strokeStyle='#e2e8ea';c.lineWidth=2;c.beginPath();c.arc(px,sy,18,-Math.PI/2,Math.PI/2);c.stroke();c.beginPath();c.arc(px+pw,sy,18,Math.PI/2,Math.PI*1.5);c.stroke();
+  c.save();c.setLineDash([12,10]);c.strokeStyle='#cbd7d9';c.lineWidth=2;c.beginPath();c.moveTo(px+34,sy);c.lineTo(px+pw-34,sy);c.stroke();c.restore();
+  var q=it.qr,n2=q.n,mod=Math.floor(190/n2),qs=mod*n2,qx=px+pw-48-qs,qy=Math.round(sy+(stub-qs)/2);
+  c.fillStyle='#0d1517';
+  for(var i=0;i<n2*n2;i++){if((parseInt(q.m.charAt(i>>2),16)>>(3-(i&3)))&1)c.fillRect(qx+(i%n2)*mod,qy+Math.floor(i/n2)*mod,mod,mod);}
+  var tw=qx-36-bx;
+  c.fillStyle='#242528';font(c,760,36);c.fillText('扫码看完整情报',bx,sy+52);
+  c.fillStyle='#757980';font(c,500,24);c.fillText(clip(c,'原作品、完整数据和判断依据都在这一期',tw),bx,sy+110);
+  c.fillStyle='#087f73';font(c,650,24);c.fillText(clip(c,M.host+(M.by?' · '+M.by+'出品':''),tw),bx,sy+152);
+  return cv;}
+function load(u,cb){if(!u){cb(null);return;}var img=new Image(),done=false;
+  function fin(x){if(!done){done=true;cb(x);}}
+  if(/^https?:/.test(u))img.crossOrigin='anonymous';   /* covers not copied next to the page: export only works with CORS */
+  img.referrerPolicy='no-referrer';img.onload=function(){fin(img.naturalWidth?img:null);};img.onerror=function(){fin(null);};
+  img.src=u;setTimeout(function(){fin(null);},8000);}
+var $=function(s){return dlg.querySelector(s);},imgEl=$('.sd-img'),wait=$('.sd-wait'),tip=$('.sd-tip'),saveB=$('.sd-save'),copyB=$('.sd-copy');
+var cur=null,opener=null;
+dlg.classList.toggle('inapp',INAPP);
+if(MOBILE&&!INAPP&&navigator.canShare)saveB.textContent='保存到相册';
+function say(t){tip.textContent=t;}
+function hint(){say(INAPP?'长按上面的图片，选「保存图片」或直接发给朋友':MOBILE?'也可以长按上面的图片保存':'1080 × 1440，适合朋友圈和小红书');}
+function open(id,btn){var it=ITEMS[id];if(!it)return;cur=it;opener=btn;
+  $('#sd-t').textContent='分享卡片 · '+it.title;imgEl.hidden=true;imgEl.removeAttribute('src');wait.hidden=false;saveB.disabled=copyB.disabled=true;say('');
+  if(dlg.showModal){if(!dlg.open)dlg.showModal();}else dlg.setAttribute('open','');
+  document.documentElement.classList.add('sd-lock');
+  if(it.png){shown(it);return;}
+  load(it.cover,function(img){var url;
+    try{url=draw(it,img).toDataURL('image/png');}catch(e){url=draw(it,null).toDataURL('image/png');}   /* a tainted canvas: draw without the cover */
+    it.png=url;if(cur===it)shown(it);});}
+function shown(it){imgEl.src=it.png;imgEl.alt=it.title+' 的分享卡片';imgEl.hidden=false;wait.hidden=true;saveB.disabled=copyB.disabled=false;hint();}
+function fname(it){return (M.site+'-'+M.day+'-'+it.title).replace(/[\\\/:*?"<>|\s]+/g,'')+'.png';}
+function bytes(u){var b=atob(u.split(',')[1]),a=new Uint8Array(b.length);for(var i=0;i<b.length;i++)a[i]=b.charCodeAt(i);return a;}
+function save(){var it=cur;if(!it||!it.png)return;var name=fname(it),data=bytes(it.png);
+  if(MOBILE&&navigator.canShare){var f=new File([data],name,{type:'image/png'});
+    if(navigator.canShare({files:[f]})){navigator.share({files:[f]}).then(function(){say('选「存储图像」就能存进相册');},
+      function(e){if(!e||e.name!=='AbortError')say('没能打开系统分享，长按上面的图片保存');});return;}}
+  var url=URL.createObjectURL(new Blob([data],{type:'image/png'})),a=document.createElement('a');
+  a.href=url;a.download=name;dlg.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(url);},30000);
+  say(MOBILE?'如果没有开始下载，长按上面的图片保存':'已保存：'+name);}
+function copy(){var u=cur&&cur.url;if(!u)return;
+  function old(){var t=document.createElement('textarea');t.value=u;t.setAttribute('readonly','');t.style.cssText='position:fixed;top:0;opacity:0';
+    dlg.appendChild(t);t.select();var ok=false;try{ok=document.execCommand('copy');}catch(e){}t.remove();say(ok?'链接已复制':u);}
+  if(navigator.clipboard&&window.isSecureContext)navigator.clipboard.writeText(u).then(function(){say('链接已复制');},old);else old();}
+function closed(){document.documentElement.classList.remove('sd-lock');cur=null;if(opener&&opener.focus)opener.focus({preventScroll:true});}
+function close(){if(dlg.close&&dlg.open)dlg.close();else{dlg.removeAttribute('open');closed();}}
+dlg.addEventListener('close',closed);
+dlg.addEventListener('click',function(ev){if(ev.target===dlg)close();});
+$('.sd-x').addEventListener('click',close);saveB.addEventListener('click',save);copyB.addEventListener('click',copy);
+document.addEventListener('click',function(ev){var b=ev.target.closest('[data-share]');if(b){ev.preventDefault();open(b.dataset.share,b);}});
+/* landing from a card's QR code: #intel-radar?day=YYYY-MM-DD&item=video-123 (any prefix before the ?) */
+var toast=document.getElementById('toast'),tt=0;
+function note(t){if(!toast)return;toast.textContent=t;toast.classList.add('on');clearTimeout(tt);tt=setTimeout(function(){toast.classList.remove('on');},3200);}
+function land(){var h=location.hash,q=h.indexOf('?');if(q<0)return;var p={};
+  h.slice(q+1).split('&').forEach(function(kv){var i=kv.indexOf('=');if(i>0)p[kv.slice(0,i)]=decodeURIComponent(kv.slice(i+1));});
+  if(!p.item)return;
+  if(p.day&&p.day!==M.day){var o=[].filter.call(document.querySelectorAll('#daysel option'),function(x){return x.textContent===p.day;})[0];
+    if(o){location.replace(o.value+h);return;}note('没找到 '+p.day+' 那一期，先看最新一期');return;}
+  var t=document.getElementById(p.item);if(!t){note('这一期里没找到分享的那一条');return;}
+  if(t.hidden){var bar=document.querySelector('.filters[data-target="'+t.parentNode.id+'"] button');if(bar)bar.click();}
+  t.scrollIntoView({block:'start',behavior:'instant'});t.classList.remove('flash');void t.offsetWidth;t.classList.add('flash');
+  note('已定位到分享的那一条');}
+land();window.addEventListener('hashchange',land);
+})();
+</script>
+</body></html>

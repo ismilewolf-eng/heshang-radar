@@ -1,0 +1,1626 @@
+{
+ "version": 1,
+ "day": "2026-11-12",
+ "generated_at": 1794450737.651047,
+ "generated_bj": "2026-11-12 10:32",
+ "history_days": 18,
+ "summary": "今天最新冒头的是学步车为什么被禁，B站近7天一下出现13条相关视频，可以直接开做。其他几条都是老话题里小号还在爆的，像植物嫁接、AB型血、星舰接火箭，播放量大但不算新，要挑角度做。",
+ "headline": [
+  {
+   "title": "学步车为什么被国家禁止",
+   "verdict": "今天就能做",
+   "why": "家家买过的学步车被禁了，B站近7天冒出13条相关视频。",
+   "comment": "家里有娃的会问到底危险在哪、现在还能不能用。懂行的会说早有儿科建议不要用。唱反调的会说你这是吓唬家长，所以要把禁令依据讲清楚。",
+   "next_step": "拍真学步车，动画画宝宝重心前倾、够到高处的过程。",
+   "risk": "“国家禁止”要核实具体文件和范围。",
+   "grade": "S",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V4"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "为什么学步车会被国家禁止",
+     "label": "新起",
+     "thread_id": 387
+    }
+   ]
+  },
+  {
+   "title": "星舰助推器怎么被机械臂接住",
+   "verdict": "值得做",
+   "why": "国外5个账号在讲星舰接助推器，国内没人讲清楚怎么接。",
+   "comment": "普通人最想问这么大的火箭怎么不会砸坏机械臂。懂行的会聊对位精度和发动机推力控制。唱反调的会说这就是个新闻回顾，所以要抓住“半空被夹住”这个点讲原理。",
+   "next_step": "用官方接住画面，动画画火箭下落和机械臂对位。",
+   "risk": "最近一次发射的时间和结果要核实。",
+   "grade": "A",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V0"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "星舰助推器被机械臂接住",
+     "label": "持续",
+     "thread_id": 27
+    }
+   ]
+  },
+  {
+   "title": "植物嫁接为什么没有排异",
+   "verdict": "值得做",
+   "why": "3.1万粉的号单条198.7万播放，动物排异植物却不排。",
+   "comment": "观众会问是不是什么植物都能接。懂行的会说亲缘关系太远就接不活。唱反调的会说植物本来就没有免疫系统，所以得把这点讲准。",
+   "next_step": "拍真嫁接过程，动画画两棵树的切口怎么长到一起。",
+   "risk": "排异机制要查植物学资料，别说太满。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V3"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "植物嫁接为何没有排异",
+     "label": "持续",
+     "thread_id": 325
+    }
+   ]
+  },
+  {
+   "title": "AB型血真是最局限的血型吗",
+   "verdict": "值得做",
+   "why": "1.5万粉的号单条170.7万播放，谁能给谁输血很少有人讲清。",
+   "comment": "家里人肯定会转给亲戚问自己能给谁输血。懂行的会指出“局限”要分是给别人输还是接收别人的。唱反调的会说教科书上都有，所以得用动画把方向讲明白。",
+   "next_step": "动画画红细胞表面标记，演示谁能输给谁。",
+   "risk": "输血规则表述要对，别讲反。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V2"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "AB型血是最局限的血型吗",
+     "label": "持续",
+     "thread_id": 300
+    }
+   ]
+  },
+  {
+   "title": "墨水搅散后居然能复原",
+   "verdict": "值得做",
+   "why": "搅散的墨水能倒回去，抖音224.1万粉的号拿了4.8万赞。",
+   "comment": "画面一看就懂，观众会问这不是违背常识吗。懂行的会说这跟液体粘度和流动方式有关。唱反调的会说网上早有人做过，所以得靠自己拍和动画拉开差距。",
+   "next_step": "自己拍糖浆加墨水，动画画液体层层拉开再叠回。",
+   "risk": "原视频别直接搬，要自己重拍。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V8"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "墨水搅散后居然能复原",
+     "label": "持续",
+     "thread_id": 369
+    }
+   ]
+  },
+  {
+   "title": "巴黎桥上的爱情锁为何被剪",
+   "verdict": "先备着",
+   "why": "1.7万粉的号单条106.7万播放，游客觉得浪漫却被剪。",
+   "comment": "观众会问是不是嫌脏嫌乱。懂行的会说得看官方给的原因。唱反调的会说这就是旅游冷知识，原理含量不高，所以排在后面。",
+   "next_step": "用桥上挂锁的现场画面，原因查实后再画动画。",
+   "risk": "剪锁原因要查官方说法。",
+   "grade": "B",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V6"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "巴黎桥上的爱情锁为何被剪",
+     "label": "持续",
+     "thread_id": 346
+    }
+   ]
+  },
+  {
+   "title": "旅行者1号下周满1光日",
+   "verdict": "下周能做",
+   "why": "离地球约259亿公里，发个指令单程要等一天。",
+   "comment": "观众会问这么远还能联系上吗。懂行的会聊它的天线和电力。唱反调的会说只是个里程碑，所以要讲清“等一天”的感觉。",
+   "next_step": "用NASA官方画面，动画画信号一天走过的路。",
+   "risk": "日期和里程要对NASA核实。",
+   "grade": "B",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "N23"
+   ],
+   "links": [
+    {
+     "section": "news",
+     "name": "远离地球约 259 亿公里：“旅行者 1 号”下周将解锁 1 光日里程碑",
+     "url": "https://www.ithome.com/1/025/869.htm"
+    }
+   ]
+  },
+  {
+   "title": "西班牙人吃烤葱为何仰着头",
+   "verdict": "先观察",
+   "why": "198粉的号单条67.1万播放，之前雷达没记录过。",
+   "comment": "观众好奇的是这吃法有没有道理。懂行的会说可能就是图个吃得痛快。唱反调的会说这是个饮食趣闻，没有原理可讲，所以只放观察。",
+   "next_step": "找真实吃法画面，查清门道再决定做不做。",
+   "risk": "吃法由来可能只是习俗，别硬编原理。",
+   "grade": "C",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V1"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "西班牙人吃烤葱为何仰着头",
+     "label": "观察",
+     "thread_id": 384
+    }
+   ]
+  }
+ ],
+ "sections": {
+  "hotwords": [
+   {
+    "word": "谷歌推出Gemini Decisions 1",
+    "platform": "B站热搜",
+    "rank": 2,
+    "url": "https://search.bilibili.com/all?keyword=Gemini Decisions"
+   },
+   {
+    "word": "谷歌推出Gemini Decisions 1",
+    "platform": "B站热搜",
+    "rank": 2,
+    "url": "https://search.bilibili.com/all?keyword=Gemini%20Decisions"
+   },
+   {
+    "word": "花费16亿Token制作的AI炫技短片",
+    "platform": "B站热搜",
+    "rank": 13,
+    "url": "https://search.bilibili.com/all?keyword=花费16亿Token制作的AI炫技短片"
+   },
+   {
+    "word": "欧美掀起抵制AI数据中心浪潮",
+    "platform": "B站热搜",
+    "rank": 13,
+    "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%BE%8E%E6%8E%80%E8%B5%B7%E6%8A%B5%E5%88%B6AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B5%AA%E6%BD%AE"
+   },
+   {
+    "word": "用AI制作灭霸全家福MV",
+    "platform": "B站热搜",
+    "rank": 15,
+    "url": "https://search.bilibili.com/all?keyword=用AI制作灭霸全家福MV"
+   },
+   {
+    "word": "欧美掀起抵制AI数据中心浪潮",
+    "platform": "B站热搜",
+    "rank": 16,
+    "url": "https://search.bilibili.com/all?keyword=欧美掀起抵制AI数据中心浪潮"
+   },
+   {
+    "word": "8个场景实测Gemini 4 Carbon",
+    "platform": "B站热搜",
+    "rank": 19,
+    "url": "https://search.bilibili.com/all?keyword=实测Gemini 4 Carbon"
+   },
+   {
+    "word": "用AI制作灭霸全家福MV",
+    "platform": "B站热搜",
+    "rank": 21,
+    "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV"
+   },
+   {
+    "word": "海外滑板博主被追杀真相如何",
+    "platform": "B站热搜",
+    "rank": 28,
+    "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%A4%96%E6%BB%91%E6%9D%BF%E5%8D%9A%E4%B8%BB%E8%A2%AB%E8%BF%BD%E6%9D%80%E7%9C%9F%E7%9B%B8%E5%A6%82%E4%BD%95"
+   },
+   {
+    "word": "海外滑板博主被追杀真相如何",
+    "platform": "B站热搜",
+    "rank": 30,
+    "url": "https://search.bilibili.com/all?keyword=海外滑板博主被追杀真相如何"
+   },
+   {
+    "word": "我国中小型纯太阳能无人机首飞",
+    "platform": "B站热搜",
+    "rank": 35,
+    "url": "https://search.bilibili.com/all?keyword=我国中小型纯太阳能无人机首飞"
+   },
+   {
+    "word": "亚马逊 AWS 掌门人谈太空 AI 算力：未来 10 至 20 年难具商业可行性",
+    "platform": "IT之家",
+    "rank": 3,
+    "url": "https://www.ithome.com/1/025/888.htm"
+   },
+   {
+    "word": "百度李彦宏：人工智能的下一幕是智能组织，组织智能将是企业最深的护城河",
+    "platform": "IT之家",
+    "rank": 9,
+    "url": "https://www.ithome.com/1/025/881.htm"
+   },
+   {
+    "word": "华为余承东：希望通过 OSTA 星芒全新品牌，探索更多 AI 新可能",
+    "platform": "IT之家",
+    "rank": 10,
+    "url": "https://www.ithome.com/1/025/880.htm"
+   },
+   {
+    "word": "美联航拒绝 AI 代订机票：能查航班，不能替你下单",
+    "platform": "IT之家",
+    "rank": 11,
+    "url": "https://www.ithome.com/1/025/879.htm"
+   },
+   {
+    "word": "远离地球约 259 亿公里：“旅行者 1 号”下周将解锁 1 光日里程碑",
+    "platform": "IT之家",
+    "rank": 14,
+    "url": "https://www.ithome.com/1/025/869.htm"
+   },
+   {
+    "word": "荣耀 700 系列手机预热：9000mAh 青海湖电池、全系骁龙芯片",
+    "platform": "IT之家",
+    "rank": 15,
+    "url": "https://www.ithome.com/1/025/867.htm"
+   },
+   {
+    "word": "华为 OSTA 星芒手机发布首个预热视频：slogan“自有光芒”，11 月 20 日首秀",
+    "platform": "IT之家",
+    "rank": 16,
+    "url": "https://www.ithome.com/1/025/864.htm"
+   },
+   {
+    "word": "让 AI 直接回复用户 UI 界面：谷歌开源跨平台协议 A2UI 1.0 版本上线，字节跳动已用上",
+    "platform": "IT之家",
+    "rank": 18,
+    "url": "https://www.ithome.com/1/025/862.htm"
+   },
+   {
+    "word": "ARM 生态再迎重磅拼图：Adobe InDesign / InCopy 22.0 原生适配骁龙 X Elite 芯片",
+    "platform": "IT之家",
+    "rank": 19,
+    "url": "https://www.ithome.com/1/025/861.htm"
+   },
+   {
+    "word": "瞄准后智能手机时代：OpenAI 奥尔特曼有意联合三星打造下一代 AI 设备，让 AI 主动管理现实与数字生活",
+    "platform": "IT之家",
+    "rank": 20,
+    "url": "https://www.ithome.com/1/025/860.htm"
+   },
+   {
+    "word": "谷歌推出 Gemini Decisions API 快速多模态决策，基于 Gemini Decision 1 模型",
+    "platform": "IT之家",
+    "rank": 21,
+    "url": "https://www.ithome.com/1/025/858.htm"
+   },
+   {
+    "word": "桃色丑闻重创 AI 芯片巨头：黄仁勋第二段婚外情曝光，英伟达盘后股价重挫逾 9%",
+    "platform": "IT之家",
+    "rank": 24,
+    "url": "https://www.ithome.com/1/025/855.htm"
+   },
+   {
+    "word": "华为 WATCH Ultimate 2 新增滑雪登山模式，六大模式覆盖室内外与越野场景",
+    "platform": "IT之家",
+    "rank": 25,
+    "url": "https://www.ithome.com/1/025/854.htm"
+   },
+   {
+    "word": "现代人为什么越来越不敢接电话",
+    "platform": "头条热榜",
+    "rank": 7,
+    "url": "https://www.toutiao.com/trending/7706729210722746378/"
+   },
+   {
+    "word": "高叶谈AI对演员职业的冲击",
+    "platform": "头条热榜",
+    "rank": 13,
+    "url": "https://www.toutiao.com/trending/7706595933592486426/"
+   },
+   {
+    "word": "我们为什么还需要双十一",
+    "platform": "头条热榜",
+    "rank": 23,
+    "url": "https://www.toutiao.com/trending/7706947983643774483/"
+   },
+   {
+    "word": "俄罗斯为什么希望中国企业去当地建厂",
+    "platform": "头条热榜",
+    "rank": 24,
+    "url": "https://www.toutiao.com/trending/7706929862602133033/"
+   },
+   {
+    "word": "汽车撞上风筝线多处被割坏",
+    "platform": "微博热搜",
+    "rank": 29,
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%BD%E8%BD%A6%E6%92%9E%E4%B8%8A%E9%A3%8E%E7%AD%9D%E7%BA%BF%E5%A4%9A%E5%A4%84%E8%A2%AB%E5%89%B2%E5%9D%8F%23&t=31&band_rank=29&Refer=top"
+   },
+   {
+    "word": "伊朗举办导弹和无人机展",
+    "platform": "抖音热榜",
+    "rank": 8,
+    "url": "https://www.douyin.com/hot/2740784"
+   },
+   {
+    "word": "Anthropic披露AI仅用3天适配AMD芯片",
+    "platform": "百度热搜",
+    "rank": 20,
+    "url": "https://www.baidu.com/s?wd=Anthropic%E6%8A%AB%E9%9C%B2AI%E4%BB%85%E7%94%A83%E5%A4%A9%E9%80%82%E9%85%8DAMD%E8%8A%AF%E7%89%87"
+   },
+   {
+    "word": "高三生在拼豆店干坐 1 小时，留下 5 元钱、道歉纸条和父母电话，为什么能引发热议？给孩子教育留下怎样的启发？",
+    "platform": "知乎热榜",
+    "rank": 3,
+    "url": "https://www.zhihu.com/question/2103852272970987363"
+   },
+   {
+    "word": "为什么一个企业的利润率 0%，仍然可以赚钱？",
+    "platform": "知乎热榜",
+    "rank": 7,
+    "url": "https://www.zhihu.com/question/2092104476844999911"
+   },
+   {
+    "word": "苹果宣布官方社区将于 11 月 20 日永久关闭，即日起停止新帖仅保留只读模式，可能出于什么原因？会有何影响？",
+    "platform": "知乎热榜",
+    "rank": 11,
+    "url": "https://www.zhihu.com/question/2103848943562109943"
+   },
+   {
+    "word": "为什么民主党能动摇德州这种深红州，而共和党对加州和纽约这种深蓝州却几乎没什么影响？",
+    "platform": "知乎热榜",
+    "rank": 13,
+    "url": "https://www.zhihu.com/question/2101176542860666115"
+   },
+   {
+    "word": "沙僧在《西游记》中，除了挑担子外，出场的时候很少，为什么吴承恩在写《西游记》时不把他删掉？",
+    "platform": "知乎热榜",
+    "rank": 14,
+    "url": "https://www.zhihu.com/question/2053053168834064898"
+   }
+  ],
+  "video": [
+   {
+    "name": "星舰助推器被机械臂接住",
+    "kind": "A 新闻怎么做到",
+    "summary": "国外一堆视频在讲星舰下一次发射和助推器回收接住这件事，海外热度很高，国内还没人把「火箭怎么被筷子夹住」讲清楚。反常的点是这么大的火箭要靠两条机械臂在半空接住。",
+    "ai_relevance": 70,
+    "bili_term": "",
+    "youtube_term": "Starship booster catch",
+    "metrics": {
+     "videos": 6,
+     "authors": 5,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 4457215,
+     "views_max": 2877243,
+     "vph_max": 29964.7,
+     "likes_total": 0,
+     "max_vsr": 13.08,
+     "outlier": {
+      "views": 375376,
+      "followers": 28700,
+      "title": "SpaceX - “STARSHIP GO FOR ORBIT” Documentary 4K"
+     },
+     "earliest": 1793845691.046424,
+     "median_age_h": 96.0
+    },
+    "samples": [
+     {
+      "title": "Starship - Go For Orbit",
+      "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY",
+      "thumb": "https://i.ytimg.com/vi/8ySMdUIF3cY/hqdefault.jpg",
+      "author": "SpaceX",
+      "platform": "YouTube",
+      "duration": 1271,
+      "vertical": false,
+      "views": 2877243,
+      "likes": null,
+      "followers": 7010000,
+      "vsr": 0.41,
+      "vph": 29964.7,
+      "age_h": 96.0,
+      "published": "11-08 10:28"
+     },
+     {
+      "title": "SpaceX’s New Starship Reveal Is Incredible!",
+      "url": "https://www.youtube.com/watch?v=mZRZyi6Lvf0",
+      "thumb": "https://i.ytimg.com/vi/mZRZyi6Lvf0/hqdefault.jpg",
+      "author": "Marcus House",
+      "platform": "YouTube",
+      "duration": 1389,
+      "vertical": false,
+      "views": 517288,
+      "likes": null,
+      "followers": 591000,
+      "vsr": 0.88,
+      "vph": 5387.2,
+      "age_h": 96.0,
+      "published": "11-08 10:28"
+     },
+     {
+      "title": "SpaceX - “STARSHIP GO FOR ORBIT” Documentary 4K",
+      "url": "https://www.youtube.com/watch?v=wlWF7kJokvk",
+      "thumb": "https://i.ytimg.com/vi/wlWF7kJokvk/hqdefault.jpg",
+      "author": "Launch Heaven",
+      "platform": "YouTube",
+      "duration": 1271,
+      "vertical": false,
+      "views": 375376,
+      "likes": null,
+      "followers": 28700,
+      "vsr": 13.08,
+      "vph": 3127.6,
+      "age_h": 120.0,
+      "published": "11-07 10:28"
+     },
+     {
+      "title": "SpaceX's Biggest Moment Ever Has Arrived",
+      "url": "https://www.youtube.com/watch?v=K9rhZumUHyg",
+      "thumb": "https://i.ytimg.com/vi/K9rhZumUHyg/hqdefault.jpg",
+      "author": "Farzad",
+      "platform": "YouTube",
+      "duration": 1563,
+      "vertical": false,
+      "views": 249248,
+      "likes": null,
+      "followers": 471000,
+      "vsr": 0.53,
+      "vph": 2595.8,
+      "age_h": 96.0,
+      "published": "11-08 10:28"
+     },
+     {
+      "title": "The Catch That Will Unlock SpaceX's Future | Starship Update",
+      "url": "https://www.youtube.com/watch?v=8Dsld-4HrXY",
+      "thumb": "https://i.ytimg.com/vi/8Dsld-4HrXY/hqdefault.jpg",
+      "author": "NASASpaceflight",
+      "platform": "YouTube",
+      "duration": 930,
+      "vertical": false,
+      "views": 247630,
+      "likes": null,
+      "followers": 26700,
+      "vsr": 9.27,
+      "vph": 1473.8,
+      "age_h": 168.0,
+      "published": "11-05 10:28"
+     },
+     {
+      "title": "SpaceX Rolls Booster 22 for Launch | Countdown To Launch",
+      "url": "https://www.youtube.com/watch?v=2L5mTBR6Djs",
+      "thumb": "https://i.ytimg.com/vi/2L5mTBR6Djs/hqdefault.jpg",
+      "author": "NASASpaceflight",
+      "platform": "YouTube",
+      "duration": 14636,
+      "vertical": false,
+      "views": 190430,
+      "likes": null,
+      "followers": 26700,
+      "vsr": 7.13,
+      "vph": 3965.5,
+      "age_h": 48.0,
+      "published": "11-10 10:28"
+     }
+    ],
+    "member_ids": [
+     "youtube:8ySMdUIF3cY",
+     "youtube:mZRZyi6Lvf0",
+     "youtube:wlWF7kJokvk",
+     "youtube:K9rhZumUHyg",
+     "youtube:8Dsld-4HrXY",
+     "youtube:2L5mTBR6Djs"
+    ],
+    "weight": 89.7,
+    "probe_youtube": {
+     "year_n": 12,
+     "match": 2,
+     "match_recent": 0,
+     "oldest_match_days": 21,
+     "samples": [
+      {
+       "title": "SpaceX Fires Up Starship Booster Ahead of Flight 15 Catch Attempt",
+       "url": "https://www.youtube.com/watch?v=VfE-OIgx5H8",
+       "views": 74261,
+       "published": "2w ago"
+      },
+      {
+       "title": "Elon Musk: SpaceX Will Attempt to Catch BOTH Starship & Booster on Flight 15!",
+       "url": "https://www.youtube.com/watch?v=di6_DcLjeWE",
+       "views": 581645,
+       "published": "3w ago"
+      }
+     ],
+     "term": "Starship booster catch"
+    },
+    "label": "持续",
+    "basis": [
+     "YouTube 搜「Starship booster catch」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "5 个不同账号在做",
+     "有小号爆了：2.9万 粉的号单条 37.5万 播放",
+     "雷达 2026-10-25 起就在记录"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 27,
+    "days_seen": 17
+   },
+   {
+    "name": "西班牙人吃烤葱为何仰着头",
+    "kind": "B 身边反常原理",
+    "summary": "西班牙人吃烤葱要仰起头往嘴里送，小号一条就爆了，点赞也很高。观众好奇的是这个怪吃法背后有什么门道。",
+    "ai_relevance": 75,
+    "bili_term": "烤葱",
+    "youtube_term": "calcotada Spain how to eat calcots",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 670769,
+     "views_max": 670769,
+     "vph_max": 10302.2,
+     "likes_total": 0,
+     "max_vsr": 670.77,
+     "outlier": {
+      "views": 670769,
+      "followers": 198,
+      "title": "西班牙人吃烤葱，为什么要仰着头？"
+     },
+     "earliest": 1794216174.0,
+     "median_age_h": 65.1
+    },
+    "samples": [
+     {
+      "title": "西班牙人吃烤葱，为什么要仰着头？",
+      "url": "https://www.bilibili.com/video/BV1yyWt6JEWT",
+      "thumb": "https://i0.hdslb.com/bfs/archive/c87a08a2186a7be1407de29142c1b035876d9feb.jpg",
+      "author": "火候之外",
+      "platform": "B站",
+      "duration": 73,
+      "vertical": false,
+      "views": 670769,
+      "likes": 16517,
+      "followers": 198,
+      "vsr": 670.77,
+      "vph": 10302.2,
+      "age_h": 65.1,
+      "published": "11-09 17:22"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1yyWt6JEWT"
+    ],
+    "weight": 24.5,
+    "probe_bili": {
+     "term": "烤葱",
+     "recent_n": 2,
+     "before_n": 9,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 2,
+     "before_page": 9,
+     "recent_per_day": 0.29,
+     "before_per_day": 0.17,
+     "capped": false,
+     "recent_top": [
+      670913
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 1.32
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「烤葱」：之前 53 天播放最高的 9 条里 0 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：198 粉的号单条 67.1万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-12",
+    "thread_id": 384,
+    "days_seen": 1
+   },
+   {
+    "name": "AB型血是最局限的血型吗",
+    "kind": "B 身边反常原理",
+    "summary": "血型人人知道，但谁能给谁输血、AB型到底受什么限制，很少有人讲清楚。小号播放远超粉丝量。",
+    "ai_relevance": 72,
+    "bili_term": "ab型血",
+    "youtube_term": "AB blood type universal recipient",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1707331,
+     "views_max": 1707331,
+     "vph_max": 12066.7,
+     "likes_total": 0,
+     "max_vsr": 111.7,
+     "outlier": {
+      "views": 1707331,
+      "followers": 15285,
+      "title": "ab型血是最局限的血型吗？？"
+     },
+     "earliest": 1793941200.0,
+     "median_age_h": 141.5
+    },
+    "samples": [
+     {
+      "title": "ab型血是最局限的血型吗？？",
+      "url": "https://www.bilibili.com/video/BV1BX4Y6FE5U",
+      "thumb": "https://i1.hdslb.com/bfs/archive/1475fea0cd6f50e71cb5b9809b27a61294fdd1f8.jpg",
+      "author": "阿超百科",
+      "platform": "B站",
+      "duration": 391,
+      "vertical": false,
+      "views": 1707331,
+      "likes": 554,
+      "followers": 15285,
+      "vsr": 111.7,
+      "vph": 12066.7,
+      "age_h": 141.5,
+      "published": "11-06 13:00"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1BX4Y6FE5U"
+    ],
+    "weight": 24.0,
+    "probe_bili": {
+     "term": "ab型血",
+     "recent_n": 6,
+     "before_n": 19,
+     "recent_match": 2,
+     "before_match": 14,
+     "recent_page": 6,
+     "before_page": 19,
+     "recent_per_day": 0.86,
+     "before_per_day": 0.36,
+     "capped": false,
+     "recent_top": [
+      1707335,
+      138
+     ],
+     "before_top": [
+      118641,
+      68270,
+      7187
+     ],
+     "before_samples": [
+      {
+       "title": "爸爸是AB型血，妈妈是A型血，刚出生的女儿却是0型血，爸爸：孩子是我的么？医生：先别急这事儿真有可能，你是罕见CisAB血型，有一条“O”染色体。（编辑：嘉欣）",
+       "bvid": "BV1cqng6nEmr",
+       "play": 118641,
+       "pubdate": 1792296228
+      },
+      {
+       "title": "爸爸AB型血妈妈A型血 女儿竟然是O型血 医生解释：是亲生的 爸爸是罕见的顺式AB型血",
+       "bvid": "BV1ZznM6gEYV",
+       "play": 68270,
+       "pubdate": 1792284267
+      },
+      {
+       "title": "爸爸AB型血、妈妈A型血，刚出生的女儿是O型血，爸爸一度怀疑孩子非亲生，医生：是亲生的！",
+       "bvid": "BV15wnM6iEdU",
+       "play": 7187,
+       "pubdate": 1792294597
+      }
+     ],
+     "ratio": 1.89
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「ab型血」：之前 53 天播放最高的 19 条里 14 条标题带这个词，近 7 天是 2 条，以前就一直有",
+     "有小号爆了：1.5万 粉的号单条 170.7万 播放",
+     "雷达 2026-11-07 起就在记录"
+    ],
+    "first_day": "2026-11-07",
+    "thread_id": 300,
+    "days_seen": 2
+   },
+   {
+    "name": "植物嫁接为何没有排异",
+    "kind": "B 身边反常原理",
+    "summary": "动物移植会排异，两棵不同的植物接在一起却能长成一棵。观众好奇的是植物为什么不排斥对方。",
+    "ai_relevance": 88,
+    "bili_term": "植物嫁接",
+    "youtube_term": "why grafted plants don't reject",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1986943,
+     "views_max": 1986943,
+     "vph_max": 12595.6,
+     "likes_total": 0,
+     "max_vsr": 64.76,
+     "outlier": {
+      "views": 1986943,
+      "followers": 30680,
+      "title": "植物嫁接为什么没有排异反应？"
+     },
+     "earliest": 1793882673.0,
+     "median_age_h": 157.7
+    },
+    "samples": [
+     {
+      "title": "植物嫁接为什么没有排异反应？",
+      "url": "https://www.bilibili.com/video/BV1RV4b6gEBj",
+      "thumb": "https://i0.hdslb.com/bfs/archive/3c2c94f9068dd837857f124f6e16aaed2587e112.jpg",
+      "author": "有点诣思",
+      "platform": "B站",
+      "duration": 59,
+      "vertical": false,
+      "views": 1986943,
+      "likes": 18200,
+      "followers": 30680,
+      "vsr": 64.76,
+      "vph": 12595.6,
+      "age_h": 157.7,
+      "published": "11-05 20:44"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1RV4b6gEBj"
+    ],
+    "weight": 23.4,
+    "probe_bili": {
+     "term": "植物嫁接",
+     "recent_n": 10,
+     "before_n": 92,
+     "recent_match": 1,
+     "before_match": 2,
+     "recent_page": 10,
+     "before_page": 20,
+     "recent_per_day": 1.43,
+     "before_per_day": 1.74,
+     "capped": false,
+     "recent_top": [
+      1987102
+     ],
+     "before_top": [
+      79724,
+      1681
+     ],
+     "before_samples": [
+      {
+       "title": "为什么植物嫁接不会发生排异反应？",
+       "bvid": "BV1WZa76uEJL",
+       "play": 79724,
+       "pubdate": 1790655189
+      },
+      {
+       "title": "植物嫁接为什么不排异？原理其实很简单",
+       "bvid": "BV17gpb6BEzo",
+       "play": 1681,
+       "pubdate": 1791552844
+      }
+     ],
+     "ratio": 0.84
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「植物嫁接」：之前 53 天播放最高的 20 条里 2 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：3.1万 粉的号单条 198.7万 播放",
+     "雷达 2026-11-08 起就在记录"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 325,
+    "days_seen": 3
+   },
+   {
+    "name": "为什么学步车会被国家禁止",
+    "kind": "B 身边反常原理",
+    "summary": "很多家庭都买过的育儿用品却被禁止。观众好奇的是它到底哪里危险。",
+    "ai_relevance": 70,
+    "bili_term": "学步车",
+    "youtube_term": "why baby walkers are banned",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 568466,
+     "views_max": 568466,
+     "vph_max": 13447.2,
+     "likes_total": 0,
+     "max_vsr": 51.35,
+     "outlier": {
+      "views": 568466,
+      "followers": 11070,
+      "title": "为什么学步车会被国家禁止"
+     },
+     "earliest": 1794298381.0,
+     "median_age_h": 42.3
+    },
+    "samples": [
+     {
+      "title": "为什么学步车会被国家禁止",
+      "url": "https://www.bilibili.com/video/BV18CWu6MEWk",
+      "thumb": "https://i2.hdslb.com/bfs/archive/278e9631f534d9d1b709da82052a45c396d3393f.jpg",
+      "author": "花椒炒虾米",
+      "platform": "B站",
+      "duration": 198,
+      "vertical": false,
+      "views": 568466,
+      "likes": 324,
+      "followers": 11070,
+      "vsr": 51.35,
+      "vph": 13447.2,
+      "age_h": 42.3,
+      "published": "11-10 16:13"
+     }
+    ],
+    "member_ids": [
+     "bili:BV18CWu6MEWk"
+    ],
+    "weight": 23.3,
+    "probe_bili": {
+     "term": "学步车",
+     "recent_n": 28,
+     "before_n": 78,
+     "recent_match": 13,
+     "before_match": 2,
+     "recent_page": 20,
+     "before_page": 20,
+     "recent_per_day": 4.0,
+     "before_per_day": 1.47,
+     "capped": false,
+     "recent_top": [
+      568467,
+      483226,
+      415410
+     ],
+     "before_top": [
+      538,
+      369
+     ],
+     "before_samples": [
+      {
+       "title": "小家伙已到了调皮的年纪了，换尿不湿要两个人按，吃饭抢碗，抢手机，抢遥控器……买的玩具也要拆了…买的学步车不坐，非要给它翻个底朝天玩儿轮子……哈哈！",
+       "bvid": "BV1Hqe766ERf",
+       "play": 538,
+       "pubdate": 1789430098
+      },
+      {
+       "title": "他的学步车光倒车就一年两万公里了，能是一般炮吗 #万万没想到 #不是一般炮 #皮皮 #搞笑 #东北",
+       "bvid": "BV1q6xD6MEi7",
+       "play": 369,
+       "pubdate": 1793756369
+      }
+     ],
+     "ratio": 2.51
+    },
+    "label": "新起",
+    "basis": [
+     "B站搜「学步车」：之前 53 天播放最高的 20 条里 2 条标题带这个词，近 7 天是 13 条，以前几乎没有",
+     "有小号爆了：1.1万 粉的号单条 56.8万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-12",
+    "thread_id": 387,
+    "days_seen": 1
+   },
+   {
+    "name": "美国人为何把烤花生泡进可乐",
+    "kind": "B 身边反常原理",
+    "summary": "盐烤花生倒进可乐瓶里吃，听起来很怪，却是美国人的老吃法。观众好奇这样会不会更好吃。",
+    "ai_relevance": 65,
+    "bili_term": "烤花生",
+    "youtube_term": "peanuts in coke",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 551015,
+     "views_max": 551015,
+     "vph_max": 9451.4,
+     "likes_total": 0,
+     "max_vsr": 65.36,
+     "outlier": {
+      "views": 551015,
+      "followers": 8430,
+      "title": "为什么美国人喜欢把盐烤花生泡进可乐里吃？难道这样会更美味？"
+     },
+     "earliest": 1794240687.0,
+     "median_age_h": 58.3
+    },
+    "samples": [
+     {
+      "title": "为什么美国人喜欢把盐烤花生泡进可乐里吃？难道这样会更美味？",
+      "url": "https://www.bilibili.com/video/BV1cYWb62EQb",
+      "thumb": "https://i0.hdslb.com/bfs/archive/7d47a5621e420cb65f8b06e58f716feaa462b1d8.jpg",
+      "author": "地球趣闻",
+      "platform": "B站",
+      "duration": 47,
+      "vertical": false,
+      "views": 551015,
+      "likes": 14728,
+      "followers": 8430,
+      "vsr": 65.36,
+      "vph": 9451.4,
+      "age_h": 58.3,
+      "published": "11-10 00:11"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1cYWb62EQb"
+    ],
+    "weight": 23.0,
+    "probe_bili": {
+     "term": "烤花生",
+     "recent_n": 7,
+     "before_n": 47,
+     "recent_match": 1,
+     "before_match": 1,
+     "recent_page": 7,
+     "before_page": 20,
+     "recent_per_day": 1.0,
+     "before_per_day": 0.89,
+     "capped": false,
+     "recent_top": [
+      551083
+     ],
+     "before_top": [
+      874
+     ],
+     "before_samples": [
+      {
+       "title": "龙岩湿烤花生为什么这么受欢迎！",
+       "bvid": "BV12Uhe6xEfn",
+       "play": 874,
+       "pubdate": 1789963039
+      }
+     ],
+     "ratio": 1.1
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「烤花生」：之前 53 天播放最高的 20 条里 1 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：8430 粉的号单条 55.1万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-12",
+    "thread_id": 388,
+    "days_seen": 1
+   },
+   {
+    "name": "巴黎桥上的爱情锁为何被剪",
+    "kind": "B 身边反常原理",
+    "summary": "游客都觉得浪漫的爱情锁，工作人员却要剪掉。观众好奇背后的原因。",
+    "ai_relevance": 75,
+    "bili_term": "爱情锁",
+    "youtube_term": "Paris love locks bridge removed why",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1067261,
+     "views_max": 1067261,
+     "vph_max": 9311.5,
+     "likes_total": 0,
+     "max_vsr": 62.13,
+     "outlier": {
+      "views": 1067261,
+      "followers": 17178,
+      "title": "巴黎桥上的爱情锁，为何会被工作人员剪掉？背后原因揭秘！"
+     },
+     "earliest": 1794037945.0,
+     "median_age_h": 114.6
+    },
+    "samples": [
+     {
+      "title": "巴黎桥上的爱情锁，为何会被工作人员剪掉？背后原因揭秘！",
+      "url": "https://www.bilibili.com/video/BV17g4J6HE4Z",
+      "thumb": "https://i0.hdslb.com/bfs/archive/2ba5ae0f7f86b86df7b0ff4e92920134995454d3.jpg",
+      "author": "奇文科普",
+      "platform": "B站",
+      "duration": 24,
+      "vertical": false,
+      "views": 1067261,
+      "likes": 18280,
+      "followers": 17178,
+      "vsr": 62.13,
+      "vph": 9311.5,
+      "age_h": 114.6,
+      "published": "11-07 15:52"
+     }
+    ],
+    "member_ids": [
+     "bili:BV17g4J6HE4Z"
+    ],
+    "weight": 22.8,
+    "probe_bili": {
+     "term": "爱情锁",
+     "recent_n": 72,
+     "before_n": 423,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 20,
+     "before_page": 20,
+     "recent_per_day": 10.29,
+     "before_per_day": 7.98,
+     "capped": false,
+     "recent_top": [
+      1067314
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 1.28
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「爱情锁」：之前 53 天播放最高的 20 条里 0 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：1.7万 粉的号单条 106.7万 播放",
+     "雷达 2026-11-09 起就在记录"
+    ],
+    "first_day": "2026-11-09",
+    "thread_id": 346,
+    "days_seen": 4
+   },
+   {
+    "name": "一片生菜放倒小女孩的烤肉包肉",
+    "kind": "B 身边反常原理",
+    "summary": "一片生菜包烤肉，却让四岁女孩出了大事，点赞很高。观众想知道生菜里到底藏了什么。",
+    "ai_relevance": 70,
+    "bili_term": "",
+    "youtube_term": "",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 34087,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793948867.0,
+     "median_age_h": 139.4
+    },
+    "samples": [
+     {
+      "title": "一片生菜放倒4岁女孩：烤肉包肉到底藏了什么？",
+      "url": "https://www.douyin.com/video/7704950364281343270",
+      "thumb": "img/842c27aecff0ec7c.jpg",
+      "author": "𝙏𝙞𝙣𝘼终极探索",
+      "platform": "抖音",
+      "duration": 320,
+      "vertical": true,
+      "views": null,
+      "likes": 34087,
+      "followers": 74117,
+      "vsr": null,
+      "vph": null,
+      "age_h": 139.4,
+      "published": "11-06 15:07"
+     }
+    ],
+    "member_ids": [
+     "douyin:7704950364281343270"
+    ],
+    "weight": 22.6,
+    "label": "持续",
+    "basis": [
+     "雷达 2026-11-11 起就在记录"
+    ],
+    "first_day": "2026-11-11",
+    "thread_id": 382,
+    "days_seen": 2
+   },
+   {
+    "name": "墨水搅散后居然能复原",
+    "kind": "B 身边反常原理",
+    "summary": "墨水搅散后又能原样回到一起，不同粘度的液体结果天差地别。画面直观，观众会想弄清为什么搅乱的东西能倒回去。",
+    "ai_relevance": 88,
+    "bili_term": "",
+    "youtube_term": "reversible mixing ink viscous fluid",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 47959,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793856223.0,
+     "median_age_h": 165.1
+    },
+    "samples": [
+     {
+      "title": "墨水被搅散之后居然可以复原，不同粘度的液体结果天差地别。",
+      "url": "https://www.douyin.com/video/7704549778180901105",
+      "thumb": "img/4bdae9ba12eb6d3c.jpg",
+      "author": "科普宇宙",
+      "platform": "抖音",
+      "duration": 63,
+      "vertical": true,
+      "views": null,
+      "likes": 47959,
+      "followers": 2240692,
+      "vsr": null,
+      "vph": null,
+      "age_h": 165.1,
+      "published": "11-05 13:23"
+     }
+    ],
+    "member_ids": [
+     "douyin:7704549778180901105"
+    ],
+    "weight": 20.3,
+    "label": "持续",
+    "basis": [
+     "雷达 2026-11-10 起就在记录"
+    ],
+    "first_day": "2026-11-10",
+    "thread_id": 369,
+    "days_seen": 2
+   }
+  ],
+  "x": [],
+  "tools": {
+   "repos": [
+    {
+     "name": "mromidev/claude-animated-shorts",
+     "url": "https://github.com/mromidev/claude-animated-shorts",
+     "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+     "stars": 2976,
+     "stars_today": null,
+     "stars_per_day": 274.0,
+     "stars_gain_per_day": 181.3,
+     "created": "2026-11-01",
+     "language": "TypeScript",
+     "from_trending": false,
+     "zh": "免费 Claude 技能，用 three.js 加 Remotion 做爆款动画故事短片",
+     "use": "可以直接做成“用 Claude 批量做动画短片”的教程，对短视频作者很实用。",
+     "group": "AI 视频与图像",
+     "value": 90
+    },
+    {
+     "name": "sarpstar/cinecode",
+     "url": "https://github.com/sarpstar/cinecode",
+     "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+     "stars": 2222,
+     "stars_today": null,
+     "stars_per_day": 256.0,
+     "stars_gain_per_day": 155.6,
+     "created": "2026-11-03",
+     "language": "Python",
+     "from_trending": false,
+     "zh": "让 AI 编程助手用代码写剧本、逐帧做出短片和广告",
+     "use": "可以做“全程用代码做一部短片”的实测，适合作为批量出片思路。",
+     "group": "AI 视频与图像",
+     "value": 88
+    },
+    {
+     "name": "jamesondh/chimera-vocal-synth",
+     "url": "https://github.com/jamesondh/chimera-vocal-synth",
+     "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+     "stars": 1986,
+     "stars_today": null,
+     "stars_per_day": 315.0,
+     "stars_gain_per_day": 269.9,
+     "created": "2026-11-06",
+     "language": "Rust",
+     "from_trending": false,
+     "zh": "能唱歌、说话、模仿节奏音效的人声合成器",
+     "use": "可以做“AI 声音合成能玩出什么花样”的视频，也可能用于配音和配乐。",
+     "group": "音频与配音",
+     "value": 75
+    },
+    {
+     "name": "patch-gg/pixelfx",
+     "url": "https://github.com/patch-gg/pixelfx",
+     "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+     "stars": 7006,
+     "stars_today": null,
+     "stars_per_day": 546.3,
+     "stars_gain_per_day": 316.2,
+     "created": "2026-10-30",
+     "language": "JavaScript",
+     "from_trending": false,
+     "zh": "244 个像素风特效代码，附带 Claude Code 技能可自己做",
+     "use": "可以做成“一句话让 Claude 生成像素特效”的视频，素材可直接当视频画面。",
+     "group": "内容创作与运营",
+     "value": 72
+    },
+    {
+     "name": "addyosmani/agent-skills",
+     "url": "https://github.com/addyosmani/agent-skills",
+     "desc": "Production-grade engineering skills for AI coding agents.",
+     "stars": 116005,
+     "stars_today": 787,
+     "stars_per_day": 430.8,
+     "stars_gain_per_day": 781.2,
+     "created": "2026-02-16",
+     "language": "JavaScript",
+     "from_trending": true,
+     "zh": "面向 AI 编程助手的一套工程技能库",
+     "use": "可以做“给 Claude Code 装上专业技能”的教程。",
+     "group": "Agent 与编程",
+     "value": 70
+    },
+    {
+     "name": "JDhruv14/line-art-animation",
+     "url": "https://github.com/JDhruv14/line-art-animation",
+     "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+     "stars": 450,
+     "stars_today": null,
+     "stars_per_day": 263.0,
+     "stars_gain_per_day": 267.9,
+     "created": "2026-11-10",
+     "language": "TypeScript",
+     "from_trending": false,
+     "zh": "Claude 技能加代码库，做会走路、会反应的线条动画",
+     "use": "可以让 Claude 做白天黑夜的线条动画场景，当科普视频素材。",
+     "group": "AI 视频与图像",
+     "value": 70
+    },
+    {
+     "name": "elvarofficial/teardown",
+     "url": "https://github.com/elvarofficial/teardown",
+     "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+     "stars": 3178,
+     "stars_today": null,
+     "stars_per_day": 250.1,
+     "stars_gain_per_day": 187.2,
+     "created": "2026-10-30",
+     "language": "JavaScript",
+     "from_trending": false,
+     "zh": "Claude Code 技能，把任意机器变成可拆解的 3D 模拟器",
+     "use": "可以做“让 AI 生成可拆开的 3D 机器”的科普视频，画面直观。",
+     "group": "内容创作与运营",
+     "value": 70
+    },
+    {
+     "name": "KKKKhazix/agent-autoloop",
+     "url": "https://github.com/KKKKhazix/agent-autoloop",
+     "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+     "stars": 4536,
+     "stars_today": null,
+     "stars_per_day": 517.3,
+     "stars_gain_per_day": 98.5,
+     "created": "2026-11-03",
+     "language": "TypeScript",
+     "from_trending": false,
+     "zh": "让命令行 Agent 在后台自己接活，拿不准时才发卡片问你",
+     "use": "适合讲“让 AI 当后台打工人”，只在关键处找你拍板。",
+     "group": "Agent 与编程",
+     "value": 65
+    }
+   ],
+   "models": [
+    {
+     "name": "Lightricks/LTX-2.5",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5",
+     "kind": "model",
+     "likes": 11520,
+     "downloads": 2848771,
+     "created": "2026-07-23",
+     "tags": [
+      "diffusion-single-file",
+      "image-to-video",
+      "text-to-video",
+      "video-to-video",
+      "image-text-to-video",
+      "audio-to-video"
+     ],
+     "zh": "Lightricks 的开源视频模型，支持文生视频、图生视频",
+     "use": "下载量很大，可以做本地出视频的教程和效果对比。",
+     "group": "AI 视频与图像",
+     "value": 88
+    },
+    {
+     "name": "MiniMaxAI/MiniMax-H3-Image",
+     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+     "kind": "model",
+     "likes": 728,
+     "downloads": 142989,
+     "created": "2026-11-03",
+     "tags": [
+      "minimax-h3",
+      "diffusers",
+      "safetensors",
+      "text-to-image",
+      "image-to-image",
+      "image-editing"
+     ],
+     "zh": "MiniMax 开源图像模型，支持文生图、改图",
+     "use": "可以做图片生成和修图实测，素材可直接用。",
+     "group": "AI 视频与图像",
+     "value": 80
+    },
+    {
+     "name": "Viggle/Viggle-Remake",
+     "url": "https://huggingface.co/Viggle/Viggle-Remake",
+     "kind": "model",
+     "likes": 308,
+     "downloads": 136241,
+     "created": "2026-10-23",
+     "tags": [
+      "minimax-h3",
+      "gguf",
+      "video-editing",
+      "character-replacement",
+      "video-to-video",
+      "lora"
+     ],
+     "zh": "Viggle 的视频角色替换模型",
+     "use": "可以做“视频里换主角”的实测，素材二创很实用。",
+     "group": "AI 视频与图像",
+     "value": 80
+    },
+    {
+     "name": "black-forest-labs/flux-3-image-klein-comfy",
+     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+     "kind": "model",
+     "likes": 2957,
+     "downloads": 1271036,
+     "created": "2026-10-14",
+     "tags": [
+      "diffusion-single-file",
+      "comfyui",
+      "image-generation",
+      "image-editing",
+      "flux",
+      "flux-3"
+     ],
+     "zh": "Flux 3 klein 图像生成与编辑模型，适配 ComfyUI",
+     "use": "可以做新版 Flux 出图和修图对比。",
+     "group": "AI 视频与图像",
+     "value": 78
+    },
+    {
+     "name": "speridlabs/idol",
+     "url": "https://huggingface.co/speridlabs/idol",
+     "kind": "model",
+     "likes": 2149,
+     "downloads": 28250,
+     "created": "2026-10-28",
+     "tags": [
+      "idol",
+      "gaussian-splatting",
+      "3d",
+      "image-to-3d"
+     ],
+     "zh": "把单张图片变成 3D 高斯点云的模型",
+     "use": "可以做“一张照片变 3D 场景”的演示。",
+     "group": "AI 视频与图像",
+     "value": 55
+    },
+    {
+     "name": "facebook/sam3",
+     "url": "https://huggingface.co/facebook/sam3",
+     "kind": "model",
+     "likes": 6373,
+     "downloads": 2051107,
+     "created": "2025-11-07",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "sam3_video",
+      "feature-extraction",
+      "sam3",
+      "mask-generation"
+     ],
+     "zh": "Meta 的 SAM3，可在图像和视频里分割物体",
+     "use": "可以做“一键抠出视频里任何东西”的演示。",
+     "group": "AI 视频与图像",
+     "value": 55
+    },
+    {
+     "name": "ConwayResearch/Underdog-Woof",
+     "url": "https://huggingface.co/ConwayResearch/Underdog-Woof",
+     "kind": "model",
+     "likes": 183,
+     "downloads": 10,
+     "created": "2026-11-06",
+     "tags": [
+      "numpy",
+      "text-to-speech",
+      "tts",
+      "on-device",
+      "cpu",
+      "en"
+     ],
+     "zh": "能在 CPU 上本地运行的英文语音合成模型",
+     "use": "可以做“不用显卡也能本地配音”的实测，但只支持英文。",
+     "group": "音频与配音",
+     "value": 55
+    },
+    {
+     "name": "Comfy-Org/RelayVSR",
+     "url": "https://huggingface.co/Comfy-Org/RelayVSR",
+     "kind": "model",
+     "likes": 170,
+     "downloads": 91134,
+     "created": "2026-11-05",
+     "tags": [
+      "diffusion-single-file",
+      "comfyui",
+      "unconditional-image-generation"
+     ],
+     "zh": "Comfy-Org 出的 RelayVSR 模型，名字看似视频超分",
+     "use": "功能简介里看不明确，可以试用后再决定。",
+     "group": "AI 视频与图像",
+     "value": 50
+    }
+   ],
+   "stories": [
+    {
+     "name": "Claude Whiteboards, Claude Sheets, and Claude Data",
+     "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+     "hn_url": "https://news.ycombinator.com/item?id=50443716",
+     "points": 281,
+     "comments": 216,
+     "published": "11-11 01:55",
+     "zh": "Claude 推出白板、表格和数据功能",
+     "use": "可以做 Claude 新功能实操，白板和表格对日常整理脚本选题很有用。",
+     "group": "内容创作与运营",
+     "value": 70
+    },
+    {
+     "name": "Apple has new Mac app coming to make running local AI models easy",
+     "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+     "hn_url": "https://news.ycombinator.com/item?id=50446520",
+     "points": 517,
+     "comments": 526,
+     "published": "11-11 05:25",
+     "zh": "苹果将推 Mac 应用，让本地跑 AI 模型更简单",
+     "use": "可以做“Mac 本地跑 AI 变简单了”的科普。",
+     "group": "模型",
+     "value": 55
+    },
+    {
+     "name": "Gemini 4 Carbon is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+     "hn_url": "https://news.ycombinator.com/item?id=50442303",
+     "points": 291,
+     "comments": 164,
+     "published": "11-11 00:07",
+     "zh": "谷歌发布 Gemini 4 Carbon 模型",
+     "use": "可以做新模型上手评测。",
+     "group": "模型",
+     "value": 50
+    }
+   ]
+  },
+  "news": [
+   {
+    "name": "MiniMax 发布开源图像生成模型 H3-Image，10 秒内生成 4K 图像",
+    "url": "https://aihot.news/items/eel6o8sxfldx5itfa8f8wigc0",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-11 00:23",
+    "zh": "MiniMax 开源 H3-Image，支持文生图、改图，能出 4K 图",
+    "use": "可以做 4K 出图速度和效果实测。",
+    "group": "AI 视频与图像",
+    "value": 80
+   },
+   {
+    "name": "Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目",
+    "url": "https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-10 12:17",
+    "zh": "Anthropic 员工推荐一条提示词，让 Claude Code 全面审查项目",
+    "use": "一条提示词就能用，可以直接做成教程。",
+    "group": "Agent 与编程",
+    "value": 75
+   },
+   {
+    "name": "n8n Labs 发布本机个人智能体 Nod 研究预览版",
+    "url": "https://aihot.news/items/yrk09s03tcgcxsxq8jh0npjk0",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-10 20:52",
+    "zh": "n8n 发布本机个人智能体 Nod，代做退订、比价、订酒店",
+    "use": "可以做“让 AI 替你退订和比价”的实测。",
+    "group": "Agent 与编程",
+    "value": 70
+   },
+   {
+    "name": "Claude Code 中如何选择 Fable 5.2 与 Opus 等模型",
+    "url": "https://aihot.news/items/ep5oqt7m4l7gn3tqieilznmuk",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-12 01:30",
+    "zh": "Claude 出视频教程，讲 Claude Code 里怎么选模型",
+    "use": "可以直接参考，做“省钱用对模型”的教程。",
+    "group": "Agent 与编程",
+    "value": 65
+   },
+   {
+    "name": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+    "url": "https://aihot.news/items/w8cvkd1j2o1c3m8ikh8x2kpfx",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-11 00:03",
+    "zh": "DeepMind 发布最强前沿模型 Gemini 4 Carbon",
+    "use": "可以做新模型能力的科普解读。",
+    "group": "模型",
+    "value": 55
+   },
+   {
+    "name": "Anthropic Fable 5.2 在 Remote Labor Index 上以 41.3% 领跑真实自由职业任务",
+    "url": "https://aihot.news/items/oesqqhekbr8e1bekkcitpguqh",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-10 22:07",
+    "zh": "Fable 5.2 在真实自由职业任务基准上以 41.3% 领跑",
+    "use": "可以做“AI 能接多少私活”的话题。",
+    "group": "模型",
+    "value": 55
+   },
+   {
+    "name": "OpenRouter 实测 MCP vs CLI vs Skills 的上下文 token 成本",
+    "url": "https://aihot.news/items/wkpj021rmg6sgthgj9zwevei4",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-11 08:00",
+    "zh": "OpenRouter 实测 MCP、CLI、Skills 的 token 成本",
+    "use": "可以讲“用哪种方式接工具更省钱”。",
+    "group": "Agent 与编程",
+    "value": 50
+   },
+   {
+    "name": "Claude Fable 5.2 实测观察：大模型正用代码吞噬审美与创作",
+    "url": "https://aihot.news/items/uditkv6u7rrzmtj1nx7pxbgjj",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-11 07:56",
+    "zh": "作者实测认为 Claude Fable 5.2 的突出差异在审美",
+    "use": "可以做“AI 审美对比”的视频，用同一提示词测多个模型。",
+    "group": "模型",
+    "value": 50
+   }
+  ]
+ },
+ "stats": {
+  "items": 1479,
+  "by_source": {
+   "bili": 641,
+   "bili_hot": 50,
+   "youtube": 61,
+   "douyin": 139,
+   "github": 207,
+   "hf": 46,
+   "hn": 18,
+   "douyin_hot": 200,
+   "aihot": 39,
+   "qbitai": 10,
+   "ithome": 60,
+   "sspai": 8
+  }
+ }
+}

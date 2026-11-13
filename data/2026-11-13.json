@@ -1,0 +1,1197 @@
+{
+ "version": 1,
+ "day": "2026-11-13",
+ "generated_at": 1794535792.498646,
+ "generated_bj": "2026-11-13 10:09",
+ "history_days": 19,
+ "summary": "今天没有标「新起」「升温」的视频题材，最大的事是星舰明天试飞，塔要首次同时接两级，海外小号已经在讲。身边反常原理有两条小号爆了的题，AI 那边有一个编造历史的案例和一条真假难辨的热搜。",
+ "headline": [
+  {
+   "title": "星舰明天试飞，塔要同时接住两级",
+   "verdict": "今天就能做",
+   "why": "筷子塔明天首次挑战双级捕获，309粉的号单条31.1万播放。",
+   "comment": "普通人会问飞船那么大，塔怎么接。懂行的人会说双级捕获的难点在对位。唱反调的会说万一明天失败了，这期就得改写。",
+   "next_step": "用官方直播画面，画飞船和助推器依次回到塔上的动画。",
+   "risk": "试飞结果未出，别提前写成功。",
+   "grade": "A",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V1",
+    "N28"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "星舰下次要双回收",
+     "label": "观察",
+     "thread_id": 393
+    },
+    {
+     "section": "news",
+     "name": "有望改写人类火箭复用史：SpaceX 星舰明日第 15 次试飞，“筷子”首次挑战双级捕获",
+     "url": "https://www.ithome.com/1/026/467.htm"
+    }
+   ]
+  },
+  {
+   "title": "火箭助推器怎么被机械臂空中接住",
+   "verdict": "值得做",
+   "why": "3790粉的号单条370.8万播放，大家都想知道怎么接得住。",
+   "comment": "这个题已经有一阵了，不算新冒头，但播放量说明观众还没看够。可以和明天的双级捕获连着做，先讲助推器，再讲飞船。",
+   "next_step": "用官方接住画面，自己画塔臂和助推器对位的动画。",
+   "risk": "接住的细节要对照官方说法核实。",
+   "grade": "A",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V0"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "星舰助推器被机械臂接住",
+     "label": "持续",
+     "thread_id": 27
+    }
+   ]
+  },
+  {
+   "title": "切内角为何要划几道弯",
+   "verdict": "值得做",
+   "why": "1.4万粉的号单条108.4万播放，一分钟左右正适合竖屏。",
+   "comment": "普通人会问不就切个角吗，为什么这么麻烦。懂行的会说这是行业里的老做法。唱反调的会说原视频讲得不一定对，所以要自己验证一遍。",
+   "next_step": "拍真实切割画面，画出划弯前后的差别。",
+   "risk": "原视频讲法没核实，别照搬。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V4"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "切内角为何要划几道弯",
+     "label": "观察",
+     "thread_id": 396
+    }
+   ]
+  },
+  {
+   "title": "电工包里的奇怪插头是干嘛的",
+   "verdict": "值得做",
+   "why": "71粉的号单条89.5万播放，题目本身就抓人。",
+   "comment": "看到这个插头的人很多，但几乎没人讲过。小号能爆，说明观众是真好奇。国内同题的视频少，抢先做有机会。",
+   "next_step": "拿实物拍插头，画它接进电路后起的作用。",
+   "risk": "先确认真实用途，别误导用电安全。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V3"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "电工包里的奇怪插头",
+     "label": "观察",
+     "thread_id": 395
+    }
+   ]
+  },
+  {
+   "title": "AI编出诗人国王，书被政府买走",
+   "verdict": "先观察",
+   "why": "AI凭空编出诗人和历史，书还被政府采购，两条海外视频在讲。",
+   "comment": "普通人会问AI怎么能编得那么像。懂行的会说这就是幻觉。唱反调的会说这事牵扯当地政治，讲不好就跑偏。",
+   "next_step": "找原始报道，画AI一步步编出假历史的过程。",
+   "risk": "来源是海外视频，带政治色彩要查证。",
+   "grade": "B",
+   "audience": "C AI",
+   "refs": [
+    "V2"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "AI编造泰米尔诗人政府买书",
+     "label": "观察",
+     "thread_id": 394
+    }
+   ]
+  },
+  {
+   "title": "外国人唱中文歌，可能是AI改的",
+   "verdict": "先观察",
+   "why": "百度热搜第15名，普通人想知道怎么分辨真假。",
+   "comment": "家里长辈很可能刷到过这类视频，转发价值高。如果能给出几条一眼判断的办法，就有人愿意转。",
+   "next_step": "找几条这类视频，拆出口型和声音哪里露馅。",
+   "risk": "热搜只有标题，要先核实具体事件。",
+   "grade": "B",
+   "audience": "C AI",
+   "refs": [
+    "N38"
+   ],
+   "links": [
+    {
+     "section": "news",
+     "name": "外国人唱中文歌视频可能是AI改编的",
+     "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%94%B1%E4%B8%AD%E6%96%87%E6%AD%8C%E8%A7%86%E9%A2%91%E5%8F%AF%E8%83%BD%E6%98%AFAI%E6%94%B9%E7%BC%96%E7%9A%84"
+    }
+   ]
+  },
+  {
+   "title": "如何打造一根手指",
+   "verdict": "先观察",
+   "why": "抖音单条5.4万赞，画面和原理都好拆开讲。",
+   "comment": "普通人会好奇手指怎么造出来。懂行的会问是哪一类手指。目前只有点赞数据，别急着定题。",
+   "next_step": "先看清原视频讲的是哪种手指，再决定怎么画。",
+   "risk": "没有播放数据，内容未核实。",
+   "grade": "C",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V5"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "如何打造一根手指",
+     "label": "观察",
+     "thread_id": 397
+    }
+   ]
+  }
+ ],
+ "sections": {
+  "hotwords": [
+   {
+    "word": "iPhone18ProMax销量为何登顶",
+    "platform": "B站热搜",
+    "rank": 1,
+    "url": "https://search.bilibili.com/all?keyword=iPhone18ProMax销量为何登顶"
+   },
+   {
+    "word": "iPhone18ProMax销量为何登顶",
+    "platform": "B站热搜",
+    "rank": 1,
+    "url": "https://search.bilibili.com/all?keyword=iPhone18ProMax%E9%94%80%E9%87%8F%E4%B8%BA%E4%BD%95%E7%99%BB%E9%A1%B6"
+   },
+   {
+    "word": "谷歌发布Gemini 4 Hydrogen",
+    "platform": "B站热搜",
+    "rank": 2,
+    "url": "https://search.bilibili.com/all?keyword=谷歌发布Gemini 4 Hydroge"
+   },
+   {
+    "word": "美国AI发展要踩刹车了吗",
+    "platform": "B站热搜",
+    "rank": 5,
+    "url": "https://search.bilibili.com/all?keyword=美国AI发展要踩刹车了吗"
+   },
+   {
+    "word": "AI动画重演BLG战胜T1",
+    "platform": "B站热搜",
+    "rank": 8,
+    "url": "https://search.bilibili.com/all?keyword=AI动画重演BLG战胜T1"
+   },
+   {
+    "word": "AI动画重演BLG战胜T1",
+    "platform": "B站热搜",
+    "rank": 8,
+    "url": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E9%87%8D%E6%BC%94BLG%E6%88%98%E8%83%9CT1"
+   },
+   {
+    "word": "用AI制作灭霸全家福MV",
+    "platform": "B站热搜",
+    "rank": 12,
+    "url": "https://search.bilibili.com/all?keyword=用AI制作灭霸全家福MV"
+   },
+   {
+    "word": "用AI制作灭霸全家福MV",
+    "platform": "B站热搜",
+    "rank": 21,
+    "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV"
+   },
+   {
+    "word": "海外滑板博主被追杀真相如何",
+    "platform": "B站热搜",
+    "rank": 42,
+    "url": "https://search.bilibili.com/all?keyword=海外滑板博主被追杀真相如何"
+   },
+   {
+    "word": "OpenAI 最新一轮私募融资 150 亿美元，融前估值 1.25 万亿美元",
+    "platform": "IT之家",
+    "rank": 3,
+    "url": "https://www.ithome.com/1/026/495.htm"
+   },
+   {
+    "word": "中芯国际赵海军：智能手机和消费电子需求仍较为疲弱，本土化切换带动三领域增长",
+    "platform": "IT之家",
+    "rank": 6,
+    "url": "https://www.ithome.com/1/026/490.htm"
+   },
+   {
+    "word": "小米新机入网：支持 67W 有线充，预计为 REDMI Note18 系列",
+    "platform": "IT之家",
+    "rank": 8,
+    "url": "https://www.ithome.com/1/026/488.htm"
+   },
+   {
+    "word": "22999 元：华为 Mate XT 2 非凡大师三折叠手机新增 16GB+512GB 灵盾防窥屏，今日 10:08 开售",
+    "platform": "IT之家",
+    "rank": 10,
+    "url": "https://www.ithome.com/1/026/486.htm"
+   },
+   {
+    "word": "罕见双星系统被发现：每隔约 8 分钟向地球方向发出规律无线电脉冲",
+    "platform": "IT之家",
+    "rank": 11,
+    "url": "https://www.ithome.com/1/026/484.htm"
+   },
+   {
+    "word": "中国科学家最新研究：诊断肥胖不能单凭 BMI，5.2~8.6% 的人被低估以及 1.2~3.1% 被高估",
+    "platform": "IT之家",
+    "rank": 15,
+    "url": "https://www.ithome.com/1/026/480.htm"
+   },
+   {
+    "word": "苹果首款智能家庭中枢 HomeView 及新款 Apple TV 4K 上市，首批订单已送至澳新客户手中",
+    "platform": "IT之家",
+    "rank": 18,
+    "url": "https://www.ithome.com/1/026/476.htm"
+   },
+   {
+    "word": "贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯",
+    "platform": "IT之家",
+    "rank": 23,
+    "url": "https://www.ithome.com/1/026/471.htm"
+   },
+   {
+    "word": "IT早报 1113：英伟达宣布 CEO 黄仁勋即刻辞职；腾讯公关总监辟谣公司裁员 50%；长安汽车拟挂牌转让阿维塔 10% 股权；演员赵丽颖起诉红果短剧侵犯肖像权...",
+    "platform": "IT之家",
+    "rank": 24,
+    "url": "https://www.ithome.com/1/026/470.htm"
+   },
+   {
+    "word": "Hugging Face CEO 哀叹黄仁勋从英伟达离职：“令人无比难过的一天”，承诺继续力挺开源 AI",
+    "platform": "IT之家",
+    "rank": 25,
+    "url": "https://www.ithome.com/1/026/469.htm"
+   },
+   {
+    "word": "华为智能门锁 2 系列全新升级鸿蒙 7.0：新增回家抓拍、通话变声等",
+    "platform": "IT之家",
+    "rank": 26,
+    "url": "https://www.ithome.com/1/026/468.htm"
+   },
+   {
+    "word": "有望改写人类火箭复用史：SpaceX 星舰明日第 15 次试飞，“筷子”首次挑战双级捕获",
+    "platform": "IT之家",
+    "rank": 27,
+    "url": "https://www.ithome.com/1/026/467.htm"
+   },
+   {
+    "word": "边警告 AI 风险边开发先进模型：OpenAI、Anthropic、谷歌等五家 AI 巨头遭起诉，被要求叫停 ChatGPT、Claude、Gemini",
+    "platform": "IT之家",
+    "rank": 28,
+    "url": "https://www.ithome.com/1/026/466.htm"
+   },
+   {
+    "word": "消息称方程豹钛 9 车型 11 月 19 日上市，比亚迪闪充技术 + 二代刀片电池",
+    "platform": "IT之家",
+    "rank": 29,
+    "url": "https://www.ithome.com/1/026/465.htm"
+   },
+   {
+    "word": "Anthropic、OpenAI 遭专利诉讼，被指侵犯五项神经网络技术专利",
+    "platform": "IT之家",
+    "rank": 30,
+    "url": "https://www.ithome.com/1/026/464.htm"
+   },
+   {
+    "word": "刘欢患“不死癌症”系讹传",
+    "platform": "头条热榜",
+    "rank": 13,
+    "url": "https://www.toutiao.com/trending/7707287953105519131/"
+   },
+   {
+    "word": "专家：科学护肾记住这几件事",
+    "platform": "头条热榜",
+    "rank": 16,
+    "url": "https://www.toutiao.com/trending/7707245448456667155/"
+   },
+   {
+    "word": "iPhone 13为何突然又火了",
+    "platform": "头条热榜",
+    "rank": 22,
+    "url": "https://www.toutiao.com/trending/7706895766857613833/"
+   },
+   {
+    "word": "普通人用AI和会用AI的人",
+    "platform": "微博热搜",
+    "rank": 5,
+    "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8AI%E5%92%8C%E4%BC%9A%E7%94%A8AI%E7%9A%84%E4%BA%BA%23&t=31&band_rank=5&Refer=top"
+   },
+   {
+    "word": "刘欢癌症扩散后曾放手一搏试新药",
+    "platform": "微博热搜",
+    "rank": 14,
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%AC%A2%E7%99%8C%E7%97%87%E6%89%A9%E6%95%A3%E5%90%8E%E6%9B%BE%E6%94%BE%E6%89%8B%E4%B8%80%E6%90%8F%E8%AF%95%E6%96%B0%E8%8D%AF%23&t=31&band_rank=14&Refer=top"
+   },
+   {
+    "word": "首个AI漫剧晚会阵容官宣",
+    "platform": "抖音热榜",
+    "rank": 13,
+    "url": "https://www.douyin.com/hot/2742996"
+   },
+   {
+    "word": "外国人唱中文歌视频可能是AI改编的",
+    "platform": "百度热搜",
+    "rank": 15,
+    "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%94%B1%E4%B8%AD%E6%96%87%E6%AD%8C%E8%A7%86%E9%A2%91%E5%8F%AF%E8%83%BD%E6%98%AFAI%E6%94%B9%E7%BC%96%E7%9A%84"
+   },
+   {
+    "word": "年轻人为什么不爱买皮鞋了",
+    "platform": "百度热搜",
+    "rank": 18,
+    "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E4%B9%B0%E7%9A%AE%E9%9E%8B%E4%BA%86"
+   },
+   {
+    "word": "上海10人组装手搓电池被抓",
+    "platform": "百度热搜",
+    "rank": 19,
+    "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B710%E4%BA%BA%E7%BB%84%E8%A3%85%E6%89%8B%E6%90%93%E7%94%B5%E6%B1%A0%E8%A2%AB%E6%8A%93"
+   },
+   {
+    "word": "感觉影之刃里的各种字体都好帅啊，比如「决战、殒命」等，这是单独请人写的吗，还是说能靠 AI 跑一批出来？",
+    "platform": "知乎热榜",
+    "rank": 7,
+    "url": "https://www.zhihu.com/question/2101991601568536184"
+   },
+   {
+    "word": "《福尔摩斯》原著里头的房东太太为什么会像个仆人一样伺候她的租客？",
+    "platform": "知乎热榜",
+    "rank": 9,
+    "url": "https://www.zhihu.com/question/266192012"
+   },
+   {
+    "word": "如何看待 2026 年 10 月特斯拉国内销量暴跌？",
+    "platform": "知乎热榜",
+    "rank": 11,
+    "url": "https://www.zhihu.com/question/2103258099138172807"
+   },
+   {
+    "word": "房子已经过剩，为什么一直还在新盖楼盘？",
+    "platform": "知乎热榜",
+    "rank": 16,
+    "url": "https://www.zhihu.com/question/2075640740537963785"
+   },
+   {
+    "word": "黄仁勋为什么突然辞职？是被动离场，还是主动自保？",
+    "platform": "知乎热榜",
+    "rank": 19,
+    "url": "https://www.zhihu.com/question/2104338340149294766"
+   },
+   {
+    "word": "为什么伽利略、爱因斯坦没有成为物理学单位？",
+    "platform": "知乎热榜",
+    "rank": 20,
+    "url": "https://www.zhihu.com/question/14403971689"
+   }
+  ],
+  "video": [
+   {
+    "name": "星舰助推器被机械臂接住",
+    "kind": "A 新闻怎么做到",
+    "summary": "巨大的火箭助推器没有落地，被塔上的机械臂在空中接住。海外短视频播放量很高，观众想知道这怎么可能做到。",
+    "ai_relevance": 90,
+    "bili_term": "",
+    "youtube_term": "SpaceX catch booster arms",
+    "metrics": {
+     "videos": 2,
+     "authors": 2,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 7589650,
+     "views_max": 3881840,
+     "vph_max": 40417.0,
+     "likes_total": 0,
+     "max_vsr": 978.31,
+     "outlier": {
+      "views": 3707810,
+      "followers": 3790,
+      "title": "SpaceX Caught an Entire Rocket Booster With Giant Mechanical Arms! 🚀🤯"
+     },
+     "earliest": 1794103489.319877,
+     "median_age_h": 108.0
+    },
+    "samples": [
+     {
+      "title": "SpaceX Just Made Rocket History! 🚀#shorts #viral #trending",
+      "url": "https://www.youtube.com/watch?v=EMbc5euL9Jg",
+      "thumb": "https://i.ytimg.com/vi/EMbc5euL9Jg/hqdefault.jpg",
+      "author": "AstroSpidy",
+      "platform": "YouTube",
+      "duration": 31,
+      "vertical": false,
+      "views": 3881840,
+      "likes": null,
+      "followers": 7340,
+      "vsr": 528.86,
+      "vph": 40417.0,
+      "age_h": 96.0,
+      "published": "11-09 10:04"
+     },
+     {
+      "title": "SpaceX Caught an Entire Rocket Booster With Giant Mechanical Arms! 🚀🤯",
+      "url": "https://www.youtube.com/watch?v=w9dAtutWOx8",
+      "thumb": "https://i.ytimg.com/vi/w9dAtutWOx8/hqdefault.jpg",
+      "author": "ZEHAN",
+      "platform": "YouTube",
+      "duration": 44,
+      "vertical": false,
+      "views": 3707810,
+      "likes": null,
+      "followers": 3790,
+      "vsr": 978.31,
+      "vph": 30886.9,
+      "age_h": 120.0,
+      "published": "11-08 10:04"
+     }
+    ],
+    "member_ids": [
+     "youtube:EMbc5euL9Jg",
+     "youtube:w9dAtutWOx8"
+    ],
+    "weight": 50.0,
+    "probe_youtube": {
+     "year_n": 4,
+     "match": 0,
+     "match_recent": 0,
+     "oldest_match_days": null,
+     "samples": [],
+     "term": "SpaceX catch booster arms"
+    },
+    "label": "持续",
+    "basis": [
+     "YouTube 搜「SpaceX catch booster arms」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "有小号爆了：3790 粉的号单条 370.8万 播放",
+     "雷达 2026-10-25 起就在记录"
+    ],
+    "first_day": "2026-10-25",
+    "thread_id": 27,
+    "days_seen": 18
+   },
+   {
+    "name": "星舰下次要双回收",
+    "kind": "A 新闻怎么做到",
+    "summary": "下一次星舰飞行计划让塔同时接住助推器和飞船，海外多条视频在讲。可以讲清楚飞船为什么也能被塔接住。",
+    "ai_relevance": 80,
+    "bili_term": "",
+    "youtube_term": "Starship double catch tower",
+    "metrics": {
+     "videos": 2,
+     "authors": 2,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 610898,
+     "views_max": 311367,
+     "vph_max": 6480.8,
+     "likes_total": 0,
+     "max_vsr": 311.37,
+     "outlier": {
+      "views": 311367,
+      "followers": 309,
+      "title": "Starship Flight 15: how SpaceX plans to catch the ship with the tower for the first time"
+     },
+     "earliest": 1794276289.3209045,
+     "median_age_h": 60.0
+    },
+    "samples": [
+     {
+      "title": "Starship Flight 15: how SpaceX plans to catch the ship with the tower for the first time",
+      "url": "https://www.youtube.com/watch?v=FF3tUeMpGNw",
+      "thumb": "https://i.ytimg.com/vi/FF3tUeMpGNw/hqdefault.jpg",
+      "author": "Algo Picks",
+      "platform": "YouTube",
+      "duration": 42,
+      "vertical": false,
+      "views": 311367,
+      "likes": null,
+      "followers": 309,
+      "vsr": 311.37,
+      "vph": 6480.8,
+      "age_h": 48.0,
+      "published": "11-11 10:04"
+     },
+     {
+      "title": "Starship Flight 15: Double Catch Planned! 🚀🔥 #SpaceX #Starship #Flight15",
+      "url": "https://www.youtube.com/watch?v=7edpTtXPk9Y",
+      "thumb": "https://i.ytimg.com/vi/7edpTtXPk9Y/hqdefault.jpg",
+      "author": "VideoFromSpace",
+      "platform": "YouTube",
+      "duration": 96,
+      "vertical": false,
+      "views": 299531,
+      "likes": null,
+      "followers": 116000,
+      "vsr": 2.58,
+      "vph": 4157.6,
+      "age_h": 72.0,
+      "published": "11-10 10:04"
+     }
+    ],
+    "member_ids": [
+     "youtube:FF3tUeMpGNw",
+     "youtube:7edpTtXPk9Y"
+    ],
+    "weight": 36.6,
+    "probe_youtube": {
+     "year_n": 9,
+     "match": 0,
+     "match_recent": 0,
+     "oldest_match_days": null,
+     "samples": [],
+     "term": "Starship double catch tower"
+    },
+    "label": "观察",
+    "basis": [
+     "YouTube 搜「Starship double catch tower」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "有小号爆了：309 粉的号单条 31.1万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-13",
+    "thread_id": 393,
+    "days_seen": 1
+   },
+   {
+    "name": "AI编造泰米尔诗人政府买书",
+    "kind": "C AI 离谱事或能用的招",
+    "summary": "AI 凭空编出了诗人、国王和历史，一本书因此出版，还被政府采购。两条海外视频同时在讲，是 AI 胡编的一个具体案例。",
+    "ai_relevance": 65,
+    "bili_term": "",
+    "youtube_term": "AI invented Tamil poets book",
+    "metrics": {
+     "videos": 2,
+     "authors": 2,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 436527,
+     "views_max": 296173,
+     "vph_max": 14072.4,
+     "likes_total": 0,
+     "max_vsr": 0.65,
+     "outlier": {
+      "views": 296173,
+      "followers": 459000,
+      "title": "TVK MLA Meeting & DMK's AI Book Scam | Paari Saalan and Varun Tamil podcast"
+     },
+     "earliest": 1794449083.233258,
+     "median_age_h": 22.5
+    },
+    "samples": [
+     {
+      "title": "TVK MLA Meeting & DMK's AI Book Scam | Paari Saalan and Varun Tamil podcast",
+      "url": "https://www.youtube.com/watch?v=5zGPmr9ul_w",
+      "thumb": "https://i.ytimg.com/vi/5zGPmr9ul_w/hqdefault.jpg",
+      "author": "Vallal Media",
+      "platform": "YouTube",
+      "duration": 2631,
+      "vertical": false,
+      "views": 296173,
+      "likes": null,
+      "followers": 459000,
+      "vsr": 0.65,
+      "vph": 14072.4,
+      "age_h": 21.0,
+      "published": "11-12 13:04"
+     },
+     {
+      "title": "AI Invented Tamil Poets, Kings and History. Tamil Nadu Government Bought the Books | Express Special",
+      "url": "https://www.youtube.com/watch?v=J6kPVUpgSwE",
+      "thumb": "https://i.ytimg.com/vi/J6kPVUpgSwE/hqdefault.jpg",
+      "author": "The Indian Express",
+      "platform": "YouTube",
+      "duration": 1090,
+      "vertical": false,
+      "views": 140354,
+      "likes": null,
+      "followers": 4610000,
+      "vsr": 0.03,
+      "vph": 5836.8,
+      "age_h": 24.0,
+      "published": "11-12 10:04"
+     }
+    ],
+    "member_ids": [
+     "youtube:5zGPmr9ul_w",
+     "youtube:J6kPVUpgSwE"
+    ],
+    "weight": 32.5,
+    "probe_youtube": {
+     "year_n": 8,
+     "match": 1,
+     "match_recent": 1,
+     "oldest_match_days": 1,
+     "samples": [
+      {
+       "title": "AI Invented Tamil Poets, Kings and History. Tamil Nadu Government Bought the Books | Express Special",
+       "url": "https://www.youtube.com/watch?v=J6kPVUpgSwE",
+       "views": 140434,
+       "published": "1d ago"
+      }
+     ],
+     "term": "AI invented Tamil poets book"
+    },
+    "label": "观察",
+    "basis": [
+     "YouTube 搜「AI invented Tamil poets book」：今年的相关视频里标题对得上的不到 3 条，看不出新旧",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-13",
+    "thread_id": 394,
+    "days_seen": 1
+   },
+   {
+    "name": "电工包里的奇怪插头",
+    "kind": "B 身边反常原理",
+    "summary": "每个电工包里都有一个看着很怪的插头，观众想知道它是干什么的。视频很短，小号播放量很高，说明题目本身就抓人。",
+    "ai_relevance": 85,
+    "bili_term": "奇怪插头",
+    "youtube_term": "electrician tool plug what is it",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 895053,
+     "views_max": 895053,
+     "vph_max": 13957.9,
+     "likes_total": 0,
+     "max_vsr": 895.05,
+     "outlier": {
+      "views": 895053,
+      "followers": 71,
+      "title": "为啥电工包里都有个奇怪插头？"
+     },
+     "earliest": 1794304800.0,
+     "median_age_h": 64.1
+    },
+    "samples": [
+     {
+      "title": "为啥电工包里都有个奇怪插头？",
+      "url": "https://www.bilibili.com/video/BV1uyWu6qEtx",
+      "thumb": "https://i2.hdslb.com/bfs/archive/c08d63c05c2340f9fa52f098ae1e722e2cca9656.jpg",
+      "author": "小李的电工日志",
+      "platform": "B站",
+      "duration": 21,
+      "vertical": false,
+      "views": 895053,
+      "likes": 22479,
+      "followers": 71,
+      "vsr": 895.05,
+      "vph": 13957.9,
+      "age_h": 64.1,
+      "published": "11-10 18:00"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1uyWu6qEtx"
+    ],
+    "weight": 24.9,
+    "probe_bili": {
+     "term": "奇怪插头",
+     "recent_n": 1,
+     "before_n": 4,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 1,
+     "before_page": 4,
+     "recent_per_day": 0.14,
+     "before_per_day": 0.08,
+     "capped": false,
+     "recent_top": [
+      896015
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 1.21
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「奇怪插头」：之前 53 天播放最高的 4 条里 0 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：71 粉的号单条 89.5万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-13",
+    "thread_id": 395,
+    "days_seen": 1
+   },
+   {
+    "name": "切内角为何要划几道弯",
+    "kind": "B 身边反常原理",
+    "summary": "“切内角”时为什么非要在里面划几道弯，是身边东西里没人讲清的小门道。时长一分钟左右，正适合竖屏。",
+    "ai_relevance": 70,
+    "bili_term": "切内角",
+    "youtube_term": "",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1083542,
+     "views_max": 1083542,
+     "vph_max": 16911.8,
+     "likes_total": 0,
+     "max_vsr": 77.77,
+     "outlier": {
+      "views": 1083542,
+      "followers": 13933,
+      "title": "为什么切内角，非要在里面划几道弯？"
+     },
+     "earliest": 1794304997.0,
+     "median_age_h": 64.1
+    },
+    "samples": [
+     {
+      "title": "为什么切内角，非要在里面划几道弯？",
+      "url": "https://www.bilibili.com/video/BV1YeWu65E2U",
+      "thumb": "https://i2.hdslb.com/bfs/archive/b6af56cd2886ea2c9bd2dd2a9637191d90d56e84.jpg",
+      "author": "知识老炮儿ORZ",
+      "platform": "B站",
+      "duration": 62,
+      "vertical": false,
+      "views": 1083542,
+      "likes": 5230,
+      "followers": 13933,
+      "vsr": 77.77,
+      "vph": 16911.8,
+      "age_h": 64.1,
+      "published": "11-10 18:03"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1YeWu65E2U"
+    ],
+    "weight": 24.1,
+    "probe_bili": {
+     "term": "切内角",
+     "recent_n": 2,
+     "before_n": 1,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 2,
+     "before_page": 1,
+     "recent_per_day": 0.29,
+     "before_per_day": 0.02,
+     "capped": false,
+     "recent_top": [
+      1083680
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 2.23
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「切内角」：之前 53 天播放最高的 1 条里 0 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：1.4万 粉的号单条 108.4万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-13",
+    "thread_id": 396,
+    "days_seen": 1
+   },
+   {
+    "name": "如何打造一根手指",
+    "kind": "A 新闻怎么做到",
+    "summary": "一根手指是怎么被造出来的，点赞很高，画面和原理都容易讲。适合用动画拆开讲结构。",
+    "ai_relevance": 65,
+    "bili_term": "",
+    "youtube_term": "how artificial finger is made",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 54364,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1794387873.0,
+     "median_age_h": 41.0
+    },
+    "samples": [
+     {
+      "title": "如何打造一根手指？",
+      "url": "https://www.douyin.com/video/7706837196636015872",
+      "thumb": "img/c9b76042d7efb84e.jpg",
+      "author": "X科技",
+      "platform": "抖音",
+      "duration": 70,
+      "vertical": true,
+      "views": null,
+      "likes": 54364,
+      "followers": 425402,
+      "vsr": null,
+      "vph": null,
+      "age_h": 41.0,
+      "published": "11-11 17:04"
+     }
+    ],
+    "member_ids": [
+     "douyin:7706837196636015872"
+    ],
+    "weight": 23.4,
+    "label": "观察",
+    "basis": [
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-13",
+    "thread_id": 397,
+    "days_seen": 1
+   },
+   {
+    "name": "一片生菜放倒小女孩的烤肉包肉",
+    "kind": "B 身边反常原理",
+    "summary": "一片普通的生菜，让一个小女孩倒下，吃烤肉包肉时到底藏着什么风险。题材延续前几天的热度，抖音上仍有新内容。",
+    "ai_relevance": 70,
+    "bili_term": "",
+    "youtube_term": "",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "抖音"
+     ],
+     "views_total": 0,
+     "views_max": 0,
+     "vph_max": 0,
+     "likes_total": 34445,
+     "max_vsr": null,
+     "outlier": null,
+     "earliest": 1793948867.0,
+     "median_age_h": 163.0
+    },
+    "samples": [
+     {
+      "title": "一片生菜放倒4岁女孩：烤肉包肉到底藏了什么？",
+      "url": "https://www.douyin.com/video/7704950364281343270",
+      "thumb": "img/842c27aecff0ec7c.jpg",
+      "author": "𝙏𝙞𝙣𝘼终极探索",
+      "platform": "抖音",
+      "duration": 320,
+      "vertical": true,
+      "views": null,
+      "likes": 34445,
+      "followers": 74150,
+      "vsr": null,
+      "vph": null,
+      "age_h": 163.0,
+      "published": "11-06 15:07"
+     }
+    ],
+    "member_ids": [
+     "douyin:7704950364281343270"
+    ],
+    "weight": 22.1,
+    "label": "持续",
+    "basis": [
+     "雷达 2026-11-11 起就在记录"
+    ],
+    "first_day": "2026-11-11",
+    "thread_id": 382,
+    "days_seen": 3
+   }
+  ],
+  "x": [],
+  "tools": {
+   "repos": [],
+   "models": [
+    {
+     "name": "MiniMaxAI/MiniMax-H3-Image",
+     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+     "kind": "model",
+     "likes": 872,
+     "downloads": 306718,
+     "created": "2026-11-03",
+     "tags": [
+      "minimax-h3",
+      "diffusers",
+      "safetensors",
+      "text-to-image",
+      "image-to-image",
+      "image-editing"
+     ],
+     "zh": "MiniMax 新一代开源生图模型，支持文生图和改图，原生4K画质。",
+     "use": "可以做一期「免费开源生图模型实测」，对比其他生图工具，给视频做封面和配图。",
+     "group": "AI 视频与图像",
+     "value": 82
+    },
+    {
+     "name": "Viggle/Viggle-Remake",
+     "url": "https://huggingface.co/Viggle/Viggle-Remake",
+     "kind": "model",
+     "likes": 332,
+     "downloads": 152819,
+     "created": "2026-10-23",
+     "tags": [
+      "minimax-h3",
+      "gguf",
+      "video-editing",
+      "character-replacement",
+      "video-to-video",
+      "lora"
+     ],
+     "zh": "Viggle 的视频角色替换模型，可把视频里的人物换成别的角色。",
+     "use": "可做「一键给视频换角色」的趣味短视频，适合做特效和二创。",
+     "group": "AI 视频与图像",
+     "value": 75
+    },
+    {
+     "name": "Lightricks/LTX-2.5",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5",
+     "kind": "model",
+     "likes": 11638,
+     "downloads": 2782513,
+     "created": "2026-07-23",
+     "tags": [
+      "diffusion-single-file",
+      "image-to-video",
+      "text-to-video",
+      "video-to-video",
+      "image-text-to-video",
+      "audio-to-video"
+     ],
+     "zh": "Lightricks 的开源视频生成模型，支持文生视频、图生视频、视频转视频。",
+     "use": "可做「本地免费生成视频」的科普，用图片生成短片素材。",
+     "group": "AI 视频与图像",
+     "value": 72
+    },
+    {
+     "name": "black-forest-labs/flux-3-image-klein-comfy",
+     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+     "kind": "model",
+     "likes": 3029,
+     "downloads": 1296849,
+     "created": "2026-10-14",
+     "tags": [
+      "diffusion-single-file",
+      "comfyui",
+      "image-generation",
+      "image-editing",
+      "flux",
+      "flux-3"
+     ],
+     "zh": "黑森林实验室 Flux 3 Klein 的 ComfyUI 版，支持生图和改图。",
+     "use": "可做 Flux 3 生图和改图的教程，适合批量做封面。",
+     "group": "AI 视频与图像",
+     "value": 65
+    },
+    {
+     "name": "Zyphra/ZONOS3-Mini",
+     "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+     "kind": "model",
+     "likes": 229,
+     "downloads": 8543,
+     "created": "2026-11-09",
+     "tags": [
+      "zonos3",
+      "safetensors",
+      "gguf",
+      "text-to-speech",
+      "tts",
+      "speech-synthesis"
+     ],
+     "zh": "Zyphra 的轻量开源语音合成模型，可文字转语音。",
+     "use": "可用来给视频配音，做一期免费本地配音的测评。",
+     "group": "音频与配音",
+     "value": 62
+    },
+    {
+     "name": "facebook/sam3",
+     "url": "https://huggingface.co/facebook/sam3",
+     "kind": "model",
+     "likes": 6451,
+     "downloads": 2070504,
+     "created": "2025-11-07",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "sam3_video",
+      "feature-extraction",
+      "sam3",
+      "mask-generation"
+     ],
+     "zh": "Meta 的 SAM 3 分割模型，能在图片和视频里抠出指定物体。",
+     "use": "可做「AI 一句话抠视频里的人和物」的演示，用于剪辑抠像。",
+     "group": "AI 视频与图像",
+     "value": 58
+    },
+    {
+     "name": "speridlabs/idol",
+     "url": "https://huggingface.co/speridlabs/idol",
+     "kind": "model",
+     "likes": 2236,
+     "downloads": 29904,
+     "created": "2026-10-28",
+     "tags": [
+      "idol",
+      "gaussian-splatting",
+      "3d",
+      "image-to-3d"
+     ],
+     "zh": "把单张图片转成3D高斯泼溅模型的开源工具。",
+     "use": "可以演示一张照片变成可旋转3D场景，视觉效果吸引人，但上手有些门槛。",
+     "group": "AI 视频与图像",
+     "value": 50
+    },
+    {
+     "name": "Qwen/Qwen3.8-27B",
+     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+     "kind": "model",
+     "likes": 19746,
+     "downloads": 7094218,
+     "created": "2026-08-05",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "conversational",
+      "eval-results"
+     ],
+     "zh": "通义千问 27B 开源多模态对话模型，能看图能聊天。",
+     "use": "可以本地部署当写脚本助手，但普通观众门槛偏高。",
+     "group": "模型",
+     "value": 45
+    }
+   ],
+   "stories": [
+    {
+     "name": "Gemini 4 Hydrogen",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "hn_url": "https://news.ycombinator.com/item?id=50471431",
+     "points": 468,
+     "comments": 299,
+     "published": "11-13 02:01",
+     "zh": "Google 发布 Gemini 4 Hydrogen 新模型。",
+     "use": "可做新模型体验和对比测评。",
+     "group": "模型",
+     "value": 55
+    }
+   ]
+  },
+  "news": [
+   {
+    "name": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+    "url": "https://www.qbitai.com/2026/11/509440.html",
+    "source_name": "量子位",
+    "votes": null,
+    "published": "11-12 19:36",
+    "zh": "MiniMax 开源原生4K生图模型，据称一张约两毛，主打 CAD 拆解。",
+    "use": "可做低成本批量生图实测，适合做封面和图文素材。",
+    "group": "AI 视频与图像",
+    "value": 78
+   },
+   {
+    "name": "World Labs 开放世界模型 Atlas，支持生成关键帧、视频片段和 3D Gaussian splats",
+    "url": "https://aihot.news/items/lazmov9ciw8y5uqpuda9qcizm",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-13 02:11",
+    "zh": "World Labs 开放 Atlas 世界模型，可生成关键帧、视频片段和3D场景。",
+    "use": "可做「一句话生成可探索的3D世界」演示，画面吸引人。",
+    "group": "AI 视频与图像",
+    "value": 72
+   },
+   {
+    "name": "Claude Code 中如何选择 Fable 5.2 与 Opus 等模型",
+    "url": "https://aihot.news/items/ep5oqt7m4l7gn3tqieilznmuk",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-12 01:30",
+    "zh": "Claude 官方教程讲在 Claude Code 里何时用哪个模型，以及如何拆分任务。",
+    "use": "直接对应 Claude Code 用户，可做省钱选模型的科普。",
+    "group": "Agent 与编程",
+    "value": 72
+   },
+   {
+    "name": "Anthropic 推出 Claude Meetings，Claude 以参会者身份加入视频会议",
+    "url": "https://aihot.news/items/l36ne5q2gsdx6thyia7fi10kn",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-12 08:00",
+    "zh": "Claude Meetings 测试版上线，Claude 可作为参会者加入视频会议并记笔记。",
+    "use": "可做「让 AI 进会议室记纪要」的演示，贴近日常工作。",
+    "group": "Agent 与编程",
+    "value": 68
+   },
+   {
+    "name": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+    "url": "https://www.qbitai.com/2026/11/509224.html",
+    "source_name": "量子位",
+    "votes": null,
+    "published": "11-11 20:43",
+    "zh": "文心新模型能用纯代码生成《后室》场景，116秒切换20种画风，即将开源。",
+    "use": "可做「AI 纯代码做游戏场景和换画风」的演示，视觉效果强。",
+    "group": "AI 视频与图像",
+    "value": 65
+   },
+   {
+    "name": "Gemini 4 Hydrogen 今日起向全球所有用户推送",
+    "url": "https://aihot.news/items/zlbngirpqifhhi3bd5pbmixu4",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-13 04:50",
+    "zh": "Gemini 4 Hydrogen 今日起向全球所有用户推送，免费用户可自动调用。",
+    "use": "免费就能体验，适合做新模型上手实测。",
+    "group": "模型",
+    "value": 58
+   },
+   {
+    "name": "Anthropic 建议把 Claude Opus 5.5 作为知识工作的日常主力模型",
+    "url": "https://aihot.news/items/t5pucqx6ac58z0ed1b0875ci0",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-12 08:00",
+    "zh": "Anthropic 推荐 Claude Opus 5.5 作为知识工作的日常主力，已成默认模型。",
+    "use": "Claude 用户可直接用来写作和研究，做一期怎么用好的视频。",
+    "group": "模型",
+    "value": 55
+   },
+   {
+    "name": "Figma 3D transforms 开放测试上线，品牌团队分享用它制作发布视频的过程",
+    "url": "https://aihot.news/items/x751c9ptxg9qviw1ts32aoa79",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-12 22:00",
+    "zh": "Figma 3D transforms 开放测试，可在设计里倾斜旋转排布元素。",
+    "use": "可用于做封面、产品展示和发布视频的3D效果。",
+    "group": "内容创作与运营",
+    "value": 52
+   }
+  ]
+ },
+ "stats": {
+  "items": 1307,
+  "by_source": {
+   "bili": 640,
+   "bili_hot": 50,
+   "youtube": 86,
+   "douyin": 155,
+   "hf": 50,
+   "hn": 15,
+   "douyin_hot": 199,
+   "aihot": 35,
+   "qbitai": 10,
+   "ithome": 59,
+   "sspai": 8
+  }
+ }
+}

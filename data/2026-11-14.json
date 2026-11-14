@@ -1,0 +1,242 @@
+{
+ "version": 1,
+ "day": "2026-11-14",
+ "generated_at": 1794621792.4843476,
+ "generated_bj": "2026-11-14 10:03",
+ "history_days": 20,
+ "summary": "",
+ "headline": [],
+ "sections": {
+  "hotwords": [
+   {
+    "word": "DeepSeek开放全家桶应用API",
+    "platform": "B站热搜",
+    "rank": 5,
+    "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%94%BE%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%BA%94%E7%94%A8API"
+   },
+   {
+    "word": "DeepSeek开放全家桶应用API",
+    "platform": "B站热搜",
+    "rank": 6,
+    "url": "https://search.bilibili.com/all?keyword=DeepSeek开放全家桶应用API"
+   },
+   {
+    "word": "深圳为什么是奇迹之城",
+    "platform": "B站热搜",
+    "rank": 6,
+    "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%A5%87%E8%BF%B9%E4%B9%8B%E5%9F%8E"
+   },
+   {
+    "word": "深圳为什么是奇迹之城",
+    "platform": "B站热搜",
+    "rank": 8,
+    "url": "https://search.bilibili.com/all?keyword=深圳为什么是奇迹之城"
+   },
+   {
+    "word": "AI短片我的猫猫比我富更新",
+    "platform": "B站热搜",
+    "rank": 15,
+    "url": "https://search.bilibili.com/all?keyword=我的猫猫比我富"
+   },
+   {
+    "word": "AI短片我的猫猫比我富更新",
+    "platform": "B站热搜",
+    "rank": 18,
+    "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E7%8C%AB%E7%8C%AB%E6%AF%94%E6%88%91%E5%AF%8C"
+   },
+   {
+    "word": "LOL教练揭秘S赛BP思路",
+    "platform": "B站热搜",
+    "rank": 20,
+    "url": "https://search.bilibili.com/all?keyword=LOL%E6%95%99%E7%BB%83%E6%8F%AD%E7%A7%98S%E8%B5%9BBP%E6%80%9D%E8%B7%AF"
+   },
+   {
+    "word": "iPhone销量为何能逆势领跑",
+    "platform": "B站热搜",
+    "rank": 21,
+    "url": "https://search.bilibili.com/all?keyword=iPhone销量为何能逆势领跑"
+   },
+   {
+    "word": "山新刘旸揭秘罗小黑幕后",
+    "platform": "B站热搜",
+    "rank": 22,
+    "url": "https://search.bilibili.com/all?keyword=%E5%B1%B1%E6%96%B0%E5%88%98%E6%97%B8%E6%8F%AD%E7%A7%98%E7%BD%97%E5%B0%8F%E9%BB%91%E5%B9%95%E5%90%8E"
+   },
+   {
+    "word": "山新刘旸揭秘罗小黑幕后",
+    "platform": "B站热搜",
+    "rank": 25,
+    "url": "https://search.bilibili.com/all?keyword=山新刘旸揭秘罗小黑幕后"
+   },
+   {
+    "word": "iPhone销量为何能逆势领跑",
+    "platform": "B站热搜",
+    "rank": 27,
+    "url": "https://search.bilibili.com/all?keyword=iPhone%E9%94%80%E9%87%8F%E4%B8%BA%E4%BD%95%E8%83%BD%E9%80%86%E5%8A%BF%E9%A2%86%E8%B7%91"
+   },
+   {
+    "word": "LOL教练揭秘S赛BP思路",
+    "platform": "B站热搜",
+    "rank": 33,
+    "url": "https://search.bilibili.com/all?keyword=LOL教练揭秘S赛BP思路"
+   },
+   {
+    "word": "消息称某厂 6.3 英寸 1.5K 小屏机立项，预计小米 REDMI 旗下",
+    "platform": "IT之家",
+    "rank": 1,
+    "url": "https://www.ithome.com/1/027/048.htm"
+   },
+   {
+    "word": "CNET 耐久测试：苹果首款折叠 iPhone Duo 撑过 45.7 万次开合，铰链磨损变松 / 屏幕未见裂纹",
+    "platform": "IT之家",
+    "rank": 3,
+    "url": "https://www.ithome.com/1/027/046.htm"
+   },
+   {
+    "word": "南方电网：南方五省区新能源汽车产业链前 10 月贡献全网用电增量超三成",
+    "platform": "IT之家",
+    "rank": 4,
+    "url": "https://www.ithome.com/1/027/045.htm"
+   },
+   {
+    "word": "苹果首款智能家居中枢 HomeView 开售：戴墨镜可能认不出你",
+    "platform": "IT之家",
+    "rank": 5,
+    "url": "https://www.ithome.com/1/027/043.htm"
+   },
+   {
+    "word": "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案",
+    "platform": "IT之家",
+    "rank": 8,
+    "url": "https://www.ithome.com/1/027/038.htm"
+   },
+   {
+    "word": "礼来 CEO 回应“AI 十年内攻克癌症”：愿景很美好，但不太可能",
+    "platform": "IT之家",
+    "rank": 9,
+    "url": "https://www.ithome.com/1/027/037.htm"
+   },
+   {
+    "word": "比亚迪方程豹钛 9 官宣 11 月 19 日上市，闪充技术 + 二代刀片电池加持",
+    "platform": "IT之家",
+    "rank": 10,
+    "url": "https://www.ithome.com/1/027/036.htm"
+   },
+   {
+    "word": "特斯拉 Cybercab 面向个人用户开放销售：售 29990 美元，每月还需支付 299 美元自动驾驶订阅费用",
+    "platform": "IT之家",
+    "rank": 11,
+    "url": "https://www.ithome.com/1/027/034.htm"
+   },
+   {
+    "word": "IT早报 1114：曝黄仁勋离任前夕心力交瘁；微软 365 核心服务全球宕机超 10 个小时；华为首个动态血糖仪官宣；37.98 万元起鸿蒙智行问界新 M8 上市...",
+    "platform": "IT之家",
+    "rank": 20,
+    "url": "https://www.ithome.com/1/027/020.htm"
+   },
+   {
+    "word": "本地推理引擎 llama.cpp 1.0.0 史诗级更新：支持超 150 种模型架构，断网也能满血跑大模型",
+    "platform": "IT之家",
+    "rank": 21,
+    "url": "https://www.ithome.com/1/027/019.htm"
+   },
+   {
+    "word": "SpaceX 洽购发射场周边约 526.19 万平方米土地，拟将一半永久用于保护",
+    "platform": "IT之家",
+    "rank": 27,
+    "url": "https://www.ithome.com/1/027/010.htm"
+   },
+   {
+    "word": "SpaceX要把火箭发射的两级都接回来",
+    "platform": "头条热榜",
+    "rank": 16,
+    "url": "https://www.toutiao.com/trending/7707677586599448100/"
+   },
+   {
+    "word": "医生用AI发现41名无症状肠癌患者",
+    "platform": "头条热榜",
+    "rank": 25,
+    "url": "https://www.toutiao.com/trending/7707495873978040858/"
+   },
+   {
+    "word": "男孩玩手机肘击奶奶被妈妈用胶带绑起",
+    "platform": "微博热搜",
+    "rank": 10,
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%82%98%E5%87%BB%E5%A5%B6%E5%A5%B6%E8%A2%AB%E5%A6%88%E5%A6%88%E7%94%A8%E8%83%B6%E5%B8%A6%E7%BB%91%E8%B5%B7%23&t=31&band_rank=10&Refer=top"
+   },
+   {
+    "word": "为什么国内止痛药普遍使用布洛芬而不是阿司匹林？",
+    "platform": "知乎热榜",
+    "rank": 5,
+    "url": "https://www.zhihu.com/question/316552162"
+   },
+   {
+    "word": "蜀汉政权为什么没有产生篡国的权臣？是刘禅大智若愚吗？",
+    "platform": "知乎热榜",
+    "rank": 7,
+    "url": "https://www.zhihu.com/question/1916994647198242605"
+   },
+   {
+    "word": "为什么楚国被攻下首都和陪都后还能存活五十余年？",
+    "platform": "知乎热榜",
+    "rank": 13,
+    "url": "https://www.zhihu.com/question/408295051"
+   },
+   {
+    "word": "AI 短剧《梦回红楼》被指侵害 17 位演员肖像，还魔改出林黛玉掌掴薛宝钗等情节，制作方要承担哪些法律责任？",
+    "platform": "知乎热榜",
+    "rank": 14,
+    "url": "https://www.zhihu.com/question/2104307708622889582"
+   },
+   {
+    "word": "为什么现在的很多工厂难招人，真的是工人的原因吗？",
+    "platform": "知乎热榜",
+    "rank": 15,
+    "url": "https://www.zhihu.com/question/2082301855573586411"
+   },
+   {
+    "word": "怎么看 DeepSeek 发布全家桶 API，这个价格你接受吗？",
+    "platform": "知乎热榜",
+    "rank": 16,
+    "url": "https://www.zhihu.com/question/2104704747362054197"
+   },
+   {
+    "word": "SpaceX 星舰第 15 次试飞发射升空，助推器回收失败改为海上溅落，目前进展如何？",
+    "platform": "知乎热榜",
+    "rank": 18,
+    "url": "https://www.zhihu.com/question/2103048368494793787"
+   },
+   {
+    "word": "都说 AI 提效，为什么打工人反而更累了？",
+    "platform": "知乎热榜",
+    "rank": 19,
+    "url": "https://www.zhihu.com/question/2074136077611298927"
+   }
+  ],
+  "video": [],
+  "x": [],
+  "tools": {
+   "repos": [],
+   "models": [],
+   "stories": []
+  },
+  "news": []
+ },
+ "stats": {
+  "items": 1509,
+  "by_source": {
+   "bili": 633,
+   "bili_hot": 50,
+   "youtube": 65,
+   "douyin": 156,
+   "github": 211,
+   "hf": 51,
+   "hn": 24,
+   "douyin_hot": 199,
+   "aihot": 43,
+   "qbitai": 10,
+   "ithome": 60,
+   "sspai": 7
+  }
+ }
+}

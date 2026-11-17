@@ -1,0 +1,206 @@
+{
+ "version": 1,
+ "day": "2026-11-17",
+ "generated_at": 1794880994.1585226,
+ "generated_bj": "2026-11-17 10:03",
+ "history_days": 23,
+ "summary": "",
+ "headline": [],
+ "sections": {
+  "hotwords": [
+   {
+    "word": "iPhone Duo新增人脸识别解锁",
+    "platform": "B站热搜",
+    "rank": 8,
+    "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E6%96%B0%E5%A2%9E%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E8%A7%A3%E9%94%81"
+   },
+   {
+    "word": "星舰飞船首现筷子回收",
+    "platform": "B站热搜",
+    "rank": 43,
+    "url": "https://search.bilibili.com/all?keyword=星舰飞船首现筷子回收"
+   },
+   {
+    "word": "华为星芒 OSTA O1 Pro 阔直板手机上架：三款配色外观公布，紫色独占 16GB 内存",
+    "platform": "IT之家",
+    "rank": 1,
+    "url": "https://www.ithome.com/1/028/067.htm"
+   },
+   {
+    "word": "OpenAI 推出儿童性虐待内容检测工具，加强儿童网络安全防护",
+    "platform": "IT之家",
+    "rank": 2,
+    "url": "https://www.ithome.com/1/028/066.htm"
+   },
+   {
+    "word": "谷歌第七代自研 Ironwood TPU 交卷：8192 颗集群约 102 秒达标 DeepSeek-V3 预训练",
+    "platform": "IT之家",
+    "rank": 3,
+    "url": "https://www.ithome.com/1/028/065.htm"
+   },
+   {
+    "word": "消息称前美团千亿业务负责人刘燕翔离职创业，联手原飞书高管推出 AI 戒指",
+    "platform": "IT之家",
+    "rank": 6,
+    "url": "https://www.ithome.com/1/028/061.htm"
+   },
+   {
+    "word": "华为星芒 OSTA O1 Pro 定位“鸿蒙 AI 手机”：全新图标、铃声，搭载专属 AI 伙伴",
+    "platform": "IT之家",
+    "rank": 8,
+    "url": "https://www.ithome.com/1/028/059.htm"
+   },
+   {
+    "word": "华为星芒 OSTA O1 Pro 阔直板手机外观公布，主打紫色渐变",
+    "platform": "IT之家",
+    "rank": 10,
+    "url": "https://www.ithome.com/1/028/057.htm"
+   },
+   {
+    "word": "郭守敬望远镜立功：中国科学家证实“丝绸星云”为 6.8 万年前超新星爆炸遗迹，距地球约 520 光年",
+    "platform": "IT之家",
+    "rank": 11,
+    "url": "https://www.ithome.com/1/028/056.htm"
+   },
+   {
+    "word": "超频玩家借助 AI 修改主板 BIOS：尝试复活华擎 SkyOC BCLK 超频功能，绕过英特尔非 K 处理器限制",
+    "platform": "IT之家",
+    "rank": 13,
+    "url": "https://www.ithome.com/1/028/053.htm"
+   },
+   {
+    "word": "OpenAI 奥尔特曼谈黄仁勋离职：我也被解雇过，相信 AI 行业能平稳度过",
+    "platform": "IT之家",
+    "rank": 14,
+    "url": "https://www.ithome.com/1/028/052.htm"
+   },
+   {
+    "word": "苹果为 Apple TV 引入“短视频”竖屏格式和视频播客功能：无需订阅即可观看播客，覆盖 iPhone、iPad、Mac 等设备",
+    "platform": "IT之家",
+    "rank": 22,
+    "url": "https://www.ithome.com/1/028/042.htm"
+   },
+   {
+    "word": "苹果 iPadOS / macOS 27.3 DP Beta 2 系统更新后，国行 iPad 和 Mac 新增 Apple 智能",
+    "platform": "IT之家",
+    "rank": 24,
+    "url": "https://www.ithome.com/1/028/039.htm"
+   },
+   {
+    "word": "IT早报 1117：特朗普支持苹果库克执掌英伟达但不介意黄仁勋回归；阿里千问 4Max 上线；华为 Mate X8 折叠屏 11 月 24 日发布；OPPO Reno17 手机发布...",
+    "platform": "IT之家",
+    "rank": 25,
+    "url": "https://www.ithome.com/1/028/038.htm"
+   },
+   {
+    "word": "苹果反对加拿大 C-22 法案，称相关规定可能引入加密后门、削弱用户数据安全",
+    "platform": "IT之家",
+    "rank": 28,
+    "url": "https://www.ithome.com/1/028/036.htm"
+   },
+   {
+    "word": "俄记者被深圳的机器人浓度惊到",
+    "platform": "头条热榜",
+    "rank": 22,
+    "url": "https://www.toutiao.com/trending/7708761912548360755/"
+   },
+   {
+    "word": "深圳机器人嘉年华现场太震撼",
+    "platform": "头条热榜",
+    "rank": 26,
+    "url": "https://www.toutiao.com/trending/7708651361462862363/"
+   },
+   {
+    "word": "俄称一天击落超两千架乌无人机",
+    "platform": "头条热榜",
+    "rank": 29,
+    "url": "https://www.toutiao.com/trending/7708706543379399178/"
+   },
+   {
+    "word": "iPhone20Pro四微曲玻璃样品曝光",
+    "platform": "微博热搜",
+    "rank": 15,
+    "url": "https://s.weibo.com/weibo?q=%23iPhone20Pro%E5%9B%9B%E5%BE%AE%E6%9B%B2%E7%8E%BB%E7%92%83%E6%A0%B7%E5%93%81%E6%9B%9D%E5%85%89%23&t=31&band_rank=15&Refer=top"
+   },
+   {
+    "word": "美国发布AI芯片远程访问新规",
+    "platform": "微博热搜",
+    "rank": 19,
+    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%B8%83AI%E8%8A%AF%E7%89%87%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E6%96%B0%E8%A7%84&t=31&band_rank=19&Refer=top"
+   },
+   {
+    "word": "AI火了柴油发电机卖爆 订单排到明年",
+    "platform": "百度热搜",
+    "rank": 2,
+    "url": "https://www.baidu.com/s?wd=AI%E7%81%AB%E4%BA%86%E6%9F%B4%E6%B2%B9%E5%8F%91%E7%94%B5%E6%9C%BA%E5%8D%96%E7%88%86+%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4"
+   },
+   {
+    "word": "坚持直屏这么多年 苹果终于改主意了",
+    "platform": "百度热搜",
+    "rank": 21,
+    "url": "https://www.baidu.com/s?wd=%E5%9D%9A%E6%8C%81%E7%9B%B4%E5%B1%8F%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4+%E8%8B%B9%E6%9E%9C%E7%BB%88%E4%BA%8E%E6%94%B9%E4%B8%BB%E6%84%8F%E4%BA%86"
+   },
+   {
+    "word": "为什么手指永远无法相互触碰",
+    "platform": "百度热搜",
+    "rank": 23,
+    "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%8C%87%E6%B0%B8%E8%BF%9C%E6%97%A0%E6%B3%95%E7%9B%B8%E4%BA%92%E8%A7%A6%E7%A2%B0"
+   },
+   {
+    "word": "为什么 AI 生成一条 5 秒钟的视频费用很高，而类似漫剧这样的内容却能大批量生产？​",
+    "platform": "知乎热榜",
+    "rank": 1,
+    "url": "https://www.zhihu.com/question/2071378238237053951"
+   },
+   {
+    "word": "如何看待清华特等奖学金答辩中，候选人被问「为什么三年绩点越来越低」？大学生的优秀到底应该如何评判？",
+    "platform": "知乎热榜",
+    "rank": 3,
+    "url": "https://www.zhihu.com/question/2105681388028392901"
+   },
+   {
+    "word": "为什么现在的中小学普遍开始春秋假期？",
+    "platform": "知乎热榜",
+    "rank": 7,
+    "url": "https://www.zhihu.com/question/2105586557558199490"
+   },
+   {
+    "word": "南京无门槛的「零元面馆」为什么招来那么多质疑与批评？",
+    "platform": "知乎热榜",
+    "rank": 8,
+    "url": "https://www.zhihu.com/question/2104559437331568051"
+   },
+   {
+    "word": "为什么在 S16 几乎所有人都不看好的情况下，LPL 反而两支队伍跻身四强，最后还爆冷夺冠了？",
+    "platform": "知乎热榜",
+    "rank": 14,
+    "url": "https://www.zhihu.com/question/2105608935478490215"
+   }
+  ],
+  "video": [],
+  "x": [],
+  "tools": {
+   "repos": [],
+   "models": [],
+   "stories": []
+  },
+  "news": []
+ },
+ "stats": {
+  "items": 1892,
+  "by_source": {
+   "bili": 594,
+   "bili_hot": 50,
+   "youtube": 77,
+   "douyin": 155,
+   "x": 653,
+   "hf": 49,
+   "hn": 11,
+   "douyin_hot": 200,
+   "aihot": 28,
+   "qbitai": 10,
+   "ithome": 59,
+   "sspai": 6
+  }
+ }
+}

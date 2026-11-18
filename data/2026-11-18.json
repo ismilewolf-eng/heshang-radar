@@ -1,0 +1,1654 @@
+{
+ "version": 1,
+ "day": "2026-11-18",
+ "generated_at": 1794967594.9169433,
+ "generated_bj": "2026-11-18 10:06",
+ "history_days": 24,
+ "summary": "今天最热的是星舰飞船被发射塔接住，12 个账号在做，助推器没回塔也有人在问，这块国内还没人讲清楚。另外 B 站几个身边小东西的小号爆款不错，AI 线有个国外先火、国内没人做的 AI 面试选题。",
+ "headline": [
+  {
+   "title": "星舰飞船首次被发射塔接住",
+   "verdict": "今天就能做",
+   "why": "12 个账号在做，2.7万粉小号单条 944.4万播放，国内没人讲清楚。",
+   "comment": "普通人最想问这么大的家伙怎么悬着不掉。懂行的会说关键在发动机推力控制和塔臂的对位。唱反调的会说这就是秀技术，但马斯克说筷子夹火箭太磨，以后要换不锈钢棉，可以当结尾的钩子。",
+   "next_step": "用试飞接住画面，自己画飞船悬停、机械臂合拢的受力动画。",
+   "risk": "接住的细节和马斯克的说法要核实原文。",
+   "grade": "S",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V0",
+    "N13"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "星舰飞船首次被发射塔接住",
+     "label": "新起",
+     "thread_id": 399
+    },
+    {
+     "section": "news",
+     "name": "加速星舰复用：马斯克回应“筷子”夹火箭太磨，未来改用不锈钢棉",
+     "url": "https://www.ithome.com/1/028/610.htm"
+    }
+   ]
+  },
+  {
+   "title": "星舰助推器为何放弃回塔坠海",
+   "verdict": "值得做",
+   "why": "飞船接住了助推器却中止回收，小号单条 149.6万播放。",
+   "comment": "观众的疑问很直接：飞船都接住了，助推器为什么临阵放弃。可以和飞船那期连着做，也可以单独做一期讲它没通过哪一步。别把没查实的猜测当结论讲。",
+   "next_step": "放试飞中止的画面，画回收前要过哪几关的流程图。",
+   "risk": "中止的原因要先查清官方说法。",
+   "grade": "A",
+   "audience": "A 新闻怎么做到",
+   "refs": [
+    "V1"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "星舰助推器为何没回塔而坠海",
+     "label": "新起",
+     "thread_id": 400
+    }
+   ]
+  },
+  {
+   "title": "iPhone 键盘那么小为何总按对",
+   "verdict": "值得做",
+   "why": "414 粉小号单条 118.1万播放，人人有体感却没人讲清。",
+   "comment": "每个人都按过，但没想过手指比按键大为什么还能按准。B站最近一周同题冒出来不少，国内已经有人做了，我们得讲得更清楚、画面更直观才行。",
+   "next_step": "拍真手指打字，画系统猜你想按哪个键的原理动画。",
+   "risk": "原理要查官方资料，别凭印象讲。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V3"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "iPhone 键盘那么小为何总按对",
+     "label": "新起",
+     "thread_id": 402
+    }
+   ]
+  },
+  {
+   "title": "故意胡说能骗过 AI 面试吗",
+   "verdict": "值得做",
+   "why": "国外多个账号在试，2630 粉小号单条 95.0万播放，国内没人讲。",
+   "comment": "求职的人都会好奇 AI 面试官到底看什么。这个题材已经持续一个多月，不算新冒头，但国内空着。唱反调的会说这是玩梗，所以最好自己测一遍，给出结果。",
+   "next_step": "自己对 AI 面试官只说空话，录下过程和结果，讲它凭什么给分。",
+   "risk": "用哪家面试工具、结果是否真实要自测。",
+   "grade": "A",
+   "audience": "C AI",
+   "refs": [
+    "V2"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "故意胡说能否骗过AI面试",
+     "label": "持续",
+     "thread_id": 328
+    }
+   ]
+  },
+  {
+   "title": "学步车为何被多国禁止",
+   "verdict": "值得做",
+   "why": "看着最安全的婴儿用品，3702 粉小号单条 182.8万播放。",
+   "comment": "家里有老人带孩子的人会转发。这题一直都有人做，不算新话题，要靠讲清楚危险在哪来赢。别写成吓唬人的标题。",
+   "next_step": "画宝宝坐在学步车里的重心和速度，配真产品画面。",
+   "risk": "禁止范围和医学说法要查权威来源。",
+   "grade": "A",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V4"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "为什么学步车会被国家禁止",
+     "label": "持续",
+     "thread_id": 387
+    }
+   ]
+  },
+  {
+   "title": "手指为何永远碰不到物体表面",
+   "verdict": "先观察",
+   "why": "1万粉小号单条 181.3万播放，说法反常但片子很短。",
+   "comment": "一句话就能让人啊一声，也能画出来。但这说法容易被杠，说成接触的定义问题会稳一点。目前只有一个账号爆，先看看有没有人跟。",
+   "next_step": "画两个原子靠近时互相推开的动画，配摸桌面画面。",
+   "risk": "没接触是物理定义，别说绝对。",
+   "grade": "B",
+   "audience": "B 身边反常原理",
+   "refs": [
+    "V5"
+   ],
+   "links": [
+    {
+     "section": "video",
+     "name": "手指为何永远碰不到物体表面",
+     "label": "观察",
+     "thread_id": 404
+    }
+   ]
+  },
+  {
+   "title": "41人没症状被AI查出早期肠癌",
+   "verdict": "先观察",
+   "why": "微博热搜第 4，反常点是没症状也能被 AI 查出来。",
+   "comment": "观众会问 AI 到底看了什么、准不准。现在只有一个热搜标题，细节不明，不要凭标题就做。如果能查清原理，是个有价值的 AI 题材。",
+   "next_step": "先找原始报道，确认 AI 看的是什么检查再决定怎么画。",
+   "risk": "查出方式、人数和是否确诊要核实来源。",
+   "grade": "C",
+   "audience": "C AI",
+   "refs": [
+    "N24"
+   ],
+   "links": [
+    {
+     "section": "news",
+     "name": "41人没症状被AI查出早期肠癌",
+     "url": "https://s.weibo.com/weibo?q=%2341%E4%BA%BA%E6%B2%A1%E7%97%87%E7%8A%B6%E8%A2%ABAI%E6%9F%A5%E5%87%BA%E6%97%A9%E6%9C%9F%E8%82%A0%E7%99%8C%23&t=31&band_rank=4&Refer=top"
+    }
+   ]
+  }
+ ],
+ "sections": {
+  "hotwords": [
+   {
+    "word": "AI开支大减致存储板块重挫",
+    "platform": "B站热搜",
+    "rank": 9,
+    "url": "https://search.bilibili.com/all?keyword=AI开支大减致存储板块重挫"
+   },
+   {
+    "word": "AI开支大减致存储板块重挫",
+    "platform": "B站热搜",
+    "rank": 9,
+    "url": "https://search.bilibili.com/all?keyword=AI%E5%BC%80%E6%94%AF%E5%A4%A7%E5%87%8F%E8%87%B4%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%87%8D%E6%8C%AB"
+   },
+   {
+    "word": "小米雷军 APEC 现场挨个发名片，参会时给台下朋友拍合影",
+    "platform": "IT之家",
+    "rank": 8,
+    "url": "https://www.ithome.com/1/028/617.htm"
+   },
+   {
+    "word": "智能汽车当“考卷”：全国职工职业技能大赛首次增设汽车装调运维赛项，32 支队伍 570 名选手比拼新兴工种",
+    "platform": "IT之家",
+    "rank": 9,
+    "url": "https://www.ithome.com/1/028/616.htm"
+   },
+   {
+    "word": "谷歌钱包登陆苹果 iOS 系统，暂不支持非接触支付",
+    "platform": "IT之家",
+    "rank": 11,
+    "url": "https://www.ithome.com/1/028/613.htm"
+   },
+   {
+    "word": "加速星舰复用：马斯克回应“筷子”夹火箭太磨，未来改用不锈钢棉",
+    "platform": "IT之家",
+    "rank": 14,
+    "url": "https://www.ithome.com/1/028/610.htm"
+   },
+   {
+    "word": "微软 CEO 纳德拉称自己是“AGI 信徒”，但否认 AI 具有意识",
+    "platform": "IT之家",
+    "rank": 15,
+    "url": "https://www.ithome.com/1/028/609.htm"
+   },
+   {
+    "word": "欧洲机器人行业规模最大融资之一：Genesis AI 完成 5 亿美元 A 轮融资，估值 35 亿美元",
+    "platform": "IT之家",
+    "rank": 18,
+    "url": "https://www.ithome.com/1/028/605.htm"
+   },
+   {
+    "word": "微软联合埃森哲、Adobe、万事达卡、沃尔沃等 40 多家组织推进 AI 标准：强调观察、验证和控制，覆盖闭源和开放权重模型",
+    "platform": "IT之家",
+    "rank": 20,
+    "url": "https://www.ithome.com/1/028/603.htm"
+   },
+   {
+    "word": "美国科技服务接连出现故障：微软、苹果、AWS、银行、空管系统之后，国家安全局机密通信网络也受影响",
+    "platform": "IT之家",
+    "rank": 21,
+    "url": "https://www.ithome.com/1/028/601.htm"
+   },
+   {
+    "word": "微软自研芯片 Maia 200 投入生产：每瓦 token 性能提升 1.7 倍",
+    "platform": "IT之家",
+    "rank": 25,
+    "url": "https://www.ithome.com/1/028/597.htm"
+   },
+   {
+    "word": "IT早报 1118：黄仁勋称愿重返英伟达任 CEO 董事会主席明确反对复职；中国“灵晟”蝉联全球超算榜首；GPT-6.2Astra 和 Sol 发布；苹果回应服务大规模中断...",
+    "platform": "IT之家",
+    "rank": 27,
+    "url": "https://www.ithome.com/1/028/595.htm"
+   },
+   {
+    "word": "微软决策模型 Microsoft-Decision-1.1 登场，跑赢 GPT-6 Luna 与 Gemini",
+    "platform": "IT之家",
+    "rank": 29,
+    "url": "https://www.ithome.com/1/028/593.htm"
+   },
+   {
+    "word": "小米辟谣汽车召回短信",
+    "platform": "头条热榜",
+    "rank": 11,
+    "url": "https://www.toutiao.com/trending/7708441725144137782/"
+   },
+   {
+    "word": "为何韩系芯片巨头仍要升级中国工厂",
+    "platform": "头条热榜",
+    "rank": 21,
+    "url": "https://www.toutiao.com/trending/7709182526299835958/"
+   },
+   {
+    "word": "华为Mate X8宣传片有何亮点",
+    "platform": "头条热榜",
+    "rank": 30,
+    "url": "https://www.toutiao.com/trending/7708823006168187443/"
+   },
+   {
+    "word": "41人没症状被AI查出早期肠癌",
+    "platform": "微博热搜",
+    "rank": 4,
+    "url": "https://s.weibo.com/weibo?q=%2341%E4%BA%BA%E6%B2%A1%E7%97%87%E7%8A%B6%E8%A2%ABAI%E6%9F%A5%E5%87%BA%E6%97%A9%E6%9C%9F%E8%82%A0%E7%99%8C%23&t=31&band_rank=4&Refer=top"
+   },
+   {
+    "word": "DeepSeek用户呼吁取消7天限制",
+    "platform": "微博热搜",
+    "rank": 27,
+    "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%94%A8%E6%88%B7%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%887%E5%A4%A9%E9%99%90%E5%88%B6&t=31&band_rank=27&Refer=top"
+   },
+   {
+    "word": "小米辟谣汽车召回短信",
+    "platform": "抖音热榜",
+    "rank": 15,
+    "url": "https://www.douyin.com/hot/2750330"
+   },
+   {
+    "word": "又一癌症疫苗迎来重大突破 股价暴涨",
+    "platform": "百度热搜",
+    "rank": 6,
+    "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4+%E8%82%A1%E4%BB%B7%E6%9A%B4%E6%B6%A8"
+   },
+   {
+    "word": "小米：相关内容纯属虚构",
+    "platform": "百度热搜",
+    "rank": 11,
+    "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%EF%BC%9A%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E7%BA%AF%E5%B1%9E%E8%99%9A%E6%9E%84"
+   },
+   {
+    "word": "雷军：未来三四年AI会有颠覆性时刻",
+    "platform": "百度热搜",
+    "rank": 19,
+    "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E4%B8%89%E5%9B%9B%E5%B9%B4AI%E4%BC%9A%E6%9C%89%E9%A2%A0%E8%A6%86%E6%80%A7%E6%97%B6%E5%88%BB"
+   },
+   {
+    "word": "雷军 APEC 发言称过去几年挣到钱的 AI 公司很少，认为具身智能产业想象力将超汽车产业，对此你怎么看？",
+    "platform": "知乎热榜",
+    "rank": 1,
+    "url": "https://www.zhihu.com/question/2106085808956560064"
+   },
+   {
+    "word": "如何评价 OpenAI 发布的 GPT-6.2 Astra 和 GPT-6.2 Sol？",
+    "platform": "知乎热榜",
+    "rank": 2,
+    "url": "https://www.zhihu.com/question/2106209204986041745"
+   },
+   {
+    "word": "美联储主席警告美国 AI 热潮若落空将致美股大跌失业率攀升，该判断有哪些现实依据？",
+    "platform": "知乎热榜",
+    "rank": 10,
+    "url": "https://www.zhihu.com/question/2105947087221412788"
+   },
+   {
+    "word": "同台亮相 APEC，王传福谈新能源减排，雷军畅享 AI 未来，如何看待两位大佬的「殊途同归」？",
+    "platform": "知乎热榜",
+    "rank": 11,
+    "url": "https://www.zhihu.com/question/2106096949791408536"
+   },
+   {
+    "word": "现在的 AI 剧制作越来越精良，不久的将来，它是否会完全抢占真人剧市场？",
+    "platform": "知乎热榜",
+    "rank": 15,
+    "url": "https://www.zhihu.com/question/2054598994492396545"
+   },
+   {
+    "word": "医学生就业工作真的很难吗？",
+    "platform": "知乎热榜",
+    "rank": 20,
+    "url": "https://www.zhihu.com/question/1910660324329239782"
+   }
+  ],
+  "video": [
+   {
+    "name": "星舰飞船首次被发射塔接住",
+    "kind": "A 新闻怎么做到",
+    "summary": "星舰第 15 次试飞，返回的飞船被发射塔直接抓住，国内外都在刷。观众想知道这么大的家伙怎么悬在半空被稳稳接住。",
+    "ai_relevance": 85,
+    "bili_term": "",
+    "youtube_term": "Starship ship catch tower",
+    "metrics": {
+     "videos": 16,
+     "authors": 12,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 27180235,
+     "views_max": 9444267,
+     "vph_max": 138103.1,
+     "likes_total": 0,
+     "max_vsr": 351.09,
+     "outlier": {
+      "views": 9444267,
+      "followers": 26900,
+      "title": "SpaceX Just CAUGHT a STARSHIP! #spacex #starship #elonmusk"
+     },
+     "earliest": 1794621632.5668435,
+     "median_age_h": 72.1
+    },
+    "samples": [
+     {
+      "title": "SpaceX Just CAUGHT a STARSHIP! #spacex #starship #elonmusk",
+      "url": "https://www.youtube.com/watch?v=vlV6347oqsQ",
+      "thumb": "https://i.ytimg.com/vi/vlV6347oqsQ/hqdefault.jpg",
+      "author": "NASASpaceflight",
+      "platform": "YouTube",
+      "duration": 27,
+      "vertical": false,
+      "views": 9444267,
+      "likes": null,
+      "followers": 26900,
+      "vsr": 351.09,
+      "vph": 131066.5,
+      "age_h": 72.1,
+      "published": "11-15 10:00"
+     },
+     {
+      "title": "SpaceX Successfully Catches a Rocket from Space",
+      "url": "https://www.youtube.com/watch?v=lXsMVzKVB4I",
+      "thumb": "https://i.ytimg.com/vi/lXsMVzKVB4I/hqdefault.jpg",
+      "author": "Cerita Rumi",
+      "platform": "YouTube",
+      "duration": 77,
+      "vertical": false,
+      "views": 3322356,
+      "likes": null,
+      "followers": 192000,
+      "vsr": 17.3,
+      "vph": 138103.1,
+      "age_h": 24.1,
+      "published": "11-17 10:00"
+     },
+     {
+      "title": "SpaceX Catches Starship for the First Time Ending Flight Test 15",
+      "url": "https://www.youtube.com/watch?v=VEvzBhRyB94",
+      "thumb": "https://i.ytimg.com/vi/VEvzBhRyB94/hqdefault.jpg",
+      "author": "CNET",
+      "platform": "YouTube",
+      "duration": 524,
+      "vertical": false,
+      "views": 1750777,
+      "likes": null,
+      "followers": 4110000,
+      "vsr": 0.43,
+      "vph": 24297.1,
+      "age_h": 72.1,
+      "published": "11-15 10:00"
+     },
+     {
+      "title": "[4K] Watch the FIRST Orbital Starship Catch!!!",
+      "url": "https://www.youtube.com/watch?v=AQFrpZaOpcQ",
+      "thumb": "https://i.ytimg.com/vi/AQFrpZaOpcQ/hqdefault.jpg",
+      "author": "Everyday Astronaut",
+      "platform": "YouTube",
+      "duration": 13318,
+      "vertical": false,
+      "views": 1689715,
+      "likes": null,
+      "followers": 2000000,
+      "vsr": 0.84,
+      "vph": 23449.7,
+      "age_h": 72.1,
+      "published": "11-15 10:00"
+     },
+     {
+      "title": "SPACEX CAUGHT A STARSHIP! - SpaceX Starship Flight 15",
+      "url": "https://www.youtube.com/watch?v=gTpn5Whu2ao",
+      "thumb": "https://i.ytimg.com/vi/gTpn5Whu2ao/hqdefault.jpg",
+      "author": "NASASpaceflight",
+      "platform": "YouTube",
+      "duration": 19305,
+      "vertical": false,
+      "views": 1587944,
+      "likes": null,
+      "followers": 26900,
+      "vsr": 59.03,
+      "vph": 22037.3,
+      "age_h": 72.1,
+      "published": "11-15 10:00"
+     },
+     {
+      "title": "SpaceX Rocket Catch and China's Electric Plane! | COMAC CE-25A",
+      "url": "https://www.youtube.com/watch?v=vi-IrJ7axVU",
+      "thumb": "https://i.ytimg.com/vi/vi-IrJ7axVU/hqdefault.jpg",
+      "author": "Ashish Antil",
+      "platform": "YouTube",
+      "duration": 58,
+      "vertical": false,
+      "views": 1252129,
+      "likes": null,
+      "followers": 46800,
+      "vsr": 26.75,
+      "vph": 52048.3,
+      "age_h": 24.1,
+      "published": "11-17 10:00"
+     }
+    ],
+    "member_ids": [
+     "youtube:vlV6347oqsQ",
+     "youtube:lXsMVzKVB4I",
+     "youtube:VEvzBhRyB94",
+     "youtube:AQFrpZaOpcQ",
+     "youtube:gTpn5Whu2ao",
+     "youtube:vi-IrJ7axVU",
+     "youtube:Ob1oxxIPWzk",
+     "youtube:QJFdKoKNn2M",
+     "youtube:sfky54VSchE",
+     "youtube:e6TsqaFAF80",
+     "youtube:A6-zruZTfOA",
+     "youtube:WYFmPq6X9mg",
+     "youtube:uyFdbzAcOZw",
+     "youtube:noNS3dBkAmA",
+     "youtube:pu8Y73Pxc2k",
+     "youtube:vw_YzIlbwuM"
+    ],
+    "weight": 107.0,
+    "probe_youtube": {
+     "year_n": 12,
+     "match": 4,
+     "match_recent": 4,
+     "oldest_match_days": 3,
+     "samples": [
+      {
+       "title": "Historic Catch! SpaceX Starship Captured by Launch Tower After Reentry",
+       "url": "https://www.youtube.com/watch?v=A6-zruZTfOA",
+       "views": 846881,
+       "published": "3d ago"
+      },
+      {
+       "title": "TOWER CAM! SpaceX Starship 42 Catch",
+       "url": "https://www.youtube.com/watch?v=AAt__NfP9No",
+       "views": 241134,
+       "published": "1d ago"
+      },
+      {
+       "title": "TOWER CAM! SpaceX Starship 42 Catch",
+       "url": "https://www.youtube.com/watch?v=Tasvr6yKM30",
+       "views": 49266,
+       "published": "1d ago"
+      }
+     ],
+     "term": "Starship ship catch tower"
+    },
+    "label": "新起",
+    "basis": [
+     "YouTube 搜「Starship ship catch tower」：今年的相关视频里 4 条标题对得上，其中 4 条是最近 10 天发的，以前几乎没有",
+     "12 个不同账号在做",
+     "有小号爆了：2.7万 粉的号单条 944.4万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-18",
+    "thread_id": 399,
+    "days_seen": 1
+   },
+   {
+    "name": "星舰助推器为何没回塔而坠海",
+    "kind": "A 新闻怎么做到",
+    "summary": "这次试飞飞船被接住，助推器却中止回收，落进海里。观众想知道它为什么临时放弃，是哪一步没通过。",
+    "ai_relevance": 70,
+    "bili_term": "",
+    "youtube_term": "Starship booster catch aborted why",
+    "metrics": {
+     "videos": 4,
+     "authors": 4,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 4991938,
+     "views_max": 1496469,
+     "vph_max": 17819.0,
+     "likes_total": 0,
+     "max_vsr": 55.63,
+     "outlier": {
+      "views": 1496469,
+      "followers": 26900,
+      "title": "SPACEX LAUNCHES STARSHIP FLIGHT 15 - Launch & Booster Abort"
+     },
+     "earliest": 1794621632.5668435,
+     "median_age_h": 84.1
+    },
+    "samples": [
+     {
+      "title": "SPACEX LAUNCHES STARSHIP FLIGHT 15 - Launch & Booster Abort",
+      "url": "https://www.youtube.com/watch?v=9XM0lpVlvo0",
+      "thumb": "https://i.ytimg.com/vi/9XM0lpVlvo0/hqdefault.jpg",
+      "author": "NASASpaceflight",
+      "platform": "YouTube",
+      "duration": 30075,
+      "vertical": false,
+      "views": 1496469,
+      "likes": null,
+      "followers": 26900,
+      "vsr": 55.63,
+      "vph": 15579.0,
+      "age_h": 96.1,
+      "published": "11-14 10:00"
+     },
+     {
+      "title": "SpaceX Glitch! Starship booster fails to land and falls into the Gulf of Mexico",
+      "url": "https://www.youtube.com/watch?v=8vNAak-sxVc",
+      "thumb": "https://i.ytimg.com/vi/8vNAak-sxVc/hqdefault.jpg",
+      "author": "Azteca Noticias",
+      "platform": "YouTube",
+      "duration": 55,
+      "vertical": false,
+      "views": 1283987,
+      "likes": null,
+      "followers": 5040000,
+      "vsr": 0.25,
+      "vph": 17819.0,
+      "age_h": 72.1,
+      "published": "11-15 10:00"
+     },
+     {
+      "title": "Why Did SpaceX's Superheavy Booster Not Return To Tower?",
+      "url": "https://www.youtube.com/watch?v=m2oGDCvDmdE",
+      "thumb": "https://i.ytimg.com/vi/m2oGDCvDmdE/hqdefault.jpg",
+      "author": "Scott Manley",
+      "platform": "YouTube",
+      "duration": 162,
+      "vertical": false,
+      "views": 1141709,
+      "likes": null,
+      "followers": 892000,
+      "vsr": 1.28,
+      "vph": 15844.5,
+      "age_h": 72.1,
+      "published": "11-15 10:00"
+     },
+     {
+      "title": "Blastoff! SpaceX Starship launches to orbit on Flight 15, booster catch aborted",
+      "url": "https://www.youtube.com/watch?v=RHY66XujZ90",
+      "thumb": "https://i.ytimg.com/vi/RHY66XujZ90/hqdefault.jpg",
+      "author": "VideoFromSpace",
+      "platform": "YouTube",
+      "duration": 658,
+      "vertical": false,
+      "views": 1069773,
+      "likes": null,
+      "followers": 116000,
+      "vsr": 9.22,
+      "vph": 11136.8,
+      "age_h": 96.1,
+      "published": "11-14 10:00"
+     }
+    ],
+    "member_ids": [
+     "youtube:9XM0lpVlvo0",
+     "youtube:8vNAak-sxVc",
+     "youtube:m2oGDCvDmdE",
+     "youtube:RHY66XujZ90"
+    ],
+    "weight": 73.8,
+    "probe_youtube": {
+     "year_n": 8,
+     "match": 3,
+     "match_recent": 3,
+     "oldest_match_days": 3,
+     "samples": [
+      {
+       "title": "SpaceX MAKES HISTORY Catching Starship! Elon Musk Reveals Why Booster Catch Was ABORTED",
+       "url": "https://www.youtube.com/watch?v=POrMxoZbXVI",
+       "views": 101182,
+       "published": "2d ago"
+      },
+      {
+       "title": "Why SpaceX Aborted the Starship Booster Catch in Flight 15",
+       "url": "https://www.youtube.com/watch?v=Q99ofi-Dw3k",
+       "views": 3599,
+       "published": "3d ago"
+      },
+      {
+       "title": "Starship Flight 15: First Catch From Orbit—and Why the Booster Aborted",
+       "url": "https://www.youtube.com/watch?v=ZR9XzRU2GP0",
+       "views": 33,
+       "published": "1d ago"
+      }
+     ],
+     "term": "Starship booster catch aborted why"
+    },
+    "label": "新起",
+    "basis": [
+     "YouTube 搜「Starship booster catch aborted why」：今年的相关视频里 3 条标题对得上，其中 3 条是最近 10 天发的，以前几乎没有",
+     "4 个不同账号在做",
+     "有小号爆了：2.7万 粉的号单条 149.6万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-18",
+    "thread_id": 400,
+    "days_seen": 1
+   },
+   {
+    "name": "故意胡说能否骗过AI面试",
+    "kind": "C AI 离谱事或能用的招",
+    "summary": "国外几个账号都在试：对着 AI 面试官只说空话、胡话，看能不能过。YouTube 上多条同题，国内还没人讲。",
+    "ai_relevance": 70,
+    "bili_term": "",
+    "youtube_term": "AI job interview gibberish",
+    "metrics": {
+     "videos": 3,
+     "authors": 2,
+     "platforms": [
+      "YouTube"
+     ],
+     "views_total": 1011671,
+     "views_max": 949759,
+     "vph_max": 7910.6,
+     "likes_total": 0,
+     "max_vsr": 361.13,
+     "outlier": {
+      "views": 949759,
+      "followers": 2630,
+      "title": "I Spoke Only in Corporate Buzzwords During My AI Job Interview"
+     },
+     "earliest": 1794448815.6936855,
+     "median_age_h": 120.1
+    },
+    "samples": [
+     {
+      "title": "I Spoke Only in Corporate Buzzwords During My AI Job Interview",
+      "url": "https://www.youtube.com/watch?v=NwcFT2HuFJ8",
+      "thumb": "https://i.ytimg.com/vi/NwcFT2HuFJ8/hqdefault.jpg",
+      "author": "Tyler Cooper",
+      "platform": "YouTube Shorts",
+      "duration": 177,
+      "vertical": false,
+      "views": 949759,
+      "likes": null,
+      "followers": 2630,
+      "vsr": 361.13,
+      "vph": 7910.6,
+      "age_h": 120.1,
+      "published": "11-13 10:00"
+     },
+     {
+      "title": "I Tried to Pass an AI Job Interview by Speaking Gibberish",
+      "url": "https://www.youtube.com/watch?v=3JS9QJH9Egk",
+      "thumb": "https://i.ytimg.com/vi/3JS9QJH9Egk/hqdefault.jpg",
+      "author": "Tyler Cooper",
+      "platform": "YouTube Shorts",
+      "duration": 123,
+      "vertical": false,
+      "views": 36732,
+      "likes": null,
+      "followers": 2630,
+      "vsr": 13.97,
+      "vph": 255.0,
+      "age_h": 144.1,
+      "published": "11-12 10:00"
+     },
+     {
+      "title": "How To Fail An AI Job Interview",
+      "url": "https://www.youtube.com/watch?v=LRSLkcrG7Ow",
+      "thumb": "https://i.ytimg.com/vi/LRSLkcrG7Ow/hqdefault.jpg",
+      "author": "Nick Reid",
+      "platform": "YouTube",
+      "duration": 223,
+      "vertical": false,
+      "views": 25180,
+      "likes": null,
+      "followers": 7710,
+      "vsr": 3.27,
+      "vph": 1046.5,
+      "age_h": 24.1,
+      "published": "11-17 10:00"
+     }
+    ],
+    "member_ids": [
+     "youtube:NwcFT2HuFJ8",
+     "youtube:3JS9QJH9Egk",
+     "youtube:LRSLkcrG7Ow"
+    ],
+    "weight": 39.1,
+    "probe_youtube": {
+     "year_n": 19,
+     "match": 5,
+     "match_recent": 1,
+     "oldest_match_days": 30,
+     "samples": [
+      {
+       "title": "I Tried to Pass an AI Job Interview by Speaking Gibberish",
+       "url": "https://www.youtube.com/watch?v=3JS9QJH9Egk",
+       "views": 36732,
+       "published": "6d ago"
+      },
+      {
+       "title": "I Tried to Break an AI Job Interview by Speaking Gibberish",
+       "url": "https://www.youtube.com/watch?v=fDMdxil-tSI",
+       "views": 37220,
+       "published": "2w ago"
+      },
+      {
+       "title": "A.I Job Interviewer Melts Down Over Man Who Speaks Gibberish! 😂 ",
+       "url": "https://www.youtube.com/watch?v=YUVEmLeQqYE",
+       "views": 371,
+       "published": "1mo ago"
+      }
+     ],
+     "term": "AI job interview gibberish"
+    },
+    "label": "持续",
+    "basis": [
+     "YouTube 搜「AI job interview gibberish」：今年的相关视频里 5 条标题对得上，其中 1 条是最近 10 天发的，最早的是 30 天前",
+     "有小号爆了：2630 粉的号单条 95.0万 播放",
+     "雷达 2026-11-08 起就在记录"
+    ],
+    "first_day": "2026-11-08",
+    "thread_id": 328,
+    "days_seen": 3
+   },
+   {
+    "name": "iPhone 键盘那么小为何总按对",
+    "kind": "B 身边反常原理",
+    "summary": "每天都在按的小键盘，手指明明比按键大，却总能按对。小号爆款，点赞很高，人人有体感却没人讲清。",
+    "ai_relevance": 90,
+    "bili_term": "键盘那么小",
+    "youtube_term": "iPhone keyboard autocorrect touch target",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1181434,
+     "views_max": 1181434,
+     "vph_max": 13081.1,
+     "likes_total": 0,
+     "max_vsr": 1181.43,
+     "outlier": {
+      "views": 1181434,
+      "followers": 414,
+      "title": "iPhone 的键盘那么小，为什么你总能按对？"
+     },
+     "earliest": 1794642299.0,
+     "median_age_h": 90.3
+    },
+    "samples": [
+     {
+      "title": "iPhone 的键盘那么小，为什么你总能按对？",
+      "url": "https://www.bilibili.com/video/BV1u5sG6UEhf",
+      "thumb": "https://i0.hdslb.com/bfs/archive/44ca31d9910a70718372ec1234169bf99ea3b7fb.jpg",
+      "author": "亿点知识君",
+      "platform": "B站",
+      "duration": 63,
+      "vertical": false,
+      "views": 1181434,
+      "likes": 19225,
+      "followers": 414,
+      "vsr": 1181.43,
+      "vph": 13081.1,
+      "age_h": 90.3,
+      "published": "11-14 15:44"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1u5sG6UEhf"
+    ],
+    "weight": 24.7,
+    "probe_bili": {
+     "term": "键盘那么小",
+     "recent_n": 6,
+     "before_n": 6,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 6,
+     "before_page": 6,
+     "recent_per_day": 0.86,
+     "before_per_day": 0.11,
+     "capped": false,
+     "recent_top": [
+      1181811
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 3.42
+    },
+    "label": "新起",
+    "basis": [
+     "B站搜「键盘那么小」：近 7 天 6 条，之前 53 天只有 6 条",
+     "有小号爆了：414 粉的号单条 118.1万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-18",
+    "thread_id": 402,
+    "days_seen": 1
+   },
+   {
+    "name": "为什么学步车会被国家禁止",
+    "kind": "B 身边反常原理",
+    "summary": "以前家家都买的婴儿用品，如今被多国禁止。反常点在它看起来很安全，实际危险在哪。",
+    "ai_relevance": 75,
+    "bili_term": "学步车",
+    "youtube_term": "why baby walkers banned",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1828326,
+     "views_max": 1828326,
+     "vph_max": 13877.0,
+     "likes_total": 0,
+     "max_vsr": 493.88,
+     "outlier": {
+      "views": 1828326,
+      "followers": 3702,
+      "title": "为什么学步车会被多国禁止？它究竟有多危险？"
+     },
+     "earliest": 1794493129.0,
+     "median_age_h": 131.8
+    },
+    "samples": [
+     {
+      "title": "为什么学步车会被多国禁止？它究竟有多危险？",
+      "url": "https://www.bilibili.com/video/BV1BGWZ6XE2n",
+      "thumb": "https://i1.hdslb.com/bfs/archive/bd2ff5d8d07229b442adc694e5a053664c74ccfa.jpg",
+      "author": "邂逅科学",
+      "platform": "B站",
+      "duration": 251,
+      "vertical": false,
+      "views": 1828326,
+      "likes": 698,
+      "followers": 3702,
+      "vsr": 493.88,
+      "vph": 13877.0,
+      "age_h": 131.8,
+      "published": "11-12 22:18"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1BGWZ6XE2n"
+    ],
+    "weight": 24.7,
+    "probe_bili": {
+     "term": "学步车",
+     "recent_n": 28,
+     "before_n": 83,
+     "recent_match": 13,
+     "before_match": 8,
+     "recent_page": 20,
+     "before_page": 20,
+     "recent_per_day": 4.0,
+     "before_per_day": 1.57,
+     "capped": false,
+     "recent_top": [
+      2153076,
+      1828338,
+      109722
+     ],
+     "before_top": [
+      1807788,
+      1381666,
+      572331
+     ],
+     "before_samples": [
+      {
+       "title": "以前每家每户都有的学步车，为何现在没人用了",
+       "bvid": "BV1uUWV6nEkv",
+       "play": 1807788,
+       "pubdate": 1794355720
+      },
+      {
+       "title": "学步车为啥会让小孩晚学会走路？",
+       "bvid": "BV1jsWu6nEQe",
+       "play": 1381666,
+       "pubdate": 1794305617
+      },
+      {
+       "title": "为什么学步车会被国家禁止",
+       "bvid": "BV18CWu6MEWk",
+       "play": 572331,
+       "pubdate": 1794298381
+      }
+     ],
+     "ratio": 2.37
+    },
+    "label": "持续",
+    "basis": [
+     "B站搜「学步车」：之前 53 天播放最高的 20 条里 8 条标题带这个词，近 7 天是 13 条，以前就一直有",
+     "有小号爆了：3702 粉的号单条 182.8万 播放",
+     "雷达 2026-11-12 起就在记录"
+    ],
+    "first_day": "2026-11-12",
+    "thread_id": 387,
+    "days_seen": 2
+   },
+   {
+    "name": "手指为何永远碰不到物体表面",
+    "kind": "B 身边反常原理",
+    "summary": "人人天天摸东西，却被告知手指其实从没真正接触到表面。反常的说法加上很短的时长，点赞很高。",
+    "ai_relevance": 75,
+    "bili_term": "真正接触",
+    "youtube_term": "why you never actually touch anything",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1813138,
+     "views_max": 1813138,
+     "vph_max": 24555.4,
+     "likes_total": 0,
+     "max_vsr": 175.28,
+     "outlier": {
+      "views": 1813138,
+      "followers": 10344,
+      "title": "你的手指，永远无法真正接触到物体的表面。"
+     },
+     "earliest": 1794701619.0,
+     "median_age_h": 73.8
+    },
+    "samples": [
+     {
+      "title": "你的手指，永远无法真正接触到物体的表面。",
+      "url": "https://www.bilibili.com/video/BV1Kasj6XEbm",
+      "thumb": "https://i0.hdslb.com/bfs/archive/cedc06b729bee1f662806746cb6e027d69cdd228.jpg",
+      "author": "Acid_Island",
+      "platform": "B站",
+      "duration": 45,
+      "vertical": false,
+      "views": 1813138,
+      "likes": 39070,
+      "followers": 10344,
+      "vsr": 175.28,
+      "vph": 24555.4,
+      "age_h": 73.8,
+      "published": "11-15 08:13"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1Kasj6XEbm"
+    ],
+    "weight": 24.6,
+    "probe_bili": {
+     "term": "真正接触",
+     "recent_n": 9,
+     "before_n": 33,
+     "recent_match": 1,
+     "before_match": 2,
+     "recent_page": 9,
+     "before_page": 20,
+     "recent_per_day": 1.29,
+     "before_per_day": 0.62,
+     "capped": false,
+     "recent_top": [
+      1813932
+     ],
+     "before_top": [
+      43540,
+      154
+     ],
+     "before_samples": [
+      {
+       "title": "物理学可怕真相：你这辈子从未真正触碰过任何物体。为什么物理定律严禁两个物体真正接触？",
+       "bvid": "BV1xanZ6FE2h",
+       "play": 43540,
+       "pubdate": 1793016235
+      },
+      {
+       "title": "新车交付仪式，到底是做给网友看的表演，还是车企真正接触用户的机会？",
+       "bvid": "BV1sMh86MESS",
+       "play": 154,
+       "pubdate": 1790169754
+      }
+     ],
+     "ratio": 1.82
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「真正接触」：之前 53 天播放最高的 20 条里 2 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：1.0万 粉的号单条 181.3万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-18",
+    "thread_id": 404,
+    "days_seen": 1
+   },
+   {
+    "name": "婚礼上的巨型蛋糕竟是假的",
+    "kind": "B 身边反常原理",
+    "summary": "婚礼上最显眼的大蛋糕，据说只有一小块能吃。人人见过，却没人想过里面是什么。",
+    "ai_relevance": 70,
+    "bili_term": "巨型蛋糕",
+    "youtube_term": "fake wedding cake tiers styrofoam",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1467554,
+     "views_max": 1467554,
+     "vph_max": 16734.0,
+     "likes_total": 0,
+     "max_vsr": 84.31,
+     "outlier": {
+      "views": 1467554,
+      "followers": 17406,
+      "title": "婚礼上的巨型蛋糕竟然是假的？只有一小块能吃，真相太意外！"
+     },
+     "earliest": 1794651722.0,
+     "median_age_h": 87.7
+    },
+    "samples": [
+     {
+      "title": "婚礼上的巨型蛋糕竟然是假的？只有一小块能吃，真相太意外！",
+      "url": "https://www.bilibili.com/video/BV15Ws36XE6y",
+      "thumb": "https://i0.hdslb.com/bfs/archive/5033ad7f32d33bcd72f138772e13574760168bae.jpg",
+      "author": "奇文科普",
+      "platform": "B站",
+      "duration": 24,
+      "vertical": false,
+      "views": 1467554,
+      "likes": 8282,
+      "followers": 17406,
+      "vsr": 84.31,
+      "vph": 16734.0,
+      "age_h": 87.7,
+      "published": "11-14 18:22"
+     }
+    ],
+    "member_ids": [
+     "bili:BV15Ws36XE6y"
+    ],
+    "weight": 23.3,
+    "probe_bili": {
+     "term": "巨型蛋糕",
+     "recent_n": 10,
+     "before_n": 68,
+     "recent_match": 1,
+     "before_match": 3,
+     "recent_page": 10,
+     "before_page": 20,
+     "recent_per_day": 1.43,
+     "before_per_day": 1.28,
+     "capped": false,
+     "recent_top": [
+      1468040
+     ],
+     "before_top": [
+      51163,
+      5635,
+      4613
+     ],
+     "before_samples": [
+      {
+       "title": "大雄被吸进香槟火箭困在巨型蛋糕中出不来了",
+       "bvid": "BV1EEaw6DEQq",
+       "play": 51163,
+       "pubdate": 1790221996
+      },
+      {
+       "title": "大雄被吸进香槟火箭困在巨型蛋糕中出不来了",
+       "bvid": "BV1tsaq6YEjP",
+       "play": 5635,
+       "pubdate": 1790563477
+      },
+      {
+       "title": "四小只的巨型蛋糕，竟被艾比给偷吃了？",
+       "bvid": "BV1JWxW6NE5S",
+       "play": 4613,
+       "pubdate": 1793491190
+      }
+     ],
+     "ratio": 1.1
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「巨型蛋糕」：之前 53 天播放最高的 20 条里 3 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：1.7万 粉的号单条 146.8万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-18",
+    "thread_id": 405,
+    "days_seen": 1
+   },
+   {
+    "name": "为什么人类要给海星打针",
+    "kind": "B 身边反常原理",
+    "summary": "标题就很反常，人给海星打针，图什么。观众想知道打针的目的和效果。",
+    "ai_relevance": 55,
+    "bili_term": "给海星打针",
+    "youtube_term": "why inject starfish",
+    "metrics": {
+     "videos": 1,
+     "authors": 1,
+     "platforms": [
+      "B站"
+     ],
+     "views_total": 1048916,
+     "views_max": 1048916,
+     "vph_max": 25700.7,
+     "likes_total": 0,
+     "max_vsr": 63.81,
+     "outlier": {
+      "views": 1048916,
+      "followers": 16439,
+      "title": "为什么人类要给海星打针"
+     },
+     "earliest": 1794820512.0,
+     "median_age_h": 40.8
+    },
+    "samples": [
+     {
+      "title": "为什么人类要给海星打针",
+      "url": "https://www.bilibili.com/video/BV1b6sP6ZEmh",
+      "thumb": "https://i2.hdslb.com/bfs/archive/0720db8a4b0a0c3fabe917af67f08ea31a493c1b.jpg",
+      "author": "村里的小花儿",
+      "platform": "B站",
+      "duration": 54,
+      "vertical": false,
+      "views": 1048916,
+      "likes": 12578,
+      "followers": 16439,
+      "vsr": 63.81,
+      "vph": 25700.7,
+      "age_h": 40.8,
+      "published": "11-16 17:15"
+     }
+    ],
+    "member_ids": [
+     "bili:BV1b6sP6ZEmh"
+    ],
+    "weight": 23.2,
+    "probe_bili": {
+     "term": "给海星打针",
+     "recent_n": 8,
+     "before_n": 28,
+     "recent_match": 1,
+     "before_match": 0,
+     "recent_page": 8,
+     "before_page": 20,
+     "recent_per_day": 1.14,
+     "before_per_day": 0.53,
+     "capped": false,
+     "recent_top": [
+      1051806
+     ],
+     "before_top": [],
+     "before_samples": [],
+     "ratio": 1.84
+    },
+    "label": "观察",
+    "basis": [
+     "B站搜「给海星打针」：之前 53 天播放最高的 20 条里 0 条标题带这个词，近 7 天是 1 条",
+     "有小号爆了：1.6万 粉的号单条 104.9万 播放",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-18",
+    "thread_id": 406,
+    "days_seen": 1
+   }
+  ],
+  "x": [
+   {
+    "name": "黄仁勋辞任后考虑回归",
+    "kind": "热点事件",
+    "lane": "行业新闻",
+    "summary": "英伟达宣布黄仁勋辞去 CEO 和董事职务才几天，英国《金融时报》就报道他正在考虑重新出任 CEO，并已和几位亲信聊过回归的可能，消息来自多名知情人士。另有人用 PageRank 分析了围绕黄仁勋的新闻报道传播。",
+    "entity": "黄仁勋",
+    "value": 62,
+    "metrics": {
+     "tweets": 2,
+     "authors": 1,
+     "views_total": 79303,
+     "likes_total": 568
+    },
+    "samples": [
+     {
+      "title": "RT @varun_mathur: I ran a PageRank-driven analysis on all recent news coverage related to Jensen, and traced how the New York Times shaped…",
+      "url": "https://x.com/dotey/status/2122055674527944718",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 269021,
+      "views": 52196,
+      "likes": 489,
+      "bookmarks": 252,
+      "published": "11-16 03:54",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     },
+     {
+      "title": "英国《金融时报》美东时间 11 月 15 日（周日）报道，黄仁勋正在考虑重新出任英伟达 CEO，已经和几位亲信讨论过回归的可能。消息来自多名知情人士。\n\n三天前，11 月 12 日，英伟达宣布黄仁勋辞去 CEO 和董事职务，CFO Colette Kress 任临时 CEO。金融时报说，董事会对他的独立调查还没结束，他就已经在谈回归了。\n\n据金融时报，一位黄仁勋的盟友说，他们正在召集一批硅谷高管组成“作战室”，游说英伟达董事会让黄仁勋复",
+      "url": "https://x.com/dotey/status/2122062085807030716",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 269021,
+      "views": 27107,
+      "likes": 79,
+      "bookmarks": 25,
+      "published": "11-16 04:20",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2122055674527944718",
+     "x:2122062085807030716"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "2 条高互动推文，1 个账号，合计浏览 7.9万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-18",
+    "thread_id": 407,
+    "days_seen": 1
+   },
+   {
+    "name": "物理学家用 GPT-6 Astra 做研究",
+    "kind": "热点事件",
+    "lane": "工具与模型",
+    "summary": "OpenAI 官方分享物理学家 Nathaniel Craig 如何与 GPT-6 Astra 合作，提出某个物理概念的候选格点定义。推文内容被截断，具体成果细节不明，但是 AI 参与前沿科研的案例，可以做科普切入。",
+    "entity": "GPT-6 Astra",
+    "value": 50,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 186648,
+     "likes_total": 1383
+    },
+    "samples": [
+     {
+      "title": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice definition of the Standard Model.\n\nIt’s the first post on our new science blog:\nhttps://t.co/pLd0XmTUxD",
+      "url": "https://x.com/OpenAI/status/2122123437141553630",
+      "thumb": "",
+      "author": "OpenAI",
+      "handle": "OpenAI",
+      "followers": 5540551,
+      "views": 186648,
+      "likes": 1383,
+      "bookmarks": 293,
+      "published": "11-16 08:23",
+      "lang": "en",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2122123437141553630"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 18.7万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-18",
+    "thread_id": 408,
+    "days_seen": 1
+   },
+   {
+    "name": "女生转行深圳做智算中心",
+    "kind": "项目机会",
+    "lane": "项目与变现",
+    "summary": "宝玉转发了一位女生的个人经历：她离开上海去深圳做智算中心生意，原先同事眼里她文静内向、和做生意不沾边。推文被截断，具体赚钱细节不明，但反差感强，可以关注后续内容。",
+    "entity": "智算中心",
+    "value": 45,
+    "metrics": {
+     "tweets": 1,
+     "authors": 1,
+     "views_total": 137817,
+     "likes_total": 1549
+    },
+    "samples": [
+     {
+      "title": "RT @CuiMao: 分享一些最近的个人经历\n我到深圳也有段时间了，离开上海之前我和我前同事说要去深圳发展做一些智算中心的生意，她们听到后很惊讶，因为我在他们眼里就是一个文静内向的女生，和做生意八竿子打不着，更别提什么智算，什么AI，…",
+      "url": "https://x.com/dotey/status/2122014937052753929",
+      "thumb": "",
+      "author": "宝玉",
+      "handle": "dotey",
+      "followers": 269021,
+      "views": 137817,
+      "likes": 1549,
+      "bookmarks": 443,
+      "published": "11-16 01:12",
+      "lang": "zh",
+      "links": [],
+      "media": {}
+     }
+    ],
+    "member_ids": [
+     "x:2122014937052753929"
+    ],
+    "breadth": null,
+    "label": "关注",
+    "basis": [
+     "1 条高互动推文，1 个账号，合计浏览 13.8万",
+     "雷达之前没记录过"
+    ],
+    "first_day": "2026-11-18",
+    "thread_id": 409,
+    "days_seen": 1
+   }
+  ],
+  "tools": {
+   "repos": [],
+   "models": [
+    {
+     "name": "Lightricks/LTX-2.5",
+     "url": "https://huggingface.co/Lightricks/LTX-2.5",
+     "kind": "model",
+     "likes": 12406,
+     "downloads": 2828071,
+     "created": "2026-07-23",
+     "tags": [
+      "diffusion-single-file",
+      "image-to-video",
+      "text-to-video",
+      "video-to-video",
+      "image-text-to-video",
+      "audio-to-video"
+     ],
+     "zh": "Lightricks 开源的视频模型，支持文生视频、图生视频",
+     "use": "可以做「免费开源 AI 出片」实测，把图片变成短视频素材",
+     "group": "AI 视频与图像",
+     "value": 78
+    },
+    {
+     "name": "MiniMaxAI/MiniMax-H3-Image",
+     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+     "kind": "model",
+     "likes": 1466,
+     "downloads": 727110,
+     "created": "2026-11-03",
+     "tags": [
+      "minimax-h3",
+      "diffusers",
+      "safetensors",
+      "text-to-image",
+      "image-to-image",
+      "image-editing"
+     ],
+     "zh": "MiniMax 开源的图像模型，能文字生图，也能改图",
+     "use": "可以做「一句话改图」的演示，适合做封面和配图的实测对比",
+     "group": "AI 视频与图像",
+     "value": 70
+    },
+    {
+     "name": "black-forest-labs/flux-3-image-klein-comfy",
+     "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+     "kind": "model",
+     "likes": 3407,
+     "downloads": 1062051,
+     "created": "2026-10-14",
+     "tags": [
+      "diffusion-single-file",
+      "comfyui",
+      "image-generation",
+      "image-editing",
+      "flux",
+      "flux-3"
+     ],
+     "zh": "FLUX.3 的 ComfyUI 版，支持生图和改图",
+     "use": "适合做 ComfyUI 新手教程或和其他模型的出图对比",
+     "group": "AI 视频与图像",
+     "value": 60
+    },
+    {
+     "name": "Zyphra/ZONOS3-Mini",
+     "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+     "kind": "model",
+     "likes": 510,
+     "downloads": 93909,
+     "created": "2026-11-09",
+     "tags": [
+      "zonos3",
+      "safetensors",
+      "gguf",
+      "text-to-speech",
+      "tts",
+      "speech-synthesis"
+     ],
+     "zh": "Zyphra 开源的文字转语音模型，有迷你版",
+     "use": "可以试试能否用来做本地配音，需要先测中文效果",
+     "group": "音频与配音",
+     "value": 55
+    },
+    {
+     "name": "facebook/sam3",
+     "url": "https://huggingface.co/facebook/sam3",
+     "kind": "model",
+     "likes": 6886,
+     "downloads": 1971023,
+     "created": "2025-11-07",
+     "tags": [
+      "transformers",
+      "safetensors",
+      "sam3_video",
+      "feature-extraction",
+      "sam3",
+      "mask-generation"
+     ],
+     "zh": "Meta 的分割模型，能在图片和视频里把物体抠出来",
+     "use": "可以讲「AI 一键抠像」，做剪辑时抠人物和物体",
+     "group": "AI 视频与图像",
+     "value": 55
+    },
+    {
+     "name": "higurashi-ai/Haru-4B",
+     "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+     "kind": "model",
+     "likes": 506,
+     "downloads": 4445,
+     "created": "2026-11-12",
+     "tags": [
+      "safetensors",
+      "haru",
+      "speech",
+      "full-duplex",
+      "speech-to-speech",
+      "audio-to-audio"
+     ],
+     "zh": "4B 小模型，可以边听边说，直接语音对话",
+     "use": "能做成「AI 实时语音聊天」的演示，不过目前下载量很低",
+     "group": "音频与配音",
+     "value": 45
+    },
+    {
+     "name": "speridlabs/idol",
+     "url": "https://huggingface.co/speridlabs/idol",
+     "kind": "model",
+     "likes": 2452,
+     "downloads": 36388,
+     "created": "2026-10-28",
+     "tags": [
+      "idol",
+      "gaussian-splatting",
+      "3d",
+      "image-to-3d"
+     ],
+     "zh": "把单张图片转成 3D 高斯泼溅模型",
+     "use": "可以做「一张照片变 3D」的视觉效果演示",
+     "group": "AI 视频与图像",
+     "value": 45
+    },
+    {
+     "name": "microsoft/TRELLIS.2",
+     "url": "https://huggingface.co/spaces/microsoft/TRELLIS.2",
+     "kind": "space",
+     "likes": 2407,
+     "downloads": null,
+     "created": "2025-12-10",
+     "tags": [
+      "gradio"
+     ],
+     "zh": "微软 TRELLIS.2 在线体验页，可以把图片转成 3D",
+     "use": "在线试玩不用装软件，适合做「图片变 3D」的短视频",
+     "group": "AI 视频与图像",
+     "value": 45
+    }
+   ],
+   "stories": [
+    {
+     "name": "GPT‑6.2 Astra and Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+     "hn_url": "https://news.ycombinator.com/item?id=50535230",
+     "points": 1086,
+     "comments": 697,
+     "published": "11-18 01:46",
+     "zh": "OpenAI 发布 GPT-6.2 Astra 和 Sol 两款新模型",
+     "use": "可以做新模型实测，比如写脚本、做分析的表现",
+     "group": "模型",
+     "value": 55
+    },
+    {
+     "name": "How the Claude Code team thinks about verification",
+     "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+     "hn_url": "https://news.ycombinator.com/item?id=50529612",
+     "points": 266,
+     "comments": 209,
+     "published": "11-17 18:20",
+     "zh": "Claude Code 团队分享他们如何验证 AI 写的结果",
+     "use": "可以提炼成「怎么让 Claude Code 少出错」的使用技巧",
+     "group": "Agent 与编程",
+     "value": 55
+    }
+   ]
+  },
+  "news": [
+   {
+    "name": "Suno 发布 Visuals：为歌曲生成视频与图像",
+    "url": "https://aihot.news/items/yznmu3humymvshagrka95k1n1",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-17 23:00",
+    "zh": "Suno 推出 Visuals，能给歌曲生成最长 15 秒的视频和封面",
+    "use": "可以做「AI 写歌加 AI 配视频」的完整流程，适合做 MV 类内容",
+    "group": "AI 视频与图像",
+    "value": 80
+   },
+   {
+    "name": "可灵 AI 发布 Kling Image 4.0 图像模型并开放 API",
+    "url": "https://aihot.news/items/e871ammlz8gpx1oozsswidzt0",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-17 23:10",
+    "zh": "可灵发布 Kling Image 4.0，支持原生 8K，并开放 API",
+    "use": "国内可直接试用，适合做海报、封面和带文字图片的实测",
+    "group": "AI 视频与图像",
+    "value": 75
+   },
+   {
+    "name": "Claude Code 推出实验性 Code Mode 工具调用方式",
+    "url": "https://aihot.news/items/z3n160k1v5vsc90udwjd8x7pp",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-18 05:18",
+    "zh": "Claude Code 推出实验性 Code Mode，让 Claude 写脚本串联多个工具",
+    "use": "Claude Code 用户可以试开并做对比，适合做「新功能上手」内容",
+    "group": "Agent 与编程",
+    "value": 70
+   },
+   {
+    "name": "NotebookLM 推出来源一键生成可分享网站功能",
+    "url": "https://aihot.news/items/dlnrpd7xq39i5gkkti3hic390",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-17 05:06",
+    "zh": "NotebookLM 可以把你的资料一键做成可分享的网站",
+    "use": "可以做「资料变网页」的演示：说一句话就生成看板或项目跟踪页",
+    "group": "内容创作与运营",
+    "value": 65
+   },
+   {
+    "name": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
+    "url": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-18 01:45",
+    "zh": "OpenAI 发布 GPT-6.2 Astra 和 Sol，一个攻坚一个日常",
+    "use": "可以做新模型对比：专业任务和日常任务各测一遍",
+    "group": "模型",
+    "value": 60
+   },
+   {
+    "name": "Microsoft AI 发布 MAI Image 2.7 与 Flash 图像模型并推出 Canvas 工作区",
+    "url": "https://aihot.news/items/ieg99wyo1b6jy175yrk029b0j",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-18 02:16",
+    "zh": "微软发布 MAI Image 2.7 图像模型和 Canvas 工作区",
+    "use": "可以实测它生图和改图的效果，对比其他图像模型",
+    "group": "AI 视频与图像",
+    "value": 55
+   },
+   {
+    "name": "Replit 发布 Missions，用智能体集群按目标完成复杂工作并开源 DataCat",
+    "url": "https://aihot.news/items/io0nmdphe40k919fuw1h28kg3",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-18 02:00",
+    "zh": "Replit 推出 Missions：设定目标和预算，由多个智能体并行完成",
+    "use": "可以做「给 AI 一个目标让它自己干活」的实测",
+    "group": "Agent 与编程",
+    "value": 55
+   },
+   {
+    "name": "Google AI Studio 集成 Gemini 4 Carbon 与 Hydrogen 支持构建全栈 Android 应用并发布到 Google Play",
+    "url": "https://aihot.news/items/ujx1ebv207quqahxh2ypzibqd",
+    "source_name": "AI HOT",
+    "votes": null,
+    "published": "11-17 00:00",
+    "zh": "Google AI Studio 用 Gemini 4 一个提示词生成 Android 应用并发布",
+    "use": "可以做「不会写代码也能做出手机 App」的内容，不过需要先试通流程",
+    "group": "Agent 与编程",
+    "value": 55
+   }
+  ]
+ },
+ "stats": {
+  "items": 1733,
+  "by_source": {
+   "bili": 580,
+   "bili_hot": 50,
+   "youtube": 56,
+   "x": 653,
+   "hf": 49,
+   "hn": 17,
+   "douyin_hot": 200,
+   "aihot": 50,
+   "qbitai": 10,
+   "ithome": 60,
+   "sspai": 8
+  }
+ }
+}
